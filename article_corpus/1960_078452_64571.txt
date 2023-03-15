@@ -1,0 +1,158 @@
+APES
+THINGS
+TO COME
+by
+Ritchie Calder
+ow is it that its potential victim can recognise
+a buzzard by its shape or shadow, and take evasive action?
+How can a small boy tell you the name of an aircraft
+flying high overhead? Or, for that matter, how do we
+recognise "A" as the first letter of the alphabet? Or how
+can we distinguish a Southern drawl from a Brooklyn
+accent, or a word spoken in French from a word spoken
+in Russian?
+It is done by "pattern identification", the recognition
+of a visual image or the form of a sound. It depends on
+remembering shapes, or sounds, comparing them with
+others and associating them with concepts. The alphabet
+is a visual imprint in our memories. We have stored away
+in our brains sounds which we can cross-refer to other
+sounds and associate them with accents or languages which
+we hear.
+"Pattern identification" was one of the subjects most
+earnestly discussed at the International Conference on
+Information Processing, organised by Unesco in Paris last
+year and attended by 2,000 experts from 37 countries.
+This meeting of "The Computer People" (as they call
+themselves) was concerned with the remarkable machines
+which can do incredible sums at fantastic speeds; have
+prodigious mechanical "memories" which can store infor¬
+mation; can be taught to think; can control other machines;
+send artificial satellites into orbit, or rockets to the moon;
+and translate one language into another.
+All these things are done by what is called "program¬
+ming". The experts work out the ways in which informa¬
+tion can be stored in the machines and instructions about
+how that information can be used or recovered. A pro¬
+gramme is a numerical code, like a secret service cipher
+which the electronic brain-cells can unravel. The infor¬
+mation and instructions have to be fed into the machines
+as punch-cards or punch-tapes. This means that while
+the electronic part of a computer can handle at least
+10,000 "bits" of information in a second, a great deal of
+time has to be spent in working out the programme and
+punching out the instructions.
+16
+If text in (say) French is to be translated into (say)
+Russian it has to be typed out on a machine which converts
+it into punched symbols. The machine then analyses this
+punched information, compares the words it has been given
+with the comparative dictionaries which have been similarly
+punch-fed into it. It makes the translation again on to
+tape which operates an electric typewriter and produces the
+Russian in readable form.
+The ideal, of course, is to confront the machine with
+the actual written page and have it quickly reproduce the
+translation as another printed page. It would be even
+more useful if it could take a voice speaking in French and
+translate the language either as a Russian text or as an
+artificial voice speaking in Russian.
+ut that, at the moment, in the language of "The
+Computer People" is just "'blue sky" talking about what
+one wishes to happen. Nevertheless, the discussions at the
+Unesco conference were optimistic about the technical
+possibilities. In the past twelve years, "The Computer
+People" have increased from a handful to hundreds of
+thousands. Their computers have been transformed from
+devices for doing arithmetic into thinking machines, with
+faculties uncannily human. It is only a matter of time
+before they acquire "pattern identification".
+What does it involve? There is no difficulty about
+electronically seeing and conveying an image. That hap¬
+pens in television. The camera records the image, converts
+it into electrical signals which are transmitted and reassem¬
+bled on the television receiver screen. The human viewer
+does the "pattern identification". The radio and the
+telephone converts the spoken word into signals which are
+reconstituted as the identical voice at the other end. But
+the human listener does the "pattern identification".
+Images and voices can be memorised electronically.
+The television pictures can be stored, not just as visible
+film as in the cinema but as the recording, on magnetic
+
+tape, of the signals which, reactivated, will faithfully
+reappear as a picture on the television screen. The same,
+of course, is true of tape recordings of voice "patterns".
+nother remarkable advance is a device Which
+takes a voice, analyses its frequencies and expresses them
+as a code, like sending a telegraph message instead of a
+telephone voice. This code is then deciphered at the other
+end and the receiving machine reproduces the code as an
+artificial voice. It is not the voice of the original speaker
+but it can be coded even to convey an accent; it can be
+recognisably Scottish, for instance.
+That is another step towards "pattern identification".
+"You say 'tomahto'; and I say 'tomato'," (In the words
+of the song) or the French say "formidahble" and I say
+"formid'ble". And the voice-coder can tell the difference.
+The technical difficulties are, however, formidahble (or
+formid'ble) because for identification purposes the machine
+has to have a memory which not only stores images but can
+compare them associate them with the ideas which they
+represent. It has not only to recognise the letter "A"; it
+has to realise that it is the first letter of the alphabet. Or
+"2" is no longer the number with which the digitical
+computer is familiar; it is an image which has to be built
+up. In arithmetic "2" is 1 plus 1 three "bits" of infor¬
+mation but as the Japanese scientists, reporting on their
+work on "pattern identification" at the Unesco conference,
+pointed out, the image "2" needs 120 "bits" of infor¬
+mation to make it identifiable.
+As scientists working on recognition of speech by ma¬
+chine at the Massachusetts Institute of Technology, U.S.A.,
+
+told the conference, the analysis of speech is like chemical
+analysis; its substance has to be broken down into its consti¬
+tuent parts. The constituents of the spoken word must be
+constants no matter in what "formula" or in what language
+they are assembled. But a voice-prescription is more
+difficult than the chemist's formula. A machine to be
+effective will have to translate not only syllables but the
+inflection the sneer, or the good-humoured laugh, -which
+makes all the difference in the intention of the speaker.
+Photos ILO
+'FEEDING' A COMPUTOR. Whether they are required
+to do incredible calculations at fantastic speeds, run factory
+production lines or translate one language into another,
+computing machines must first be "fed" with information
+and instructions. Programming, as this is known, is done
+on punch cards or punch tapes. Here (above left) a specialist
+prepares a computor for a complicated task by combining
+certain of its cables. After the initial work has been done,
+the computor will not only carry out the task that was fed
+into it on tape, but also control constantly the performance
+of its work. Today many industrial products are being
+fabricated by means of automation. In this automated
+German thread-producing plant (above right) only a small
+staff is required to control the entire flow of production.
+Apart from the value of "pattern identification" in the
+ultimate translation of languages, there is the mathema¬
+tician's concern that the computer should be able to cope
+with geometrical shapes as it has done with arithmetical
+equations and, preferably, in three-dimensions.
+ne immediate, and not too difficult possibility in
+"pattern identification", is in abstracting. The machine
+is being taught to glance at a scientific paper and select
+the parts which identify the authors and the sentences
+Which would give the essence of the account.
+Nowadays, some 3,000,000 original scientific papers are
+published in over 40,000 scientific journals every year. It
+is becoming almost impossible to cope with this Niagara of
+information.
+Once the machine has been taught not only to memorize
+but to extract and translate the significant material it
+will make the information easily and quickly accessible to
+those who need it and who can act upon it. The awesome
+truth is that this will produce more discoveries and more
+papers and more machines to cope with them.
+17

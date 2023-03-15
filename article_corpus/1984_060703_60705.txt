@@ -1,0 +1,434 @@
+The infinitelybig
+by Dimitri V. Nanopoulos
+Spiral nebula (M81), In Ursa Major.
+UP to a few years ago, particle
+physicists were mainly con¬
+cerned with the structure of
+matter and the fundamental laws of
+nature at very small distances of the
+order of 0.0000000000001 centimetres
+(10"13) or smaller. At the same time,
+astronomers and astrophysicists were
+trying to understand the large-scale
+structure of the Universe which involv¬
+ed thinking in terms of distances
+measured in light-years (the distance
+that light, which travels at 300,000
+kilometres per second, traverses in one
+year). It is fair to say that the relations
+between these two active branches of
+physics were rather remote.
+During the past few years, however,
+the situation has changed dramatically;
+the "Big Bang" theory of the origin of
+the Universe (see article page 5) has
+developed to the point where the first
+fractions of a second of the birth of the
+Universe have become the meeting
+point of the infinitely big and the in¬
+finitesimally small*.
+In order to appreciate this point we
+have to recall two fundamental prin¬
+ciples of physics: first, that high
+temperatures imply high energies for
+the particles around; and second, ac¬
+cording to the "Uncertainty Principle"
+formulated by the famous German
+physicist Werner Karl Heisenberg
+(1901-1976) high energies are necessary
+to probe very small distances.
+* The layman tends to picture the Big Bang in
+terms of a very dense lump of matter (which
+scientists call a "singularity"), located in an in¬
+finite void, suddenly exploding. Einstein,
+however, has shown that both space and time
+(which he called space-time) and matter were in¬
+separable. The Big Bang, therefore, created not
+just matter but space-time as well. There was
+nothing, not even empty space, "outside"for the
+Big Bang to explode into.
+DIMITRI NANOPOULOS, of Greece, is a
+specialist in theoretical particle physics and
+cosmology and is a staff member of the
+Theory Division of CERN (European Organiza¬
+tion for Nuclear Research), Geneva. He is co¬
+author of Grand Unification With and Without
+Supersymmetry and Cosmological Implica¬
+tions, to be published this year.
+8
+According to the Big Bang theory,
+the very early Universe (say 10 35 of a
+second after the Big Bang occurred)
+was very hot, reaching temperatures
+above 1028 degrees on the Kelvin (K)
+scale. At these temperatures particles
+had enough energy to interact at very
+very small distances, say 1029 cen¬
+timetres. Thus the very early Universe
+acted like an enormous particle ac¬
+celerator. Today, the fundamental con¬
+stituents of matter are believed to be
+quarks and leptons. Atoms, which at
+one time were thought to be indivisible,
+are made up of protons and neutrons
+(known collectively as baryons) and
+one member of the lepton family, the
+electron; protons and neutrons are
+made up of quarks.
+These fundamental constituents of
+matter interact with each other through
+at least four fundamental forces: the
+gravitational force, which, for in¬
+stance, keeps the Earth going round the
+Sun, the strong force, which keeps
+quarks inside protons, the electro¬
+magnetic force, that keeps the electron
+going round the atomic nucleus, and
+the weakforce, responsible for neutron
+disintegration, otherwise known as
+Beta-decay.
+During the past few years, the world
+of particle physics has enjoyed enor¬
+mous progress towards simplification
+and deeper understanding. Indeed, it
+now seems that all the observed fun¬
+damental interactions between these
+various forces may well be simply dif
+ferent faces of a single basic interaction
+explicable by a basic unified theory.
+Because we live in a Universe of large
+distances (or low energy levels) it is dif¬
+ficult for us to recognize this basic sym¬
+metry at first glance; things look very
+diverse. Yet as we examine shorter and
+shorter distances (or higher and higher
+energy levels), the diversity diminishes
+and the symmetry becomes more ap¬
+parent. The analogy of ice, water and
+steam may help here. As we increase
+the temperature and pass from ice to
+water, particles possess more and more
+freedom to move around and thus the
+system increases its symmetry, which is
+further increased when we pass from
+water to steam.
+The idea of unification is not new.
+Einstein himself spent the last thirty
+years of his life unsuccessfully at¬
+tempting to formulate a simple,
+definitive theory that would explain the
+existence of all matter, all energy and
+all the forces of the Universe. Right up
+to his death, in 1955, Einstein con¬
+tinued working to establish unity bet¬
+ween the forces of gravity and of
+electromagnetism.
+It was, however, in the small-scale
+realm of sub-atomic particles that the
+next advance towards unification was
+to be made. This is a world ruled by the
+weakforce, which causes certain forms
+of radioactive decay, and the strong
+force, which holds quarks imprisoned
+in protons and neutrons.
+
+and the infinitesimally small
+A hydrogen atom
+The first step, the unification bet¬
+ween electromagnetic and weak in¬
+teractions, was first envisaged
+theoretically in the 1960s and then pro¬
+ven experimentally, only last year, in
+the giant accelerator at CERN (The
+European Organization for Nuclear
+Research), in Geneva, with the
+discovery of particles, named simply W
+and Z particles, that carry the weak
+force.
+Because of similarities between the
+mathematical formulae describing the
+strong and the weak forces, physicists
+began to suspect that they might both
+be breakaways from a single unified
+force that existed at the very earliest
+phase of the Big Bang.
+The next step in the unification pro¬
+gramme therefore would be to explain
+how the strong force fits into the pic¬
+ture, and this is what is being attempted
+in current theories known as "Grand
+Unified Theories" (GUTs). The final
+stage in the unification programme will
+be to include gravity, but this need not
+concern us here.
+According to Grand Unified
+Theories, the strong forces should
+unite with weak forces at enormously
+higher energies, around 1024 electron
+volts. But although we now have at our
+disposal particle accelerators which
+enable us to probe the weak forces, it
+would be impossible ever to get ac¬
+celerators powerful enough to probe
+the strong forces. So we have to be
+smarter and look for indirect evidence
+for grand unification.
+Certain characteristics of GUTs are
+very relevant to the early universe. One
+of the most dramatic consequences of
+GUTs is that they imply the instability
+of matter. Whereas, prior to the
+development of GUTs, protons, and
+thus atoms and thus matter, were con¬
+sidered to be absolutely stable, GUT in¬
+teractions imply the decay of the pro¬
+ton, just as weak interactions cause the
+decay of the neutron. Eventually, it
+seems, all the matter in the Universe as
+we know it will be destroyed.
+However, while the free neutron
+lifetime is about fifteen minutes, the
+proton lifetime is longer than 1030
+years which is long enough to avoid im¬
+mediate panic if we recall that the pre¬
+sent age of the universe is merely 1010
+years. For the first time "eternity" has
+been given a quantitative measure of
+the order of 1030 years. Experiments
+are now being made to verify this for¬
+midable GUT consequence.
+What has all this intricate detail
+about the world of sub-atomic particles
+to do with cosmology? There is enough
+experimental evidence to convince us
+that standard Big Bang cosmological
+theory may reflect' something close to
+reality. Nevertheless, there are fun¬
+damental unanswered questions within
+Big Bang cosmology- _Why is the
+Universe so homogeneous and
+isotropic (the same everywhere and ex¬
+panding uniformly in all directions)?
+à M
+- çi,VS«;i,*"'V3
+w^áfáSí?'*^' '~nß$A
+»^f
+Why does the Universe, despite its
+rather old age (1010 years), possess
+such high mean energy density? Why is
+it that there seems to exist much more
+matter than anti-matter? How are the
+density fluctuations created that even¬
+tually act as seeds for the formation of
+galaxies and other structures observed
+in the Universe? A lot of these ques¬
+tions are finding satisfactory answers
+in grand unified theories.
+In the first fiery instant of the Big
+Bang the Universe was superhot and
+superdense and a single unified force
+prevailed. But, as it was expanding, it
+cooled down and became less and less
+dense, and, in a process called "sym¬
+metry breaking", the single unified
+force began to fragment.
+It is reasonable to assume that, after
+the Big Bang, all kinds of particles were
+interacting frenetically with each other
+in a state of what is called thermal
+equilibrium. Given this "soup" of par¬
+ticles, and assuming that grand unified
+theories correctly describe their inter¬
+actions, can we build up a picture
+which corresponds to the observable
+Universe? The answer is a cautious yes.
+As the Universe expanded and cool¬
+ed further it eventually reached what
+physicists call the GUT transition
+phase where the strong and weak forces
+The principal tool used by physicists to
+probe the secrets of the world of the In¬
+finitesimally small Is the particle ac¬
+celerator, or "atom smasher". Atom
+smashers are huge machines In which
+atomic particles are accelerated to fan¬
+tastic speeds and made to collide with
+other particles so that physicists can ex¬
+amine the resulting sub-atomic debris. It
+was In the atom smasher at CERN (the
+European Organization for Atomic
+Research), in Geneva, until last year the
+world's most powerful accelerator in
+which beams ofprotons and anti-protons
+can be made to collide with a total energy
+of 540 thousand million volts, that the W
+and Z particles which carry the weak
+force (see article) were recently
+discovered. Left, aerial view of the
+3,050-metre-long linear particle ac¬
+celerator at Stanford, California.
+
+Cosmic asymmetry
+The fundamental constituents of matter
+come in matched pairs. For every particle
+there is an anti-particle of identical mass
+but with a different electrical charge.
+This symmetry between particles and
+anti-particles, which meets the re¬
+quirements of both the theory of relati¬
+vity and of quantum physics, has been
+fully verified experimentally. High-
+energy collisions Induced in particle ac¬
+celerators seem always to yield particles
+and anti-particles (matter and anti¬
+matter) in equal quantities. When we
+move away from the laboratory,
+however, we never seem to encounter
+anti-matter. Our world is made of atoms
+consisting of protons, neutrons and elec¬
+trons, but never of their anti-particles.
+Recent findings in cosmology and parti¬
+cle physics, which have given rise to the
+new Grand Unified Theories (see article),
+offer an explanation of how this asym¬
+metry between matter and anti-matter
+came about. Above, diagram (1)
+represents the universe at 10~3S of a se-
+o
+. °
+o
+û o
+o o * . o
+o
+o
+0 _ . o
+"i c
+j o
+o a o o
+° o
+o
+o
+i
+I
+0 .
+o o
+O o ,
+, o °
+. o o
+o ° * '
+o . °
+o
+o
+o
+o
+o <
+o
+o o
+o o
+(1) (2)
+cond after the Big Bang. At this stage
+there is symmetry between the
+superheavy "X" particles (black dots)
+produced by ultra-high energy collisions,
+and their anti-particles (black circles).
+Diagram (2) shows the universe from
+10"34 to 10~4 of a second after the Big
+Bang. Here the "X" particles have
+decayed into less massive particles in a
+manner that results in a minute im-
+(3)
+balance between protons (red dots) and
+anti-protons (red circles). Diagram (3)
+represents the universe from 10~3 of a
+second after the Big Bang to the present.
+Each encounter of a proton and an anti-
+proton has led to the annihilation of both
+and only the excess protons (one per
+thousand million) remain. To this minute
+imbalance we owe all the galaxies, stars,
+planets and creatures of the universe.
+split and grand unification was no
+longer apparent. This happened when
+the Universe was about 1035 of a
+second old and had a temperature of
+KFK.
+This is a period of fundamental
+cosmological importance since during
+this transition phase a period of
+supercooling the Universe experienc¬
+ed a brief, hyper-explosive spurt of ex¬
+ponential growth, a period in which the
+Universe expanded at a very much
+faster rate than during any other phase.
+The advantage of this "inflationary
+scenario" as it is called is that this sud¬
+den, brief period of extremely rapid ex¬
+pansion of the Universe provides a
+solution to the problem of how parts of
+the Universe, which would otherwise
+have been too far apart to be in causal
+contact with each other come to have
+similar temperatures. Our large
+Universe is very uniform because it has
+been inflated from a tiny uniform seed.
+The inflationary model solves the
+problem of the high average energy
+density of the Universe as well as pro¬
+viding the correct form, qualitatively
+and quantitatively, of the energy densi¬
+ty perturbations needed for galaxy
+formation.
+The inflationary model also provides
+the answer to another crucial problem.
+How is it that more matter than anti¬
+matter was produced from the Big
+Bang?
+Grand unified theories predict the
+existence at the very high temperatures
+of the very early phases of the Big Bang
+of superheavy "X particles" which
+decay into less massive particles and, in
+so doing can produce an unequal mix-
+10
+ture of matter (baryons) and anti¬
+matter (anti-baryons). At a time just
+lO35 seconds after the Big Bang the
+temperature had fallen to a level at
+which no further X particles could be
+made and a slight asymmetry (one un¬
+paired baryon per thousand million
+baryon/anti-baryon pairs) was locked
+forever into the expanding Universe.
+This small excess of matter over anti¬
+matter the afterthought of creation
+was sufficient to produce all the stars in
+all the galaxies and all the atoms in our
+own bodies. It is rather interesting that
+the same forces that are responsible for
+the creation of the world (matter/anti¬
+matter asymmetry) are driving it to its
+extinction (proton decay and thus mat¬
+ter instability). That is the fate of our
+Universe self-destruction .
+Eventually the Universe left the GUT
+transition phase and began to expand
+and cool down at a slower, more con¬
+ventional rate.
+At this stage the particle physicists
+step aside, leaving it to the astro¬
+physicists to tell the story of how heavy
+elements, stars, planets and galaxies
+are made. Nevertheless, in journeying
+further and further back towards the
+Big Bang and probing more deeply into
+the world of the infinitesimally small,
+particle physicists are offering
+astrophysicists a basis for a logical,
+coherent explanation of the structure
+of the Universe. Never before in the
+history of physics has the symbiosis
+between the infinitesimally small (the
+microcosmos) and the infinitely big
+(the macrocosmos) been happier or
+more fruitful.
+Dimltri V. Nanopoulos

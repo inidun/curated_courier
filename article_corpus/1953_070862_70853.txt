@@ -1,0 +1,302 @@
+=COURIER DECEMBER 1953. Page 9
+To learn more about the makeup and nature of the atom nuclei scientists bombard them with high energy particles. These are raised to phenomenal speeds in
+accelerators such as the Cosmotron (above) at Brookhaven National Laboratory, United States of America, which is at present the largest machine of its kind
+in the world. The huge'doughnut'-shaped magnet 75 feet in diameter guides the particles in a circular path while they are given a high speed by a succession
+of electric boosts. In this Cosmotron, the particles circle the magnet 3, 000, 000 times and travel a total distance of some 138, 000 miles in less than a second.,
+.,.--<.-". - :
+0 GIANT MACHINES AND MAN-MADE RAYS
+THE world within the atom, as revealed by thenatural rays from radium and by cosmic
+rays and briefly sketched in the two
+preceding articles, is almost incredible from the
+ordinary human point of view. This is not merely
+because it is so complex but also because the basic
+particles seem to have no relation to either matter
+or energy as we commonly know them. The
+appeal to curiosity and the desire to explore
+further is almost irresistible.
+The nucleus of the atom contains all the
+"matter", yet is so small that it occupies only a
+thousandth of a millionth of a millionth of the
+space within the atom. In that case its density
+(that is, its weight per cubic inch) must be a
+thousand times a million times a million times
+that of ordinary materials. As a matter of fact,
+researches with the cyclotron, such as will be
+described below, now indicate that the nucleus
+itself is not at all a solid mass but has a still
+denser core at its centre. Whatever that core is
+made of, it is so dense that a lump of it as large
+as a drop of water would weigh two million tons.
+But that is only half of the astonishing
+situation. Energy is similarly concentrated.
+Within that exceedingly minute volume of the
+atomic nucleus there are forces that hold the mass
+together. The earth itself is held together by
+gravity but the force within the nucleus must be
+so much larger than gravity that there is no word
+to express it. The force of gravity would have to
+be multiplied by a number that contains the figure
+1 followed by 37 zeros :
+10, 000, 000, 000, 000, 000, 000, 000, 000, 000, 000, 000, 000.
+Gravity holds the planets in their courses and
+the stars in the sky-but has no place in the
+nucleus.
+The whole atom is itself held together by
+This star-like picture is the self portrait of an exploding nucleus of an atom, and is one of the most
+significant milestones along the road of nuclear research. This nuclear"event"was photographed when a
+very high energy particle, accelerated in the giant Cosmotron (top of page) hit the nucleus of an atom of the
+film emulsion and exploded it into 17 particles of different types which flew out to form tracks in a star-shaped
+pattern. Until this man-made nuclear collision took place the type of nuclear event pictured here had occured
+only in the action of cosmic rays which, as they bombard the earth's atmosphere, produce the highest energies
+which atoms have been known to release. (Photographs : Brookhaven National Laboratory, NewYork.)
+electrical forces, since the positive protons at the
+centre attract and hold the negative electrons at
+the surface. But within the nucleus are protons
+and neutrons which cannot be held together
+electrically because the electric force between
+them would not attract but repel them from each
+other.
+So the binding force within the nucleus is of a
+new and unknown form. It is complicated and
+depends on the velocity of the nuclear particles
+and even on their spinning motion or rotation.
+On the other hand the force, whatever it is, does
+not depend on the electrical charges, for neutrons
+and protons seem to attract each other to precisely
+the same degree that they attract their own kind
+of particle. This is the present mystery of the
+nucleus and therefore of the atom and thus of
+matter and energy in general.
+Certainly this is the basic mystery of the
+universe and one with which science cannot be
+content. But to solve it requires methods. and
+instruments never before conceived. What is
+needed is a sort of nuclear microscope which would
+permit gazing at the crowded infinitesimal
+intimacy of protons and neutrons as the
+astronomer gazes through his colossal telescopes
+at the infinity of space.
+Atom-smashers in action
+BUT light waves are millions of times longerthan the size of the nuclear particles. There
+is no way to probe into the nucleus that does
+not pry it open or take it apart. To do that
+requires concentrations of energy just as high as
+those in the nucleus, and even higher. The
+successful method is one which fires electrons and
+protons at the nucleus at velocities very close to
+that of light and loaded with energy amounting
+to thousands of millions of electrons-volts. n is
+for this reason that the devices that serve as
+atomic or nuclear microscopes are often called
+"atom-smashers".
+It is not difficult to give these tiny projectiles,
+electrons and protons, energy by giving them
+speed because their electric charge propels them
+if they are exposed to a high voltage. This was
+first done in the tubes for generating very
+penetrating X-rays. The higher the voltage
+across the terminals of the tube, the higher was
+the speed of the electrons and the more
+penetrating the X-rays produced.
+This led to the design of X-ray tubes operating
+(Continued on next page.)
+
+Page I O. DECEMBER 1953 UNEscaoU
+.,
+THE
+COSMOTRON
+AND HOT
+IT WORKS
+Protons (A) from electrostatic generator (B) are Increasing the magnetic field causes the protons
+"shot"into the metal vacuum tank of the Cosmotron to spiral around Cosmotron (dotted lines). They are
+at an energy totalling 3. 6 million electron volts. now making a total of 350, 000 revolutions per second.
+An amplifier (C) produces accelerating and deceler-
+ating voltage causing about half of the protons to
+speed up and other half to slow down. Protons
+that are speeded up by accelerating voltage (D)
+group together in a sausage shaped bundle and
+continue to revolve at. higher and higher speeds.
+Slowed down protons (E) strike inside walland are lost.
+(Continued from previous page)
+under a million volts. But in order to reach such
+a voltage, it had to be applied step-wise. As the
+electron passed down a long tube, it went through
+a series of electrodes each of which added a few
+thousand more volts to the pressure and therefore
+to the speed of the electron.
+But a million volts is not enough for penetrating
+deep into the nucleus and it is not practical to
+operate such a tube with more than a few million
+volts. The next step taken was in effect to wind
+the tube in the form of a spiral by means of a
+magnetic field. There were, in fact, only two
+electrodes, formed from a single hollow circular
+box with a slit across the diameter. This gave
+two electrodes, each shaped like a capital D, back
+to back, with a narrow air space between them.
+When the entire box of two D's was put between
+the poles of a heavy magnet, then an electron
+injected at the centre would normally travel in a
+circular path, around and around.
+But when voltage is applied to the D-shaped
+box, the electron receives a kick each time it passes
+through half the circle. When it thus goes faster,
+it would travel in a larger circle because the
+magnet is less able to turn its path. But it con-
+tinues its flight, passing repeatedly through each
+D, thus going ever faster and therefore describing
+a larger and larger circle. In effect, its path
+becomes a spiral. In the end, when it has
+attained an energy of several million electron
+volts, it reaches the outer edge and passes out
+through a slit in the side wall at top energy.
+Then it can be used to generate powerful X-rays
+or for other experiments.
+But the electron is a relatively light projectile.
+When the heavier proton is similarly whirled to a
+high velocity, its energy content should become
+sufficient to counteract the binding forces in any
+nucleus that it later hits. This was the principle
+of the first cyclotron made by Dr. Ernest O.
+Lawrence, of the University of California, who
+received the Nobel Prize for Physics in 1940 for
+this achievement. Many refinements have since
+been added to the cyclotron and in its present
+development it i. s called a proton-synchrotron.
+The largest proton-synchrotron now in opera-
+tion is-at the Brookhaven National Laboratory,
+operated by the Associated Universities, Inc., under
+contract with the United States Atomic Energy
+Commission. From an auxiliary generator it in-
+jects protons which carry 3. 6 million electron-
+volts. These protons enter the great proton-syn-
+chrotron in bursts at intervals of five seconds.
+In less than a second they go around inside the
+large circular magnet about 3 million times and
+by then have reached an energy of 2, 300 million
+electron-volts. The magnet has a diameter of
+The proton bundle is now revolving around the
+entire vacuum tank at a rate of 4 million times per
+second (or 175, 000 miles per second, 90 per cent of
+the speed of light). After about 3 million turns (in
+0, 8 seconds)-the equivalent of four trips around the
+earth-these protons have acquired the energy of
+two thousand three hundred million electron-volts.
+75 feet, so that 3 million circuits of the path
+amount to a total distance of 130, 000 miles, which
+is about four times the distance around the earth
+and half the distance between the earth and the
+moon. At that energy, they are ready for use.
+A target piece, consisting of an extremely thin
+sheet of metal, is interposed in the path. In
+the violent collisions of these high energy protons
+with the nuclei of the metal the atomic nucleus
+is shattered. The resulting fragments emerge
+from the cyclotron and can be photographed
+in what is called a cloud chamber with results
+such as are shown on the cover of this issue.
+It looks like a picture of a catastrophe or like a
+hurricane among the stars, but each white streak
+is the path of one of the many types of rays or
+of nuclear fragments. Each can be identified as
+one of the constituents of the atomic nucleus. A
+careful study of the photograph will show that
+there are occasionally sharp breaks in the path
+and some points where a path seems to cause
+another explosion with two or three, or even four
+particles darting out at various angles. This is
+indeed another explosion, similar to those that
+occur in the cosmic rays. In a sense, this photo-
+graph shows a shower of artificial cosmic rays.
+A'sixth sense'at work
+THE photograph on page 9 shows a singlesuch collision, this time made by placing a
+photographic plate directly in the path of
+the rays. One of the high-energy particles from
+the proton-synchrotron hit the nucleus of an
+atom in the photographic emulsion in such a. way
+that it exploded into no less than 17 separate
+particles, which can be counted.
+The careful study of photographs such as these
+two gives the chief evidence of the existence of
+such short-lived particles as the mesons and the
+more recently discovered V-particles. Each track
+must be analyzed for its degree of curvature, its
+length and intensity, and its effectiveness in
+producing branching rays. No human sense can
+detect these particles. The combination of the
+great proton-synchrotron and the photographic
+plate is the"sixth-sense", or the nuclear micro-
+scope, that reveals these deepest secrets of nature.
+It is important, however, to note that the
+shattering of nuclei is not the only effect of these
+high-energy particles. In a large number of
+cases the high-speed particle, whether it is an
+electron, a proton, a deuteron or an alpha
+particle, enters the nucleus which it hits and
+remains combined with it and thus transforms
+that nucleus to a new architecture which, in turn,
+makes it an atom of a different element.
+At this energy the protons hit a target (F) inserted
+in their path. They collide with the target, and
+nuclear fragments (such as neutrons) shoot out of
+the magnet in a straight lihe. Detecting instruments
+(G) such as a cloud chamber or geiger counter are
+used by scientists to study result of collision of
+these particles with various chemical elements.
+In other cases the combination breaks down into
+two smaller nuclei. Thus the high energy
+particles of the cyclotron and the proton-synchro-
+tron have been used to create not only new
+isotopes of well known chemical elements but to
+create elements that do not exist in nature. The
+dream of the medieval alchemists, of making gold
+from mercury and other common metals, has long
+since come true, has indeed, been far surpassed.
+A very common case of this kind is the creation
+of isotopes of elements whose nuclei are only
+partially stable and that gradually disintegrate
+with the emission of rays like those from radium.
+A long list of artificial radio-active elements has
+thus become available. Some, like radio-active
+cobalt, can be used as a source of rays in medical
+uses, where radio-active cobalt has, in fact, now
+largely replaced radium because it can be made
+very cheaply. Indeed the uses of the radio-active
+isotopes in medicine, agriculture and industry are
+so varied and valuable that a separate article is
+devoted to them later in this series.
+The proton-synchrotron at Brookhaven has
+been operating'only about a year and its results
+have not yet been studied sufficiently for general
+publication. It is expected, however, that with
+further modifications, protons can with this
+machine be given energies as high as 3, 000 million
+electron-volts.
+This energy, high as it is, is only at the very
+threshold of the power needed for the study of
+mesons, neutrinos, and the new V-particle, all of
+whiah are still mysterious. In order to produce
+an adequate stream of artificial mesons, a still
+higher energy is needed. A proton-synchrotron
+that can reach 6, 000 million electron-volts is at
+the University of California. It is a colossus in
+which the magnet weighs 10, 000 tons and the
+power to energize the magnet is nearly 8. 000
+horsepower (9, 000 kilowatts). The United States
+Atomic Energy Commission has been asked to
+build a still larger machine impart 15, 000 million
+electron-volts to its proton projectiles.
+But the most powerful of all is now being
+planned for erection at Geneva for the European
+Council for Nuclear Research. It is to provide
+30, 000 million electron-volts. A new principle of
+keeping the rays in the desired path will greatly
+reduce the weight of iron needed in the magnet
+so that this major item of cost will be much
+reduced. As now planned the Geneva proton-
+synchrotron will have a relatively thin or narrow
+magnet but the diameter of the circle will be
+about 1000 feet. No building would be big enough
+to house it ; it will be buried in a large circular
+underground trench. Details are discussed in the
+next article of this series.

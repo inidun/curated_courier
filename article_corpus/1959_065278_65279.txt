@@ -1,0 +1,132 @@
+ELECTRONIC TRANSLATORS WITH
+BUILT-IN DICTIONARIES
+by Emile Delavenay
+The idea that an electronic machine should be able
+to do automatically all or part of a translator's
+consult a dictionary or translate a written
+text from one language into another may seem fantastic
+at first sight.
+Yet the idea has been gaining ground ever since it
+was first put forward by an Englishman, A.D. Booth, in
+1946 ; and today the goal is almost in sight for the many
+British, American and Soviet scientists who have been
+working on this problem for the past twelve years.
+Automatic digital computers were invented to carry out
+at high speed sequences of arithmetic operations which
+would have been too time-consuming for human beings
+and which involved too great a risk of error. They have
+proved that they can solve problems of industrial and
+business management which, in addition to automatic
+computing, call for certain logical decisions.
+In both cases scientific calculation and business
+management (of which operational research is one aspect)
+the machine receives two typea| of information: nume¬
+rical information in digital form, and alphabetical infor¬
+mation i.e. words in current use fed in as letters of the
+alphabet. It automatically converts both types of infor¬
+mation into a code suited to the particular operations it
+has to perform.
+These include, for example, the logical identification of
+a quantity or a word with its equivalent stored in an
+electronic memory; automatic computation; the shifting
+of partial results from one memory to another; the selec¬
+tion of instructions depending on the type of result
+obtained; and lastly, the "output" of the final result,
+which may be in typewritten form. The most important
+feature of these machines is their breath-taking speed:
+some operations are performed in a millionth of a second.
+Automatic translation could be envisaged as the follow¬
+ing sequence of lightning operations without human inter¬
+vention: feeding of a word into the machine, looking up
+and identification of the word in the electronic dictionary,
+simultaneous identification of the word's equivalent in
+the second language, and finally typing of this equivalent.
+The electronic dictionary is therefore a bilingual dic¬
+tionary like those used for ordinary translating but
+recorded in a magnetic memory.
+This series of very simple operations is only suitable,
+however, for words recorded in the dictionary in
+the same form as they appear in the sentences i.e.
+Invariable words and which, moreover, have only one
+meaning. Special problems are raised by variable words,
+by those having several different meanings, and also by
+the word-order, and by idioms, or expressions whose
+general sense is different from the sum of meanings
+conveyed by the individual words.
+In Britain, the United States, the TJ.S.S.R. and Japan,
+research has therefore concentrated for a number of years
+on the problems raised by the variable forms of words,
+by syntax, idioms and words with multiple meanings.
+Russian, English, German, French, Hungarian, Norwegian,
+Arabic, Chinese and Japanese have been analyzed for the
+purpose of reducing all the facts and rules of each lan¬
+guage to algorithms, or numerical systems enabling the
+machine to translate sentences from language A into
+language B.
+Highly complex programmes have been worked out
+which may involve up to ten thousand logical operations
+for the translation of a twenty-word sentence. Yet even
+so, the speed of the machine is such that the process
+is faster than ordinary translation. Just as the digital
+computer consults tables of logarithms or of functions,
+so the automatic translator will consult grammatical,
+morphological or syntactical tables in addition to its
+electronic dictionary. It scans tables of prepositions,
+tenses of verbs, declensions or conjugations doing in fact
+the same work as the translator has to do when deci¬
+phering a text in a complex foreign language. These
+tables and the dictionary are made up of series of digits
+representing the algorithms of the input and output
+languages.
+Before the facts of language could be reduced to algo¬
+rithms, it Was necessary to discover certain rules over¬
+looked in the old type of grammar, because these grammar
+books were written for thinking human beings and not
+for unconscious machines which can only recognize explicit
+signals.
+Thus research to put translation on an automatic
+basis is opening up new vistas for the linguist. It
+is leading to various kinds of studies on "signalling"
+systems of spoken and written language. Each language
+is being studied scientifically, in the minutest detail, and
+valid mechanical criteria are being discovered for the
+understanding of sentences a field in which intuition
+might Well have been thought the only possible guide.
+The day of the translation machine is not far off,
+but much still remains to be done. Electronic machines
+can translate, but men have not yet learned to exploit
+their amazing potential. It is now up to the linguists
+those of today who can and must adapt themselves to
+the new world of electronics, and those of to-morrow
+who, with the help of machines, will extend the scope
+of linguistics to cover all languages and all aspects of
+language. For the linguistic research required to perfect
+a translation machine is impossible without the aid of
+ultra-rapid new machinery.
+The future belongs to the linguists and mathematicians,
+the "'programmers'", who can grasp the behaviour of words
+in a sentence, as well as language statistics and the work¬
+ing methods of computers. As in automatic computing
+and in management by computer, the machine can only
+perform automatic and repetitive operations. All the
+creative work, the most important task, will devolve upon
+man; he must use his imagination and judgement to
+work out programmes which the machine will then per¬
+form blindly and unconsciously.
+For all sorts of reasons, scientific texts are the first
+which can and should be submitted to the special analysis
+required for automatic translation. Up till now, research
+by American, British and Soviet scientists, has been con¬
+cerned with texts dealing with mathematics, chemistry,
+electronics and plant genetics. The need for scientific
+translations is such in all countries that we cannot even
+begin to solve this problem without the help of machines.
+But will machines ever be able to translate "literary"
+texts? The more optimistic research workers are begin¬
+ning to hope so, and already have notions of the way to
+set about it. When this day comes, when all prose works
+can be translated automatically at scarcely believable
+speeds (there is talk of 20,000 Words an hour), the peoples
+of the world will truly be able to learn about one another
+and appreciate each other's scientific and literary riches.
+21

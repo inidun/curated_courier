@@ -1,0 +1,159 @@
+by Maurice GOLDSMITH
+UNESCO Science Editor
+DURING the last ten years, great
+progress has been made in the
+scope of calculating machines.
+The great British diarist, Sa-
+muel Pepys, would have been happy
+if such inventions had been at his
+service, for, although in charge of
+the contracts branch of the Admi-
+ralty, his arithmetic was so weak
+that he had to rise at four o'clock
+each morning to learn his multipli-
+cation tables.
+But that was 300 years ago. Only
+the recent development of the
+science of electronics has made it
+possible to build new and elaborate
+calculating machines which enable
+us to tackle many mathematical
+problems shunned up to now because
+the calculations involved would take
+the normal human computor far too
+long. In science, industry and admi-
+nistration the modern world is so
+complex that it would break down if
+rapid mathematical calculation were
+not possible.
+One of the newest machines, de-
+monstrated in Britain a few months
+ago, is so fast that it can provide
+the answer in one minute to a pro-
+blem that would occupy a mathema-
+tic : an for a month. In a quarter-of-
+an-hour it can make a calculation
+which, if written out, would fill half-
+a-million sheets of foolscap paper.
+MACHINE WITH A"MEMORY"
+THIS particular machine, known asthe ACE (automatic computing
+engine) uses pulses of electricity,
+generated at a rate of a million a
+second, to solve all calculations
+which resolve themselves into addi-
+tion, subtraction, multiplication and
+division ; so that for practical pur-
+poses there is no limit to what the
+ACE can do.
+On the machine the pulses are
+used to indicate the figure 1, and
+gaps represent the figure 0. All cal-
+culations are done with only these
+two digits in what is known as the
+binary scale. The number 2, for
+example, in binary notation is"10".
+To put a sum into the machine, the
+numbers are first translated into
+then binary scale. Instructions for
+the calculation are given to the
+machine by coding them as holes in
+cards.
+To carry out long sequences of
+operations, the machine must have
+a"memory". It may have to com-
+bine the results of a dozen or more
+separate calculations, and, as it can
+do only one computation at a time,
+the machine must remember each
+one. This highly complicated me-
+mory section depends on the slower
+time of travel of supersonic waves,
+into which the electric pulses are
+converted, through a column of
+mercury. One thousand pulses-
+representing digits-can be stored
+and extracted at the moment needed.
+The complete calculation appears in
+code as a holed card, representing
+the answer in the binary scale, which
+is translated back into ordinary
+numbers.
+FROM PASCAL TO AIKEN
+THESE giant calculating machines,however imposing their bilities,
+cannot function without being
+told what to do. They are not
+capable of asking questions, but only
+of providing speedy answers to pro-
+blems put by human beings. They
+may-one expert has pointed out- perform everything that can be
+called"second class brainwork".
+The history of the development of
+calculating machines covers many
+countries. It was the Frenchman,
+Blaise Pascal, who in 1642 produced
+the first adding machine ; the Ger-
+man, Leibnitz, who in 1671 conceived
+the first multiplying machine, and
+the Frenchman, Thomas, who in
+1820 built it. It was the Englishman,
+Babbage, who in 1832 had the idea
+of a universal calculating machine-
+that is, a machine handling any pro-
+blem ; and the American, Aiken, who
+110 years later constructed one that
+worked.
+TO HELP MANKIND
+THE setting up of an InternationalComputation Ce tre has been
+studied and discussed at length
+by the United Nations. It is part of
+the wider project for international
+A MODERN TELEPHONE SWITCHBOARD ? No, one of the latest types
+of electronic calculating machines, built in France. Science and industry
+are becoming more and more dependent on the work of such machines
+which in one minute can often produce answers to problems that would
+take a man one month to solve.
+research laboratories, on several of
+which-the Arid Zone Research
+Council, the Laboratory for the Phy-
+sics of High Energy Particles, and
+the International Computation Cen-
+tre itself-Unesco has already
+begun preliminary work.
+The Sixth Session of Unesco's Ge-
+neral Conference has agreed to a
+series of recommendations for the
+organizing and establishment of this
+International Computation Centre.
+The Centre's main functions in the
+fields of research, education and ser-
+vice would be :
+To organize and make better
+known study and scientific research
+on use and development of mecha-
+nical computation devices ;
+To promote collaboration and co-
+ordination between computing insti-
+tutes throughout the world ;
+To organize the training and im-
+provement of research workers ;
+To establish and maintain an advi-
+sory service dealing with queries
+from scientific institutions and scien-
+tists, and ;
+To set up laboratories equipped
+with various types of calculating ma-
+chines and requested to carry out
+numerical computations.
+Three countries-Italy, the
+Netherlands, and Switzerland-
+have offered to act as host for the
+proposed Centre, but no decision is
+to be made until a special meeting
+is held in November.
+This Centre will be the first of the
+United Nations'research laborato-
+ries, which are designed to help
+improve the living conditions of
+mankind.
+THE MODERN CALCULATING MACHINE :
+AN AID TO MAN IN HIS FIGHT FOR PROGRESS

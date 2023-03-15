@@ -1,0 +1,162 @@
+CATHERINE MAUSSION
+JOURNALIST AT THE FRENCH DAILY LIBÉRATION
+
+
+
+D a t a - s w i n d l e rs: gold mining
+Trading personal data on Internet users is a booming business that is
+also spurring laws to protect e-consumers
+T
+wo hundred dollars just for answering a
+q u e s t i o n n a i r e. The offer from an A m e-
+rican group called Greenfield Consulting
+recently landed in the electronic mailbox
+of a member of Fr a n c e ’s Information Te c h-
+nology and Freedom Commission (CN I L) .The attrac-
+tive proposal reflects the high premium that com-
+panies put on gathering data about Internet users.
+Every year in late January, a huge file fair, the
+“customer relations” e x h i b i t i o n , takes place in
+Paris. At this year’s event, entirely devoted to e-
+commerce and the Internet, I - B a s e, a start-up
+founded in 1999,offered its file of 15 to 35 year- o l d s,
+“a behavioural database of over 700,000 young
+p e o p l e.”Where do the names and data come from?
+The company refuses to answer the question.A n o-
+ther firm taking part in the event, C o n s o d a t a , i s
+one of Fr a n c e ’s two megabase companies. E a c h
+y e a r, Consodata and its counterpart, C l a r i t a s, s e n d
+a form to millions of mailboxes with questions
+about outstanding loans,reading habits,h o b b i e s, e t c.
+Every bit counts:with time, these information snip-
+pets turn into refined consumer profiles that are
+worth gold.
+In the age of e-commerce and personalized
+s e r v i c e s, these companies are increasingly inter-
+ested in Internet users.To find out their every whim,
+Consodata has set up a special subsidiary called
+C a b e s t a n , w h i c h
+offers online games
+as bait to subscribers
+of Spray, an access
+p r o v i d e r. P e r s o n a l
+information left
+behind while answe-
+ring a quiz thus
+became a gold mine
+for Cabestan, which
+will put the data on
+the market soon.
+These practices
+are already very far
+advanced in the
+United States, t h e
+cradle of the Net
+economy and of
+“data mining.” S e r g e
+G a u t h r o n e t , a
+consultant speciali-
+zing in these issues, went there to visit “e-mail mar-
+k e t e r s ” with “a mind-boggling artillery.” Fi r s t ,t h e y
+send forms to the most popular sites, asking visitors
+to answer questions about their profession, l e i s u r e
+a c t i v i t i e s, children and so on. Wh a t ’s more, t h e
+Internet users are “ t r a c k e d ” while making pur-
+chases and surfing the Net. This enables online
+marketing firms to send them increasingly specific
+offers.These companies boast about being able to
+send up to 100 million emails a day! Since there are
+about 200 of them worldwide, their total strike
+force may be as high as 20 billion emails a day,
+says Gauthronet,or “about sixty emails per elec-
+tronic mailbox every 24 hours!”
+When the cookies
+crumble
+Gauthronet has just submitted a detailed report
+about these practices to the European Commis-
+s i o n . His first conclusion is that data-gathering
+methods seem more transparent now than they did
+a few years ago,when the overwhelming majority of
+companies collected information without Internet
+users knowing it. Their most widespread methods
+consisted of using “ c o o k i e s ” (software installed on
+hard drives to record users’ comings and goings on
+the Net), or directing their questions to children,
+who are more forthcoming. N o w a d a y s, i n f o r m a-
+tion is increasingly gathered with the express
+consent of the consumer (known as the “opt-in”
+p r i n c i p l e ) , who can pull out of the game at any
+time.Another advance is “permission marketing”:
+e-marketers are starting to ask users for their
+
+consent before bombarding them with advertising
+emails.
+So, where’s the threat? First,says Gauthronet,
+some companies don’t always have a very scrupu-
+lous vision of opt-in.“ For example,” he explains,“ a n
+Internet user just has to bookmark a site to be
+considered giving consent for everything and any-
+t h i n g.” In another abuse, sensitive information
+sometimes finds its way into a routine and autho-
+rized data-gathering procedure without the Internet
+user knowing it. Beyond that, Gauthronet raises
+issues of freedom and “the dispossession of the
+s e l f”that databases are going to bring about.“ Wh e n
+your identity is frozen,” he says,“ y o u ’re stripped of
+the right and means to define yourself the way you
+want to.” And of course, he mentions the steady
+erosion of the consumer’s privacy.
+Vacancies
+in the safe harbor
+On October 25, 1 9 9 5 , the European Union
+unanimously adopted a directive that gives all its
+citizens the right to access databases, the right of rec-
+tification,and the right to refuse the sale of data to
+a third party.The measure also stipulates that no fil e
+may leave Europe for a third country unless the
+latter can guarantee an “ a d e q u a t e ” level of personal
+data protection.This means that American Express
+and Microsoft, for example, cannot repatriate
+employee and client files to the United States unless
+they sign a contract agreeing to respect certain
+rules.
+H o w e v e r, even a united Europe is having a hard
+time making its views heard, especially in the United
+S t a t e s. Shortly before the directive entered into
+force on October 25, 1 9 9 8 , Washington was still
+defending the principle of “ s e l f - r e g u l a t i o n .” Th e
+deadlock between the U. S. Federal Trade Com-
+mission and the European Commission dragged
+on for two years. E v e n t u a l l y, in July 2000,both par-
+ties signed the “safe harbor”accord,which quietly
+entered into force on November 1.According to the
+a g r e e m e n t , to keep trans-Atlantic data flo w i n g,
+companies must agree to observe the European
+directive’s basic principles and to accept sanctions
+if they don’t .The United States, Hungary and Swit-
+zerland have received the EU’s “clean country”
+label.
+H o w e v e r, the measure is not to American com-
+panies’ liking. So far, just seven businesses have
+joined safe harbor! French legal expert Etienne
+Drouard,who is following the issue for the CNIL,
+doubts it will be successful:American companies
+“consider the agreement as a relinquishing of
+national sovereignty!” he says.But the whole issue
+may crop up again this year, because Washington is
+showing signs of taking a harder line on privacy.
+After the Amazon and DoubleClick scandals (see
+box) among others, privacy has become a hot poli-
+tical issue. The new congressional members had
+barely taken their seats when several of them put
+forward bills on the matter.A p p a r e n t l y, f r e e - m a r k e t
+America is coming up against its citizens’ increa-
+singly fierce resistance. ■
+A global view of data protection laws.
+■ ■ Legislation in effect
+■ ■ Legislation pending
+
+
+
+n g in the badlands of e-commerc e
+March 2001 - The UNESCO Courier 25

@@ -1,0 +1,244 @@
+THE DESKTOP REVOLUTION
+BY HOWARD BRABYN
+One of the many possibilities offered by do-it-yourself electronic publishing systems using personal computers may be to
+help developing countries meet their needs for textbooks and other printed materials.
+IN 1473, explaining the somewhat slipshod appearance
+of his latest publication, a printer of Parma in northern
+Italy declared that because rivals were about to bring
+out the same text, he had had to rush it through the printing
+process "faster than you can cook asparagus".
+This colourful hyperbole bears eloquent witness to the
+astonishingly rapid spread of publishing in the second half of
+the fifteenth century. Barely twenty-five years after Jo¬
+hannes Gutenberg had originated his new method of print¬
+ing (using movable metal type, a press and an oil-based
+printing ink), printing had spread to nearly all the major
+trading centres of Europe. In the first half of the fifteenth
+century the number of manuscript books in Europe could be
+counted in tens of thousands; by the year 1500, more than 9
+million books had been printed.
+The history of printing and publishing, like that of all
+human progress, is a record of the interplay between techno¬
+logical innovation and social change. Whilst each of these
+two streams of human activity promotes the other, with each
+in turn playing the leading role, the really crucial leaps ahead
+have always been made when the two converge to become an
+irresistible tide. Thus, whilst it was made technically possible
+by Gutenberg's discoveries, the development of printing in
+Europe, "The German Art" as it was at first called, was
+equally a response to the spread of literacy and to the social
+climate of the Early Renaissance.
+The early printers were men of many talents. Not only did
+they design and cast their own typefaces, they also fulfilled
+the functions of publisher, editor, printer and bookseller.
+Only bookbinding and the manufacture of paper were left to
+others. William Caxton, for example, the first English print¬
+er, was an accomplished linguist and himself translated from
+the French the first book to be published in English, The
+Recuyell of the Historyes of Troye (1475), which he printed
+on the press he had established in Bruges.
+One of the great early printer-publishers was the Venetian
+Aldus Manutius (1449-1515). In 1490, Aldus began produc¬
+ing the first printed editions of many of the Greek and Latin
+classics. Later he pioneered the production of cheap pocket
+editions, with what for those days were large print runs of
+1,000 copies to keep down the cost, and commissioned the
+first italic typeface (see page 12). In 1502, he published
+Dante's La Divina Commedia on which his famous imprint,
+the anchor and dolphin, appeared for the first time.
+As the demand for books and publications of every sort
+grew, the days of the great printer-publishers were num¬
+bered. The only way the book-hungry market could be
+supplied was by specialization and the division of labour. As
+a consequence the world of publishing gradually took on a
+new form, which has lasted until modern times, with the
+functions of author, publisher, printer, bookbinder and
+bookseller becoming separated.
+Significantly, however, the name of Aldus Manutius has
+become associated with the current revolution in the pub¬
+lishing world, for Paul Brainerd, the man who in 1985 coined
+the phrase "desktop publishing", is president of the Aldus
+Corporation, the firm that produced one of the first pro¬
+grams capable of composing and formatting text merged
+16
+
+with graphics on a computer for subsequent output to the
+new generation of printing and typesetting machines.
+What exactly is desktop publishing? Basically it is the
+application of personal computers to the entire range of the
+publishing process, from the typing in of the author's origi¬
+nal copy to the final printing of the publication. It is a means
+of producing documents, complete with graphics, ranging
+from one-page information or advertising leaflets, through
+brochures and price lists, to newsletters, magazines and even
+books, on equipment which can comfortably be housed on a
+reasonably large desk.
+. The basic equipment, or "hardware", required consists of
+a computer, complete with a visual display unit (screen), a
+keyboard and a movement sensing device known as a mouse,
+an optical scanner and a laser printer. The programs, or
+"software", needed to operate the equipment consist of a
+"page description language" which translates the image on
+the computer screen into a set of digital instructions that the
+laser printer can follow, and a composition program to drive
+the entire system.
+The advent of desktop publishing was as sudden as its
+social and economic implications were profound. As recent¬
+ly as 1970, the text sent by a publisher to a professional
+printer would be set in "hot metal" by methods not funda¬
+mentally different from those used by Gutenberg and Cax-
+ton some 500 years earlier. By 1985, typesetting to profes¬
+sional standards could be achieved in the office and in the
+home.
+Five key technical advances made this possible:
+the development of a new generation of very powerful
+personal computers;
+the development of page description languages to drive
+laser printers and phototypesetters;
+the development of small, comparatively cheap laser
+printers with a printing resolution (300 dots per inch) capa¬
+ble of producing output of "publishable" quality;
+the development of composition languages to drive the
+whole desktop system which can easily be operated by users
+with very little knowledge of computers, typesetting or
+graphics;
+the development of scanning devices which can "read"
+photographs, drawings and previously typed or printed texts
+and feed them into a computer where they can be modified as
+required and incorporated into the document to be pro¬
+duced.
+
+
+
+Coupled with the development of new manufacturing
+methods which have brought the price of this equipment
+tumbling down (it is now possible to buy a complete desktop
+publishing system for US $10,000 or less, and prices are still
+falling), these technical advances constitute a revolution of
+worldwide scope and importance.
+Anyone who uses such equipment is, like Aldus Manutius
+and the early printer-publishers, in a position to control the
+entire publishing process, from initial selection of what is to
+be printed, through input of text and graphics, to final
+output of the printed page. Only rather rudimentary meth¬
+ods of bookbinding are available to the desktop publisher,
+however, and, as in the days of Aldus Manutius, quality
+bookbinding is likely, for the time being, to remain a
+separate domain.
+Desktop publishing has swept away most of the barriers
+that for centuries have stood between those who want to
+publish and their potential readers. Composition programs
+and page description languages have replaced the craft skills
+of the printing process and handed back the choice of what is
+to be published to the author.
+A good desktop publishing package will offer a wide
+choice of typeface styles and sizes, number of columns per
+page, justified or unjustified text, automatic hyphenation of
+words at the end of lines, insertion of graphics and automatic
+flow of text around them, as well as automatic page number¬
+ing and spelling checking.
+There is nothing now to prevent the author of a specialist
+or minority interest book that no publisher will handle
+*&:&.'&/&.&!&&<&<£>:
+4a
+Left to right: inventively designed devices or
+marks of 4 early European printers. William
+Caxton (1422-1491): the printer's initials and
+trade-mark; Robert Estienne (d. 1559): the
+philosopher under the tree of knowledge;
+Christophe Plantin (1514-1589): compass on
+book; Aldus Manutius (1449-1515): anchor and
+dolphin.
+
+These pages from Man Belongs to the Earth, a
+new report on Unesco's Man and the Biosphere
+(MAB) Programme, were prepared for the press
+using the techniques of desktop publishing. The
+.175-page report, published in English, was
+written and compiled by Howard Brabyn and
+Malcolm Hadley.
+The basic equipment of a desktop publishing
+system: computer, visual display unit, key¬
+board, movement sensing device ("mouse"), and
+printer. ,
+SATELLITE
+SENSING
+I d* *«tW
+bird's-eye view
+SATEUITE SCMSJMG AfRUi. PHOTOGRAPH V - THE CAKOPV RAFT
+Ai _C
+because it might not be profitable, or of a potential literary
+masterpiece whose merit is not immediately recognized,
+from publishing it himself.
+Clearly, because of the problems of storing and handling
+the huge quantities of paper involved, the ordinary member
+of the public will not be in a position to print more than a
+few hundred copies of a brochure, a newsletter, or even a
+short book. Nor will he or she have the organization to
+distribute a daily newspaper or to handle sales of a book that
+turns out to be a best-seller. For the time being at least this
+will still be the domain of the major newspaper proprietors
+and the publishers with their well organized bookselling
+outlets.
+Nor should it be forgotten that, despite the impressive
+functions that desktop publishing software has to offer, the
+layout and appearance of the printed page will depend upon
+the skill and taste of the operator. Many of the basic rules of
+good page design can be quickly learned, but these need to be
+complemented by flair and practical experience.
+The wider social, political and economic implications of
+desktop publishing are equally profound. Censorship,
+whether by governments or by powerful interest groups,
+will be much more difficult if not impossible to impose.
+Minority groups will find it easier to make their voices beard
+and, with the development of electronic transmission, fron¬
+tiers will no longer be effective barriers to information.
+For the developing world the possibilities would appear to
+be enormous:
+It will no longer be necessary to fund the huge capital
+investment involved in setting up a traditional printing
+works and distribution network (a complete desktop pub¬
+lishing package can be bought for as little as a quarter of the
+cost of a single professional typesetting machine).
+A three-month training course in desktop publishing will
+replace the long and costly apprenticeship of the traditional
+print craftsmen.
+Costly distribution of books, newspapers, etc., over large
+areas, often with an inadequate or non-existent road and rail
+infrastructure, will be replaced by electronic transmission of
+the material to be published, in print-ready form for local
+printing.
+The cost of school textbooks will plummet as will the cost
+of revising and up-dating them. No wasteful stocks of
+unused books will be built up since it will be much easier to
+match local print runs to local demand.
+
+
+
+Each area will be able, where necessary, to modify text¬
+books to meet specific local needs.
+The advantages are not limited to the developing world.
+The desktop publishing revolution may well lead to the
+creation of tbe first personalized, electronic newspapers
+which would be transmitted directly to the home or office
+for printing on a laser printer. Subscribers with home or
+office computers and printers could indicate those subjects
+that interest them most and these would be included in the
+personalized newspapers that would be transmitted to them
+at any time they cared to specify.
+Charles Geschke, who with John Warnock pioneered one
+of the earliest and most widely used page description lan¬
+guages, recently declared: "One of my fantasies is to wake up
+in the morning and have my automated clippings service
+deliver me a sheaf of papers on my printer at home with
+exactly the kind of articles that I would be interested in."
+Such fantasies may well soon become reality. Thanks to
+the desktop publishing revolution, news of what is happen¬
+ing anywhere in the world will soon be instantly available.
+Perhaps more important still, we will all one day have direct
+access to the accumulated sum of human knowledge and
+culture very much "faster than you can cook asparagus".»
+HOWARD BRABYN, of the United Kingdom, is a Paris-based writer and
+journalist with a special interest in the popularization of science. He was
+formerly editor of the English edition of the Unesco Courier.
+18

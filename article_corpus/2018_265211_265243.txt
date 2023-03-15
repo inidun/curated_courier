@@ -1,0 +1,215 @@
+Over the last five years or so, basic AI 
+research has been all the rage with 
+some information technology giants, 
+who are investing considerable sums of 
+money in the field. Could you explain 
+this phenomenon?
+The answer is very simple. Science in 
+AI has reached a level of maturity that 
+makes it very useful for companies. The 
+accumulation of big data and the increased 
+computing power available, facilitate the 
+development of new AI products, which 
+will be even more profitable in the future 
+than they are today.
+Today, when we search the internet, 
+we are constantly solicited by targeted 
+advertising – these ads allow companies 
+like Facebook, Amazon, YouTube, etc., to 
+thrive. Currently, AI products have only a 
+small share of the market. But economists 
+predict that they will account for up to 
+15 per cent of the total production of 
+goods within a decade. That is enormous.
+
+
+
+Yoshua Bengio, interviewed 
+by Jasmina Šopova
+Artificial intelligence (AI) is 
+still in its infancy. “Its level of 
+reasoning is very superficial, 
+not even equivalent to that of 
+a frog,” says Yoshua Bengio, AI 
+pioneer and an expert on deep 
+learning. However, it already 
+poses serious problems of 
+monopolization and inequitable 
+distribution, which can only 
+be resolved on a global scale. 
+International coordination is 
+imperative in the development 
+of AI, he cautions.
+Countering the
+monopolization
+of research 
+AI will then allow these companies to sell 
+more, to get rich and to be able to pay the 
+researchers they recruit even more than 
+they do now. By increasing their customer 
+base, they will increase the amount of 
+data they have access to – and that data is 
+a gold-mine that makes the system even 
+more powerful.
+All this creates a virtuous cycle, which is 
+good for these companies but unhealthy 
+for society. Such a concentration of power 
+can have a negative impact on both 
+democracy and the economy. It favours 
+large companies and slows down the 
+ability of small new companies to enter 
+the market, even if they have better 
+products to offer.
+Yoshua Bengio: “We must encourage 
+greater diversity in the business 
+world associated with AI, and avoid a 
+monopoly situation.”
+
+We must encourage greater diversity in 
+the business world associated with AI and 
+avoid a monopoly situation.
+But the monopoly is already being 
+established. How can this be remedied?
+With anti-monopoly laws. History teaches 
+us that they can be effective against the 
+excessive power of some companies. 
+Remember Standard Oil in the United 
+States, which bought its competitors to 
+monopolize the oil market? Or Hollywood, 
+which until the middle of the twentieth 
+century, controlled seventy per cent of 
+film theatres and imposed its rule on the 
+distribution of films? The legal decisions 
+against these companies and some 
+others, helped to rebalance the markets.
+I believe that judicious advertising 
+regulations can go a long way towards 
+preventing the establishment of 
+monopolies in AI research. We are all, in 
+a way, prisoners of advertising and we 
+often forget that we have the option of 
+making a collective decision to regulate it, 
+so that it is not harmful to society.
+Besides, the services provided by large 
+private companies like Google and 
+Facebook could very well be made public 
+− in the same way that television, which 
+provides a similar service, is.
+You have decided not to work in the 
+private sector, haven’t you?
+Yes, I want to remain neutral. My 
+project is to develop a science that is 
+accessible to everyone, and not only to 
+a few shareholders. I want research to 
+develop in a way that it targets the most 
+useful applications for humanity − and 
+not necessarily the most profitable for 
+the economy.
+That said, I have tried to create a common 
+ecosystem that is mutually beneficial to 
+research and industry at the University of 
+Montreal, where I work. Several private 
+laboratories have been set up in Quebec’s 
+capital, and they collaborate with us. 
+Researchers from industry are employed 
+as associate professors at the university 
+and help train students. Companies make 
+donations to universities and give them 
+complete freedom to choose which areas 
+of research they will invest in.
+What is the proportion of researchers 
+working in the academic field today?
+If I base my answer on the people I meet 
+at major international conferences, I 
+would say that it is about half. Five years 
+ago, virtually all AI researchers worked in 
+the academic field.
+Private companies recruit talent from 
+around the world. Does this contribute to 
+brain drain in less developed countries?
+Inevitably. That’s why we must think 
+collectively about how the poorest 
+countries can benefit from the most 
+recent research results − but also about 
+how to create research centres within 
+their universities. In Africa, for example, 
+more and more academic institutions 
+are offering courses in AI and summer 
+schools (see page 20) are being 
+organized, which are proving very useful.
+In addition, there are a large number of 
+courses, tutorials and codes available 
+online for free. I meet many young 
+people who have been trained through 
+the internet. We must also look for 
+the best ways to help these students 
+train themselves.
+Some countries, 
+including Canada, 
+are investing 
+heavily in 
+AI research.
+Yes, Canada has 
+decided to fund 
+not only basic 
+research and to help startups, 
+but also to invest in collective thinking 
+and research in the social sciences and 
+humanities, in order to assess the social 
+impact of AI.
+At the initiative of the University of 
+Montreal, a debate was started on 
+3 November 2017 to help develop the 
+Montreal Declaration for a Responsible 
+Development of Artificial Intelligence. 
+This approach essentially aims to 
+establish ethical guidelines for the 
+development of AI at the national level.
+In the first phase of this long-term 
+participatory process, the general public 
+is invited to debate with experts and 
+policymakers. Seven values have been 
+identified: well-being, autonomy, justice, 
+privacy, knowledge, democracy and 
+responsibility.
+At what stage is this reflection, at the 
+international level?
+To my knowledge, there is no 
+international treaty governing AI 
+research. Yet, these are international 
+issues and without international 
+coordination, we will not be able 
+to move forward in the right direction.
+Scanning your brain, by French 
+cartoonist Bernard Bouton.
+© Bernard Bouton / Cartoon Movement
+First and foremost, the general public 
+and policymakers must be made aware 
+of the concerns about AI. In some parts 
+of the world, researchers have already 
+issued warnings about major problems, 
+and the media and general public have 
+responded. These are the first steps that 
+will lead us towards a broader global 
+political dialogue on the problems posed 
+by this discipline, particularly in the areas 
+of ethics, the environment and security.
+Computer scientist and researcher 
+Yoshua Bengio (Canada) is full professor 
+of the Department of Computer 
+Science and Operations Research 
+(DIRO), University of Montreal; head 
+of the Montreal Institute for Learning 
+Algorithms (MILA); co-director of 
+the Learning in Machines and Brains 
+program of the Canadian Institute for 
+Advanced Research (CIFAR) and Canada 
+Research Chair in Statistical Learning 
+Algorithms. The results of his research 
+have been cited more than 80,000 times 
+(as of September 2017). Born in Paris, 
+Bengio moved to Quebec in 1977 at 
+the age of 12, with his parents, who are 
+of Moroccan origin. He is an Officer of 
+the Order of Canada and a Fellow of the 
+Royal Society of Canada.

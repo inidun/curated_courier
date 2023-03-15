@@ -1,0 +1,279 @@
+by Cable Green
+The lack of universal access 
+to effective educational 
+resources remains a global 
+problem. But, says Cable Green, 
+the good news is that open 
+education is increasing access, 
+lowering costs and improving 
+student learning. 
+But how can educators share digital 
+learning content without violating 
+copyright law – how can they share 
+legally? 
+The key distinguishing characteristic of 
+an OER is its open copyright licence and 
+the legal permissions the licence grants 
+the public to use, modify and share it. 
+If an educational resource is not clearly 
+marked as being in the public domain or 
+having an open licence, it is not an OER.
+The most common way to openly 
+license copyrighted education resources 
+– making them OER – is to add a Creative 
+Commons (CC) licence to the resource. 
+These licences are standardized, free-
+to-use, open copyright licences that 
+have already been applied to more than 
+1.2 billion copyrighted works across nine 
+million websites, according to the State 
+of the Commons Report, 2015. When 
+authors add a CC licence to their work, 
+they keep their copyright and share their 
+work with the public, for free, under 
+the terms and conditions they choose. 
+
+
+
+Sharing
+legally and freely
+for better learning
+We live in an age of information 
+abundance where everyone, for the 
+first time in history, can access all the 
+knowledge they wish. The key to this 
+sea-change in education opportunity is 
+Open Educational Resources (OER), freely 
+available materials that can be legally 
+downloaded, edited and shared to better 
+serve all students.
+For the last twenty years, the educational 
+resources – textbooks, videos, courses, 
+degree programmes, etc. – we use to 
+teach people how to read and write, learn 
+physics and think critically have been 
+"born-digital". Even though we still use 
+printed copies and employ non-internet 
+delivery of learning materials, there 
+exists a digital file. Thanks to the internet, 
+inexpensive disc space and cloud 
+computing, we can now store, distribute, 
+and make copies of digital educational 
+resources for the marginal cost of zero.
+Cable Green, Director of Open Education 
+at Creative Commons.
+With this article, the UNESCO Courier 
+marks the 2nd World Open Educational 
+Resources Congress in Ljubljana, 
+Slovenia, in September 2017. 
+
+Leveraging 
+the full power of OER
+It is worth noting that “open” is not the 
+same as “free”. All OER can be freely 
+accessed, but not all free content is OER. 
+Many Massive Open Online Courses 
+(MOOCs), for example, are free but 
+not open. While access to the MOOC 
+content might be free, the MOOC is 
+only considered OER if its contents are 
+openly licensed or in the public domain. 
+This becomes critically important if 
+you want to translate an MOOC into 
+different languages and/or modify it 
+for a local context to meet the needs of 
+your students. 
+OER can be freely retained (keep a 
+copy), reused (use as is), revised (adapt, 
+adjust, modify), remixed (mash up 
+different content to create something 
+new), and redistributed (share copies 
+with others) without breaking copyright 
+law. Of course, if we want to leverage 
+the full power of OER, educators and 
+students also need access to Information 
+and Communication Technology (ICT) 
+infrastructure – computers, mobile 
+devices and internet connectivity, in all 
+spaces for all people.
+In summary, OER are possible because: 
+1) educational resources are digital (most 
+OER are “born-digital,” though OER can be 
+made available to students in both digital 
+and printed formats) and digital resources 
+can be stored, copied and distributed 
+for near-zero cost; 2) the internet makes 
+it simple for anyone to share digital 
+content; and 3) Creative Commons open 
+licences make it simple and legal to 
+keep one’s copyright and legally share 
+educational resources with the world.
+Open resources make access 
+to education easier. 
+
+What difference 
+does OER make? 
+When colleges and universities shift 
+to OER, they enable a series of positive 
+education changes. The first thing that 
+happens is that equitable access to 
+educational resources goes up. Every 
+single student can have access to all of 
+the educational resources that have been 
+designed for them to be successful in 
+the class on day one. This might sound 
+obvious, but even in the United States, 
+two-thirds of college and university 
+students don’t buy the textbooks 
+prescribed for their classes because 
+they cannot afford them.
+The second positive impact is all students 
+get access to relevant, contextualized 
+education content that has been 
+designed for them. A professor in 
+Mumbai can download an openly 
+licensed textbook that has been shared 
+by the University of Barcelona, translate 
+it into Hindi, and update the book with 
+examples that will appeal to his or 
+her students.
+Third, learning outcomes go up or stay 
+the same, while price falls to near zero. 
+When all students in a class have access 
+to all of the resources on day one, they 
+succeed. A journal-published analysis 
+of more than 16,000 students at public 
+institutions showed that students using 
+open materials perform as well, if not 
+better, than their peers using traditional 
+course materials (Lane Fischer, John 
+Hilton, T. Jared Robinson, and David 
+Wiley: A multi-institutional study of the 
+impact of open textbook adoption on 
+the learning outcomes of post-secondary 
+students, Journal of Computing in Higher 
+Education, 2015).
+Fourth, it has been observed that 
+course completion rates go up. In 
+a controlled application of OER at 
+Tidewater Community College in 
+Virginia, US, students utilizing OER 
+resources in a variety of course formats 
+fared up to 11% better in both course 
+completion and achievement. (Lane 
+Fischer, John Hilton, David Wiley and 
+Linda William: Maintaining momentum 
+toward graduation: OER and the course 
+throughput rate, The International Review 
+of Research in Open and Distributed 
+Learning, 2016). 
+Students remain and succeed in courses 
+that provide them access to all the 
+educational resources they need to 
+prosper. Because more students are 
+completing their courses, time-to-
+degree also drops. With OER, education 
+institutions help students move through 
+their educational opportunities with 
+greater speed and success – a more 
+effective public investment.
+Fifth, once we have OER in our learning 
+spaces, students and teachers can shift to 
+open education practices – “collaborative 
+practices which include the creation, 
+use and reuse of OER and pedagogical 
+practices employing participatory 
+technologies, peer learning, knowledge 
+creation and sharing, and empowerment 
+of learners” (Catherine Cronin : Openness 
+and praxis: exploring the use of 
+open educational practices in higher 
+education, The International Review of 
+Research in Open and Distributed Learning, 
+2017). According to Cronin, students 
+become co-producers, generators and 
+creators of knowledge; they can create, 
+update and improve OER as they learn.
+“Microchip synapses 29 – Between 
+the now and the infinite”, by Italian artist 
+Leonardo Ulian.
+
+Policy support needed
+One way governments can support open 
+education is to adopt a simple policy 
+– require publicly-funded educational 
+resources are openly licensed.
+Open education licensing policies 
+insert open licensing requirements 
+into existing funding systems (e.g., 
+grants, contracts or other agreements) 
+that create educational resources, 
+thereby making the content OER, and 
+shifting the default on publicly-funded 
+educational resources from “closed” 
+to “open”. This is a particularly strong 
+education policy argument – if the public 
+pays for education resources, the public 
+should have the right to access and use 
+those resources at no additional cost 
+and with the full spectrum of legal rights 
+necessary to modify the OER to meet 
+their local needs.
+This sounds obvious, but it is not the rule. 
+Unfortunately, it is almost always the 
+case that publicly- funded educational 
+resources are commercialized in such a 
+way that access is restricted to those who 
+are willing to pay for them a second time. 
+Why should a nation’s citizens be required 
+to pay a second time for an education 
+resource they’ve already paid for?
+Governments, foundations, and 
+education institutions can and should 
+implement open education licensing 
+policies by requiring open licences on 
+the educational resources produced with 
+their funding. Strong open licensing 
+policies make open licensing mandatory 
+and apply a clear definition for open 
+licence, ideally using the Creative 
+Commons Attribution (CC BY) licence 
+that grants full reuse rights, provided 
+the original author is attributed. 
+The good news is, open education 
+policies are happening. In June 2012, 
+UNESCO convened a World Open 
+Education Resources Congress at its 
+Headquarters, and released the 2012 
+Paris OER Declaration, which included a 
+call for governments to “encourage the 
+open licensing of educational materials 
+produced with public funds”. I am pleased 
+to say that many governments have 
+followed this recommendation.
+In conclusion, if we want OER to go 
+mainstream, if we want curated sets of 
+OER for all grade levels, in all subjects, in 
+all languages, customized to meet local 
+needs; if we want significant funding 
+available for the creation, adoption and 
+continuous updating of OER – then 
+we need (1) universal awareness of 
+and systematic support for OER, and 
+(2) a broad adoption of open education 
+licensing policies. When all educators 
+are passionate about free and open 
+access to their educational resources, 
+when we change the rules on the money, 
+when the default on all publicly-funded 
+educational resources is “open” and not 
+“closed”, we will live in a world where 
+everyone can attain all the education 
+they desire. 
+Cable Green (USA) is Director of Open 
+Education at Creative Commons, which 
+includes over 500 researchers, activists, 
+legal, education, science, museum and 
+policy advocates, and volunteers who 
+make up the CC global network in over 
+eighty-five countries. 

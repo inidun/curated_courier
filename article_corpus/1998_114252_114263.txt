@@ -1,0 +1,209 @@
+How do you create an $18 billion company in
+just 14 ye a rs? Michael Dell began in 1984 with
+a simple business insight. He could bypass the
+dealer channel through which personal computers
+were then sold. I n s t e a d , he would sell directly to
+c u s t o m e rs and build customized products to order.
+In one swo o p, Dell eliminated the reseller’s markup
+and the costs and risks associated with carry i n g
+large inve n t o ries of finished goods. The form u l a
+became known as the direct business model, and it
+gave Dell a substantial cost advantage.
+D e l l ’s product line has expanded over the ye a rs.
+In additon to desktop personal computers , the com-
+p a ny now sells a broader range of hardwa r e — l a p-
+t o p s , s e rve rs , and wo r k s t at i o n s. But make no mis-
+t a k e , Dell sells physical t h i n g s, m a n u factured goods
+t h at must be assembled and transported and delive-
+red and serviced with a staff of about 22,000 wo r l d -
+wide and a base in Round Rock,Te x a s. It sounds a lot
+like the old, t a n gible economy.
+Is Dell, t h e n , stuck in the past of mat e rial goods
+and physical flows? Or is it part of the so-called “ n e w
+e c o n o my ” ,c r e ating wealth through “ i n t a n gible streams
+of dat a , images and symbols”. In fa c t , Dell is both.
+Companies have always thri ved by offering cus-
+tomers superior value, giving them more for less.
+For the most part, they offer better value by shrin-
+king the time and the resources consumed in mee-
+ting customers ’n e e d s.The fundamental economic
+rules of business have n ’t changed. But like many
+other companies today, Dell is harnessing the tools
+of the knowledge economy — i n f o rm ation and tech-
+nology—to bring new levels of efficiency and pro-
+ductivity to the old world of tangible goods.
+Supplier partnerships
+Consider all the activities and resources that go
+into making and selling a computer. As a small
+s t a rt - u p, Dell simply couldn’t afford to create eve ry
+piece of that value chain. Instead, its strategy has
+been to build systems from components made by
+other companies. Let them invest in R&D and in
+factories. For each component, Dell evaluates the
+field and picks the best to be its suppliers.
+Dell then works so closely with them that they
+b e c o m e , in Dell’s wo r d s , “ v i rtually integr at e d ” .
+While they remain independent companies, e a c h
+free to focus on what it does best,they share infor-
+m ation and co-ordinate their activities as if they
+were part of one vertically integrated company.
+
+
+Managing
+Dell Computer gains time—and money—by
+using technology and information to blur
+traditional boundaries between a company
+and its customers
+
+The knowledge economy When ideas are capital
+
+
+
+velocity Joan Magretta*
+Dell’s Internet sales run to 
+$6 million a day.Real-time inform ation sharing with suppliers is
+the key to just-in-time assembly. Instead of having
+suppliers make periodic deliveries to a warehouse,
+Dell tells them the exact number of components it
+needs, at what hour of the day, delivered to which
+loading dock at its fa c t o ry.This is precisely the kind
+of information a company would freely share with
+an internal supplier.
+D e l l ’s rule in working with part n e rs is to have as
+few as possible, and to keep them as long as they
+maintain their technological and quality leaders h i p.
+As Michael Dell notes, “This isn’t like the auto-
+mobile bu s i n e s s , where you find a tire supplier that
+you will probably stick with foreve r.” Managed this
+way, supplier part n e rships gi ve Dell the flexibility to
+respond to changes in the market.
+Supplier partnerships aren’t new to the know-
+ledge economy, nor is just-in-time manufacturing.
+However,today’s technology enhances the econo-
+mic incentives to collaborat e . Companies can share
+design databases and methodologies in ways that
+we r e n ’t possible just five to ten ye a rs ago. Doing so
+can dramatically speed time to market, thus crea-
+ting substantial value which the bu yer and supplier
+can share.
+Why time is money
+“In our industry,” Michael Dell explains, “ i f
+you can get people to think about how fast inven-
+tory is moving, then you create real value.The key
+challenge—and the biggest change from business as
+usual—is changing the focus from how much inve n-
+tory there is to how fast it’s moving.”
+Speed is critical for two reasons. F i rs t , in the
+computer business the cost of components goes
+down as much as 50 per cent a year.The company
+with two or three months of inventory will be at a
+significant cost disadvantage to the company with
+e l e ven days because its products were built with
+more expensive parts. Second,in technology mar-
+kets with frequent product transitions, it’s easy to
+get stuck holding obsolete inve n t o ry, or to be late to
+market with the hottest new products.
+C o - o r d i n ation between companies is not new to
+the knowledge economy. However, such tight co-
+ordination would not be possible without sophisti-
+c ated data exchange. M a n a ging velocity is about
+m a n a ging inform at i o n , using a constant flow of
+i n f o rm ation to dri ve operating practices. In essence,
+Dell substitutes information for inventory.
+The result is that Dell turns its inve n t o ry ove r
+t h i rty times per ye a r , an extraordinary feat gi ven the
+complexity of its product line. But without credible
+information about what customers are actually
+bu y i n g, s ays Dell, “ t rying to manage eleven days of
+i nve n t o ry would be insane.We couldn’t do it without
+c u s t o m e rs who work with us as part n e rs.”
+Forecasting customer needs
+Working closely with customers is critical to the
+Dell strat e g y.With the direct model, Michael Dell
+e x p l a i n s ,“ You actually get to have a relationship with
+the customer.And that creates valuable inform at i o n .”
+Ninety per cent of Dell’s sales go to institu-
+t i o n s — business or gove rnment—and 70 per cent to
+very large customers that buy at least $1 million in
+PCs a ye a r.With those large customers , Dell main-
+tains an on-site team that functions less as a ve n d o r
+and more as the customer’s inform ation techno-
+logy department for PCs.The team will typically be
+involved in planning the customer’s PC needs and
+the config u r ation of their netwo r k .Thus Dell’s sales
+account managers have unusually good inform a-
+tion on what each customer intends to buy.
+Smaller customers buy direct from Dell ove r
+the telephone. Not only can Dell compile real-time
+d ata about what ’s selling, but its salespeople can
+also steer customers, while they’re on the phone,
+toward product configurations that are available—
+further using information to fine-tune the balance
+between supply and demand.
+In short ,by eliminating the middleman,Dell cap-
+tures valuable inform ation from customers—which it
+uses to lower its inve n t o ry, its costs, and its ri s k s. I n f o r-
+m ation from the customer flows all the way through
+m a n u fa c t u ring to Dell’s suppliers , making the whole
+an efficient and flexible system. In this way, the direct
+model allows Dell to build computers to meet real
+demand from real end customers.
+B e yond substituting inform ation for inve n t o ry,
+Dell combines technology and inform ation to blur
+‘I’m only half joking when I say
+that the only thing better than the Internet 
+would be mental telepathy’
+
+the traditional boundaries that separate a company
+from its customers.
+Consider technical support . Dell has made it
+possible for its customers to access its internal sup-
+p o rt tools on-line in the same way as Dell’s ow n
+technical support teams do. In effect, Dell is
+enabling the customer to service itself, saving time
+and money on both sides.
+New roles for customers
+Dell has done something analogous with its sel-
+ling function. It has developed customized Intranet
+sites called Premier Pages for well over 400 of its
+largest global customers,giving them direct access
+to purchasing and technical information.A custo-
+mer can allow its thousands of employees to use
+the Premier Page as a kind of interactive catalogue
+of all the model configurations that the company
+a u t h o ri z e s ;e m p l oyees can then price and order the
+PC they want. Employees are happy to have some
+choice, and Dell and the customer both eliminate
+all the paperwork and sales time normally associa-
+ted with corporate purchasing.
+Beyond Dell’s mechanisms for sales and sup-
+p o rt , the company has set up a number of forums to
+exchange inform ation with the customer. P l at i n u m
+Councils, for example, are regional meetings—in
+A s i a - Pa c i fic, Ja p a n , the US, and Europe—of Dell’s
+largest customers. In these meetings, Dell’s senior
+technologists share their views on where the tech-
+nology is heading over the next two ye a rs and listen
+to customers talking about their needs. Helping the
+customer anticipate the flow of new technology
+helps Dell, as well, in thinking about new product
+offerings and in forecasting demand.
+Most of the managerial challenges at Dell
+Computer have to do with speeding the pace of
+e ve ry element of its bu s i n e s s. Life cycles are mea-
+sured in months, not ye a rs , and companies must
+m ove fast to stay in the game. In a world where
+customer needs and technologies change quickly,
+m a n a g e rs must sense and respond to rapid shifts,
+process new inform ation ve ry quickly and make
+decisions in real time.
+In that context,Internet commerce has been a
+l o gical extension of Dell’s direct model. Dell began
+selling direct on the Net in 1996.Within the first
+year, Dell reached a run rate of $2 million a day, a
+figure that has gr own to roughly $6 million a day in
+1 9 9 8 . “Because what we ’re all about is shri n k i n g
+the time and the resources it takes to meet custo-
+m e rs ’n e e d s ,” explains Michael Dell, “I’m only half
+joking when I say that the only thing better than
+the Internet would be mental telepathy.” ■

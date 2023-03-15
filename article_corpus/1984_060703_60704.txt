@@ -1,0 +1,223 @@
+The story
+of the Universe
+urfh» i -,:-r
+
+
+The echo of the Big Bang
+It has been hailed as the most remarkable scientific observation
+of modern times, and like many great discoveries it came about
+by accident. In 1964 radio-astronomers Arno Penzias and
+Robert Wilson of the Bell Telephone Laboratories in the United
+States detected a baffling radio noise through the giant "ear
+trumpet", a 7-metre horn antenna (right) with which they were
+working on the development of a satellite communication
+system. The noise seemed to come evenly from all directions
+in the sky. It did not change as the months went by and, with
+the rotation of the earth around its own axis and around the
+sun, the antenna was pointed to different parts of the sky. It
+could not be accounted for by any source on earth, in the solar
+system, or in our galaxy. Could it be due to a fault in their equip¬
+ment? Could it be caused by the pigeons roosting in the throat
+of the antenna? The antenna was dismantled and rebuilt, the
+pigeons were removed. But the noise in their microwave
+receiver was still, inexplicably, there.
+Then Penzias and Wilson heard about the calculations of a
+Princeton University physicist, P.J.E. Peebles, who had
+calculated that if the universe had originated in a Big Bang, a
+massive amount of radiation would have been needed to pre¬
+vent all the densely packed particles from fusing together into
+heavy elements and to leave enough hydrogen and helium to
+form the stars and galaxies of the universe as we know them
+today. As the universe expanded, the radiation cooled, continu¬
+ing to permeate the universe but in a weaker, more "diluted"
+form. Peebles predicted that it should today be detectable as
+radiation with a temperature of a few degrees above absolute
+zero on the Kelvin scale. This immediately explained the origin
+of the radio hiss heard by Penzias and Wilson: this cosmic radia¬
+tion filling all of space was a distant echo of the Big Bang. The
+excitement of astronomers at the discovery of a phenomenon
+which seemed to confirm the Big Bang theory so conclusively
+was mingled with the irony that radio telescopes of the 1 950s
+would have been capable of detecting this background radia¬
+tion, whose existence had been predicted in the mid-1 940s,
+but no radio astronomers had looked for it. In 1 978 Penzias and
+Wilson were awarded the Nobel Prize for their discovery.
+Just at the time these new theoretical ideas were emerging,
+astronomers were developing a series of large telescopes
+which probed the nature of the Universe and showed how
+parochial their earlier ideas had been. Our Milky Way
+Galaxy, the mass of all the stars visible in the night sky, was
+shown to be just one collection of stars among many in the
+Universe. The Milky Way contains thousands of millions of
+stars, a collection forming a flattened disc like an island in
+space, but the Universe contains many millions of other
+galaxies like this, separated from one another by truly empty
+stretches of intergalactic space. The crucial discoveries con¬
+cerning the nature of these objects came from a succession
+of telescopes on mountain tops in California the 60-inch
+reflector at Mount Wilson, completed in 1908; the 100-inch
+at the same observatory in 1917; the 200-inch at Mount
+Palomar in 1948. Edwin Hubble, working at the Mount
+Wilson observatory from 1919 onward, first showed that
+many faint patches of light in the sky could be resolved into
+individual stars, and were island galaxies in their own right,
+lying far beyond the Milky Way. He then made an even more
+dramatic discovery. He found that distant galaxies show a
+systematic red shift in their light, a red shift that is propor¬
+tional to the distance of each galaxy from us.
+This red shift literally involves a displacement of features
+in the visible spectrum from their expected position towards
+the red end of the spectrum. It is interpreted as a stretching
+of the light waves, because red light is at the long wave end
+of the visible spectrum (blue light has shorter wavelengths;
+a compression of wavelengths would cause a blue shift).
+There is only one plausible explanation for such a
+phenomenon. The wavelength of the light is stretched
+because the distant galaxy is moving away from us, in exactly
+the same way that the note of a police or ambulance siren is
+6
+deepened if the vehicle rushes away from us. Hubble's
+discovery in the 1920s that red shift is proportional to
+distance was exactly the effect predicted by the Eins-
+tein/Friedmann models, the effect Einstein tried to get rid of
+with his cosmological constant. It doesn't mean that our
+Galaxy is at a special place at the centre of the Universe, with
+everything else moving out from it, because those distant
+galaxies will "see" us in retreat from them. The motion is
+relative. Imagine an expanding balloon, dotted with paint
+spots and being inflated. Every spot "sees" every other spot
+receding at a rate proportional to the separation of the two
+spots, but none of the spots is actually moving across the
+rubber of the balloon's skin (See page 16). Hubble's law
+showed that the Universe is made the same way empty
+space, Einstein's space-time, expands and pushes the galax¬
+ies further apart, even though the galaxies themselves are not
+moving through space.
+Astronomers were intellectually aware of this in the 1930s,
+and for three decades they lived with the implication that the
+Universe must have had a definite beginning from which the
+universal expansion had begun. But it was only in the 1960s
+that this abstract intellectual concept became something
+more concrete and immediate. The Big Bang was an abstract
+concept, seemingly remote from the world of today. It
+couldn't be seen, or felt, or touched, and astronomers seem
+to have had no "gut feeling" that the idea was correct. And
+then, in 1964 Arno Penzias and Robert Wilson, working at
+the Bell Laboratories in the US, found a way to "touch" the
+Big Bang.
+Penzias and Wilson had been working with a sensitive
+radio antenna and amplifier system studying faint radio
+signals bounced off the Echo satellites. They also took the
+
+opportunity to use this sensitive equipment to study the faint
+radio noise of the Milky Way, and to their surprise they
+found a weak, but uniform, signal coming from all direc¬
+tions in space. Space the Universe seemed to be full of
+very weak radio waves, with an energy equivalent to 3 K
+(zero on the Kelvin scale of temperature is - 273 °C). This
+is a very weak signal by everyday standards, but if it fills all
+of space it adds up to a great deal of energy altogether.
+Where had it come from? Princeton theorist P. J.E. Peebles,
+working just a few miles away from Penzias and Wilson,
+quickly came up with the answer. This weak, 3 K
+background radiation must be the echo of the Big Bang
+itself, the last trace of the fireball in which the Universe was
+born.
+The argument is simple. When the Universe was born out
+of the Big Bang, it was very hot, full of energy as well as
+matter. As space expanded, the radiation expanded as well,
+so that space has always been full of this electromagnetic
+energy. But as space has got bigger, the energy has been more
+and more diluted. The density of the energy has got less, and
+so its temperature has fallen. The temperature of the
+background radiation today is exactly right for the amount
+of expansion that must have occurred since the Big Bang,
+and there is no serious alternative explanation for the
+discovery made by Penzias and Wilson. Following that
+discovery, astronomers had to accept, deep down in their
+hearts, that the Big Bang was real, not just some interesting
+quirk of the mathematical equations. Penzias and Wilson
+received the Nobel Prize for their discovery in 1978, some
+measure of the impact it made on science.
+The discovery of the cosmic background radiation led to
+new interest in the Big Bang. How, astronomers wanted to
+know, could a superdense, superhot fireball of energy have
+expanded and evolved into the Universe we see about us,
+where stars are gathered into galaxies which move quietly
+apart from one another in an expanding sea of space-time?
+The universal expansion has long since been proved a reality;
+we can take the temperature of the Big Bang itself, and we
+know that the origin of the Universe lies in a fireball of ere-
+"Shorthand"
+for mathematicians
+Any discussion of the universe and of particle
+physics involves talking about both very large and
+very small distances and quantities. We therefore
+need a form of shorthand to express the very large
+numbers involved. Conventionally, for example,
+ten times ten times ten i.e. one thousand is ex¬
+pressed as 103, one million is written as 106, and
+1014 means a hundred million million. A similar
+method is used to express very small distances or
+quantities; one divided by a million i.e. one-
+millionth is expressed as 10~6 The radius of an
+atom, for example, is about 10~8 of a centimetre.
+ation 15 thousand million years ago. Those were dramatic
+discoveries in themselves to previous generations. But in the
+past ten years even more dramatic progress has been made,
+not by astronomers but by particle physicists whose work
+with giant accelerators like those at CERN (the European
+Organization for Nuclear Research) in Geneva has given
+them an insight into the world of very high energies. We can¬
+not, in fact, go back to the instant of creation, when the
+Universe was infinitely dense and infinitely energetic, and
+occupied a mathematical point with zero volume. But the
+theorists can come pretty close to this. They now claim to
+have pushed back the understanding of the Big Bang to the
+point where they can explain how a minuscule object, a
+Universe containing all the mass energy of our present
+Universe packed into the volume of a proton, blew up into
+something like the Universe we see today.
+John Gribbin
+Open or closed? The fate of the Universe
+If we accept, as do most physicists today
+(for alternative view see article page 1 3),
+that the universe began with the "Big
+Bang" and is expanding, is it possible to
+deduce how it will end? There seem to be
+two possible scenarios for the future and
+the choice between them is finely balanc
+ed. Everything hinges on just how much
+matter there is in the universe. Just as
+our solar system and all the galaxies are
+held together by the attractive force of
+gravity, so the total mass of the universe
+exercises a steady pull on all its com¬
+ponents. As the universe expands, im
+pelled by the explosive force of the Big
+Bang, this gravitational pull decreases.
+But if there is enough matter in the
+universe, gravity will eventually over¬
+come the expansion which will gradually
+slow to a halt. Like a film being run
+backwards, the whole process will go in¬
+to reverse, the universe will contract
+faster and faster as the force of gravity
+becomes increasingly ascendant until it
+collapses back into another dense
+fireball, perhaps to die for ever, perhaps
+to expand again in another Big Bang. If,
+however, the total mass of the universe
+is insufficient to enable the gravitational
+force to become predominant, the ex¬
+pansion of the universe will continue for
+ever. Cosmologists have attempted to
+work out the total mass of the universe
+by measuring the amount of matter in the
+volume of space that we can "see".
+Curiously, their estimates give an ap¬
+proximate total mass for the universe
+that lies within the critical zone between
+these two possibilities. The fate of the
+universe is balanced on a knife edge.
+Big Bang

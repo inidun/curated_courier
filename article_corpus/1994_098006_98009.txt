@@ -1,0 +1,531 @@
+he prospects for gene therapy
+There are an
+estimated 100,000
+genes in the human
+body. By replacing
+defective genes
+with healthy ones,
+it will bepossible to
+treat many
+hereditary diseases
+such as
+haemophilia, cystic
+fibrosis and,
+eventually, some
+forms ofmuscular
+dystrophy and
+cancer.
+by Renato Dulbecco
+11
+Rapid progress has been made in recent
+years in characterizing hereditary dis¬
+eases and in understanding their causes. These
+diseases are due to alterations of genes, which
+encode the information for building the body
+and making it work. Genes are the carriers of
+hereditary traits and are contained in filaments
+of DNA (deoxyribonucleic acid) that are present
+in the cells of all organisms. The precise number
+of genes in the human body is unknown, but it
+is estimated to be around 100,000.
+Every cell has two copies of each gene, one
+deriving from the father, the other from the
+mother. The information in the genes is used for
+making proteins, the agents for building the
+body and making it work. A disease appears
+when a gene is altered in such a way that either
+it does not make its corresponding protein, or
+else makes a protein that is incapable of func¬
+tioning. Since the same protein is encoded in
+both genes of each pair, if only one fails enough
+protein continues to be made to satisfy the needs
+of the organisms, and there is no disease. A dis¬
+ease appears when both fail and no functional
+protein is made. This generally happens when a
+child is born from two healthy parents, each of
+whom carries an altered gene of the same pair.
+Such parents have a one-in-four chance of gen¬
+erating a defective child.
+Hereditary genetic diseases can vary greatly
+in severity. At one extreme are diseases such as
+phenylketonuria, which, after detection at birth,
+can be completely prevented by adopting a suit¬
+able diet. At the other are those like Lesch-Nyhan
+syndrome, which affects only boys, causing a
+terrible form of mental retardation in which they
+tend to eat themselves and must be kept bound to
+their beds to prevent them from eating their fin¬
+gers. Even so, they may eat their lips or their
+tongues. All hereditary diseases generate a degree
+of handicap, and for the majority of them there
+is not as yet any effective therapy.
+Vectors and receptors
+During the last ten years many of the genes
+responsible for hereditary diseases have been
+discovered, leading to the possibility of a new
+form of therapy known as "gene therapy" that
+is based on the introduction into the patient's
+cells of a good copy of the defective gene so as
+to perform the missing function. The concept is
+
+straightforward, but the implementation pre¬
+sents many problems, which so far have limited
+its use to only a few cases.
+To treat a hereditary disease with gene therapy
+several conditions must be met. In the first place
+
+
+
+the gene responsible for the disease must be
+known and must be isolated in a form that con¬
+tains all the information needed to make the pro¬
+tein. Many copies of the gene must be available,
+to maximize the number of cells into which it can
+be introduced. The fresh genetic material is usu¬
+ally inserted into the malfunctioning cells by
+means of a "vector" or carrier. Such vectors are
+often obtained from viruses; but many viruses
+may either kill cells or change them to cancer
+cells. To prevent these adverse effects the genes
+responsible for causing them are removed from
+the viruses.
+The first vectors used in gene therapy were
+made from viruses known as "retro-viruses".
+However, retro-viral vectors have important
+drawbacks: they only enter into some types of
+cell, and then the gene they carry acts weakly. The
+major disadvantage is that they cannot become
+established in cells that do not multiply. More
+recently viruses of another kind, known as
+"adeno-viruses", have been used extensively
+because they can become established in cells that
+do not multiply. Today most gene therapy is
+being carried out using as a vector either adeno¬
+viruses or other viruses with similar properties.
+Many attempts have been made to use other
+ways of delivering genes into cells. One of them
+takes advantage of the ability of certain "factors"
+present in the blood or other body fluids to enter
+cells by interacting with "receptors" present at the
+surface of cells. For this method to work, the
+cell into which the gene must be introduced needs
+to have a suitable receptor at its surface, and this
+limits the types of cells that can be used.
+A method suitable for any cell has thus been
+developed, which consists in embedding the
+gene into a microscopic vesicle called a "lipo¬
+some", made up of an artificial membrane sim¬
+ilar to those that surround the cells. When the
+vesicle touches the cell, its membrane fuses with
+the cellular membrane, and the gene it contains
+enters the cell. This method seems to have few
+drawbacks but it has not yet been used widely
+enough for its efficacy to be proved. Most
+recently it has been shown that naked DNA
+can enter cells, opening up the possibility of an
+even simpler method for gene delivery.
+Inserting the gene into a suitable vector is the
+first step in gene therapy; the next step is to intro¬
+duce the vector into the cells. The type of cell to
+be targeted depends on the nature of the disease
+produced by the genetic defect. In many of the
+attempts using viral vectors the cells are taken
+from the body, grown in vitro, and returned to the
+body after introduction of the gene. To carry
+out this procedure the cells must be accessible, like
+those of muscle, skin and blood, but unlike those
+of internal organs. With the newer approaches
+using receptor binding, liposomes, or naked
+DNA, the handicap is not so great, and genes have
+been introduced into the liver, lungs and muscle.
+The first attempt to use gene therapy on a
+human being was carried out in 1990 on a girl
+affected by adenosine deaminase (ADA)
+Opposite page, a chemist
+engaged in the production of
+liposomes at the European
+Molecular Biology Laboratory in
+Heidelberg (Germany).
+Liposomes are tiny vesicles
+that can be used in gene
+therapy to Introduce genes into
+malfunctioning cells.
+Right, a girl suffering from
+thyroid deficiency who grew
+taller after being injected with
+human growth hormone.
+Formerly extracted in
+insufficient quantities from
+human cadavers, the hormone
+is now produced in large
+fermenters using a bacterium,
+Escherichia coli, under
+controlled conditions.
+13
+
+The first attempt to
+use gene therapy on
+a human being was
+carried out in 1990
+on a girl suffering
+from a serious
+disease of the
+immune system.
+Unable to defend her
+body against
+infections, the child
+had to live under a
+plastic bell. She
+could not play with
+other children or go
+to school.
+14
+RENATO DULBECCO
+is an Italian-born American
+virologist who was awarded the
+1975 Nobel Prize for Physiology
+or Medicine, together with David
+Baltimore and Howard M. Temin,
+for their studies of the workings
+of cells, viral contamination and
+the genesis of cancer. He is the
+co-ordinator of the human
+genome project for Italy and
+Honorary President of the Salk
+Institute for Biological Studies in
+La Jolla, California (U.S.A.).
+Among his published works is an
+8-volume Encyclopaedia of
+Human Biology (1991).
+deficiency, that is, the cells of the immune system
+lacked an essential enzyme and were unable to
+defend her body against infections. The child
+had to live under a plastic bell. She could not play
+with other children and could not go to school.
+The cells lacking the enzyme are accessible
+because they are made in the bone marrow and
+then enter the blood. The therapy was carried
+out by taking the cells from the blood, intro¬
+ducing the ADA gene into them, and then
+returning them to the patient's blood. The result
+has been good. The defence functions of the
+girl's immune system were re-established and she
+was able to leave her abode and go to school.
+One drawback of this therapy is that the
+modified cells do not last a long time, and so the
+treatment must be repeated at frequent intervals.
+This difficulty might be overcome by introducing
+the gene into large cells of the bone marrow
+known as stem cells, which have a much longer
+life span. However they do not multiply readily
+in vitro, and therefore the retro-viral vector would
+not work for them, and, moreover, they are very
+difficult to isolate. The therapy is therefore effec¬
+tive but still needs much additional work.
+Hope for haemophiliacs
+Another promising case for gene therapy is
+haemophilia, which causes a tendency to bleed
+due to lack of a coagulation factor which is
+made in the liver and then secreted into the
+blood stream. There are two forms of the disease:
+A and B, in each of which a different factor is
+lacking. Attention has been concentrated on
+haemophilia B because the gene responsible for
+the factor (called factor IX) is of manageable
+size; the other is too big for the available vectors.
+Work has been carried out on dogs, which also
+suffer from this form of haemophilia, using a
+retro-viral vector. To replenish the blood with the
+factor two strategies were followed. In one case,
+cells were taken from the animal, either from
+OUR GENES: WHAT 1
+THE MAP SHOWS
+Some locations of mutations discovered
+by scientists
+Neurofibromatosis, Type 2
+Tumours of the auditory nerves
+and tissues surrounding the brain 0
+Down's Syndrome
+Congenital mental deficiency
+condition marked by three copies
+of chromosome 21
+Amyotrophic Lateral Sclerosis* *
+(Lou Gehrig's Disease)
+Fatal degenerative nerve ailment A
+ADA Deficiency
+Severe susceptibility to
+infections. First hereditary .
+condition treated by gene therapy Á
+Familial Hypercholesterolemia
+Extremely high cholestero
+c
+Myotonic Dystrophy i
+Frequent form of adult muscular
+dystrophy
+1
+Amyloidosis 1
+Accumulation In the tissues of an
+insoluble flbrilar protein
+&
+Breast Cancer*
+5% to 10% of cases»
+A
+Polycystic Kidney Disease 1
+Cysts resulting in enlarged kidneys
+and renal failure
+C1
+FROM THE WHOLE TO THE(MICROSCOPIC) PARTS
+The
+human
+body
+contains
+100
+trillion
+cells
+*
+There is a
+nucleus
+inside each
+human cell
+(except red
+blood cells)
+Each nucleus
+contains 46
+chromosomes,
+arranged
+in 23 pairs
+One
+chromosome
+of every pair is
+from each
+parent
+The
+chromosomes
+are filled with
+tightly coiled
+strands of
+DNA
+»3SCCC
+«fgágM»
+Genes are
+segments of
+DNA that
+contain
+instructions to
+make proteins,
+the building
+blocks of life
+<g£
+Tay-Sachs
+Disease
+Fatal
+hereditary
+disorder
+involving lipid
+metabolism
+often
+occurring in
+Ashkenazi
+Jews and
+French
+Canadians
+
+Muscular dystrophy
+(Duchenne and Becker
+types)
+Progressive
+deterioration of the
+muscles
+Haemophilia
+Blood defect
+making it
+difficult to
+control
+haemorrhaglng
+ALD
+(Adrenoleukodystrophy)
+i Nerve disease potrayed
+\ in the film Lorenzo's Oil
+Gaucher's
+Disease
+A chronic enzyme
+deficiency
+occurring
+frequently among
+Ashkenazi Jews
+WHEN CAN WE GET TESTED?
+g DNA test currently available
+I Gene mapped but not yet isolated
+y Diagnosis available through family-
+linkage study of DNA markers
+DNA test under development
+Rfl
+Familial colon cancer*
+)0ne in 200 people has this gene: of those 65% are
+likely to develop the disease
+Retinitis Pigmentosa*
+Progressive degeneration
+of the retina
+Disease
+Neurodegenerative disorder tending to
+strike people in their 40s and 50s.
+Familial Polyposis of the Colon
+Abnormal tissue growths
+frequently leading to cancer
+Haemochromatosis
+Abnormally high
+absorption of iron from
+kthe diet
+Sprirocerebellar
+Ataxia
+Destroys nerves in
+the brain and spinal
+chord, resulting in
+loss of muscle
+control
+Cystic fibrosis
+Mucus fills up the
+lungs, interfering
+with breathing.
+One of the most
+widely prevalent
+genetic diseases
+Multiple Exostoses*
+A disorder of cartilege and
+bone
+Malignant Melanoma
+Tumours originating in the skin
+Multiple Endocrine Neoplasia,
+Type 2
+Tumours in endocrine glands and
+other tissues
+Alzheimer's
+Disease
+Degenerative
+nerve disease
+marked by
+premature
+senility
+Retinoblastoma
+A relatively common tumour of the
+eye, accounting for 2% of childhood
+malignancies
+PKU
+(phenylketonuria)
+An inborn error of metabolism
+that frequently results in
+mental retardation
+Sickle cell anaemia
+Chronic inherited anaemia, primarily affecting
+blacks, in which red blood cells sickle, or
+form crescents, plugging arterioles and
+capillaries
+* One form of the disease
+Source: Time magazine, 17 January 1994 IS
+
+subcutaneous tissue, muscle, or the epidermis,
+grown in vitro, and after introduction of the
+vector, were implanted into the animal, where
+they continued to produce the missing factor for
+many months, and perhaps indefinitely.
+The other strategy was to introduce the same
+vector into the liver. To overcome the difficulty
+that the liver cells do not multiply, one third of
+the liver was surgically removed in order to
+cause a regeneration of the organ, and there¬
+fore cell multiplication. The result was a steady,
+although low, production of the factor, which
+again lasted for a long time, with a satisfactory
+correction of the disease. These results show
+
+
+
+that there is much hope for a long-term control
+of haemophilia through gene therapy.
+A disease targeted for gene therapy since its
+gene was isolated a few years ago is cystic
+fibrosis, in which many types of secreting cells
+are affected, but especially those of the lung
+with accumulation of mucus and limitation of
+oxygen uptake. Results suggest that human gene
+therapy holds promise as a treatment for this dis¬
+ease, especially if it can be done by delivering the
+gene through nebulization, which is very simple.
+Attempts to treat cancer
+Attempts to use gene therapy have been made
+for a number of years in the treatment of cancer,
+which is a genetic disease, although not usually
+transmitted hereditarily. These attempts have
+taken two main directions. One, applied to brain
+Below, model of a DNA
+molecule. Bottom photo, James
+Watson and Francis Crick
+(right), winners of the Nobel
+Prize for Physiology or Medicine
+in 1962. Their discovery of the
+double helix structure of
+deoxyribonucleic acid (DNA)
+was a turning point in the study
+of genetics.
+16
+tumours, is to introduce into the cancer cells a
+vector carrying a gene that converts an anti-
+herpes drug into a cell-killing substance. The
+gene, in a retro-virus vector, is injected into the
+cancer mass, where it is able to perform its
+action because the cells are multiplying, whereas
+it has no effect on normal brain cells, which do
+not multiply. Experiments with cancer trans¬
+planted into mice showed that the tumour was
+destroyed after the mice were injected with the
+anti-herpes drug. The problem in this experi¬
+ment is that the vector only penetrates some of
+the cells so that the remaining cells may start a
+new growth (even though the toxic substance
+produced under the action of the gene can pass
+from one cell to another). Whether this approach
+will be useful in human patients remains to be
+seen; clinical trials are under way.
+The other direction being taken by attempts
+to use gene therapy to treat cancer is to enhance
+the body's defences against the tumour. It is based
+on the idea that, at least in some cases, the body
+recognizes the cancer cells as foreign and should
+react immunologically, causing their destruction.
+This does not happen in the patient because the
+immunological defences are paralyzed. The
+approach is therefore to potentiate the immune
+response, which is attempted in two ways. One
+is to grow the immune cells in vitro in the pres¬
+ence of potentiating factors, and then introduce
+into them the gene for a cell-killing substance,
+after which they are injected back into the patient.
+Preliminary trials in patients with mela¬
+noma a malignant skin tumour using the
+potentiated cells without the introduction of the
+gene have given encouraging results a reduction
+of the skin tumours and of their metastases in the
+lungs. The other approach to potentiating the
+immune response consists in introducing into
+the cancer cells a gene that will cause them to acti¬
+vate the immune cells with which they come in
+contact; once these cells are activated they can
+attack cancer cells at other sites in the body. The
+modified cancer cells thus constitute a kind of vac¬
+cine against the cancer. Experiments in animals
+have yielded promising results.
+Many approaches to gene therapy can be
+applied to hereditary human diseases, and some
+promising results have already been obtained.
+The future is bright for diseases such as adeno¬
+sine deaminase (ADA) deficiency, haemophilia
+and cystic fibrosis, and the prospects are good
+for muscular dystrophy and for some cancers.
+Development of this field is obviously still at a
+very early stage, and improvements will cer¬
+tainly be made in areas such as the mode of
+delivery of the gene to the cells and the isolation
+and growth of suitable cells. There is every
+reason to expect that gene therapy will become
+a powerful weapon in the treatment of diseases
+caused by gene alterations. H

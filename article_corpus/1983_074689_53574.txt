@@ -1,0 +1,521 @@
+The challenge
+of the chip
+by Aleksandr F. Baryshev
+Photo Michel Claude, Unesco
+With its thousands of components, this microprocessor,
+magnified 3.5 times in our photo, controls everything words,
+pictures, graphics, colours, etc. that appears on the screen of
+a modern computer terminal.
+WITH electronic watches and
+pocket calculators at one
+end of the scale, and huge
+computer complexes at the other, it
+has become difficult for us to im¬
+agine a world without semi-con¬
+ductor devices of one kind
+another. Indeed, we might suggest
+that "micro-electronics" is having a
+"macro-impact" on the social and
+economic life of human beings, and
+in two specific domains in particular.
+In the first place, working condi¬
+tions and the actual distribution of
+jobs are undergoing profound
+changes as a result of the process of
+automation. This process began
+some thirty years ago, but although
+	
+ALEKSANDR FEDOROVICH BARYSHEV is
+a Soviet specialist in the application of compu¬
+ter technology to control systems. A member
+of the International Research Institute of Con¬
+trol Sciences, heis the authorofa series ofstu¬
+dies concerning automation, a field in which he
+has also been responsible for a number of
+innovations.
+10
+the problems involved have been
+discussed throughout the interven¬
+ing period, it is only during the last
+few years that their importance and
+urgency have been fully recognized,
+with the appearance on the world
+market of the microprocessor a
+piece of electronic equipment which,
+in fact as well as in theory, is capable
+of taking the control of entire
+manufacturing activities and of many
+service industries out of human
+hands. It is hard to conceive all the
+social and economic implications of
+this development.
+Secondly, microprocessors have
+proved to be by far the most efficient
+instruments from the technological
+and economic points of view alike
+for handling the vast and rapidly in¬
+creasing flow of information, whose
+role in the affairs of the modern world
+cannot be overestimated.
+Before going further, let us recall
+the basic characteristics of the
+microprocessor itself, the most
+precocious child of semiconductor
+technology, whose own rapid
+development has made it possible to
+implant what are known as in¬
+tegrated circuits on tiny (no greater
+than 5x5 mm) slices of silicon, call¬
+ed "chips". Depending on the densi¬
+ty of the circuits, this process is
+known as large-scale or very large-
+scale integration (LSI and VLSI). At
+first, these systems were used for
+memorizing operations, and for cer¬
+tain logical operations. Later, and as
+a result of the increased sophistica¬
+tion of the integrated circuits, it'
+became possible to place on a single
+silicon chip the means of carrying out
+logical, memorizing and input/output
+functions, and of relating these func¬
+tions to each other.
+This breakthrough led to the cre¬
+ation, in 1971, of the first micro¬
+processor, a piece of equipment
+which carries out the functions of
+one of the basic components of a
+conventional computer the central
+
+processing unit, or CPU. In other
+words, the microprocessor is
+capable of deciphering and executing
+the instructions contained in a pro¬
+gramme (which, in a computer, is
+committed to its memory, the se¬
+cond basic component), and of con¬
+trolling the process of acceptance
+and supply of information (the in¬
+put/output component of a com¬
+puter). Infinitely smaller than a con¬
+ventional computer, and consuming
+far less power, the microprocessor,
+when it is connected to appropriate
+external elements, actually becomes
+a "microcomputer".
+The development of micro¬
+processors and microcomputers
+alike is taking place at great speed. If
+the past 30 years have seen the ap¬
+pearance of only four successive
+generations of computers, a fourth-
+generation microprocessor made its
+appearance only eight years after the
+first. This means to say that, at the
+present rate of progress, a new
+generation is emerging every two
+years, to become obsolete after a
+period of three or four years.
+Microprocessors and microcom¬
+puters are playing a significant role in
+the development of many different
+branches of industry. According to
+the Soviet scientist, Academician
+Gury I. Marchuk, microelectronic
+technology will; in the forseeable
+future, have been applied in more
+than 200,000 different devices and
+systems in industry and in the home.
+This is indeed a technological
+revolution!
+Specialists reckon that some 250
+million units and systems incor¬
+porating microprocessors were in
+use throughout the world at the end
+of 1980, and that between five and
+ten thousand million will be in service
+in the year 2000.
+They are being more and more
+widely used in many fields, notably in
+medicine. Microprocessors enable
+sophisticated methods of calculation
+to be perfected, to make more ac¬
+curate diagnoses of illnesses of the
+cardiovascular system and brain ill¬
+nesses, through such processes as
+electrocardiography and tomo¬
+graphy, and to check the patient's
+psychophysiological characteristics.
+They are also used for the continuous
+supervision of patients during the
+post-operatory period, and in the ap¬
+plication of intensive therapy. In this
+way they make it possible to take the
+necessary measures and con¬
+siderably facilitate the work of the
+medical staff.
+Microprocessors also play an im¬
+portant role in the production of con¬
+sumer goods, cars, games and toys,
+apparatus in everyday use, house¬
+hold computers, etc. The number of
+machines of this kind, which stood at
+80 million in 1980, could reach 200
+million in 1984. The application of
+microprocessors and microcom¬
+puters is developing above all in the
+leisure industry and in the automobile
+industry.
+The promise of the microprocessor
+lies in the manner in which it com¬
+bines low cost, size and power con¬
+sumption with high information-
+handling capacity and reliability.
+Thus, for example the first
+microprocessor, "lntel-8008", cost
+$360, whereas an improved version,
+which appeared two years later, cost
+less than $30. Today far more
+sophisticated microprocessors such
+as "Intel 8080" and "Zilog 80" cost
+between 4 and 5 dollars and this
+trend towards reduced costs is
+continuing.
+The format of today's pocket
+calculators is determined by the size
+of the keyboard, and not by the
+printed circuits they contain. Indeed,
+the information-handling capacity of
+such circuits is steadily increasing.
+Between 1975 and 1978, the pack¬
+ing density of a silicon chip measur¬
+ing 1 mm2 grew in a ratio of
+1 :80,000. If this trend is maintained,
+a single chip may well be carrying up
+to 109 electronic elements by the
+mid-1990s, although this will de¬
+pend on the solution of a great
+number of outstanding problems. In
+recent years, the reliability of
+microprocessor circuits has increas¬
+ed three to four times.
+The appearance of micro¬
+processors and microcomputers
+forms part of the phenomenon
+which, in many circles, is called the
+"information revolution", defined by
+the Canadian scientist T.R. Ide as a
+combination of developments in
+telecommunications on the one
+hand, and in computer technology on
+the other.
+In essence, the computer is an "in¬
+formation machine". Information ar¬
+rives from the external environment
+via its input mechanism; the machine
+stores this information, processes it
+according to a predetermined set of
+rules, and then produces the results
+via its output system. In other words,
+the computer establishes a relation
+between different facts, evaluates
+analogies, and carries out other func-
+tions;it interacts with, and helps to
+change, its environment, thereby
+revealing itself capable of replacing
+human intervention in many intellec¬
+tual processes.
+At this point, we might pause to
+consider the biological aspects of the
+development of information. The
+Swiss scientist, B. Fritsch, has sug¬
+gested that the first great quan¬
+titative jump forward in this process
+occurred during the Stone Age,
+when men began to assimilate a
+greater amount of information direct¬
+ly from their immediate surroundings
+(than as a result of transmission from
+generation to generation). The se¬
+cond jump took place some 5,000
+years ago, with the invention of dif¬
+ferent forms of writing, which made
+it possible to store information
+elsewhere than in the human brain;
+the invention of printing was merely
+a qualitative refinement of this
+breakthrough.
+The creation of microprocessors
+may be seen as the third spectacular
+jump as far as the development of in¬
+formation is concerned. Again for the
+first time in history, it has become
+possible to store not only informa¬
+tion, but also intellect.
+When we bear in mind that the first
+of the above three stages covered a
+period of a hundred million years, the
+second several millennia and the
+third only a matter of decades, we
+realize that the entire process of in¬
+formation development is ac¬
+celerating at an almost unbelievable
+rate.
+The "information" content of
+automation is becoming increasingly
+11
+
+^ apparent. In fact, automation is only
+an efficient process when it is back¬
+ed by an economic and well-orga¬
+nized capacity to collect, conserve,
+analyse and transmit information. All
+control systems function on the
+basis of information-handling in the
+sequence: input processing out¬
+put; the role of microprocessors in
+such systems is to furnish the
+capacity to process information in¬
+puts and to devise control operations.
+At the beginning of the 1 960s, the
+famous Soviet mathematician,
+Academician Victor M. Glukhov,
+drew attention to the need to in¬
+troduce automation into control pro¬
+cedures. Under his direction, the first
+project was drawn up for a network
+of State computing centres which
+would be established to reorganize,
+without using paper as a medium,
+the mechanisms of administrative
+and economic management, from
+plant to "Gosplan" level.
+Later, from 1965 to 1970, the
+Soviet Union carried out a pro¬
+gramme of automatized manage¬
+ment at plant level and in various
+ministries. The experience thus ac¬
+quired made it possible to define the
+task of computing centres in the
+State network: they would con¬
+stitute the technical basis of a global
+automatized system for collecting
+and processing management and
+planning information. This is an am¬
+bitious programme which is taking
+more than a decade.
+12
+Recent improvement in radio
+telephony has been a major
+life-saving factor, enabling
+doctors and nurses to in¬
+tervene during the crucial
+early period after a serious ac¬
+cident, a heart attack or other
+emergency. Left, all the
+emergency vehicles of the
+ambulance service of the
+Lithuanian SSR are equipped
+with modern ultra-short wave
+radio telephones.
+Photo WHO, Geneva
+But what of the information itself?
+The current rate of growth of scien¬
+tific and technical information is
+estimated at 12.5 per cent per year.
+In other words, we are faced with a
+paradoxical situation in which men
+are called upon to exercise tighter
+and tighter management over the
+economy, and where the number of
+decisions they must take, based on
+factual information, is increasing ex¬
+ponentially from year to year.
+It is in this context that
+microprocessors and other types of
+microelectronic equipment come in¬
+to their own, as the basis for highly
+cost-effective information systems.
+For example, the total amount of in¬
+formation required to enable a
+university student to complete his
+education may be expressed in 3.1
+x 107 words, incorporating 1.64 x
+108 signs; modern electronics
+makes it possible to store all this in¬
+formation in no more than the
+volume of space occupied by a
+packet of cigarettes.
+Improved accessibility of informa¬
+tion is not only changing the face of
+education. The application of micro¬
+electronics is transforming the pat¬
+tern of job distribution not only
+within individual enterprises, but in
+entire branches of the manufacturing
+and service industries. The propor¬
+tion of research and development
+(R & D) personnel in factories pro¬
+ducing office and management
+equipment has, for example, increas
+ed significantly in recent years. Ac¬
+cording to the Italian scientist Bruno
+Lamborghini, the proportion of the
+employees of one large Italian com¬
+pany engaged in research rose from
+5.6 per cent in 1 970 to 9 per cent in
+1978; during the same period, the
+proportion of production workers fell
+from 45 per cent to 31 per cent.
+Similar trends have been observed
+in a number of Western European
+countries. These changes call for a
+radical modification of educational
+systems. Rapid growth in the ap¬
+plication of microelectronics, the
+rate of renewal of techniques and
+technologies and the increasing out¬
+put of microelectronic products are
+leading to a situation where it is
+essential to relocate large numbers
+of workers, and to train them for new
+tasks.
+In many fields of human activity, a
+thorough renewal of knowledge and
+skills is already required every five or
+six years, and it is possible that this
+period will be considerably reduced
+in the future. Conditions are thus ripe
+for lifelong education a concept
+which Unesco has consistently
+advocated and, in the opinion of
+some specialists, for the incorpora¬
+tion of basic instruction in informa¬
+tion processing and microelectronic
+technology in general education
+programmes.
+It is not surprising, therefore, that
+many scientists and specialists
+throughout the world believe that the
+solution of the problems posed by
+the widespread application of
+microelectronics is closely related to
+the issues of education, science and
+culture. This view was clearly ad¬
+vanced, for example, during the First
+European Conference on the Socio-
+Economic Problems and Potential of
+the Application of Microelectronics
+in the World of Work, held in the
+Netherlands in September 1979 and
+at the meeting of the Club of Rome,
+in Austria, in February 1982.
+Microelectronics opens up qualita¬
+tively new possibilities for individual
+development; but at the same time it
+makes increased demands as far as
+the numbers and skills of scientific
+and technical personnel are concern¬
+ed. The compulsory secondary
+education provided in the Socialist
+countries lays the necessary founda¬
+tion for proceeding to a technical and
+university education, and thus
+seriously addresses the problem of
+creating a completely new type of
+worker one who has received
+higher, specialized education.
+
+In the Socialist countries, the
+changes brought about by microelec¬
+tronics in the world of work have a
+generally positive character,
+although the possibility that they
+may exercise a negative influence on
+certain groups of workers or on cer¬
+tain situations cannot be excluded.
+But, under conditions of full employ¬
+ment, these negative aspects can be
+countered by the reorientation and
+re-education of the workers concern¬
+ed, so that they may apply their
+energies and knowledge more effec¬
+tively in other fields of productive
+activity.
+Study of the social and economic
+consequences of the spread of these
+new technologies forms part of a co¬
+operative programme adopted by the
+Council for Mutual Economic
+Assistance (Comecon), in July 1 982,
+with a view to promoting the
+development of microprocessors and
+their'application in member countries
+over a period extending up to 1990.
+The programme lays emphasis on the
+training and recycling of intermediate
+and high-level technicians in this
+field.
+According to figures from the US
+Bureau of Labor Statistics, automa¬
+tion may, by the end of this century,
+lead to a situation where no more
+than 10 per cent of the country's
+workforce are employed in manufac¬
+turing industry. At present, in a
+number of non-Socialist industrializ¬
+ed countries, the figure ranges bet¬
+ween 35 and 50 per cent.
+The introduction of microelec¬
+tronics poses special problems in the
+developing countries. In so far as the
+development of the appropriate tech¬
+nology demands an impressive
+amount of initial capital investment,
+as well as a firmly established scien¬
+tific and technical infrastructure, it is
+particularly difficult for these coun¬
+tries to carry out their own R&D ac¬
+tivities in the fields of computers and
+telecommunications.
+Furthermore, the development of
+information systems on an interna¬
+tional basis has political, as well as
+economic implications for the
+developing countries. Their govern¬
+ments cannot obtain control over in¬
+formation emanating from locally-
+implanted manufacturing or service
+industries, because the archives and
+data banks in which this information
+is stored are concentrated, as a rule,
+in the hands of transnational corpora¬
+tions, which thereby retain control
+over the information itself.
+The economic implications of the
+problem lie in the fact that informa¬
+tion tends to flow towards centres
+where it can be most effectively and
+economically processed, which
+means, once again, in the direction of
+the transnational corporations.
+As we said at the beginning of this
+article, it is still difficult to present a
+comprehensive picture of all the
+social, economic, organizational,
+scientific and technical problems
+posed by the ever-widening applica¬
+tion of microelectronics and by the
+growth of microelectronic infor¬
+mation-handling capacities. Never¬
+theless, it is certainly not too early to
+consider, with every justification for
+doing so, that the development of
+the microprocessor may well go
+down in history as the world's fourth
+industrial revolution.
+I Aleksandr F. Baryshev
+Photo B. Oumaikin © APN, Moscow
+The robot workshop of the machine-tool factory at Krasnodar, on the
+Kuban River, one of the principal robot producers of the Soviet Union.
+13

@@ -1,0 +1,199 @@
+The end of privacy in the digital age? 
+Work by Cuban cartoonist Falco.
+© Falco / Cartoon Movement
+
+
+
+Working for,
+not against, humanity
+Tee Wee Ang and Dafna Feinholz 
+(UNESCO)
+As we head inexorably towards 
+an automated future and the 
+almost infinite possibilities of 
+artificial intelligence (AI), it is 
+imperative that we identify 
+the ethical implications of this 
+emerging technology and 
+address the unprecedented 
+legal and social challenges 
+that arise.
+Never-ending 
+data collection
+Machine learning and deep learning 
+approaches require a large amount 
+of historical and real-time data for 
+an AI-enabled system to “learn” from 
+“experience”, and an infrastructure for 
+an AI to implement its goals or tasks, 
+based on what it has learnt. This means 
+that when we consider the ethical 
+implications of AI, we must also take 
+into account the complex technological 
+environment that is required for AI to 
+function. This environment includes the 
+constant collection of big data through 
+the Internet of Things; the storage of 
+big data in the cloud; the use of big 
+data by AI for its “learning” process; and 
+the implementation of AI’s analyses or 
+tasks through smart cities, autonomous 
+vehicles, or robotic devices, etc.
+When we think about the ethical 
+implications of AI, we should be realistic 
+about what AI is and is not, today. 
+Generally, when we talk about AI we are 
+referring to “narrow AI” or “weak AI”, which 
+is designed to accomplish a specific task 
+− such as analysing and improving traffic 
+flow; making online recommendations of 
+products, based on previous purchases, 
+etc. Such “narrow AI” is already here − and 
+will become increasingly complex and 
+integrated into our daily lives. 
+For now, we are not considering what is 
+termed “strong AI” or Artificial General 
+Intelligence (AGI) depicted in many 
+science-fiction stories and movies − 
+which would purportedly be able to 
+accomplish the full range of human 
+cognitive tasks, and some experts 
+argue, would even include traits of 
+“self-awareness” and “consciousness”. 
+Currently, there is no consensus on 
+whether AGI is feasible, let alone when it 
+will be achieved.
+Every once in a while, we encounter 
+a technology that gives us pause to 
+consider what it means to be human. 
+The advent of AI requires us to engage 
+in deep reflection on its potentially far-
+reaching impacts. Although the concept 
+behind this technology has been in our 
+collective imagination for decades, it is 
+only now becoming an entrenched reality 
+in our lives. 
+Recent advances in AI technology − 
+especially those related to machine 
+learning in general and deep learning in 
+particular − have shown that AI-enabled 
+systems can outperform humans in 
+terms of efficiency and effectiveness in 
+many areas, including tasks that require 
+some degree of cognitive reasoning. 
+As such, AI has the potential to bring 
+about tremendous progress and benefits 
+for humanity, while at the same time 
+creating disruptions in the current socio-
+economic and political arrangements of 
+human society.
+
+The more complex technological 
+development becomes, the more 
+complex the ethical questions raised 
+will be. While the ethical principles 
+do not change, the ways in which we 
+address them can change radically. 
+As a result, these principles could be 
+severely compromised, knowingly 
+or unknowingly. 
+Our notions of privacy, confidentiality 
+and autonomy, for example, could 
+change radically. Through smart devices 
+and apps that have become instruments 
+of social networks like Facebook and 
+Twitter, we are “freely” and willingly 
+giving out our personal information, 
+without properly understanding 
+the potential uses of this data and 
+by whom. This data is then fed into 
+AI-enabled systems that are primarily 
+being developed by the private sector. 
+This data is not anonymized, so that the 
+information about our preferences and 
+habits can be used to create patterns 
+for behaviour that allow an AI-enabled 
+system to deliver political messages, sell 
+commercial apps, keep track of some of 
+our health-related activities, etc. 
+The best and the worst 
+Would this mean the end of privacy? 
+What about data security and 
+vulnerability to hacking by criminals? 
+Could this data also be co-opted by the 
+State to control its population, perhaps 
+to the detriment of the individual’s 
+human rights? Would an AI-enabled 
+environment that constantly monitors 
+our preferences and provides us with 
+a range of options based on those 
+preferences, limit the extent of our 
+autonomy of choice and creativity in 
+some way?
+Another important question to consider 
+is whether the data that is being used by 
+an AI-enabled system to learn contains 
+embedded biases or prejudices, which 
+might lead the AI to make decisions that 
+result in discrimination or stigmatization. 
+AI systems tasked with social 
+interactions or the delivery of social 
+services would be particularly vulnerable 
+to this. We must be cognisant of the fact 
+that some data, such as that generated 
+on the internet, contains information 
+that reflects both the best and the worst 
+of humanity. Therefore, relying on an AI-
+enabled system to learn from this data 
+is itself insufficient to ensure an ethical 
+outcome – direct human intervention 
+would be necessary.
+Could an AI-enabled system be taught to 
+be ethical? Some philosophers argue that 
+some experiences – such as aesthetics 
+and ethics – are inherent to human 
+beings, so they cannot be programmed. 
+Others propose that morality can 
+be enhanced through rationality, 
+and therefore can be programmed, 
+but free choice must be respected. 
+Geminoid F and anonymous model, an 
+installation by American photographer 
+and director, Max Aguilera-Hellweg.
+
+There is currently no consensus about 
+whether ethics and morality can be 
+taught even to humans, based only on 
+rational thinking, let alone to an AI. Even 
+if an AI was eventually programmed to 
+be ethical, whose ethics would we use? 
+Would they only be the ethics of the 
+developers? Given that the development 
+of AI is primarily driven by the private 
+sector, it is imperative to consider the 
+possibility that the ethics of the private 
+sector could be inconsistent with the 
+ethics of society.
+If we are to ensure that AI works for, 
+instead of against us, we must engage in 
+a comprehensive dialogue that includes 
+the different ethical perspectives of 
+everybody affected by it. We must make 
+sure that the ethical framework we use 
+to develop AI also takes into account the 
+larger questions of social responsibility, 
+to counterbalance the potential 
+disruptions to human society.
+Programme Specialist, Bioethics 
+and Ethics of Science at UNESCO, 
+Tee Wee Ang (Malaysia) worked in 
+design engineering and engineering 
+management before joining UNESCO 
+in 2005.
+Chief of Section, Bioethics and Ethics 
+of Science at UNESCO, Dafna Feinholz 
+(Mexico) is a psychologist and 
+bioethicist by training. She was formerly 
+Secretary General of Mexico’s National 
+Commission of Bioethics. 
+

@@ -1,0 +1,139 @@
+SATELLITES
+Satellite earth station near Caracas,
+Venezuela, for the transmission and recep¬
+tion of television pictures, telephone and
+telex communications.
+Photo ITU, Geneva
+
+
+
+The sky's the limit
+OF all the applications of space
+technology, satellite com¬
+munications is the most widely
+used. First utilized for intercontinental
+communication, satellites are now used
+primarily for international communica¬
+tion. However, they are also being used
+by a growing number of countries for
+domestic communication.
+Satellites for international communica¬
+tion are operated by INTELSAT (Interna¬
+tional Telecommunications Satellite
+Organization), EUTELSAT (European
+Telecommunications Satellite Organiza¬
+tion) and INTERSPUTNIK (International
+System and Organization of Space Com¬
+munications). A global maritime com¬
+munication system, INMARSAT (Interna¬
+tional Maritime Satellite Organization),
+went into operation early in 1 982. Some
+countries have their own operational
+domestic satellite communication sys¬
+tems (Canada, India, Indonesia, USA and
+USSR); many others have plans to set up
+such systems soon.
+A communication satellite is simply a
+wholly self-contained electronic switch¬
+board in orbit around the Earth. There is
+one particular orbit, 35,800 kilometres
+above the Earth's equator, in which a
+satellite travels at a speed which keeps
+pace exactly with the Earth's rotation. To
+an observer standing on the equator a
+satellite in this "geostationary orbit"
+therefore appears to remain fixed in the
+sky directly overhead. By the use of pro¬
+perly designed antennas and electronic
+This text is based largely on a UN brochure on
+The Use of Outer Space for the Solution of
+Earth-bound Problems, published for Unispace
+82, the Second United Nations Conference on
+the Exploration and Peaceful Uses of Space,
+held in Vienna, August 1982.
+30
+communication equipment, such a sat¬
+ellite can be used to relay telephone,
+television, numerical data and facsimiles
+between any two points on Earth which
+can "see" the satellite. Since each
+satellite can be seen from over a third of
+the Earth's surface, such satellites can
+provide a complete global communica¬
+tions network, ablento link any two
+"ground stations" with each other.
+In the early days of space flight,
+satellites were severely limited in mass
+(and therefore in capability) by the
+rockets used to launch them into space.
+The ground stations needed to interact
+with these satellites were therefore big,
+complex and expensive. With the advent
+of modern, high-performance rocket
+launchers and, perhaps even more impor¬
+tant, the development of microelectronic
+circuitry, communication satellites today
+not only can handle thousands of
+simultaneous telephone calls and many
+television programmes, but also can
+transmit to and receive from relatively
+small, inexpensive Earth stations. This
+development, called "complexity inver¬
+sion" because the most complex equip¬
+ment has moved from the ground into the
+sky, is of considerable importance to the
+developing nations, who now have ac¬
+cess to the global INTELSAT network at
+relatively low cost. It is far easier,
+therefore, for a developing nation to build
+low-cost ground stations and use the in¬
+expensive satellite network circuit than
+to build a complete infrastructure of
+ground-based, hard-wire and microwave
+communication systems over their often
+difficult terrain.
+As a result of the rapid development in
+satellite communication technology and
+the complexity inversion that went along
+with it, the per-channel cost of com¬
+munications has decreased dramatically,
+even in the face of worldwide inflation.
+But despite the low per-channel cost
+and the availability of inexpensive earth
+stations, the capital costs associated
+with the setting up of a satellite com¬
+munications system are still substantial
+for many developing countries.
+Communication plays a key role in
+development, to the extent that it
+transfers information, data and ideas. It
+is one of the principal elements in social
+advancement and economic develop¬
+ment. It is therefore desirable that
+developing countries examine in detail
+the importance of satellite communica¬
+tion (especially to and from rural areas) as
+an integral element of their development.
+In rural communications, for example,
+the need is generally for only a small
+number of channels. However, most ex¬
+isting satellite systems are not designed
+for this application; instead, they are in¬
+tended to carry the high-density, inter¬
+city traffic, and therefore their use for
+rural communication is "sub-optimal".
+For promoting rural communication, it is
+thus necessary that systems be specially
+designed to receive low-power signals,
+to transmit concentrated beams at high
+power, and to provide on-board signal ,
+regeneration and switching whenever
+feasible. Further,, ground terminals
+should be as inexpensive as possible and
+be capable of operating from standard
+batteries. Current developments in
+enhancing satellite on-board capability
+are leading in this direction; inexpensive
+ground stations as small as wrist-
+watches appear to be possible in the near
+future.

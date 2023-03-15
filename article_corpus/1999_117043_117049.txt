@@ -1,0 +1,107 @@
+F rom DNA to Dolly
+Genetics in three easy lessons
+Ewe A
+Ewe B
+Ewe C
+Dolly, clone of ewe A
+Take a donor cell
+from the animal
+to be cloned Only keep
+the nucleus Introduce the
+nucleus into the
+egg cell
+The embryo is implanted into
+surrogate mother
+for gestation
+Remove
+the nucleus
+Take an
+unfertilized
+egg cell
+1. What is a gene?
+The nucleus DNA
+When the cell divides,
+fragments of DNA join into
+23 pairs of chromosomesDNA
+G C T A
+C G A T
+G C T A
+C G A T
+G
+C
+The cell
+A gene
+2. The making of Dolly
+
+1 Our bodies are made up of cells, each contai-
+ning a nucleus of DNA (Deox y ri b o n u c l e i c
+a c i d ) .This huge molecule resembles a sort of spi-
+ral ladder,a double helix whose parts twist and ove r-
+l a p. It is divided between 23 pairs of complemen-
+t a ry chromosomes—one inherited from the fat h e r
+and one from the mother in each pair.
+This DNA “ s p i r a l ” contains about three billion
+“bar codes”, which consist of four different bases—
+adenine (A in red), t hymine (T in blue),cytosine (C
+in green) and guanine (G in ye l l ow)—which are
+a lways linked with each other in the same way as base
+p a i rs (A with T and C with G).
+About 95 per cent of the DNA in the nucleus has
+no known function, while the remaining 5 per cent
+contains some 100,000 genes. Pieces of DNA, w h i c h
+are so minute that they cannot be seen by a micro-
+s c o p e , are composed of several thousands of “ b a r
+c o d e s ” .The way the four base-pairs are strung toge-
+ther is a sort of coded message: by interpreting this
+c o d e , and switching particular genes on and off, t h e
+cells manufacture the proteins which make us what
+we are.
+2 There are several methods of cloning. B u t
+until the birth of the cloned sheep, D o l l y, i n
+July 1996, it was necessary to use test-tube embryo s
+d e ri ved from an encounter between an egg and a
+s p e rm at o z o i d .The embryos were divided in two
+and each half implanted inside a surrogate mother
+to obtain two clones.The creation of Dolly was revo-
+l u t i o n a ry because it did not require using a “ n o r-
+m a l ” e m b ryo (one made by an egg and a sperm ) .
+The famous sheep of the 1990s was born from the
+“ m a rri a g e ” of an egg cell from which the nucleus
+had been removed and an adult cell taken from the
+sheep to be cloned.
+3 More than 4,000 genetic diseases are res-
+ponsible for a third of all infant deaths in the
+d e veloped countri e s.When “ d e f e c t i ve ” genes are
+s p o t t e d , an attempt to “ r e p a i r ” them can be made
+using genetic engi n e e ri n g . Still in its infa n cy, t h i s
+technique invo l ves injecting “ h e a l t hy ” genes into
+diseased cells. But because of the minute size of cells
+and genes, it is impossible to do this “by hand” l i k e
+in a normal surgical operat i o n . So scientists use ve c-
+tors—deactivated viruses or retroviruses (a special
+kind of viru s ) .These carri e rs of “ g o o d ” genes can
+p e n e t r ate the targeted cells of the patient by them-
+s e l ve s. But howe ver promising these techniques may
+be for the future, none is effective in treating disease
+at present.
+3. Correcting a genetic anomaly
+“Defective”gene Therapeutic gene
+Therapeutic gene
+Therapeutic gene
+Gene of the retrovirus
+Cell
+DNA of the cell
+Vector
+DNA of the cell
+Nucleus
+Implant the therapeutic gene in a vector
+(retrovirus, virus or liposome)
+Introduce the vector into the “defective”cell
+a.If the vector is a retrovirus
+The DNA of the defective cell
+recombines with the DNA of the virus
+carrying the therapeutic gene
+b. If the vector is a virus or a
+liposome
+The therapeutic gene neutralizes the
+sick gene from a distance

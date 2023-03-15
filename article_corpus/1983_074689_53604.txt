@@ -1,0 +1,78 @@
+Communicating
+with glass
+and light
+OPTICAL fibres, hair-thin strands of
+pure glass carrying information
+as pulses of light, have been
+described as "probably the biggest
+breakthrough Nn telecommunications
+since the invention of the telephone". All
+kinds of communications can be carried
+along the same optical fibre cable-
+speech, text, photos, drawings, music,
+computer data, etc. at higher speeds
+than have been previously possible.
+The fibres, made from glass so pure
+that a block of it 20 km thick would
+theoretically be as transparent as a win¬
+dow pane, have many advantages over
+metal wires. Small, light and easy to han¬
+dle, they are made from an abundant raw
+material, sand. They can carry the same
+number of telephone calls as metal
+cables ten times as thick dozens of
+fibres, carrying around 100,000
+telephone calls, could all pass through
+the eye of a needle at the same time
+and they are immune to electrical in¬
+terference which affects the quality of
+calls. An optical fibre cable the thickness
+of a finger could bring a hundred TV
+channels to a receiver.
+The tiny strands are playing a key role
+in the digital revolution which is sweep¬
+ing through modern telecommunica¬
+tions. The telecommunications network
+developed for the telephone used a
+system which turned the air pressure
+waves created by speech into con¬
+tinuous and variable "analogues" of
+electrical waves and turned them back to
+speech at the receiver. Expensive con¬
+version equipment or separate networks
+were needed to handle text, TV or com¬
+puter data. In the digital world, however,
+all forms of information are translated in¬
+to bits, the standard internal language of
+today's computers (see page 14), and
+represented as pulses of light. Informa¬
+tion in this form can be processed easily
+and sent anywhere in seconds in a single
+multi-purpose network. Optical fibres are
+ideal for digital working and open the
+door to a host of services not possible on
+an analogue system.
+Each strand of fibre consists of an inner
+core to channel the light and an outer
+cladding to keep it in by reflecting it back
+along the core. To make the glass for the
+fibres, the ingredients are deposited as
+gases on the inside of a hollow silica tube
+at temperatures of around 2000°C. The
+tube is collapsed under intense heat to
+form a solid glass rod about 1 cm in
+diameter which already has the structure
+of the fibre which will be drawn from it.
+The rod is then loaded into a furnace,
+drawn into fibre and coated with a resin
+to protect it and increase its flexibility.
+Tiny crystals the size of a grain of salt are
+used to produce the light which carries
+information along the fibres. This passes
+through a lens into the fibre. At the other
+end a receiver reverses the process and
+turns each light pulse into an electrical
+signal. Optical fibres will have countless
+applications in tomorrow's "information
+society".
+17

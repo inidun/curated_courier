@@ -1,0 +1,260 @@
+WHAT TIME IS IT?
+A fictitious sun gives us the answer
+by David Gunston
+Since the very earliest times man has always been
+aware of the passing of time. It is something
+fundamental in life which, like space, we feel we
+understand but cannot easily define. Pulse beats, the
+movements of sun and moon, day and night, the tides, the
+changing seasons, youth and age all these gave even
+primitive man this feeling of time's existence.
+But although as we know from the evidence of the first
+sundials and the Egyptian water-clocks, he has long been
+interested in measuring the passage of time, human life
+got by quite well for many centuries without feeling the
+necessity of having a standard universal time. Cave men
+adjusted their lives according to the sun's movements, and
+so, basically, did civilized people until after the middle of
+the last century. Local time was all that mattered to the
+vast majority of the human race long after the perfection
+of mechanical timekeeping.
+It was the development of railroad communications in
+North America that really led to the adoption of the
+universally recognized time system we know today. In
+Europe, English trains began to run to Greenwich time,
+French trains to Paris time, German trains to Berlin time.
+Local communities kept to their own mean sun time, and
+for a while it all worked fairly well.
+But it was hardly to be expected that railroads extend¬
+ing their services over the Middle and Far West would
+adopt Washington time, which frequently differed by
+several hours from the local time of the regions they
+served. Owing to the vast E-W size of the American
+Continent the moment at which the sun appeared to pass
+immediately overhead at the meridian (noon) differed
+considerably in places of different longitude. So railroads
+in the United States actually started their own time, o
+with the longer lines, their own time zones.
+As the system grew and more folk wanted to travel, this
+of course led to much confusion, especially at change-over
+stations, and it became obvious that a better solution
+would have to be found. The whole question of a
+standardized time-keeping system was discussed in
+conferences by the principal countries of the world during
+the years 1870-1880. Thanks primarily to scientists Char¬
+les F. DOwd in America and Sandford Fleming in Canada,
+a workable scheme was put forward and, after much
+debating, was finally adopted by the railroad companies
+of North America and eventually, in 1883-1884, by almost
+the entire civilized globe.
+Stepping over a line
+makes today tomorrow
+The idea, like most good ones, was basically simple.
+There were to be accepted for the whole earth 24
+standard meridians each 15° apart in longitude, for
+this purpose a meridian being taken to be an imaginary
+line circling the earth and passing through the poles. The
+prime meridian (0°), from which these were to be calculat¬
+ed was, by arbitrary agreement, that running through
+Greenwich, on the eastern fringe of London. Greenwich
+was partly chosen by Way of international recognition of
+the importance of its famous Royal Observatory's contri¬
+butions to astronomy and nautical science since its foun¬
+dation by King Charles II in 1675.
+Each longitudinal meridian was to be the centre of the
+one of the 24 fixed time zones each changing by one hour
+in passing to the next, back for westward from Greenwich,
+on for eastward. This also meant that at longitude 180° E.
+longitude 180° W. was also found, and so arose what is
+now known as the International Date Line and the
+convention of jumping a whole day of 24 hours when this
+point is crossed, gaining it in one direction and losing It
+in another. In practice, today, the Date Line does not
+keep strictly to, the meridian, but curves round the
+Aleutian Islands and Fiji to enable the people of these,
+and neighbouring islands, to have the same day.
+The advantages of this standard system were
+immediately obvious and now almost everywhere zone time
+based on Greenwich Mean Time (G.M.T.) is the rule.
+G.M.T. is kept all over Britain, and other countries have
+long adopted time zones corresponding to the selected
+meridians. Thus much of Europe keeps to Continental
+Time, 1 hour fast on Greenwich, while in North America
+the five time zones are used Atlantic, Eastern, Central,
+Mountain and Pacific, respectively 4, 5, 6, 7 and 8 hours
+behind G.M.T. If New York preferred to adopt G.M.T.,
+the sun would not be overhead until 5 p.m. Thus the
+system of "'five hours back" is the answer. Certainly it
+is infinitely better than the chaos of 80 years ago, when
+there were almost as many time meridians as there were
+railroad companies.
+Modern time begins
+at the G in G. M.T.
+So, in the strictly practical sense, Greenwich is the place
+where modern time begins. In point of fact, the Royal
+Observatory has now moved to the village of Hurst-
+monceux (pronounced Hurst-roon-soo) near Eastbourne,
+Sussex, on the South Coast of England, but as this place
+is close to the Greenwich meridian and allowance is made
+for the difference, the change in no way affects the
+validity of Greenwich Mean Time.
+So far, however, we have been concerned with what is
+termed the mean solar day based upon arbitrary
+meridians. This would be completely accurate and useful
+if the earth and the sun were bodies rigidly accurate in
+their motions. But things are not quite so easy as that.
+The earth itself is tilted on its axis at an angle of 23 i °
+from vertical, and its path round the sun is elliptical, not
+circular. What, then, are the basic concepts for the
+measurement of time?
+All our sense of time is bound up with some movement,
+whether it be the sun in the sky or the hands on the face
+of a clock. But movement requires space, so it is evident
+at once that time and space are closely related, though
+of course if measuring time is one thing, defining it
+precisely is quite another. Indeed, the world's meta¬
+physicians are still not entirely agreed upon a definition
+of time, which may therefore be long delayed.
+CONTINUED ON NEXT PAGE
+
+WHAT TIME IS IT?
+(Continued)
+On the scientific level, however, all our measurements
+of time depend primarily on the movement of the earth
+spinning round on its axis, and round the sun the first
+enabling us to count off successive days, the second
+successive years. Thus we see clearly why time-measuring
+has always been an important part of practical astronomy.
+Why, in fact, what we call "'the right time" is originally
+given to the world by observatories and not by railroad
+stations or shipping offices.
+To tell the time of day We need first of all a moment
+at which we consider each day to begin. Whereas for
+civil purposes in our daily lives this point is taken to be
+midnight, the natural day commences at noon that is,
+when the sun crosses the meridian. But the intervals
+between successive noons throughout the year as measur¬
+ed by this method are far from equal, because of the
+eccentricities of the earth's behaviour in space. The
+daily errors mount up, and clocks set solely by the sun
+would be hours wrong within months. The sun is, in fact,
+not a particularly good timekeeper.
+If instead of using the sun we measure time by the
+apparent daytime movement of the stars no such
+inequalities are noticeable. Star time, thus obtained, is
+called Sidereal Time and for strictly scientific use, as in
+astronomy, it is the only true time. Why should this be
+so? When compared with our sun the stars are infinitely
+distant, and even when the earth moves round the sun
+for say six months to occupy a position in space which has
+changed by nearly 200 million miles, the apparent position
+to us of the stars has changed only by amounts too
+inflnitesimally small to affect earthly calculations to any
+important degree.
+So, aware of these basic errors in solar time, the system
+of Mean Time had to be introduced, which is based on
+the movements of a fictitious sun which gives us every
+day of exactly the same length and equal to the apparent
+length of the solar day. Mean Time can best be defined
+by the going of a perfect clock which is so set that, in
+the average (mean) of the whole year, it shall be as much
+ahead of solar time as behind it.
+Most accurate 'clock' gains
+twelve hours in six months
+The greatest difference between clock and sun would
+then be about 16 minutes, occurring in one direction
+early in November and in the other about the middle
+of February. This vital difference is called the Equation
+of Time, and it represents (from a highly accurate
+astronomical point of view, only roughly) the difference
+between apparent solar time and G.M.T. This data is
+given for each day in Nautical and Domestic Almanacs,
+thus enabling domestic clocks and ship's chronometers to
+be set by the sun. Wherever reasonably exact time is of
+importance, a similar system to this is in use.
+For the astronomer, Sidereal Time is of the utmost
+importance. He reads it by measuring the daily motion
+of that point in the equator from which the true right
+ascension of the stars is reckoned what he calls the
+vernal equinox. Two upper transits of this over the same
+meridian determine a sidereal day, which is actually
+shorter than a mean solar day:
+1 Mean Solar Day = 24 hrs. 3 mins. 56.5554 seconds,
+sidereal time.
+1 Sidereal Day = 23 hrs. 56 mins. 4.091 seconds, mean
+solar time.
+When he is about to make time observations the
+12
+astronomer sets his telescope at the proper angle to watch
+the passage of the star across the meridian. His instru¬
+ment has between 5 and 11 spider-lines ruled across its
+glass, the centre one set on the meridian. He records
+on a chronograph, or highly precise stop-watch, the star's
+transit over each line by interrupting his electric circuit
+with a hand-held key, which itself is connected
+electrically to the chronograph and on which a break-
+circuit chronometer is making a continuous record. The
+chronograph sheet can afterwards easily be interpreted,
+and Sidereal Time calculated. A sidereal clock, however,
+is useless for ordinary day-to-day timekeeping, since it
+gains 12 hours on an ordinary clock in 6 months.
+Ordinarily speaking, we must still live our lives by the
+sun, getting up around sunrise and going to bed when
+darkness has fallen. So we must have a practical system
+based on the sun, and the thing works better if we
+replace the unreliable real sun by this imaginary (mean)
+sun, which crosses the meridian at uniform intervals and
+goes round the equator at a fixed rate adjusted so that
+the real sun and itself each take exactly one year to make
+the circuit.
+Quartz crystal clock keeps
+time to 1/ 1,000th of a second
+This man-devised compromise brings us back to Green¬
+wich and its long-proved Mean Time, which is actual¬
+ly the Greenwich Hour Angle of the mean sun, plus
+12 hours to make the day begin at midnight. And as such
+it meets all the needs of the ordinary world though of
+course under zone time systems the true (sun) time is
+applicable only exactly on the meridians, which however
+causes little inconvenience in practice.
+The famous old Royal Observatory at Greenwich
+suffered some bomb damage in World War H, but it was
+moved from London chiefly because that city's brilliant
+street-lighting (unknown in Charles II's day) had made
+night-sky observations and long-exposure photography
+practically impossible. The move to Hurstmonceux Castle,
+"the most perfect example of the mansion of a feudal lord
+in the South of England," and built in 1446, is now almost
+complete, but the new Observatory still retains its ancient
+description of Royal Greenwich Observatory.
+Six telescope domes one for the new 100-inch "Isaac
+Newton" and modern office blocks now ring the Tudor
+turrets, but all the old work of time-keeping and
+astronomical observation continues and is expanding in
+ideal surroundings and with up-to-date equipment. The
+well-known Greenwich Time Signal, or "pips," is still
+broadcast to the world every 15 mins. from an astronomical
+"Regulator" radio clock governed by a quartz crystal clock.
+This is constantly checked and compared with the time
+signals of Paris and elsewhere, so that it and all the
+Observatory clocks keep time to within l/l,000th of a
+second per day.
+Before the telegraph was invented, observatories gave
+their time signals by bell-ringing, whistle-blowing and the
+dropping of elevated time-ball signals on their towers,
+but nowadays G.M.T. is relayed by radio continuously all
+over the globe for the benefit of other observatories, radio
+stations, ships and aircraft. Any individual or traveller
+with suitable radio receiving equipment can receive a time-
+signal over the ether correct to within l/100th of a second,
+but in general it is the ordinary broadcasting stations
+which perform the most public service by regularly issuing
+time checks. The U.S. Navy Observatory at Georgetown
+Heights, Washington, however, accepts no responsibility
+for tirrie signals other than its own, and every day at noon
+still uses a time-ball, as well as automatically correcting
+all the clocks in the Government Buildings there.
+As you will have seen, time-keeping is a trickier business
+than it at first seems, but it has now been perfected as
+much as is humanly possible. It's not often science's
+fault' if you are late for an appointment!

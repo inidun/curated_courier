@@ -1,0 +1,474 @@
+T IM BERNERS - L EE :
+T HE WEB’S BRA INCHIL D
+A staunch idealist, the British inventor of the World Wide Web is worth more than his weight
+in gold. Tim Berners-Lee has shunned opportunities in the private sector to captain an
+international consortium grouping the Web’s who’s who. His foremost goal: to keep on
+improving the Web for the common good.
+How do you account for the Web’s formidable
+growth in the last 10 years?
+The Web initially spread because of exis-
+ting Internet infrastructure set up during the
+1970s. By the time I had the idea for the
+Web at the end of the 80s, computers in
+m a ny unive rsities and institutes in the
+United States and in Europe were already
+connected to each other by cables exchan-
+ging inform at i o n . So you have to gi ve credit
+to those pioneers who put together such a
+network before the Web’s arrival.
+The Web spread fast because it wa s
+decentralized and no one was controlling its
+growth.The fact that anybody can start a
+server or run a browser,without having to
+register with any central authority, is what
+a l l owed it to gr ow rapidly.There were enthu-
+siasts all over the world who realized what
+the world could be with the Web and
+directed their efforts at developing it.
+Also the Web’s openness is a powerful
+at t r a c t i o n . E ve ryone can not only read
+what’s on the Web but can also contribute
+to it. Everybody is in a sense equal.This
+sense of boundless opportunity also led to
+its remarkable growth.
+Does the Web stand to benefit those traditionally
+on the margins of technological innovation?
+It is obvious that the present imbalance
+in society is unhealthy for the whole wo r l d .
+But do not look to innovations alone for sol-
+
+ving global issues. It is for people to make
+decisions on how to manage themselve s
+and it requires a lot of effort on all sides to
+s o l ve va rious problems. We ’ ve had many
+tools in the past and Internet can be another
+tool in addressing those challenges.
+The basic idea of the Web is that it is an
+i n f o rm ation space through which people
+can communicate, but communicate in a
+special way, by sharing their knowledge in
+a pool.The Web is more of a social creat i o n
+than a technical one. It has not changed any-
+thing fundamentally in the way human
+beings think, read and communicate with
+each other. It has gi ven people gr e at e r
+choice than ever before by simply prov i-
+ding information. Advantages of the Web
+range from enhanced collaboration bet-
+ween people in different countries to reading
+a newspaper sitting in a remote village.
+Though the Web has gi ven us many
+c h o i c e s , we still don’t know how to use
+those choices to our advantage. I hope the
+fact that each individual has more choice
+now will give us greater power to reformu-
+late our society.
+In your book Weaving the Web, you talk
+about the danger of the Web being controlled
+by a select group of companies or commercial
+deeds blocking its growth. What would the
+consequences be?
+The danger is when large companies
+t h at sell computers and software effective l y
+s t a rt to control what inform ation you receive
+on the Intern e t . Companies which offer free
+c o m p u t e rs or Web brow s e rs could prevent a
+user from utilizing or accessing progr a m m e s
+of their commercial  competitors. E ve n
+Internet Service Providers (ISPs) can have
+commercial deals with certain Web sites,
+making them easier to access than other
+sites.This is already starting to happen.
+On the one hand, people feel it’s reaso-
+nable for a company to influence yo u r
+I n t e rnet access if they provide you with
+free computers and software progr a m m e s.
+But on the other, it’s really important that
+the right of the individual to access unbiased
+i n f o rm ation be upheld.The point is that one
+should not masquerade the other.
+I’m not sure to what extent people rea-
+lize or can measure whether their at t e m p t s
+to access different websites are being
+affected by commercial concerns. It’s also
+ve ry difficult to find a balance between the
+right of a company to offer a service which
+is subsidized and the right of somebody to
+h ave unbiased access.We have yet to find a
+good social arrangement
+Another danger is that if a company
+establishes a monopoly, it will start making
+arbitrary changes to universally accepted
+Web standards.This would force competi-
+t o rs to concentrate their efforts on mat-
+ching these rather than coming out with
+new, bright ideas to improve the product.
+This would affect the Web’s overall deve-
+lopment.
+The Web has allowed a much greater flow of
+information which some countries are seeking
+to regulate and control. How do you react to
+this?
+I know that some countries are contem-
+plating or attempting to control informa-
+tion available to individuals on the Intern e t .
+My feeling is that it is ve ry difficult to
+a c h i e ve because the Internet allows infor-
+m ation to flow in many different way s.Yo u
+are only a small hole in this vast system. I n
+a way, controlling or regulating inform at i o n
+is bad for the relationship between a
+g ove rnment and the people and, in the
+long term,for the stability of the country.
+There have also been calls for wides-
+pread censorship on the net. But in most of
+the Western world, censorship is a deroga-
+tory term for one body trying to control
+what information another body has access
+t o. H owe ve r , there is a gr owing recogni-
+tion that parents have the right and the
+duty to protect their children from viewing
+undesirable sites.This led our Web Consor-
+tium to develop systems like the Platform
+for Internet Content Selection (PICS) that
+enables adults to control children’s access
+to different websites.
+The large number of filtering software
+tools on the market are more effective than
+g ove rnment censors h i p.A nat i o n ’s laws can
+r e s t rict content only in that country bu t
+fil t e rs can block content no matter where it
+comes from on the Web. Fundamentally, it
+is for the people to determine the type of
+social mechanisms and regulations that will
+benefit society.
+There have been rising concerns over surfers’
+privacy. How is this being tackled?
+P ri va cy invo l ves the ability of each
+CI T IZ EN TIM
+In a field churning out dot.com millionaires
+e v e ry other week, Tim Berners-Lee stands in a
+league apart. The London-born and ra i s e d
+B e r n e r s - Lee could easily have become one of the
+world’s wealthiest men by commercializing his
+invention. Instead, he chose to focus his efforts
+on improving and universalizing the We b .
+A physics graduate from Oxford University ,
+B e r n e r s - Lee started working for the Geneva-
+based CERN (European Particle Physics
+L a b o ra t o ry) in 1980 where he wrote a
+p r o g ramme called E n q u i re that could store and
+r e call information based on random associations.
+That set the tone for the future development
+o f the World Wide Web, which he invented in
+l a t e 19 9 0 .
+B e r n e r s - Lee wrote the HTML (HyperTe x t
+Markup Language) establishing links with other
+documents in a computer and designed an
+addressing scheme that gave each web page a
+unique location, or URL (Universal Resource
+Lo cator). Then he developed a set of rules ca l l e d
+H TTP (Hypertext Transfer Protocol) for
+t ransferring information across the Net. In 19 91,
+he made the programmes freely available for
+Internet users across the globe. For the next tw o
+years, he continued working on improving the
+design of the Web with feedback from Internet
+users. 
+After leaving CERN in 1994, Berners-Le e
+headed for the Massachusetts Institute of
+Te c h n o l o gy’s (MIT) Labora t o ry for Computer
+Sciences in Boston, where he is director of the
+World Wide Web Consortium (W3C). The
+organization, which is comprised by more than
+300 members from the global industry including
+giants like Microsoft and IBM, sets technica l
+standards for the Web. 
+Hailed by T i m e magazine as one of the 10 0
+greatest minds of the 20th century, the 45-year-
+old Berners-Lee remains a paragon of modesty
+despite the astonishing growth and success of his
+invention. Sitting in his office at the W3C, he
+asserts that the Web is just in its infancy. ‘‘The
+ultimate goal is to support and improve our web-
+like existence in the world,’’ he says, explaining
+that the Web offers an unprecedented means to
+achieve greater freedom and social growth. “We
+are a still a long way from realizing its full
+p o t e n t i a l . ” ■
+
+person to dictate what can and cannot be
+done with his or her own personal infor-
+m at i o n . For consumers using the Intern e t ,
+the gr e atest pri va cy concern is that after
+t h e y ’ ve ordered a number of products, c o m-
+panies will have accumulated enough per-
+sonal inform ation to harm or take adva n t a g e
+of them.With consequences ranging from
+junk mail to the denial of health insurance,
+the problem is serious.
+Users should be aware of how various
+websites use their personal inform at i o n .I n
+a way, p ri va cy concerns are a leading impe-
+diment to the further gr owth of We b - b a s e d
+c o m m e r c e , but I think sites should highlight
+the need for consumer privacy.With these
+c o n c e rns in mind, our Consortium has
+d e veloped a new tool called P3P (Plat f o rm
+for Privacy Preferences Project). It would
+a u t o m atically communicate to users a we b-
+site’s stated privacy policy and compare it
+with the user’s own pre-set policy prefe-
+r e n c e s. If a Web site’s pri va cy policy does not
+suit the user’s interests,they can stop then
+and there.
+A responsible website should have a pri-
+va cy policy at the bottom of the home page.
+Failing that, I believe there ought to be a
+legally enforced default policy that offers
+individuals the highest protection.The issue
+of privacy has been addressed to a certain
+extent in Europe where companies have to
+keep secure the information they hold on
+c u s t o m e rs , and are barred from combining
+d atabases in ways that are legal in the
+United Stat e s. M a ny people in the U. S .a r e
+starting to realize the need for more regu-
+lation of privacy and the need for greater
+protection of the individual and society.
+There has been a spurt of Internet-related
+patents in recent years. What effect are these
+having on the Web’s development?
+The awarding of Intern e t - r e l ated pat e n t s
+poses a danger to the We b ’s unive rs a l i t y
+and can kill good ideas.There was a widely
+held assumption in the We b ’s first five ye a rs
+t h at a common good was to be gained from
+putting together a far-reaching infrastruc-
+t u r e . N ow a huge amount of business is
+being done on the We b. The ability to
+control any part of it through patent claims
+will be very lucrative. In some cases busi-
+nesses may be able to gain money simply by
+threatening to take legal action.This has a
+dampening effect on people working toge-
+ther to create a universal Web.
+For example, people in the WWW pro-
+fession meet often to discuss technological
+i m p r ovements and innovat i o n s , f r o m
+i m p r oved graphic or video conferencing
+systems to ways of wiring the deve l o p i n g
+world.These projects have the potential to
+b e n e fit many people but are sometimes sud-
+denly abandoned because of fears or
+ru m o u rs of legal action from a company
+h aving patent claims to that technology.
+C u rr e n t l y, in the U. S . (unlike in many other
+c o u n t ri e s ) , it is possible to patent part of
+the way a programme does something.
+Some of the recent Intern e t - r e l at e d
+p atent awards have been derided by the
+Web community. They are effectively res-
+tricting the use of technologies that could
+expand the use and unive rsality of the
+I n t e rn e t . I hope that ve ry soon patents will
+only be considered valid if they represent a
+real novelty or a really bright idea. I have ye t
+to see a patent like this in the field.
+There is no way to judge the authenticity or
+reliability of information on the Web, making
+users highly vulnerable. Is this likely to
+change?
+We are not using all the technology ava i-
+lable to verify the authenticity of a website
+or a person you come across. M o r e
+a d vanced tools will soon be introduced.
+With the help of new brow s e rs and by using
+digital signatures, you will soon be able to
+actually ensure that the document or the
+website you are referring to was in fa c t
+g e n e r ated by its claimed author.With regard
+Surfing the Web in a Dakar slum is a rare luxury on the African continent, where only 3.5 inhabitants out of 1,000 have access to the Internet, compared with 14.1
+in Asia, 88 in Europe, 160.3 in the Americas and 224.5 in Oceania, according to the International Telecommunications Union.
+
+use to access it. If you analyze the recent
+v i rus at t a c k s , you’ll find it’s computers ru n-
+ning the same software produced by the
+same company that are usually coming
+under attack by hackers. While it’s advan-
+tageous to have many people running the
+same software, there is a need for alterna-
+tive types of products in order to build up
+resistance to virus attacks.
+There have been proposals that Internet users
+in developed countries be taxed in order to
+wire the rest of the world?
+I do think that the developed wo r l d
+owes a gr e at debt to the developing one
+and Internet access adds one line to that
+debt. However, it is not obvious whether
+taxing all Internet users in general is a smart
+idea. It has to be done on a selective basis.
+I feel that those who can afford large
+amounts of Internet access—those for ins-
+tance who are in position to get videos-on-
+demand or use the Web extensively for com-
+mercial purposes—can be taxed.
+One could also argue that introducing a
+tax might discourage some countries from
+i nvesting in the Intern e t , which is deve l o p i n g
+so rapidly right now.The only place where
+you could gi ve serious thought to a tax is the
+U. S . , and perhaps Finland. Other deve-
+loped countri e s ,which are trying to catch up
+with the U. S . , m ay be a bit reluctant to
+to electronic messages, new and secure
+c o m m u n i c ation protocols allow us to make
+sure that nobody can sneak in and alter a
+message along its way.
+Now the question is how do you know
+whether a particular document or person
+you come across while surfing on the net is
+reliable.You just can’t do that.There is no
+i n f r a s t ructure set up at the moment by
+which you can actually check the reliability
+of a person or of a site you are visiting.W hy
+should you believe in somebody about
+whom you have never heard of? I think
+people will have to learn whom they can
+trust on the Web.
+Take a book for example. You read it
+because it was referred to you by reliable
+s o u r c e s. In the same way somebody yo u
+k n ow may point to a web site.Trust is alway s
+t r a n s f e rred from one individual to another.
+We have to set up a “Web of trust.”
+Some people initially thought of the
+Web as an anonymous space separated from
+reality in which there was no individual
+responsibility.This is not the case.Anyone
+who sends a fraudulent message is sitting
+somewhere and is naturally subjected to
+local laws. If someone makes forged tran-
+sactions, the fact that they did it electroni-
+cally doesn’t in any way absolve them of
+their responsibility under the law.
+Thanks to the Web, the world has become a
+global village. But we have recently witnessed
+a rising incidence of hackers paralyzing public
+utility systems with viruses. Can systems
+become more resilient?  
+While the Internet is a decentralized
+s y s t e m , I think the principle danger it fa c e s
+now is the lack of diversity in the tools we
+
+No, it wasn’t a love message… Only greater product diversity will build up resistance to virus attacks, says Lee.
+
+c u l t u r e . E ven in European countri e s , i t
+was difficult for the Web to get start e d
+because you didn’t have a huge monocul-
+ture or monolingual audience waiting eve-
+ry w h e r e . Getting over this barrier in coun-
+tries with smaller linguistic audiences will
+be very difficult.
+Could you elaborate on the “Semantic Web”
+you are working on at the moment?
+My dream for the Web has two part s. I n
+the first, I see the Web becoming a much
+more powerful means for collaborat i o n
+among people. In the second, c o l l a b o r a-
+tions extend to computers. M a c h i n e s
+become capable of analyzing all the data on
+the Web — the contents, links and transac-
+tions between people and computers.
+The Semantic Web would be able to
+take inform ation from different databases on
+the We b , from catalogues and we ather sites
+to stock price inform at i o n , and to allow
+this data to be processed by computers. At
+the moment, this cannot be done because
+the data available on the Web is not in a form
+t h at can be understood or conve rted by
+c o m p u t e rs for direct analysis. This is
+because the Web pages are designed only for
+human readership.
+The Semantic Web would also answer
+many people’s prayers for a logical search
+engine that gives you solid results. Right
+now, search engines come up with thou-
+sands of Web pages in response to a request.
+It is impossible to search what ’s in all those
+pages. With the Semantic Web, the search
+engine would go out and say “Well,here is
+an object which I can mat h e m atically prove
+to you matches the criteria requested.” In
+s h o rt , search engines will become more
+meaningful and effective . Once the two -
+part dream is achieved, the Web will be a
+place where the whim of a human being and
+the reasoning of a machine will co-exist in
+an ideal, powerful mixture. ■
+Interview by Ethirajan Anbarasan
+UNESCO Courier journalist
+introduce taxation.
+It is still difficult to get an Internet connection
+in the South because of the lack of telephone
+lines.  Are there solutions to this?
+Te l e c o m m u n i c ations departments in
+m a ny developing countries are still bu r e a u-
+c r atic and would never agree to shari n g
+a nything with anybody or to allow any com-
+petition that would improve access. O n e
+option is to rethink the technology altoge-
+ther.We should start off by expanding the
+use of wireless technologies for basic com-
+munications in rural areas. Once networks
+h ave been built up, walkie-talkies could
+e ventually be merged with the Intern e t
+without any input from telecommunica-
+tion ministri e s. The system would be a
+decentralized one in which there would be
+no need to apply for an Internet address or
+a domain name. Research is already going
+on in this field and I strongly feel that com-
+mercial production of this technology
+should start soon to expand Internet access
+in Southern countries.
+H owe ve r , it may be difficult for this
+technology to be deployed in some countri e s
+because it would threaten the existing
+monopoly of telecommunication compa-
+nies or government control over commu-
+n i c at i o n s.The United Nations could play a
+role in spreading the idea among its member
+S t ates as this technology offers ve ry exciting
+possibilities.
+I also think subsidies should be put
+t owards translating inform ation on the
+I n t e rnet into different languages. It is
+i m p o rtant that the Web support local
+cultures and not just broadcast American
+
+T HE NET
+A ND THE WEB
+A s Berners-Lee puts it, the Web could
+not exist without the Net. First developed
+for military purposes by the U.S. Department
+of Defence in the 1960s, the Internet is
+a network of networks. It refers to millions
+of computers around the world connected
+to each other by telephone wire, cable and
+satellite. The Web, a part of the Internet,
+is a worldwide collection of text and
+multimedia files linked to each other via a
+system of hypertext documents. The Hypertext
+Transfer Protocol (HTTP) was created by
+Berners-Lee in 1990 at CERN, the European
+Particle Physics Laboratory, as a means of
+sharing scientific data internationally, instantly
+and inexpensively. With hypertext, a word or
+phrase can contain a link to another text.
+To achieve this, Berners-Lee developed a
+programming language called HTML,
+which allows users to easily link to other
+pages or network services on the Web. ■

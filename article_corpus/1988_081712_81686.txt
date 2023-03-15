@@ -1,0 +1,55 @@
+A refined value oí pi
+The irrational numberpz can be computed to an infinite number of decimal
+places. It expresses the ratio of the circumference of a circle to its diameter,
+a relationship which cannot be framed in terms of whole numbers. (Pi is
+needed to compute the area of a circle or volume of a sphere.) The value of
+pi was computed by Archimedes to three decimal places, and by Ptolemy
+to four decimal places. But after that, for 1,450 years, no greater accuracy
+was achieved in the Western world. The Chinese, however, made great
+strides forward in computing pi.
+One way in which the ancient mathematicians tried to approach an
+accurate value forpi was to inscribe polygons with more and more sides to
+them inside circles, so that the areas of the polygons (which could be
+computed) would more and more closely approach the area of the circle.
+Thus, they could try to find a value iorpi, since the circle's area was found
+by using the formula containing it. (They could measure the diameter, and
+squeeze a polygon whose area they knew into the circle; the only unknown
+number would be pi, which could then be calculated.) Archimedes used a
+96-sided polygon, and decided thatpi had a value between 3.142 and 3.140.
+The Chinese tried to sneak up on pi in the same fashion. Liu Hui in the
+third century AD started by inscribing a polygon of 192 sides in a circle,
+and then went on to inscribe one of 3,072 sides which "squeezed" even
+closer. He was thus able to calculate a value oípi oí 3.14159. At this point,
+the Chinese overtook the Greeks.
+But the real leap forward came in the fifth century AD, when truly
+advanced values for pi appeared in China. The mathematicians Zu
+Chongzhi and Zu Gengzhi (father and son), by means of calculations
+which have been lost, obtained an "accurate" value of pi to ten decimal
+places, as 3.1415929203. The circle used for the inscribing of the polygons
+is known to have been 10 feet across. This value for pi was recorded in
+historical records of the period, but the actual books of those mathemati¬
+cians have vanished over the centuries. Nine hundred years later, the
+mathematician Zao Yugin (about 1300 AD) set himself to verify this value
+of pi. He inscribed polygons in a circle with the enormous number of
+16,384 sides. He thus confirmed the value given by the Zu family.
+** m
+h h % äftoÄü
+^v*
+As. V\
+¥tS-
+/ ^J\ tt
+f**\A //" «¡*V *-
+m
+\^K^ /**\ /^v ff ft
+m
+ftu%ftz%ftznz#
+***#EÄ£-**f
+£*»***«$#*
+XX&trt&IrküJíL ftf
+í^t#^^^^'+ Zk
+SÜÄi-PI-frÄHÄPI
+m*?2*4HïA#ffl* .
+Diagram showing a method used by the
+Chinese mathematician Liu Hui in
+264 AD to calculate the value ofpi.
+

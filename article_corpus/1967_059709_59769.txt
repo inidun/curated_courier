@@ -1,0 +1,111 @@
+Numerals open new mathematical horizons 
+U.. the eleventh century, 
+the only methods of calculation known 
+in Europe had been the mechanical pro- 
+cesses necessitated by the use of Ro- 
+man numerals which were so awkward 
+to manipulate. These processes in- 
+cluded counting on the fingers, a pro- 
+cess treated of in many manuals of 
+computation; the abacus (a tablet with 
+counters strung on or between hori- 
+zontal bars), which the exchequer used 
+for the financial reckonings of the 
+English royal house, was a variant; and 
+wooden tallies marked with notches 
+of varying depth. 
+It was Gerbert who introduced into 
+western Christendom the “gubar” nu- 
+merals, inscribing the symbols on 
+counters, which he then placed on 
+the abacus. It is uncertain whether 
+he had fully grasped the idea of posi- 
+tional value. 
+Early in the twelfth century, Abelard 
+of Bath translated Al Kharizmi's 
+treatise explaining the mechanics of 
+the Hindu numerical system. It was 
+known thereafter as “algorism,” and 
+was to be appreciated at its full value 
+by Leonardo Fibonacci (¢. 1170-post 
+1240), the son of a Pisan merchant, 
+who had been educated by a Muslim 
+teacher at Bougie, and had subse- 
+quently travelled extensively in Egypt, 
+Syria, and Greece. 
+His efforts, however, were not suffi- 
+cient to bring about a general adoption 
+of the system. The abacus was held 
+to meet current requirements, and the 
+Hindu numerals to lend themselves 
+more readily to falsification (hence the 
+prohibition of their use in the keeping 
+of accounts until the sixteenth cen- 
+ 
+Photo University of Istanbul Library 
+This 16th century Persian miniature 
+shows Islamic mathematicians 
+at work in an observatory. 
+tury). Not until a much later date was 
+there a general realization of the new 
+mathematical horizons which were 
+opened up by the use of these 
+numerals. 
+The techniques of calculation, then 
+known as “logistics,” remained rudi- 
+mentary. Fibonacci took over from the 
+Arabs what still remains our current 
+procedure for subtraction. Multipli- 
+cation was treated as a series of addi- 
+tion operations, with doubling as a 
+further separate operation. Division 
+procedures were a source of parti- 
+cular perplexity: Gerbert sets out no 
+fewer than ten of such procedures, 
+and has recourse in the main to a 
+series of subtractions. Fibonacci, 
+however, was able to detail methods 
+of extracting square and cube roots. 
+Arithmetic consisted in the theory of 
+numbers, which had been evolved by 
+the Pythagoreans and expounded after 
+them by Boéthius and Fibonacci. Fi- 
+bonacci appears also in connexion with 
+algebra, the name of which is derived 
+from a treatise by Al Kharizmi, Al jabr 
+w'al Muqébalah, translated by Robert 
+of Chester. In his Flos (1225), Fibo- 
+nacci generalized the substitution of 
+letters for numbers in the solution of 
+problems (as, at about the same time, 
+did the German Dominican, Jordanus 
+Nemorarius), and employed a negative 
+quantity in solving financial problems. 
+It was due to these same authors 
+that some progress was also made in 
+three-dimensional geometry. Certain 
+rules make their first appearance in the 
+work of Fibonacci (although it is not 
+certain that he was the first discoverer 
+of them), as, for instance, for ascer- 
+taining the volume of the frustrum of 
+a pyramid. Jordanus Nemorarius stud- 
+ied plane projections, which were used 
+in connexion with the astrolabe and in 
+map-drawing. 
+Trigonometry, despite a few trans- 
+lations from the Arabic, was scarcely 
+taken up. But the concept of infinite 
+quantities, rejected by Aristotle but 
+recognized by Christianity, set some 
+minds on the road to the differential 
+and integral calculus. Unfortunately, 
+the work accomplished on mathemati- 
+cal infinity around 1300 by scholars 
+in Paris was to be lost sight of in the 
+fifteenth century, until Fermat and 
+Cavalieri worked it out afresh. 
+— PHILIPPE WOLFF 
+Vol. Ili, Pt. IV, Chap. 9 
+(Scientific Thought) 
+1

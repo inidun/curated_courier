@@ -1,0 +1,408 @@
+Prime
+numbers
+ANCIENT EGYPT
+AND MESOPOTAMIA
+BYJAMES RITTER
+M,
+12
+LaTHEMATICS and writing have a close, sym¬
+biotic relationship. Indeed, recent archaeological
+discoveries have shown that it was the need tó
+measure, divide and distribute the material wealth
+of societies that gave birth to the first writing
+systems.
+For a society to develop a mathematics that
+goes beyond simple counting, a material support
+of some kind is essential. Without writing, the
+limitations of human memory are such that only
+a certain degree of numerical sophistication can
+be achieved.
+By allowing us to follow the development of
+two writing systems, one in southern Mesopota¬
+mia towards the middle of the fourth millenni¬
+um BC, and the other in the area around Susa
+in Iran, slightly later, archaeological discoveries
+in the last few decades have shown that the in¬
+verse is equally true. For a society to develop
+writing, material needs and, in particular, the
+need for record-keeping, are central.
+In these societies the material support was
+clay, which is virtually indestructible, and the first
+documents are accounts. Cuneiform (wedge-
+shaped) Mesopotamian writing in. particular
+was to know great success over the succeeding
+3,000 years. Used to write not only the original
+Sumerian and Akkadian, but also Hittite, Ela-
+mite, Hurrian and many other languages of the
+ancient Near East, it died out only at the begin¬
+ning of our era.
+Meanwhile, an independent civilization de¬
+veloped rapidly in Egypt towards the end of the
+fourth millennium. Here the situation concern¬
+ing writing is less clear. First of all, the material
+support, for other than monumental inscriptions,
+was principally papyrus, the reed-like plant grow¬
+ing along the Nile and in the Delta, and, to a less¬
+er extent, other perishable materials. Egypt has
+thus yielded fewer documents than Mesopotamia
+by a factor of thousands.
+Number systems
+The third millennium marks, for both the
+Mesopotamian and the Egyptian civilizations, the
+gradual emergence of an abstract concept of num¬
+ber. Originally each number is attached to a given
+system of units. The "four" of "four sheep" and
+"four measures of grain" are not, for example,
+written with the same symbol.
+Above, part of a rod used
+in ancient Egypt to measure the cubit, a unit
+of length equivalent to 525 mm.
+JKight, air view of the site of Ur (Iraq),
+dominated by the ziggurat (top).
+
+:tW:
+O*
+*%
+-a /->:
+>
+"1
+v
+r t
+ft //**#
+C i
+-.^;
+m
+m*.*
+^f
+.
+,>4( / //y
+as«
+V
+
+iL
+\ N \ *V V
+Equally, the different systems of units are not
+connected among themselves. Measures of area,
+for instance, have no simple relationship to meas¬
+ures of length since the connection between the
+twothat area could be calculated from the
+product of a length and a widthwas not yet
+operational.
+But the very practice of writing things down,
+yielding permanent records of measures, opens
+up the possibility of observing regularities and
+patterns. This possibility was taken advantage of
+in these two societies over a period of about 1,000
+years so that by the end of the third millennium
+Egyptian and Sumerian scribes had learned how
+to calculate areas and volumes from lengths, how
+to divide rations among workers, how to calcu¬
+late the time necessary for a given job of work
+from volumes, numbers of men, and work rates.
+Next our evidence shows how a new level of ab¬
+straction was reached in which the concept of
+number became more and more detached from
+its metrological context.
+By the beginning of the second millennium
+both civilizations had succeeded in developing
+equally abstract systems of numeration, though
+they had chosen different paths to represent their
+numbers. The Egyptians, like the vast majority
+of modern societies, had a written number sys¬
+tem based on ten; that is, one counts up to nine
+of each unit before moving up to the next higher
+unitafter nine "ones" comes a "ten", after nine
+"tens" comes a "hundred", etc. But, unlike
+JtSelow, two scribes are
+shown recording an
+Assyrian king's spoils of
+war in this drawing of a
+lost nco-Assyrian wall
+painting.
+modern systems, their writing of numbers is "ad¬
+ditive", that is there are separate signs for units,
+tens, and hundreds, and these are repeated as
+necessary.
+The Mesopotamians used a base of sixty for
+their mathematical calculations, and they deve¬
+loped the first known system of position. The
+signs for numbers repeat after fifty-nine, the ac¬
+tual value being determined by the position of
+the digit in the number as a whole.
+A scribe's training
+Learning how to manipulate such number sys¬
+tems requires a specialized training and the
+creation of schools can be traced back to the same
+time as the invention of writing. Furthermore we
+know that the learning of arithmetic began ear¬
+ly in the schoolchild's career, along with reading
+and writing, and that mathematics, then as now,
+was considered one of the "hardest" subjects.
+Around 2000 BC, Shulgi, one of the kings of
+the Ur III empire in Mesopotamia, was the sub¬
+ject of a literary hymn which became a model
+text used as a school exercise during the first half
+of the second millennium. In this document he
+
+4 ^wsxsyvy
+LA
+V ' - *î
+V.
+X't «^
+> *
+\
+boasts of his academic achievements and proud¬
+ly states: "I am perfectly able to subtract and add,
+[clever in] counting and accounting."
+Over a thousand years later the Assyrian king
+Assurbanipal was to repeat much the same thing
+in one of his hymns: "I can find the difficult
+reciprocals and products which are not in the
+tables."
+What would be the history of a young scribe
+destined to become a "mathematician" in ancient
+Egypt or Mesopotamia? He (and it is almost cer¬
+tain that it would be a boy; girls, while not for¬
+bidden a scribal formation, are almost entirely
+absent from the records) would of course first go
+to school. The sons of the rich and powerful
+rubbed shoulders with less fortunate young peo¬
+ple, who found in education one of the rare
+means of social ascension.
+What would the scribe learn during his
+schooling, which lasted at least ten years? We pos¬
+sess, from both civilizations, examples of school
+exercises including mathematical texts, and can
+catch a glimpse of student life through the so-
+called "scribal disputes". An example from
+Mesopotamia has one scribe boasting to another
+of his achievements:
+"I want to write tablets:
+tables [of measures] from 1 gur of barley to
+600 gur;
+tables [of weights] from 1 shekel to 20 minas
+of silver,
+with the contracts of marriage that may be
+brought me,
+the commercial contracts...
+the sale of houses, fields, slaves,
+pledges in silver, contracts for the rental of
+fields,
+contracts for raising palm trees...
+even the tablets of adoption; I know how to
+write all that."
+In this typical text from Egypt one scribe
+taunts another as follows:
+"You come here and fill me up with your
+office. I will show up your boastful behaviour
+when a mission is given to you. I will show up
+your arrogance when you say: 'I am the scribe,
+commander of the work gang.' ...
+"A ramp, 730 cubits [long] and 55 cubits
+wide, must be built, with 120 compartments filled
+with reeds and beams; with a height of 60 cubits
+at its peak, 30 cubits in the middle; with a slope
+of 15 cubits; with a base of 5 cubits. The
+jKelief above, from the
+tomb ofAkhethotep (5th
+dynasty of the Old
+Kingdom, 2450-2290 BC)
+shows Egyptian scribes
+drawing up the accounts of
+a funeral precinct.
+15
+
+Early Egyptian
+and Babylonian numerals
+These two groups of symbols show how scribes of
+ancient Egypt and Babylon would have written
+1989 using their respective number systems.
+Egypt
+? f f
+f ? ?
+nnnn
+nnnn
+1 1 1
+1000 900 80
+The Egyptian numeral system, here shown in
+hieroglyphic writing, was based on 10. We see one
+sign for thousands, nine signs for hundreds, eight
+signs for tens, and nine signs for ones.
+Babylon
+<í YYY
+33 9
+The Babylonian numeral system was based on 60.
+Using base 60, one thousand nine hundred and
+eighty-nine would be written as thirty-three sixties
+and nine ones. The position of the nine to the right
+indicates that it constitutes the ones, while the 33,
+one place over to the left, represents the sixties.
+16
+JAMES RITTER,
+of the United States, teaches
+mathematics and the history
+of science at the University
+of Paris-VIII. His main
+research interests are in the
+theory of relativity and its
+history, and in the uses of
+reasoning in ancient Egypt
+and Mesopotamia. He has
+contributed to a collective
+work, Elements d'histoire des
+sciences (Bordas publishers,
+Paris, 1989), prepared
+under the direction of
+Michel Serres.
+quantity of bricks is demanded of the troop
+commander.
+"The scribes are all assembled but no one
+knows how to do it. They put their faith in you
+and say: 'You are a clever scribe, my friend!
+Decide quickly for us, for your name is famous.'
+... Let it not be said: 'There is something he does
+not know.' Give us its quantity in bricks. Behold,
+its measurements are before you; each of its com¬
+partments is 30 cubits [long] and 7 cubits [wide.]"
+But these are literary and not real mathemat¬
+ical texts. In fact, we possess some mathematical
+school texts from each civilization, almost all of
+them from two distinct periods: the first half of
+the second millennium and the period of Greek
+and Roman domination at the end of the first
+millennium. They are of two kinds, table texts
+and problem texts.
+A typical example of a table text is a square
+root table from early second millennium Babylo¬
+nia. The systematic and organized writing of a
+table shows the high degree of abstraction already
+attained. What does the scribe do if he needs a
+square root? If it is not on the table, it can easily
+be calculated from the surrounding values that
+do appear. This procedure was standard in almost
+all cultures including Western ones until a quite
+recent date, and this is how the Babylonians and
+the Egyptians used their tables of multiplication,
+square roots, and sums of fractions. This is also
+the way in which they used the problem texts.
+A typical example, from an Egyptian papyrus of
+the middle of the second millennium, begins with
+a statement of the problem to be resolved:
+"A pyramid. Its side is 140 [cubits] and its
+slope is 5 palms 1 finger [per cubit]. What is
+its height?"
+Here the data are presented in the form of
+concrete numbers rather than abstract variables,
+followed by a step-by-step solution with the an¬
+swer at the end. Each step makes use of either
+the result of a preceding step or of one of the data
+given at the beginning of the problem.
+No argument is given to justify the procedure
+nor is any explanation offered for its form. But
+even with the numerical values included, the na¬
+ture of this form is quite clear. Thus the student
+would be able to solve any other problem of the
+same type. Moreover these problems are often
+grouped in such a way that the techniques learned
+can be immediately applied in other cases. The
+above problem, for example, follows a problem
+concerned with the determination of the slope
+of a pyramid given its length and height, and is
+followed in its turn by a problem involving the
+calculation of the slope of a cone.
+However, not all mathematical problems
+were as practically oriented as this one. The main
+purpose of mathematical school exercises was to
+give the student scribe practice in the mathemat¬
+ical techniques used in solving problems. Tech¬
+nical drill, not direct application, was the main
+point. For this reason many of the apparently
+"practical" problems in these texts are far re¬
+moved from real life: a Babylonian tablet pro¬
+poses a problem in which a broken measuring rod
+is used to measure a field; an Egyptian document
+asks a scribe to calculate the original size of a herd
+of cattle based on the number of cows used to
+pay a cowherd's taxes...
+The pedagogical purpose of all this is clear.
+Moreover, the structure of the problem and
+table texts permits an alternative approach to
+abstraction and generalization in mathematics.
+Rather than take the path of increasing symboli-
+zation marked by a hierarchy of "levels of gener¬
+ality", the Egyptian and Babylonian approach is
+to create a network of typical examples in which
+a new problem can be relatedby a form of
+interpolationto those already known.
+Exactly the same approach can be seen at
+work in other areas of ancient thought such as
+medicine, divination and astrology. All these sub¬
+jects were treated by the Egyptians and Mesopota-
+mians as constituting a special domain of
+"rational practice".
+No word for 'mathematician'
+Ample documentary sourcesaccounting texts,
+lists of professions, references in literary and
+historical texts, even painting and sculpture-
+enable us to follow the professional life of the
+aspiring scribe once his education is complete. We
+
+-4rr- r - 'J' !/
+-All; . «43
+: -M
+'
+1
+IA
+i '
+1
+<Wl A-
+^ J ÏU
+l '..I..
+i
+1
+'
+M
+=J
+i ¿e Rhind Mathematical
+Papyrus, a scroll copied
+around 1650 BC from an
+earlier work, is the source
+of much information about
+ancient Egyptian
+mathematics. Detail, above,
+shows part of the table for
+doubling odd fractions.
+Left, fragments of a
+Mesopotamian tablet from
+the beginning of the 2nd
+millennium BC.
+will look in vain, though, for any mention of a
+"mathematician" in the modern sense of a per¬
+son working within a recognized community of
+researchers on the properties of number and
+geometric figure. No word for "mathematician"
+exists in any of the ancient languages of Egypt
+and Mesopotamia.
+There were two paths that a young scribe
+could follow. A few would become teachers of
+mathematics themselves, perhaps exploring fur¬
+ther problems that could be presented to a new
+generation of schoolboys. In the course of time
+this did lead to a deepening and broadening of
+the mathematical techniques available to the two
+societies.
+The graduate could also become an
+accountanta calculator of work, rations, land
+and grain. Scribes are omnipresent and their in¬
+dustrious labourings are carefully depicted on
+Egyptian wall frescos and Assyrian palace reliefs,
+always hard at work on the business of their
+master, who might be either the state or a pri¬
+vate landowner. They seem to have held
+privileged though subservient positions. Like
+their schoolteaching colleagues, they were not the
+movers of ancient society but they served those
+who wereand well enough to be immortalized
+on their patrons' walls as the visible symbols of
+that concentration of power and wealth they
+laboured so hard to calculate. 17

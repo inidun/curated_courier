@@ -1,0 +1,298 @@
+INDIA Lilavati, gracious
+lady of arithmetic
+BY FRANCIS ZIMMERMANN
+Detail of a manuscript copy
+(date unknown) of a Sanskrit
+text composed in 750 AD
+and illustrated with
+geometric figures.
+Opposite page, sundial at
+the open-air observatory at
+Jaipur (India), built in 1728.
+URING the eighth century AD, Arab
+scholars working in India on Sanskrit mathemat¬
+ical texts made two major discoveries which they
+developed and later transmitted to the Western
+world: the place-value notation of figures using
+the decimal system coupled with the "zero" con¬
+cept, and a trigonometry which incorporated the
+use of sines.
+It was not merely by chance that these major
+advances in the fields of writing, calculation and
+18
+A simple problem taken from
+the twelfth-century Indian
+mathematician Bhaskara's Lilavati
+('Arithmetic')
+qsaf>i,jf<e$WT.^îiti'T>U5'î5r: fotfpá «m-
+êrmja iwm wifa À ^isfe^^f ^ n
+Example of the reduction of fractions
+to a common denominator:
+One-fifth of a swarm of bees flew towards a lotus
+flower, one-third towards a banana tree. (A number
+equal to) three times the difference between the two
+(preceding figures), O my beauty with the eyes of
+a gazelle, flew towards a Codaga tree (whose bitter
+bark provides a substitute for quinine). Finally, one
+other bee, undecided, flew hither and thither
+equally attracted by the delicious perfume of the
+jasmine and the pandanus. Tell me, O charming
+one, how many bees were there?
+Let x= the number of bees
+x = x+_x t 3x([-l)+ 1
+5 3 3 5
+Reducing the fractions to a common denominator,
+we get:
+x = 3_x + 5_x + 3 x (5 - 3) + 1
+15 15 T5 ^
+x = 15
+triangulation were made by Indian mathemati¬
+cians; they all touched on matters of traditional
+interest in India, whose scholars had always
+shown a particular taste and talent for grammat¬
+ical forms.
+Mathematics, like all the other scientific dis¬
+ciplines in ancient India, was subject to the con¬
+straints and stylistic forms of the Sanskrit
+language as well as to the demands of verse since
+most scientific texts were written in verse form.
+The great mathematical treatises, written in
+Sanskrit, usually by a Brahman (a member of the
+highest, priestly caste), consisted of a basic, often
+cryptic, text made up of sutras or aphorisms, or
+else of verses that were learned by heart. A stream
+of prose commentaries explain the full meaning
+of these ancient texts, confirming that they were
+aphoristic in nature and deliberately conceived
+as summaries of a master's teachings, expressed
+in such a way as to stick in the memory of his
+pupils.
+Evidence of the early use of numbers, in the
+sense of graphic symbols, is to be found in in¬
+scriptions on stone or copper that have been
+studied by archaeologistssuch as the numbers
+4 and 6, for example, found in the Asoka inscrip¬
+tions which date back to the third century BC.
+They are very rarely to be found, however, in
+proper mathematical texts. Arabic numerals, so
+called because they were made known to the rest
+of the world by Arab authors, are, in fact, of In¬
+dian origin. In general, however, they were rarely
+used in Sanskrit texts, in which numbers are writ¬
+ten out in full or symbolized by alphabetical
+codes. To be more precise, we must distinguish
+clearly between the basic texts, generally written
+in verse, and the prose commentaries which alone
+provide us with information about the way in
+which numbers were written down during the
+actual process of calculation.
+Numbers were set out vertically over sever¬
+al lines, or at least this is what emerges from a
+commentary written by Bhaskara the Elder in
+629 AD on the Aryabhatiya. Unfortunately, the
+life-span of Indian manuscripts was short, aver¬
+aging only about three centuries. Written on
+
+m
+k m
+r
+
+paper or on palm leaves, they were a prey to mil¬
+dew and insects. The manuscripts of Bhaskara's
+commentary that have come down to us are
+modern copies and cannot be taken as evidence
+of the manner of writing of more ancient times.
+The twelfth-century Bakhsali manuscript, which
+is probably the oldest document in this sense,
+shows calculations in Arabic numerals spread
+over several lines and contained in cartouches, or
+boxes, within the body of a mathematical text
+written in Sanskrit.
+The absence of graphic symbols and numbers
+in the aphorisms and verses of the classic mathe¬
+matical texts does not mean that symbolism is to¬
+tally excluded, but that the symbolism employed
+is grammatical or rhetorical in nature. Thanks to
+the virtually limitless synonymical possibilities
+of the Sanskrit language, numbers are represent¬
+ed" by. literary phrases and metaphors. Thus,
+nayana (eye) or bahu (arm) are the names of the
+number 2. Agni (fire) means 3 (by allusion to the
+three Vedic forms of ritual fire) and adri (moun¬
+tain) means 7 (a reference to the seven mountains
+of India of Hindu religious geography). The San¬
+skrit words for "sky" or "space" stand for zero.
+The order of the figures making up a number is
+the reverse of modern numerical systemsfor
+example, the number 23 would be written as
+agninayana.
+This symbolism is useful for writing in verse
+form series of figures which today would be laid
+out in tabular form. In India, as elsewhere, the
+astronomical data in almanacs have for centuries
+been presented in columns of numbers. But this
+mode was an Arab invention and in the ancient
+Sanskrit texts numbers were presented in the
+form of a line or a verse of poetry.
+Another form of numerical symbolism fre-
+20
+The ratio of the circumference
+of a circle to its diameter (n)
+sfrjxws' cTrTH^jpi srrmrw ïï^nnni
+*|yrl¿MW^MWlH^>-clTmr(Ull«4: Il
+caturadhikam satam astagunam dväsastis tathä
+sahasrlnim
+ayutadvayaviskambhasyäsanno vrttaparinähah
+"Add four to one hundred, multiply by eight, add
+62,000. This will give you the approximate value
+(asanna) of the circumference of a circle with a dia¬
+meter of two myriads."
+This verse, written by the sixth-century Indian
+mathematician Aryabhata, gives the oldest known
+formulation of the approximate value of the ratio
+that later became known as n :
+circumference
+diameter
+62832
+2C000
+3.1416
+quently used in astronomical and mathematical
+texts is based on the Sanskrit alphabet. Several
+such systems exist. The katapayadi system, which
+is widely used in southern India, makes it possi¬
+ble for very large numbers and trigonometric
+tables to be expressed in the form of mnemonic
+words, aphorisms or verses. The system is flexi¬
+ble enough to enable such numbers to be ex¬
+pressed in phrases which also have another
+meaning. For example, the priestly injunction
+acaryavag abhedya, which means literally "The
+word of the Master must not be betrayed", is cod¬
+ed writing of the number 1434160, a chronogram
+for the 1,434,160th day of the era of Kali, the day
+on which the philosopher Sankaracarya in¬
+troduced 'certain reforms.
+Did this poetic form of expression have an
+influence on mathematical reasoning? Was there
+some specific characteristic, something special in
+the way of thinking or the social status of Indian
+mathematicians which led them to shape their
+teachings in a literary mould?
+There has never been a caste or even a real
+school of mathematicians in India. Mathemati¬
+cians, if we class as such those who wrote or used
+Sanskrit texts dealing with geometry, arithmetic
+or algebra, worked in fairly close collaboration
+with experts in Vedic and Brahmanic ritual. Brah-
+mans or members of a high caste and steeped in
+Sanskrit culture, they were classed among scien¬
+tists zsjyotirvid, or "experts on stars". Mathemat¬
+ical texts were usually inserted in treatises on
+astronomy, and trigonometry only really came
+into its own in the study of the angular distances
+between stars.
+Like all the Brahman sciences (the sastra),
+lLleventh-century bronze
+effigy of the god Shiva as
+Vinadhara (master of
+sciences and arts).
+In Indian numerical
+symbolism, the Sanskrit
+word Rudrasya (the
+5 faces of Siva) denotes the
+number 5.
+FRANCIS ZIMMERMANN,
+French philosopher and
+ethnologist, is director of
+research at the National
+Centre for Scientific Research
+(CNRS).
+
+mathematics had been developed primarily for
+religious purposes, as an aid to the proper per¬
+formance of ritual. We know nothing of the life
+of the great Indian mathematicians, but we can
+picture fairly accurately the ritualistic and scholas¬
+tic setting within which they worked, so heavily
+coloured by it is the style of Sanskrit texts. After
+the pupils had memorized à text by repeating it
+word for word, time and again until it was
+"clasped to their bosoms" (until they had learned
+it by heart), the teacher would provide them, oral¬
+ly, with the illustrations, demonstrations and cal¬
+culations that the text concealed. This was the
+key that opened up the paths of knowledge and
+an instrument of spiritual fulfilment.
+The Lilavati, a text by the twelfth-century
+mathematician Bhaskara the Learned, was tradi¬
+tionally used for this purpose for arithmetic and
+this explains why it terminates with a verse with
+a double meaning in which Bhaskara compares
+his Lilavati, his "gracious one" (it also means
+arithmetic), to a woman endowed with all the
+graces of the jati (a word which means both of
+noble lineage and, in a technical sense, the reduc¬
+tion of fractions to a common denominator).
+"Joy and happiness in this world shall continu¬
+ally increase for those who hold her kanthasak-
+ta, close in their arms or clasped to their bosoms
+(learned by heart by repetition)."
+From ritual geometry
+to Bhaskara's treatise
+'The oldest of these texts that have come down
+to us are the sulbasutras, "maxims concerning
+measuring cords", which are believed to have
+been written between the fifth and the first cen¬
+tury BC. They are treatises which lay down the
+rules for building altars used for Vedic ritual
+sacrifices and made of bricks laid in accordance
+with symbolic forms. The geometric construc¬
+tions which are taught in these treatises are based
+on knowledge of several special cases of right-
+angled triangles (for example, with sides measur¬
+ing 3-4-5, or 5-12-13, 7-24-25, etc.) and on the
+general rule according to which "the diagonal of
+a rectangle produces (by the construction on it
+of a square) the equivalent of the product of both
+the rectangle's length and breadth; and the di¬
+agonal of a square produces (by the construction
+on it of a square) twice its own area." Here,
+however, the rule is not expressed as a theorem,
+but as a maxim, as a formula to ensure the proper
+functioning of ritual and as a building guideline.
+The word sutra itself, which at first meant
+"aphoristic in style", came, in the later treatises,
+to mean a "rule" in the technical sense of a rule
+for building.
+There are no theorems in Indian mathematics,
+only rules based on reasoning which starts from
+an intuitive point of departure. The rules,
+aphorisms and the mnemonic verses of the basic
+texts are not the outcome of a demonstration but
+rather guidelines for a geometric construction to
+l\anda, the adoptive
+father of Krishna, consults
+an astrologer. Miniature
+of the Kangra school
+(late 18th century).
+be carried out by the reader or the commenta¬
+tor. Even in algebra, the typical line of reason¬
+ing links areas to the products of factors and
+implies the construction of a geometric figure.
+It has often been said that the Indians were
+algebraists rather than geometers yet, in fact,
+throughout all the commentaries on the teach¬
+ings of Aryabhata (sixth century), Brahmagupta
+(seventh century) and Bhaskara (twelfth centu¬
+ry), geometry was the source of the practical ap¬
+plications of the rules of arithmetic and algebra.
+A geometric space and a numerical ensemble were
+taken together as two facets of the same reality.
+The algebraic solution was grafted on to the geo¬
+metric construction. To demonstrate was to dis¬
+play the solution, to render it intuitively manifest.
+As one commentator said: "A demonstration by
+quantities should be made for the benefit of those
+who do not understand the demonstration by
+areas." Thus, in Indian mathematics, to reason
+is to explain an intuition. 21

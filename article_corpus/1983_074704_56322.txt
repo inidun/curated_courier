@@ -1,0 +1,335 @@
+LEONHARD EULER (1707-1783)
+A chñd of the sun
+by Emile A. Fellmann
+THE exact sciences have been so
+misused in their technological
+and ecological applications that
+they have fallen into considerable
+disrepute in recent years. But that
+should not prevent us from paying
+tribute, on the second centenary of his
+death, to one who, in the general
+history of civilization and scientific
+humanism, ranks as one of science's
+most eminent representatives.
+Leonhard Euler was not only by far
+the most productive mathematician in
+history, but also one of the greatest
+savants of all time. A cosmopolitan in
+the truest sense, he spent his early
+years in Basel (Switzerland), worked
+for a total of more than thirty years in
+St. Petersburg (now Leningrad), and
+spent a quarter of a century in Berlin,
+then the capital of Prussia. In terms of
+popularity and fame, he ranks with
+Galileo, Newton and Albert Einstein.
+Euler's contemporaries and biogra¬
+phers all agree that, as the astrologers
+say, he was "a child of the sun", of a
+gay and open nature, sociable and full
+of humour. Sometimes he would lose
+his temper, but never for long and he
+would always end by laughing at his
+own outbursts. There was, however,
+one subject about which he would tol¬
+erate no levity, and that was religion
+and the Christian faith. His strictness in
+matters of religious belief explains
+many facts of his life such as, for in¬
+stance, his relentless assaults on the
+Leibniz theory of monads (taken over
+by Wolff), or his violent attacks on
+some of the encyclopedists and other
+free-thinkers (in his theological work
+Sauvegarder la Révélation Divine,
+1747). Nevertheless, Euler's practical
+tolerance was much greater and more
+sincere than that of his royal master,
+who used the word because it was
+fashionable, but readily forgot it if its
+practical application embarrassed him
+in the least.
+Euler was also extremely modest in
+regard to scientific copyright. Unlike
+most scientists of all time, he never
+claimed any prior rights over his own
+discoveries. Indeed in his generosity he
+sometimes went so far as to make a
+gift of new discoveries and ideas. He
+never concealed anything in his works,
+EMILE A. FELLMANN, of Switzerland, is a
+specialist in the work of Leonhard Euler. He is
+secretary of the Euler Commission of the
+Society of Natural Sciences of the Swiss
+Academy of Sciences and a member of the In¬
+ternational Academy of the History of
+Sciences, Paris.
+8
+Leonhard Euler (1707-1783)
+was the most prolific mathema¬
+tician in history and ranks with
+such figures as Galileo, Newton
+and Einstein as one of the great
+scientists of all time. Above,
+portrait of Euler executed in
+1753 by Emanuel Handmann.
+always put his cards on the table, and
+gave the reader a fair chance of
+discovering something new. What is
+more, in many instances he would lead
+him to the threshold of a new discovery
+and, like a true teacher, let him have
+the pleasure of achieving it. This is
+why the study of Euler's works is a
+unique experience, both entertaining
+and fascinating.
+However skilled a man may be in
+making abstractions and in ob¬
+taining general ideas, he could
+make no progress without the aid
+of languages, which is twofold,
+first in the form of speech and se¬
+cond in the form of writing.
+Euler
+The Euler phenomenon is essentially
+due to three factors. In the first place,
+he had a prodigious memory. Appa¬
+rently whatever he heard, saw or read
+was for ever engraved in his memory.
+For instance, it is said that when he
+was quite old he would still delight his
+family and friends by faithfully reciting
+in Latin any of the verses of Virgil's
+Aeneid. Years after they were held, he
+still knew by heart the reports of
+academic meetings. And this is not to
+speak of his memory for everything
+concerning mathematics. Secondly,
+this prodigious memory was combined
+with rare powers of concentration.
+Su' ounding noise and bustle scarcely
+d¡Ff irbed the workings of his mind. To
+qu-e his friend and colleague
+Thiébault, "with a child on his knee
+and a cat on his shoulder that is how
+he wrote his immortal works". The
+third key to the Euler mystery was
+simply calm, untiring effort.
+Euler is a unique phenomenon
+because of his output alone. The list
+prepared by Gustave Eneström and
+published in 1910-1913 of works
+printed up to that time comprises 866
+items, and the great Swiss edition of
+Euler's works, on which many experts
+of various nationalities have been
+working since the beginning of the pre¬
+sent century, so far contains 70 quarto
+volumes, to be followed by 14 vol¬
+umes of "letters and manuscript".
+In the volume of his output, Euler is
+in no way inferior to such prolific cre¬
+ators as Voltaire, Goethe, Leibniz or
+Telemann. The following table, divided
+into ten-year periods, gives an idea of
+the number of works written by Euler
+and ready for printing (not counting
+some dozens of still undated items):
+Period Works Period Works
+1725-1734
+1735-1744
+1745-1754
+35 1755-1764 7 70
+50 1765-1774 745
+750 1775-1785 270
+Classified by subject, this represents
+the following percentages:
+Algebra, the theory of
+numbers, analysis 	40 per cent
+Mechanics, physics ... 28 per cent
+Geometry and trigo¬
+nometry 	 18 per cent
+Astronomy 1 1 per cent
+Shipbuilding science, ar¬
+chitecture, artillery science 2 per cent
+Philosophy, musical theory,
+theology, etc	 1 per cent
+This list does not include some
+3,000 letters known to date, nor still
+unpublished manuscripts.
+The first formal conception of dif¬
+ferential and integral calculus by Leib¬
+niz and Newton made it possible to ex¬
+plain and predict the course of natural
+
+Above, the first page of a letter Euler wrote on 20 June 1 740 to his
+former teacher in Basel, Johann Bernoulli who duly noted in top right
+hand corner "Received 27 July 1740". Lines 5 to 8, which deal with
+money matters, were tactfully crossed out by Bernoulli or his son.
+Above, schematic depiction of the cosmos as
+Euler saw it, from his work Theoria Motuum
+Planetarum et Cometarum (1744). Applying
+his great mathematical talents to the
+movements of the heavenly bodies, Euler con¬
+ceived of the solar system as one system
+among many others which all obey the same
+laws of gravity.
+phenomena. For a number of re¬
+searchers, foremost among whom
+were the brothers James and John Ber¬
+noulli of Basel, this opened up a vast,
+new domain for conquest by the
+human mind in the Age of Enlighten¬
+ment. The first to embark on this
+voyage of scientific discovery was
+Leonhard Euler.
+In the domain of pure mathematics,
+he established at once a number of
+new subjects for research, and deve¬
+loped them methodically the theory
+of numbers, the theory of functions,
+the theory of infinite series, higher
+algebra, and the calculus of variations.
+The textbooks he wrote on these sub¬
+jects are still as up-to-date as ever.
+Thanks to his lively style and ex¬
+emplary didactic powers, they can still
+be read with profit and pleasure. Many
+of the mathematical symbols used to¬
+day were invented by Euler. Those
+used in trigonometry have been kept
+unaltered.
+In the introduction to his Mechanics
+in 1736, Euler outlined a vast pro¬
+gramme for this branch of science. The
+chief feature of this work, then veryiv
+
+modern, was the consistent applica¬
+tion of differential and integral calculus
+to contemporary problems in mecha¬
+nics. Application of the calculus of
+variations to the theory of girder stress
+led Euler to the formula of stress,
+which we now know thanks to him and
+without which modern engineering
+would be inconceivable. In a special
+application of a general theory, he also
+discovered the optimum form of profile
+for the rim of cogwheels (development
+pitches). This was not applied in prac¬
+tice until the 1 9th century, since when
+it has become indispensable in the con¬
+struction of machinery.
+Euler's first major study in the field
+of fluid mechanics was a comprehen¬
+sive treatise on ships. Here he deals
+with the general theory of the
+equilibrium of floating bodies and an
+innovation at that time studies the
+problems of stability as well as the ef¬
+fect of minor oscillations near the state
+of equilibrium. Applying the general
+theory to the particular case of a ship,
+Euler founded a new science and had a
+lasting influence on the development
+Euler's work in astronomy covers a
+wide spectrum. It includes determining
+the trajectories of comets and planets
+from only a small number of observa¬
+tions, the solar parallax, and the theory
+of refraction of atmospheric rays. His
+most important treatises deal directly
+or indirectly with celestial mechanics,
+a branch of research founded by
+Newton which engaged the greatest
+attention of the leading mathemati¬
+cians of that time. His theory concern¬
+ing the moon, on which the astrono¬
+mer Tobie Mayer of Göttingen based
+his famous "Lunar Tables" in 1755,
+enabled the longitude of a ship at sea
+to be determined with a previously
+unequalled precision. For a century,
+these "Lunar Tables" of Euler and
+Mayer were used in navigation at sea.
+theology and ethics, and end with the
+famous attempt to refute Berkeley's
+absolute idealism and the ideas of
+Hume. Euler's place in the history of
+philosophy is still disputed, but his
+more or less direct influence on Kant
+cannot be denied.
+Many treasures still remain to be
+discovered in the works of Euler, but it
+will be a long time before this pro¬
+digious body of work is fully in print
+and available to all. An adequate
+biography of this, the most eminent of
+Switzerland's expatriate sons, has still
+to be written. Indeed such an enter¬
+prise would be almost equivalent to
+writing the entire history of mathema¬
+tical science in the eighteenth century.
+Emile A. Fellman
+of maritime navigation and naval
+engineering. In the history of technics,
+Euler's experiments with Segner's
+hydraulic engine and his resultant
+theory of water turbines are we
+known. About forty years ago, Jakob
+Ackeret built a turbine exactly in accor¬
+dance with Euler's directions and for¬
+mulae, and found that it was more than
+71 per cent efficient a remarkable
+result considering that today, with the
+most modern means and comparable
+dimensions, turbines of this type are
+scarcely more than 80 per cent
+efficient.
+Throughout his life, Euler was also
+interested in optics. In this field too, he
+is the author of the first textbooks in
+the modern sense, and formulated a
+general theory of the refracting lens
+telescope. He played a considerable
+rôle in the discovery of achromatic lens
+systems (which do not distort colours).
+Seven volumes of his Opera Omnia are
+devoted to optics.
+10
+Euler's philosophical testament is
+contained in his Lettres à une Princesse
+d'Allemagne (Letters to a German
+Princess) which, at her father's re¬
+quest, he wrote between 1760 and
+1 762 to the Margrave Sophie Charlotte
+of Brandenburg. They were published
+in three volumes from 1768 onwards
+and became a bestseller. They were
+even translated into many foreign
+languages and for long constituted the
+most widely circulated synopsis of
+popular scientific and philosophical
+culture. They embrace musical theory,
+philosophy, physics, cosmology,
+Title pages of some of Euler's
+many works. Clockwise from far
+left: Algebra, published in 1 770 by
+the Academy of Sciences of St.
+Petersburg and translated into
+many languages; the Mechanica
+(1736) in which Euler laid down
+new criteria for the mathematical
+treatment of physical phenomena;
+the Dioptrica (1769), the first
+modern textbook on optics; it con¬
+tains a complete theory of the
+telescope; the Methodus Invenien-
+di Lineas Curvas, in which Euler
+developed a new science, the
+calculation of variations, which
+still plays a major role in mathe¬
+matics, physics and engineering.
+Photos © Library of the University
+of Basel, Switzerland

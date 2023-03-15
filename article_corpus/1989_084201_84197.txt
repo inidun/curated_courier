@@ -1,0 +1,451 @@
+THE ARAB WORLD Where geometry and
+
+algebra intersect Historian of science Roshdi Rashed on
+the Arab contribution to the history of
+mathematics
+1 he city of Baghdad as
+depicted in a Turkish
+miniature of 1534.
+How would you describe the beginnings ofArab
+mathematics?
+Arab research into mathematics seems to have
+begun early in the ninth century when, in Bagh¬
+dad, the movement to translate the great Greek
+authors into Arabic was at its height. For in¬
+stance, Al-Hajjaj ibn Matar made two translations
+of Euclid's Elements and Ptolemy's Almagest, and
+Hilal ibn Hilal al-Himsi translated the first four
+volumes of Apollonius of Perga's Conies. Sever¬
+al works by Archimedes, Pappus and Diophan-
+tus, among others, were also translated in the
+same century.
+This major undertaking was noteworthy for
+two very important features, in that the transla¬
+tions were made by leading mathematicians and
+were inspired by the most advanced research of
+the time. For example, volumes V to VII of Apol¬
+lonius' Conies were translated by the great
+mathematician Thabit ibn Qurrah, who died in
+the year 901. Moreover, all the indications are
+that Qusta ibn Luqa was prompted to translate
+the Arithmetica of Diophantus around 870 on ac¬
+count of studies already being carried out on in¬
+determinate analysis.1
+Many other examples could be cited to
+demonstrate the close links between such trans¬
+lations and the innovative research already being
+done at this high point in the dissemination of
+Hellenistic mathematics in Arabic.
+Al-Khwarizmi is the best known of the Arab
+mathematicians.What was his contribution to
+mathematical thinking?
+It was at this time, in the ninth century, at
+the Baghdad Academy, or "House of Wisdom"
+as it was known, that al-Khwarizmi wrote a
+work that represented a new departure in terms
+of both content and style. This was the Kitab
+al-jabr wa'l muqabalah ("The Book of Integration
+and Equation"),2 from which algebra emerged
+for the first time as a separate and independent
+mathematical discipline. This was a crucial
+development, and was recognized as such by
+al-Khwarizmi's contemporaries, as much for its
+new mathematical style as for the nature of its
+subject-matter and above all for the rich promise
+it held out for further advances.
+In terms of style, it was both algorithmic, in
+that the author set out a series of computational
+procedures, and demonstrative. A new mathemat¬
+ics had to be devised that was general enough to
+be capable of handling different types of formu¬
+lation while existing independently of those for¬
+mulations. In al-Khwarizmi's work, an algebraic 37
+
+Detail from a treatise on
+equations by Sharif al-Din
+al-Tusi
+(late 12th-early 13th
+century). The manuscript
+dates from 1297.
+expression could refer to a number or to an irra¬
+tional quantity or to a geometrical magnitude.
+This new mathematics and its combination of the
+demonstrative and applied approaches was a strik¬
+ing innovation for the thinkers of the time.
+The novelty of the conception and style of
+al-Khwarizmi's algebra, which did not hark back
+to any previously known tradition, cannot be
+over-emphasized. The new algebra already afford¬
+ed a glimpse of the enormous potential for ap¬
+plying one mathematical discipline to another
+that lay ahead from the ninth century onwards.
+In other words, while algebra, by virtue of its
+widespread scope and the new concepts it in¬
+troduced, made such applications possible, their
+number and variety were thereafter constantly
+to change the face of mathematics.
+Al-Khwarizmi's successors increasingly ap¬
+plied arithmetic to algebra and vice versa, arith¬
+metic and algebra to trigonometry, algebra to the
+Euclidian theory of numbers, and algebra to ge¬
+ometry and vice versa. All these applications
+-
+-
+-
+-
+a»
+-
+-
+'- -
+^
+38
+paved the way for new disciplines or at least for
+new chapters in the history of mathematics.
+Could you give us a significant example of the
+encounter between arithmetic and algebra?
+One example that springs to mind is the con¬
+tribution which Arab mathematics made to clas¬
+sical number theory.
+By the end of the ninth century, the most im¬
+portant Greek texts on arithmetic, such as Eu¬
+clid's own volumes on the subject, the Introductio
+arithmeticae of Nicomachus of Gerasa, and the
+Arithmetica of Diophantus of Alexandria, had all
+been translated. Further chapters in the theory
+of numbers were opened in the wake of these
+translations and could in a sense be said to have
+been a reply to them. For example, two signifi¬
+cant steps were taken in respect of the theory of
+amicable numbers. The first of these led, in the
+context of Euclidian arithmetic, to a new set of
+findings, while, as a result of the application of
+algebra to the theory of numbers, the second step
+culminated some centuries later in the creation
+of a field of number theory that owed nothing
+to the Greeks. We can look into these two aspects
+more closely.
+Although Euclid put forward a theory of per¬
+fect numbers at the end of Volume IX of his Ele¬
+ments, neither he nor Nicomachus of Gerasa had
+developed the theory of amicable numbers.3
+Thabit ibn Qurrah, who translated the work of
+Nicomachus and revised a translation of the Ele¬
+ments, decided to work on this theory. He came
+up with and demonstrated, in pure Euclidian
+style, a remarkable formula for amicable num¬
+bers which now bears his name.
+If we disregard the mystique which had sur¬
+rounded amicable numbers and look only at the
+mathematics, it has to be acknowledged that, up
+to the end of the seventeenth century at least, the
+history of amicable numbers merely consisted of
+a passing reference to Ibn Qurrah's formula and
+its transmission by later mathematicians. These
+included such Arabic-speaking mathematicians as
+al-Antaki, al-Bagdadi, ibn al-Banna, al-Umawi and
+al-Kashi, whose differing origins in both time and
+place clearly show the widespread dissemination
+of Ibn Qurrah's formula, which crops up again
+in the work of Pierre de Fermât in 1636 and in
+that of René Descartes in 1638.
+The second step is noteworthy for the fact
+that the celebrated physicist and mathematician
+Kamal al-Din al-Farisi, who died in 1320, wrote
+a paper in which he deliberately set out to demon¬
+strate Ibn Qurrah's formula, but by a different
+path. Al-Farisi based his new demonstration on
+a systematic knowledge of the divisors of a whole
+number and of the operations that can be applied
+to them. However, this demonstration involved
+a reorganization which gave rise not only to a
+change in the perspective of Euclidian arithmet¬
+ic, but to the promotion of new topics in num¬
+ber theory. It accordingly became possible to
+speak of a non-Hellenistic area in number theory.
+
+Ç»V-r a» aaa* tW aV* .Jr"*1"»- **"
+t^vaW ^*Aaou_ya«AaÎ4a. q r-*at ar
+Ci*-'. aVvaí. üfL-yCtt í/*» Í»-C lfr.ll»»* .»»V V
+aKi -î,i *_<*<* a»»*» ait^ ar*air-«**
+P/ - -
+r,»w*iiV.«*.a^r ^ x	^
+. '^Maaaal AtM .. i-\j-&
+(lihail'UMfclSti««-»»!«'!««*
+f\ «alita* » »V** ^aa, r»" f
+_}fV|^ 5.W.I Clavan« r^íHt ^í-VvCKfíf fc
+-'a. a. ..a 3aC ,aT~aaa. *-tl5 aij*t r4 Xe.
+i?t*lfcZL» i*yr\¿ifi¿^iixight, part of a Latin
+translation of al-
+Khwarizmi's treatise on
+algebra in a manuscript
+dating from 1145. Far
+right, a commentary on
+Euclid's Elements of
+Geometry by Nasir al-Din
+al-Tusi (1201-1274).
+(15th-century Persian
+manuscript)
+In order to make it possible to engage in this
+new study of divisors, al-Farisi had to establish
+explicitly certain facts that had only been latent
+in Euclid's Elements. He also had to make use of
+the advances in algebra since al-Karaji's time in
+the tenth and eleventh centuries, and especially
+of combinatory methods. Hence, al-Farisi's ap¬
+proach was by no means confined to demonstrat¬
+ing Ibn Qurrah's formula, but enabled him to
+embark on a new study involving the first two
+arithmetical functions: the sum of the divisors of
+a whole number and the number of those
+divisors.
+This style, which applied algebra and com¬
+binatory analysis to Euclidian arithmetic, was still
+prevalent in Europe in the seventeenth century,
+at least until 1640. The analysis of al-Farisi's con¬
+clusions and of the methods he used thus goes
+to show that, by as early as the thirteenth centu¬
+ry, it had been possible to produce a set of propo¬
+sitions, findings and techniques that had hitherto
+been ascribed to the mathematicians of the seven¬
+teenth century.
+What about the new relationship that was
+established between algebra and geometry?
+We have already seen that the mathematical
+landscape was no longer the same from the ninth
+century onwards; it was transformed and its
+frontiers were rolled back. Greek arithmetic and
+geometry became increasingly widespread. In ad¬
+dition, non-Hellenistic areas were developed wi¬
+thin the corpus of Hellenistic mathematics itself.
+The relationship between the old disciplines was
+no longer the same, and a host of other group¬
+ings were formed. This changing pattern is cru¬
+cial to an understanding of the history of
+$_*, A-aî.*f rt -J»» af « .)* a* a.ta
+(it- j,""aa j_--4-^ J)t>-~a .a«^»-
+a^a~ afcaWai (A*»*5*.^« Üa*¿ t>«»« ,?U>Jaa, ûa&a)
+<««*naH ïùijv.nv» mV ACaVtCaaVâaJaV v-«-«aît"a-j
+.v-^ä^£~i; Ait lifT^cvieZte^S-tgl T¿+~r'X
+lf*r-*,'',J,'**,;i-* n*-!««.« *
+. wl
+H*&>jB
+ifHaa JVÄ- f~t a.» va« J*J.tV f-z'
+*-<f**$cip£»4?f~*
+Líi*í -»»S «~a«-â Ha-.'^f-^fc; JL» Caa»î.	» ia-a<Aaa*< .afra) « Jf_
+* . ,.*" ** ^TtÍT*" »TÜ*!*1 a^-ta-?*»^» ai/» n-falj
+/^Y
+I A
+V
+\i.'v.v73-«.v
+'.4Vc-*.^C''v
+; a« -i~ »/»-a^-4 '"
+Xa-i'rfjJP^ij/^-iJjiJ^Jlï/i^ui/j i
+jJgVj-a-o-j Ja> Aíjt-á-yatJj. JlaiJj.aP
+¿jai > *"g/Ù ' 't-ilr'lijSplJ S Ja a¿>
+^Ja> a»a-l^aiacii't^'^<a*> -{J^
+Ja^j^tr>aWW^/WJ>^'>>'aWU>-
+mathematics generally, for the new relationship
+between algebra and geometry gave rise to tech¬
+niques of enormous potential.
+The mathematicians of the tenth century em¬
+barked on a two-way exercise in conversion
+which had never previously been envisagedthe
+translation of geometrical problems into the lan¬
+guage of algebra, and vice versa. They translated
+into algebraic terms solid problems that could not
+be constructed with ruler and compass, such as
+the trisection of the angle, the two means, and
+the regular heptagon. Moreover, algebraists and
+also geometers such as Abu al-Jud b. al-Leith,
+when faced with the difficulty of using radicals
+to solve a cubic equation, were able to turn to
+the language of geometry and apply the intersect
+ing curves technique to the study of this type oi
+equation.
+The first attempts to provide a basis for these
+conversions were made by al-Khayyam (c.
+1048-1131). In his bid to go beyond the specific
+cases represented by a particular form of cubic
+equation, al-Khayyam developed a theory of al¬
+gebraic equations of a degree less than or equal
+to three which at the same time provided a new
+model for the formulation of equations. He then
+studied cubic equations using conic sections in
+order to reach positive real solutions for them.
+In order to construct his theory, al-Khayyam had
+to visualize the new relationship between algebra
+and geometry in clearer terms before being able
+to formulate it. From then onwards, the theory
+of equations appeared, albeit still tentatively, to
+bridge the gap between algebra and geometry.
+In his celebrated treatise Algebra, al-Khayyam
+produced two remarkable findings which histori¬
+ans have wrongly attributed to Descartes. These
+ROSHDI HASHED,
+of France, is director of
+research at the National
+Centre for Scientific
+Research (CNRS). He is the
+author of many studies on
+the history of Arah
+mathematics. Several of his
+articles were published in
+Entre arithmétique et
+algèbre, Recherches sur
+l'histoire des mathématiques
+arabes (ï.es Belles Lettres
+publishers, Paris, 1984).
+39
+
+f?Mi
+ïït
+IUH
+m
+-
+
+Left, the Istanbul
+observatory is shown in
+this Turkish miniature
+dating from 1581.
+JKight, title of a
+manuscript of 1228 which
+sets forth the theory of
+amicable numbers
+formulated by Thabit ibn
+Qurrah (d. 901).
+1. The last five books of
+Diophantus' Arithmctica are
+principally devoted to the
+solution of indeterminate
+equations, i.e. those with more
+than one variable and a large
+number of solutions. Editor
+2. The word algebra is derived
+from the title of this work which
+was translated into Latin many
+times in the Middle Ages and had
+a strong influence on medieval
+Western science. The word
+algorithm, which designates any
+method of computation (such as
+the decimal system) involving a
+series of steps, is derived from the
+Latinized form of al-Khwarizmi's
+name. Editor
+3. A number is perfect if it is
+equal to the sum of its own
+divisors (for example 6 = 3 + 2
++ 1; 28 = 14 + 7 + 4 + 2 + 1).
+Two integers form a pair of
+amicable numbers if the sum of
+the proper divisors of one is
+equal to the other. This is true of
+the numbers 220 and 284, which
+were for a long time the only
+known pair of amicable numbers.
+are the generalized solution of all third-degree
+equations by means of two intersecting curves,
+and the possibility of performing a geometric cal¬
+culation by defining a unit length, which was a
+fundamental concept.
+Some fifty years after al-Khayyam, his suc¬
+cessor Sharaf al-Din al-Tusi made a further step
+forward. In an attempt to demonstrate the exis¬
+tence of the point of intersection of two curves,
+he arrived at the problems of finding and separat¬
+ing the roots of the equation and of dealing with
+the conditions under which they existed. In ord¬
+er to find a solution he defined the notion of max¬
+imum values for an algebraic expression and tried
+to find concepts and methods for determining
+such "maxima".
+This not only led al-Tusi to the development
+of concepts and methods, such as derivatives, that
+were only to be named as such at a later date,
+but also compelled him to change his approach.
+He discovered the need to use local procedures,
+whereas his predecessors had only considered the
+overall properties of the objects being studied. All
+these findings and the theory embracing them are
+obviously important and have often been at¬
+tributed to mathematicians who only came sever¬
+al centuries later.
+These are the main features of the dialectic
+
+
+between algebra and geometry. To complete the
+picture, however, two impediments which
+slowed down the progress of the new mathemat¬
+ics should be mentioned. These were a reluctance
+to use negative numbers as such, at a time when
+they had not yet been defined, and the shortcom¬
+ings of symbolic notation. Both issues were to
+preoccupy later mathematicians.
+In political historiography distinctions are made
+between Antiquity, the Middle Ages, the Renais¬
+sance and modern times. Do you think that this
+breakdown is relevant in an account of the his¬
+tory ofmathematics, and especially of the Arab
+contribution?
+It is true that "medieval" mathematics has been
+contrasted with "modern" mathematics. The first
+historical corpus, covering Latin, Byzantine and
+Arab mathematics, and Indian and Chinese
+mathematics as well, could be distinguished from
+another body of work which came into being
+with the Renaissance. I don't feel that this
+dichotomy is relevant in either historical or
+epistemological terms. Arab mathematics clear¬
+ly represents a continuation and outgrowth of
+Hellenistic mathematics, which was its breeding-
+ground. This is also true of the mathematics
+which grew up in the Latin world from the
+twelfth century onwards. Finally, the work ac¬
+complished in both Arabic and Latin (or Italian)
+between the ninth century and the early seven¬
+teenth century cannot be split into separate
+periods.
+On the contrary, all the indications are that
+the type of mathematics involved was the same.
+This is borne out by the fact that we can now
+compare the work on algebra and numerical com¬
+putation produced by al-Samaw'al in the twelfth
+century with that of Simon Stevin in the six¬
+teenth century; al-Farisi's findings in number the¬
+ory with those of Descartes; the methods used
+by al-Tusi for the numerical resolution of equa¬
+tions with that of François Viète in the sixteenth
+century or al-Tusi's search for maxima with
+that of Fermât; al-Khazin's work on integral
+Diophantine analysis in the tenth century with
+that of Bachet de Meziriac in the seventeenth cen¬
+tury, and so on. If we were to disregard the work
+of al-Khwarizmi, Abu Kamil, al-Karaji and others,
+how could we understand the work of Leonardo
+of Pisa and the other Italian mathematicians in
+the twelfth and thirteenth centuries, or the
+mathematics of the seventeenth century?
+True, the later seventeenth century was
+marked by the emergence of new methods and
+new areas of mathematical interest in Europe.
+However, that break did not necessarily occur all
+of a sudden, nor did it take place at the same time
+in every discipline. Moreover, the dividing lines
+seldom coincide with the works of different
+authors, but often cut right across them. In num¬
+ber theory, for example, the innovation did not
+lie in Descartes' and Fermat's use of algebraic
+methods, as has been claimed, since they simply
+rediscovered al-Farisi's findings. The break can
+actually be identified within Fermat's own work
+around 1640, with his invention of the "infinite
+descent" method and his study of certain quad¬
+ratic forms.
+It was really from the mid-seventeenth cen¬
+tury onwards that the tangled threads come
+together and the main breaks in continuity are
+identifiable. The contribution made by the Arab
+mathematicians thus fitted into a coherent pat¬
+tern which grew up between the ninth century
+and the first half of the seventeenth century.
+41

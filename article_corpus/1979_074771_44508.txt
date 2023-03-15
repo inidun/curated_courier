@@ -1,0 +1,328 @@
+The frontiers
+of science
+by Arkadii B. Migdal
+THE transformation of an idea into an
+accepted scientific truth, of a hypo¬
+thesis into a rigorously formulated
+physical law, is a long and often tortuous
+process. But is it possible to retrace the
+various steps in this process? And what ex¬
+actly is the difference between the scien¬
+tific assessment of a phenomenon and the
+comprehension of it that common sense
+dictates?
+ARKADII B. MIGDAL, noted Soviet theoreti¬
+cal physicist, is a member of the USSR Aca¬
+demy of Sciences and adviser to the Academy's
+Landau Institute of Theoretical Physics. A spe¬
+cialist in the field of the theory of elementary
+particles and atomic nuclei, he is the author of
+over 150 scientific papers and five longer stu¬
+dies. His Qualitative Methods in Quantum
+Theory was published in the USA in 1977 by
+Benjamin-Cummings Publishing Co., Menlo
+Park, California.
+The first step in any scientific undertak¬
+ing is to draw up the boundaries which
+mark off the area of indisputably establish¬
+ed scientific truths from the area of "im¬
+possibilities" which conflict with the data
+yielded by repeated scientific experiment.
+Between the two lies a no-man's-land em¬
+bracing phenomena which have not been
+studied but which, a priori, seem to lie
+within the bounds of the possible.
+In our time the frontiers of the possible
+have been pushed back so far that they
+merge into those of wonderland. Men cir¬
+cle the earth in spacelabs for months at a
+time. Televiewers can watch a sporting
+event while it is taking place thousands of
+kilometres away. Equally miraculous, com¬
+puters can play chess, translate, write
+verse and above all carry out in a matter of
+minutes calculations which would other¬
+wise take years.
+It is tempting to ask whether science
+knows its limits, and to wonder whether a
+scientific revolution may not lie ahead,
+which will turn our ideas upside down. The
+history of science and epistemology rule
+out the possibility of such an upheaval.
+Even the astonishing concepts of the
+theory of relativity did not constitute a total
+revolution; they were a consequence of
+scientific evolution, solidly based on earlier
+scientific discoveries. Furthermore, they
+only affected a relatively limited number of
+problems and did not change the existing
+laws of mechanics and the electrodynamics
+of bodies moving at normal speeds.
+What happened was that our knowledge
+was extended in the then unstudied field of
+speeds near to that of light. Before the
+theory of relativity was developed, it was
+logical to suppose that the laws of j
+mechanics and electrodynamics were valid I
+29
+
+at speeds higher than those for which they
+had been established experimentally.
+Doubts only emerged when this
+hypothesis was contradicted by scientific
+experiments. This is the usual path of
+scientific progress.
+Science, it has been said, is the product
+of truth multiplied by doubt. At the begin¬
+ning of the nineteenth century, descrip¬
+tions of meteors, "celestial stones", were
+dismissed by many scientists as the fruits
+of fantasy. Stones, after all, could not drop
+from the sky. Such a refusal to accept the
+inexplicable is highly dangerous and often
+leads to error.
+Many examples could be cited of the
+way in which preconceived opinions have
+slowed the development of science. The il¬
+lustrious inventor of the theory of relativity
+himself made a mistake of this kind, draw¬
+ing a false conclusion from a preconceived
+idea when he attempted to establish an en¬
+tirely new cosmology.
+After demonstrating that the laws of
+Euclidian geometry were not valid in the
+vicinity of a large mass, Einstein wished to
+take a new and staggeringly audacious step
+forward. He applied his theory of the
+gravitational field to the universe, replac¬
+ing, as is the practice in the study of a gas,
+the real distribution of masses in space
+with the notion of the average density of
+matter.
+It transpired that the equations of
+gravitation for a universe such as ours did
+not admit a static solution. To achieve a
+solution corresponding to his description of
+a finite universe whose radius of curvature
+was independent of time, Einstein artificial¬
+ly introduced into the gravitational equa¬
+tions an additional factor which upset their
+harmony.
+Around the same time, an outstanding
+Petrograd mathematician named Alex¬
+ander Friedmann was studying various
+possibilities of solving Einstein's equations
+without introducing this new factor. He
+came to the conclusion that the universe is
+expanding and that beside the "closed"
+model, there can exist for certain values of
+average mass density, an "open" model in
+which the dimensions of the universe in¬
+crease indefinitely. At first Einstein was
+critical of Friedmann's work, but later came
+round entirely to his position and rejected
+the introduction of an additional factor in
+the gravitation equations.
+"After reading Friedmann's letter, which
+Mr. Krutkov [a famous Soviet theoretical
+physicist] communicated to me", wrote
+Einstein, "I am now convinced that my
+criticisms were based on an error of
+calculation. I consider that Friedmann's
+results are correct and throw a new light on
+the question." Friedmann learned of the
+existence of this text shortly before his
+premature death in 1925. His solution was
+later confirmed experimentally when the
+U.S. astronomer Edwin Hubble
+demonstrated that the galaxies appear to
+be moving away from each other.
+Several cases of scientific error have
+been analysed and methodological conclu¬
+sions drawn from them, the most
+unassailable being that scientists should
+avoid taking up categorical positions in in¬
+sufficiently studied fields. When scientific
+errors occur today, they are soon rectified.
+Science does not, however, confine
+itself to defining the bounds of the possi¬
+ble, it also rigorously sorts out hypotheses,
+even the most likely ones, from
+demonstrated propositions. In this way it
+draws attention to propositions which re¬
+quire further research. It is possible to
+believe, for example, that the earth has
+been visited by emissaries from another
+world, but scientists have no grounds for
+affirming that this is so.
+This weeding out process, disagreeable
+though it may often be for the scientist,
+has the effect of highlighting certain
+phenomena which though apparently
+strange are in fact real. Such a
+phenomenon is the "twin paradox". Ac¬
+cording to the theory of relativity, if one of
+a pair of twins were to go on a journey in a
+spaceship travelling at a speed approaching
+that of light, when he returned he would be
+younger than his brother who had remain¬
+ed on earth. This astonishing affirmation
+has been demonstrated not only
+theoretically but experimentally. Time
+measured during a space flight by a high-
+precision atomic clock is less than that
+shown by an identical clock which remains
+on earth.
+Here is another example of a peculiar
+phenomenon which is nevertheless authen¬
+tic. It has always been thought that marine
+animal and plant life only exist near the
+ocean surface where the sunlight can
+penetrate and make photosynthesis possi¬
+ble. However, volcanic areas of seabed, in¬
+accessible to sunlight, have recently been
+discovered several kilometres beneath the
+surface where temperatures are high and in
+which specific forms of animal and plant
+life subsist, possibly as a result of pro¬
+cesses of chemical synthesis.
+It cannot be said of such phenomena
+that "I'd like to believe in them but there
+are no grounds for doing so". The expres¬
+sion "no grounds" signifies that the ques¬
+tion has been studied and that initial con¬
+jectures have turned out to be unjustified.
+To put the scientific approach into a nut¬
+shell: "one would like to believe" in a given
+proposition, but if "there are no grounds"
+for doing so then it must be rejected.
+Human nature is such that mankind
+spontaneously aspires, not only to the
+beautiful but also to the mysterious and the
+unusual. In Pushkin's words, "an illusion
+which exalts us is dearer than the shadows
+of shabby truths". I would add to
+Pushkin's words the following remark by
+Einstein: "The most beautiful thing that we
+can experience is the mysterious". For
+Einstein the sense of mystery lies at the
+root of the fundamental tendencies of art
+and science. Alas, the same aspiration
+towards the mysterious is at the origin of
+much unscientific thought.
+The task of science is to select the most
+likely explanations and to stick to them un¬
+til experimental results demand that others
+be found. This does not mean that there
+should be an embargo on research into
+unlikely phenomena. As the U.S. physicist
+Richard Feynman pointed out: "One of the
+surest ways to stop scientific progress is to
+limit experimentation to fields in which the
+laws have already been discovered".
+The following hypothesis, which is both
+simple and convincing, was adopted by
+science long ago. The processes which
+operate in nature are governed, in the last
+analysis, by the same laws which govern
+interactions in experimental physics. Until
+The twin
+Drawings studic Philippe Gentil © Unesco Courier
+^r-S^^
+m ; JB
+Y 1
+m il II T H
+W\\}\ V3 J
+FH
+mW'gf
+r s
+(^ ,»-
+te $tW
+mmym
+30
+
+now this hypothesis has never been dis¬
+proved; in fact it has shown itself to be so
+fertile that it has explained such a mys¬
+terious phenomenon as heredity.
+The different branches of the exact
+sciences have many procedures in com¬
+mon. Methods exist, for example, which
+can prove an idea to be false even before
+research into it is begun. But the most im¬
+portant factor, without which success will
+elude even the most brilliantly gifted scien¬
+tist, is the capacity for enthusiasm and
+astonishment at even the smallest achieve¬
+ment, and for approaching science with the
+veneration Einstein described when he
+wrote: "Full of astonishment, I simply
+make conjectures about mysteries and
+humbly try to paint a mental picture, which
+is far from being complete, of the perfect
+structure of the being".
+Arkadii B. Migdal
+paradox
+The assertion of the relativity theory that
+time and distance are not absolute values,
+but are dependent upon the relative
+motion of observers, and that the only
+absolute constant is the speed of light
+leads to some apparently very bizarre
+conclusions about events occurring at
+ultra-high speeds. For example, to a man
+standing on a launching pad and watching
+a spacecraft moving away at a speed
+approaching that of light, a clock in the
+spacecraft (if he could see it) would
+appear to be moving very slowly. To the
+space-traveller looking back it would be
+time on earth that appeared to be slowed
+down. This apparent contradiction gave
+rise to a famous brain teaser known as
+the "twin paradox". If the man on the
+ground and the space-traveller were
+twins, what difference, if any, would
+there be in their ages on the return of the
+spacecraft to earth ? Ultra-high-speed
+travel, it seems, helps to keep you young.
+Einstein showed that, because of other
+relativistic effects, including, for instance,
+the effect of acceleration on the space-
+travelling twin involved in turning the
+spacecraft and bringing it back to earth,
+the astronaut would age more slowly than
+his stay-at-home twin. The English
+astrophysicist Herbert Dingle, however,
+maintained that this conclusion was
+absurd. If, as the theory of relativity
+states, there Is no absolute movement,
+only movement in relation to other
+objects, it could be argued that the
+spacecraft had remained motionless and
+that the earth had moved away from it at
+great speed and then returned. In this
+case the earthbound twin would be the
+younger. But, obviously, both brothers
+cannot be younger than each other. There
+is, however, a fundamental difference
+between the relative movement of the
+astronaut twin and that of the stay-at-
+home. If the earth were said to move
+away from the spacecraft, the entire
+universe would have to move with it. In
+other words, the earth would remain
+motionless in relation to the universe and
+the relativistic effects associated with
+acceleration would still only apply to the
+twin in the spacecraft. So after all high
+speed travel does keep you young.
+Albert Einstein and Robert Oppenheimer. In 1943 Oppenheimer was appointed director of
+the Los Alamos Atomic Research Laboratory where the first nuclear bomb was
+developed, and in 1947 became director of the Institute for Advanced Study at Princeton.
+"Einstein is often blamed or praised or credited with these miserable bombs,"
+Oppenheimer wrote. "It is not in my opinion true... His part was that of creating an
+intellectual revolution, and discovering more than any scientist of our time how profound
+were the errors made by men before them... Einstein himself is really not answerable for
+all that came later."
+

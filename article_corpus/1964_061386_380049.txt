@@ -1,0 +1,249 @@
+é ft
+Jr. «
+p' F
+!.T|
+LASE
+100 MILLION MESSAGES
+ON A BEAM OF LIGHT
+¿y ßruno Friedman
+Bell Telephone Laboratories. New York
+Lasers produce a visible light beam one million times more intense than thought of tho same colour emitted
+by the sun and offer great promise in many fields. Here a scientist checks a helium-neon gaseous laser.
+0|ur modern technology, all aspects of our
+highly technical civilization, may be poised for
+a forward surge that is unimaginable in scope. All this
+is based on the re-stimulation of an old science, the
+science of light, by a new device, the "optical maser" or
+"laser". So new is this device that is first prototype
+was put Into operation less than three years ago.
+A laser does this: it produces a narrow beam of light,
+which is "monochromatic" of a single, sharply defined
+colour or wave lengthrand "coherent", that is, with all
+the light waves marching in regular order, like the waves
+of a smoothly running sea. Light with these characteris¬
+tics has never before been available to man. Being avail¬
+able now, it opens the way to major developments in com¬
+munications, radar, surgery, power transmission without
+lines, and so on. All the possibilities have not even yet
+been imagined.
+These possibilities are particularly amazing in the field
+of communications. A single laser-produced light beam
+has inherently the ability to carry all the information
+transmitted by all the television stations, radio stations,
+teletypewriters, and telephone lines in the world, op¬
+erating at the same time. Developing the technical means
+to use this amazing message-carrying ability is a major
+problem facing scientists; but the first steps have already
+been taken. Television pictures and voice messages have
+already been experimentally carried on light beams.
+Light for communications will come Just In time. The
+entire radio spectrum Is already vastly crowded. More¬
+over, the demand for additional communications channels
+will multiply many times during the next decades.
+Lasers were theoretically predicted In the United States
+in late 1958 by Dr. C. H. Townes of Columbia University
+and Dr. A. L. Schalow of Bell Telephone Laboratories. The
+first operating laser, built in 1960 by Dr. T.H. Malman of
+the Hughes Aircraft Corporation, was followed rapidly
+by others.
+The essentials of a laser are simplicity itself. The first
+and best-known one, the ruby laser, consists of a synthetic
+ruby rod. less than a centimetre in diameter and 10-40 cm.
+long. This is surrounded by a tubular lamp, wound around
+It In the form of a spiral. Lighting up the tubular lamp
+causes a narrow pencil of bright red light to emerge from
+one end of the rod. This is the laser beam and It is a
+million times more intense than light of the same colour
+emitted by the sun. It is visible to the naked eye 40 kilo¬
+metres away.
+But what happens to the atoms within the ruby rod Is
+even more significant. In the planetary model of the atom
+electrons revolve in orbits around the atom's central
+nucleus. These orbiting electrons can shift to hlgher-
+CONT'D ON PAGE 17
+15
+
+Right, sparks fly as red
+light from a ruby laser
+drills a tiny hole clean
+through a steel plate 3 mm.
+or 1/8 inch thick. (Enlarg¬
+ed detail is shown on
+front cover). Laser beams
+have also been used to
+drill holes in diamonds
+which are the hardest
+substances known to
+man. Left, a vital part of
+an early model of the
+helium-neon gaseous la¬
+ser. Laser beams may one
+day be used to carry vast
+numbers of simultaneous
+telephone conversations
+and also TV programmes.
+Photos : Bell Telephone Laboratories. New York
+16
+r
+Above, a cutaway drawing
+shows the "heart" of a ruby
+laser a synthetic ruby rod
+surrounded by a spiral lamp.
+Light from the lamp stimu¬
+lates the atoms of the ruby.
+These store up light and
+then suddenly release it, pro¬
+ducing "coherent" light, that
+is, of waves that are all
+synchronized and travel in al¬
+most perfectly parallel beams.
+Laboratoire Central de Télécommunications. Paris - A. Papillon
+Left, a newly-made synthetic crys¬
+tal being withdrawn from an elec¬
+tric furnace. It will be used in the
+place of a synthetic ruby in laser
+experiments. Most laser light is
+deep red, but scientists hope to
+produce other colours such as
+blue-green which could be used,
+for example, to throw probing
+beams into the sea's depths. Ex¬
+periments are now being carried
+out with a laser using a fluor¬
+escent liquid instead of a ruby.
+
+LASERS (Cont'd)
+m »^^^^.^m_J.^H mmT *
+wSfmW
+5 T^ *t mMé
+fl
+Laboratoire Central do Telecommunications. Paris - A. Papillon
+A revolution in communications
+energy orbits, farther away from the nucleus, by absorbing
+light. They can also shift back again to their original
+orbits, in this case emitting light. The light they absorb
+and the light they emit are both of a very specific colour,
+though not the same colour.
+The ruby is composed of aluminium oxide (alumina) plus
+a very small sprinkling of chromium atoms. It is the elec¬
+trons in the chromium atoms which do the shifting of
+orbits. From the light of mixed colours produced by the
+tubular lamp they absorb green light and go to higher-
+energy orbits. Some of these higher energy electrons now
+spontaneously drop back to their original orbits, emitting
+red light. This released red light stimulates other elec¬
+trons, which are still in their higher-energy orbits, to fall
+back to their original orbits, also emitting red light.
+It Is this stimulated release of light which gives the
+laser its name, made up of the first letters of the words
+"light amplification by stimulated emission of radiation."
+The laser-produced light has the very important charac¬
+teristic of "coherence." This means that the waves com¬
+posing the light flow In completely regular sequence, like
+smoothly running ocean waves. Radio waves have this
+coherence. Such regular waves can serve as information
+or message carriers. Thus, at the transmitter, the com¬
+plete regularity of the carrier waves can be varied electro¬
+nically, the variations representing a television picture
+or a voice. At the receiver, the variations from complete
+regularity of the carrier waves are noted. These varia¬
+tions are then transformed back into reproductions of the
+original voice or picture.
+Coherent light has inherently such great message-
+carrying capacity that theoretically millions of messages,
+such as television pictures or telephone conversations,
+could be imposed on it, rather than merely one message.
+This follows from a simple rule: the information capacity
+of a carrier is proportional to Its vibration frequency.
+Since the frequency of light is something like a hundred
+million times as great as that of radio waves, its capacity
+for carrying information is correspondingly great.
+A laser beam, already extremely narrow, can be con¬
+verged even more by lenses. In 1962, scientists of the
+Massachusetts Institute of Technology and the Raytheon
+Corporation sent a beam through a telescope so that it
+emerged through the small end to the moon. Here it
+made a spot of light only 3 km. in diameter. Laser beams
+have also been converged to a fine, hot point by micro¬
+scope lenses, making an ultra-fine scalpel to painlessly
+remove a tumour from the retina of a human eye.
+The original ruby laser emits light In very brief pulses.
+For communications purposes a continuous beam will be
+required. Such laser beams have already been produced
+from gases and from various solid materials. These pro¬
+duce light of various frequencies, in the infra-red as well
+as in the visible range.
+Opening one's Imagination to to-morrow can suggest
+remarkable things from laser light. For example, Imagine
+a system of communications satellites orbiting the earth.
+Properly distributed, Just a few such satellites could relay
+all the messages radio, television, cable, telephone
+passing between all the continents of the globe, trans¬
+mitted on very few light beams.
+This fine picture has Haws. For one thing, the extreme
+narrowness of the light beams creates problems In aiming
+at and hitting a small target. However, electronic com¬
+puters will doubtless be able to handle this problem.
+More difficult to handle Is the Interference of clouds,
+mist, fog, and smoke. This difficulty may be met to some
+degree by using Infra-red light, which penetrates clouds
+and mist more readily than visible light; also, by locating
+light-projecting stations In arid regions, with good year-
+round weather conditions; and by having auxiliary stand¬
+by stations for times when the main stations are closed
+due to bad weather.
+Another possibility Is to send the laser beams along the
+ground through wave guides, which are simply pipes
+enclosing a vacuum. Repeater stations located on the
+wave guides at Intervals, say, every 100 km., will amplify
+the partially faded light beam and re-transmit It to the
+next repeater station.
+It is easy to imagine such wave guides running across
+continents, with a single beam In the guide serving as the
+equivalent to hundreds of thousands of telephone cables.
+Laser light may be used for communications with colo¬
+nies on the moon or on planets or with men in spacecraft
+or between spacecraft. But the problems of aiming and
+getting sufficient power output from a laser must be met,
+for adequately powerful continuous-beam lasers do not yet
+exist. It may also be noted that the tightness of the laser
+beam has certain other characteristics. It will be impossi¬
+ble, for example, either to Intercept messages or to Jam
+transmissions.
+Bruno Friedman ij an American science writer. A former
+research chemist, he is now editor of "Technological Digest",
+published by the Organization for Economic Co-operation and
+Development, in Paris.
+17
+
+LASERS (Cont'd)
+A REVOLUTION
+IN SURGERY
+These remarkable pictures show how light
+from a ruby laser helps scientists at France's
+National Blood Transfusion Centre in Paris to
+study body cells. Right, the equipment they
+use: a closed-circuit TV installation, a ruby
+laser and a powerful microscope. Photos
+below show the amazing precision they
+obtain from the "coherent" light which can
+be used by a surgeon as a micro-scalpel.
+(1) Red blood corpuscles placed under the
+microscope are photographed by the TV
+camera and their image is relayed to the
+screen shown on right. A spot of normal light
+is used to "zero in" on one of the corpuscles.
+(2) A flash of laser light lasting about one-
+thousandth of a second then scores a bulls-
+eye on the corpuscle. (3) As soon as it is hit
+the corpuscle changes colour and begins to
+dissolve. Dark patch is the point of impact
+and appears to be coagulated haemoglobin.
+CSF, Paris - Georges Bru
+
+^^
+J
+o
+:o
+& mm»
+19

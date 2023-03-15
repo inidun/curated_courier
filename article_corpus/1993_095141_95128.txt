@@ -1,0 +1,251 @@
+Hindu-Arab roots ofmedieval
+Europe M by Anóré Moró
+A written numeration system
+transmitted to the West from India
+via the Arab world
+34
+ANDRE ALLARD,
+of Belgium, is research director
+at his country's National Fund
+for Scientific Research
+(F.N.R.S.) and a professor at
+the University of Louvain. He is
+the author of many works on
+ancient and medieval science.
+A T the beginning of Molière 's last play, Le
+t\ Malade Imaginaire (1673), the hypochon -
+M ldriac Argan uses a counting-frame an
+abacus to reckon up the cost of the remedies
+prescribed by his apothecary. He eventually
+arrives at a total cost of "three and sixty pounds,
+four sous, six deniers."
+This method of counting, which dates back
+to Antiquity, was quite common in Molière's
+time. Though written numeration had been
+known in the Latin West for several centuries,
+and paper was in general use, the abacus with
+counters was still often used in the seventeenth
+and even in the eighteenth centuries. Leibniz
+used one, and Voltaire's famous correspondent
+Frederick II of Prussia took it as the pretext for
+a quatrain:
+"Courtesans are counters
+Whose value depends on their place :
+In favour, millions,
+Noughts in disgrace."
+The counting-frames still used in the Far
+East and parts of Eastern Europe (the Chinese
+xuanban, the Japanese soroban and the Russian
+schoty) are linear abaci based on the same prin¬
+ciple as those of ancient Greece and Rome.
+How did counting devices of this kind come
+to be superseded in the West by figures?
+Counters, fingers and Indian
+numerals
+During the early Middle Ages (from the fifth cen¬
+tury, which saw the fall of the Roman Empire, to
+the ninth) Western writers' scientific knowledge
+was limited to a speculative arithmetic based
+mainly on the Introduction to Arithmetic by the
+second-century neo-Pythagorean Nicomachus
+of Gerasa, and a practical method of calculation
+using counters, not written figures. These coun¬
+ters were remotely descended, via the calculi of the
+Romans, from the pebbles used by the Greeks of
+Pythagoras's time to represent numbers.
+For a long time the only rival to the counter
+system was reckoning on one's fingers, as described
+in the seventh century by the Venerable Bede in his
+brief treatise De Temporibus ("On Times"):
+"When you say one, bend the little finger of
+your left hand and dig it into the middle of your
+palm. When you say two, do likewise with the
+bent second finger from the little one	 When
+you say five, likewise straighten the second
+finger from the little one. . . . When you say
+ten times a hundred thousand, clasp both hands
+with the fingers interlocked	"
+This method of using the hands for counting
+remained current for a very long time. A detailed
+description of it (figure 1) can be found as late
+as 1494 in one of the most important mathe¬
+matical works of the modern era, Summa de
+Arithmetica by Luca Pacioli (Luca di Borgo)
+which was published at Venice in that year.
+
+Portrait of the Italian
+mathematician Luca
+Pacioli(c.l44S-c.l5IO), by
+Jacopo de' Barbari.
+figure /. Numbering by band
+Illustration showing a
+method of using the hands
+for counting taken from
+Luca Pacioli's Summa de
+Arithmetica, Geometría,
+Proport/on/ e
+Proport/ona/ità (1494), a
+compendium of
+mathematical knowledge.
+Gerbert of Aurillac, who in 1003 became
+Pope as Sylvester II, seems to have been one of
+the first persons to propagate the use of Hindu-
+Arabic numerals in Europe. He did so by bor¬
+rowing from the Arabs of Spain the use of an
+advanced type of abacus with twenty-seven
+columns, on which counters made of horn could
+be moved. The counters were usually marked
+with the first nine numerals.
+I From Baghdad to Toledo
+In the early ninth century the Abbasid Caliph al-
+Ma'mun founded at Baghdad an academy called
+the House of Wisdom, which promoted cul¬
+tural exchange with India, in particular transla¬
+tions of manuscripts collected by his envoys.
+The mathematician al-Khwarizmi, in addition to
+his famous Kitab al jabr wa'l-muqabala, the
+basic text of Arabic algebra, also wrote a "Book
+of Addition and Subtraction" and a "Book of
+Indian Arithmetic".
+The latter work gave rise to two traditions.
+One, exclusively Arabic and of the highest quality,
+reached its peak in the ninth and tenth centuries.
+The other, equally important, developed later. In
+twelfth- and thirteenth-century Europe, and espe¬
+cially at Toledo, translators and compilers of
+Arabic books in Latin played a key role in the
+development of mathematics in the West, com¬
+parable to that played by the Baghdad scholars and
+translators in the Islamic world.
+Under the influence of the new mathematical
+treatises they wrote towards the middle of the
+twelfth century, reckoning by abacus, cither with
+counters or in the sand (in which figures could
+easily be written and erased), and on the fingers
+gradually gave way to a system based on Indian
+and Arabic methods. This was "algorism", a
+word derived from al-Khwarizmi's name.
+Based on the nine digits (figurae in Latin) and
+the zero (sometimes called cifra in the Latin
+texts, from the Arabic sifr, "emptiness", but
+more often called circulus, "little circle"), algo¬
+rism made it possible to perform traditional
+operations on whole numbers (addition, sub¬
+traction, duplication, multiplication, division 35
+
+1 2th century
+"Toledan" numbers
+"Indian" numbers
+Astronomical tables
+13th century
+1 2 3 4 5 6 7 8 9 0
+\ 3 3 S- 4 G ? S 7 0 / T
+A, P r 7* fl V <r r
+i, ï ¥ 9- °l ¿ 7 « ¿ û / f
+Manuscript, Staatsbibliothek, Munich
+123 4 56 7 89 0
+1 P 3 JU/^ 4 £ V /7 S ? -^
+i P >» /* ^ V 7 9 ?
+Manuscr/pf, Biblioteca Apostólica, Vatican
+15th century
+1 2 3 4 5 6 7 8 9 0
+i X 3 4- r ¿ 7 S ; o
+Book printed byJohann Widmann, Leipzig, 1489
+This table shows how the
+writing of numerals in the
+West evolved from the two
+series of figures originating
+from the eastern and
+western parts of the Arab
+world (12th to 15th
+centuries). The
+manuscripts conserved in
+Munich (12th century) and
+in the Vatican (13th
+century) show how the two
+different forms continued
+to exist side by side. The
+numerals in Widmann's
+book (late 1 5th century)
+represent the culmination
+of a process of evolution
+that is still not fully
+understood.
+figure 2.
+Turning the numbers 2 and
+3 in their eastern Arabic
+written form through
+ninety degrees to the left
+gives a fairly convincing
+approximation to the
+western Arabic forms and
+shows how they may have
+evolved into the forms
+familiar to us today.
+V
+\>
+and extraction of roots) faster and more reliably.
+Contrary to a view widely held during the
+Middle Ages and the Renaissance, numerals of
+Indian origin brought to the West by the Arabs
+owed nothing to the late Roman mathemati¬
+cian of the sixth century, Boethius.
+In the late thirteenth century most of these
+treatises were eclipsed by the impressive "Book of
+the Abacus" by the Pisan mathematician Leonardo
+Fibonacci (Leonardo of Pisa). Contrary to what
+its title might suggest, this work marked a final
+break with the abacus tradition. Even more influ¬
+ential were two highly successful works,
+Alexandre de Villedieu's "Song on Algorism" and
+Sacrobosco's "The Common Algorism".
+For a long time Hindu-Arabic numerals were
+written in Western manuscripts in a wide variety
+of ways. From the outset translators were faced
+with two series of figures, one from the eastern part
+of the Arab world, the other from the western
+Arab world. The latter seems to have developed as
+a result of two factors the discovery of the prin¬
+ciples of Indian arithmetic and the ways in which
+the abacus was then used. This difference can
+only be seen in a few Latin manuscripts (table at
+top of page). In most cases Western copyists tran
+scribed forms that were increasingly remote from
+their originals. Obliged to write from left to right
+(to which the Arabic shapes did not lend them¬
+selves), they gave the figures only a symbolic
+value and soon distorted their forms. This palaeo-
+graphical evolution continued until the Renais¬
+sance, and may have reflected Visigothic influ¬
+ence. It is particularly striking in the cases of the
+numbers 2 and 3 (figure 2).
+I The triumph of algorism
+By the tenth century if not before, the ease with
+which calculations could be done with Indian
+numerals led the Arabs to improve the technique.
+Some methods spread in other ways than through
+textbooks of arithmetic. Probably on one of his
+many journeys, Leonardo of Pisa became familiar
+with the Arabic method of calculating called
+"houses", and used it to devise his own "checker¬
+board" method a set of squares with all the
+numerals written in them, on which diagonals
+were drawn. This became very widespread.
+At the dawn of the Renaissance a wood
+engraving that was to become famous was made
+at Freiburg-im-Breisgau. It showed the "Philo¬
+sophical pearl" {Margarita Philosophica). On the
+left a money-changer representing Boethius is
+operating with Hindu-Arabic numerals and
+looking cynically at one of his colleagues, who
+with a shamefaced expression is working with
+an abacus and counters according to the
+Pythagorean tradition. Behind them, Dame Arith¬
+metic shows clearly where her own preferences lie:
+her dress is actually spangled with figures.
+There could be no better illustration of the
+triumph of figures in the medieval West, even
+though the latter all too rarely acknowledged its
+indebtedness to the Indian and Arabic civiliza¬
+tions which bequeathed it, among other legacies,
+this remarkable tool.

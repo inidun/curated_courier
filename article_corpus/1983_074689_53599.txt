@@ -1,0 +1,236 @@
+Anatomy
+of the computer
+FIVE hundred years ago, in Renais¬
+sance Europe, culture was disse¬
+minated by the newly-born printing
+press. At the heart of the modern revolu¬
+tion in communications technology is the
+microcomputer.
+WHAT IS A COMPUTER ? A computer
+is a tool. A tool operates by taking raw
+material and converting it into a product.
+It is a device which performs a process.
+The process is determined by people.
+The computer's raw material consists
+of facts or data. The product that it
+generates from this raw material is infor¬
+mation: The device is an array of elec¬
+tronic and mechanical gadgetry which is
+known as hardware. A computer is en¬
+tirely dependent on instructions supplied
+to it by its human users. These instruc¬
+tions, or programs, which tell the com¬
+puter how to carry out specific processes
+or tasks are known as software.
+WHAT COMPUTERS DO is to perform
+prodigious feats of arithmetic, handling
+millions of numbers per second. They
+achieve these dazzling exploits not
+because of any superhuman powers of
+intelligence but because they can carry
+out a few extremely simple operations
+accurately and very fast.
+HOW DO THEY DO THIS ? The inside
+of a computer is a complex maze of on-
+off switches which are used to perform
+the computing activities and can also
+store information in the computer's
+memory. Because they are assemblies of
+switches, computers work by using the
+binary system of numbers. In the binary
+system any number can be described by
+the values 1 or 0, which can be repre¬
+sented by turning a switch on (to mean 1 )
+and off (to mean 0). All information in the
+machine is thus reduced to two expres¬
+sions, which can be variously defined as
+zero (0) and one (1 ), off and on, or no and
+yes, corresponding to the presence or
+absence of an electrical charge at a par¬
+ticular point. Early computers relied on
+electromechanical on-off switches called
+relays which physically opened and
+closed. Today hundreds of thousands of
+them can be etched on to a minuscule
+fragment of silicon the microchip. The
+heart of the machine is a central pro¬
+cessor, a special chip on which instruc¬
+tions are stored and obeyed.
+Unlike the decimal system which uses
+ten digits (0 to 9), the binary system uses
+only two digits, 0 and 1, which can be
+used to describe any number. To create a
+2, you simply move 1 a column to the
+left, just as you do to create a 10 in the
+decimal system. Thus if zero is represent
+ed by 0 and one by 1 , then two is repre¬
+sented by 10, three by 1 1, four by 100,
+five by 101, and so on. Thus the com¬
+puter solves complex problems by break¬
+ing them down into long strings of Os and
+1s. (Because the computer performs its
+calculations using binary numbers, com¬
+putar scientists coined the word bit, from
+Binary digIT, to describe the smallest
+piece of information it can handle).
+DECIMAL
+BINARY
+EQUIVALENT
+0 0
+1 1
+2 10
+3 11
+4 100
+5 101
+6 110
+7 111
+8 1000
+9 1001
+10 1010
+11 1011
+12 1100
+13 1101
+14 1110
+15 1111
+16 10000
+
+MAIN SYSTEM BOARD
+PARTS OF THE COMPUTER
+AND WHAT THEY DO
+MODEM
+LINKS THE COMPUTER TO OTHER
+COMPUTERS BY TELEPHONE LINE,
+SENDING MESSAGES AND
+RECEIVING DATA
+MICROPROCESSOR
+CONTROLS ALL
+ACTIVITIES AND
+PERFORMS
+ARITHMETIC AND
+LOGIC FUNCTIONS
+RAM ROM
+j'4
+m
+ADAPTOR CARDS
+THAT FIT INTO
+EXPANSION SLOTS
+PROVIDE EXTRA
+MEMORY AND
+CONTROL
+ADDITIONAL
+HARDWARE
+PRINTER
+PRODUCES
+PAPER COPIES
+OF WHATEVER
+IS DISPLAYED
+ON THE
+SCREEN
+KEYBOARD
+IS USED TO SEND
+MESSAGES TO
+THE COMPUTER
+JOY STICK
+LEVER GENERALLY USED TO CONTROL
+POSITION OF A VIDEO-GAME
+CHARACTER
+DISC
+(FLOPPY OR
+HARD)
+STORES
+LARGE
+QUANTITY
+OF DATA
+DISC DRIVE
+READS DISC IN
+THE SAME WAY
+A TURNTABLE
+PLAYS RECORDS
+MEMORY COMES IN TWO FORMS
+MEMORY
+IS MEASURED IN
+BYTES USUALLY
+EQUIVALENT TO
+ONE TYPED
+CHARACTER.
+THE SIZE OF THE
+COMPUTER'S
+MEMORY IS
+GENERALLY
+DESCRIBED IN
+K's
+(IK = 1,024
+BYTES)
+ROM, (READ¬
+ONLY MEMORY)
+CONTAINS THE
+INSTRUCTIONS
+FOR STARTING
+UP THE
+COMPUTER. IT
+IS INDELIBLY
+PRE¬
+PROGRAMMED
+BY THE
+MANUFACTURER
+RAM. (RANDOM
+ACCESS MEMORY)
+CONTAINS
+INSTRUCTIONS FOR THE
+PARTICULAR TASK THE
+OPERATOR WANTS THE
+COMPUTER TO
+PERFORM. THESE ARE
+ENTERED FROM THE
+KEYBOARD OR DISC
+AND LOST WHEN THE
+POWER IS TURNED OFF
+Diagram © 1 982. Time Inc , New York. All rights reserved.
+Programming means giving instruc¬
+tions to a computer before it begins work
+on what it must dó and how the work
+must be done. Instructions are fed into
+the computer by various methods such
+as a typewriter-style keyboard which, in¬
+stead of typing letters, sends electrical
+impulses into the system. They are "writ¬
+ten" in one of the "languages" which
+computer scientists have devised to
+translate human wishes into some varia¬
+tion of the computer's two-word voca¬
+bulary, explained above. A program thus
+really involves setting up a number of
+switches to go on and off to order.
+The control unit in the machine's cen¬
+tral processor acts on the instructions
+given by the user to fetch information
+from the computer's memory. This infor¬
+mation is used by an arithmetic and logic
+unit, which also forms part of the central
+processor, for the required computing
+operations.
+Answers to problems can be presented
+in various ways; they may be printed or
+displayed on a visual display unit, which
+is like a TV screen.
+In addition to ordinary alphabetic or
+numeric characters, the computer can
+have special graphics, characters for
+creating diagrams on the screen. Detail¬
+ed pictures can be created by turning on
+and off hundreds of thousands of
+separate dots on the screen. This is how
+the figure of Rodin's Thinker on our cover
+was produced.
+How a computer thinks
+A decision tree is one way in which a computer can be made to "think".
+The tree is an ordered set of rules that leads the computer to reach a conclu¬
+sion. This simple diagram shows how a computer would use the decision
+tree to identify one animal from among a number of possibilities. First the
+computer determines whether the animal is a mammal. This example
+assumes that the computer can answer that question either by carrying on
+a dialogue with a person at a terminal, or by being able to analyse various
+pictures of animals with a camera eye. If the animal is a mammal, the com¬
+puter decides if the mammal is a carnivore. If it is a carnivore, the machine
+looks for stripes to choose between a tiger and a cheetah.
+15

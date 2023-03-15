@@ -1,0 +1,211 @@
+Dhruv Ghulati:  
+Fighting fake news
+What made you set up an AI startup to 
+tackle fake news? Isn’t it a daunting task, like 
+fighting corruption?
+Yes, it is. If you want to change the world, 
+rather than simply build a business, you 
+need to think about building enabling 
+technology, where, if it does work, the 
+potential impact on everyone everywhere 
+would be astronomical. By combining AI and 
+the human community, Factmata develops 
+explainable algorithms to solve the problem 
+of online misinformation and build a better-
+quality media ecosystem.   
+Factmata’s scoring system has the ability to 
+digest every piece of online content, read 
+it intelligently and score it on nine signals 
+− including hate speech, political bias and 
+sexism − to give users a deep understanding 
+of the quality, safety and credibility of any 
+piece of content on the web. It builds these 
+classifications in a fair and explainable 
+manner, by deploying a proprietary network 
+of experts who are most suited to assess any 
+given content in question. 
+Our goal is to build a new universal ranking 
+system for the quality of online content, to 
+be deployed across ad exchanges [a digital 
+marketplace that facilitates the buying and 
+selling of media advertising inventory from 
+multiple ad networks, often through real-
+time auctions], browsers, search engines, 
+social networks, and more. This will ensure 
+good quality journalism gets ranked higher 
+and monetized more, and low-credibility, 
+unsafe content gets demonetized. 
+AI innovations to counter 
+social challenges 
+What is the difference between Factmata 
+and other software out there − the kind that 
+Facebook uses, for instance?
+Our technology has the potential to be 
+more accurate because of the proprietary 
+way in which we use expert communities to 
+help build our software and give us unique 
+training data – which is very difficult and 
+time-consuming to maintain – rather than 
+using existing open datasets out there that 
+everyone else has access to. We’ve figured 
+out a way we can get that data more cheaply 
+and efficiently than others by making users 
+feel they are part of the process.
+Who are your primary users? 
+Our primary users are members of the 
+public who like to challenge their critical 
+thinking via our tools, and then brands 
+and governments who are trying to ensure 
+either they can monitor people spreading 
+rumours that are really bad for societal 
+health, or spread disinformation that can 
+derail a product launch or campaign. 
+When it comes to weeding out fake news, 
+would you say an AI is more effective than a 
+human?
+No. Humans are way better. But humans 
+don’t scale. Algorithms running on lots of 
+hardware can scan millions of content items 
+per second to flag them for fake news. But 
+it would take huge numbers of humans to 
+sift through such large volumes of content, 
+who would need to be replaced before they 
+got tired. Besides, only some humans are 
+more effective than other humans. Hence 
+the key is to combine the right humans with 
+the right AI. 
+Can hackers and fake news-mongers cheat 
+the AI? 
+Yes, they will try. But the good thing for us 
+is that every time they cheat it, it becomes 
+harder and harder. Soon, the number of 
+cheaters good enough to beat the system 
+is outweighed by the quality of the system. 
+This is how we dealt with email spam, and in 
+fact most spam/fraud/cybersecurity. 
+The key thing for us is being able to survive 
+long enough with enough funding to 
+build our core technology, whilst having 
+customers that can sustain us, to be able to 
+look to the future. I believe that with enough 
+hard work and time, we will tackle fake news 
+whilst most might give up.
+Interviews by Shiraz Sidhva
+Artificial intelligence (AI) is being harnessed to tackle two of the most 
+challenging problems today – the flagrant proliferation of fake news 
+and the increasing invasion of individual privacy. Factmata, which uses 
+AI to fight disinformation and D-ID, which protects identities from facial 
+recognition systems using AI, were two of the ten winners of the 2019 
+Netexplo awards, presented at UNESCO Headquarters in April. 
+Dhruv Ghulati, CEO and co-founder of the London-based Factmata 
+and Gil Perry, co-founder and CEO of D-ID, based in Tel Aviv (Israel) 
+and Palo Alto (United States), spoke to the UNESCO Courier about their 
+innovations.
+
+Work created in Copenhagen, Denmark, 
+part of the Controlled Lives series  
+by Italian artist Fabian Albertini.  
+© Fabian Albertini
+Gil Perry: Making faces 
+unreadable  
+You were a veteran of the Israel Defense 
+Forces Intelligence Corps’ elite 8200 unit. 
+What prompted you to create software that 
+protects identities from facial recognition 
+systems? 
+A group of us came up with the idea 
+during our military service. At that time, 
+we were very much aware of the risks that 
+face recognition technologies can pose to 
+privacy and identity protection. We were 
+not permitted to post our own photos on 
+social media for that reason. After leaving 
+the army, I decided to dive deeper into 
+the issue. I studied computer vision and 
+image processing and worked in the field 
+for several years. Then, about two and a half 
+years ago, I partnered with Sella Blondheim 
+and Eliran Kota, D-ID’s co-founders. 
+Together we started writing one of the 
+most complicated and ground-breaking 
+algorithms to protect photos from face 
+recognition technologies. This algorithm is 
+now the foundation of D-ID. 
+Our faces are now our passwords, but 
+unlike passwords, we cannot change them 
+so they need to be protected. We have 
+developed an AI technology that makes 
+images unrecognizable to face recognition 
+algorithms, while there are no differences 
+perceptible to the human eye. This allows 
+people to store, share and utilize images 
+and videos without having to worry about 
+their faces being picked up, identified and 
+misused by automated face recognition 
+tools.
+How important is it to protect facial 
+recognition, and what are the dangers 
+associated with not using software to mask 
+photos? 
+Firstly, face recognition is everywhere, and 
+the market is booming. Second, we are 
+surrounded by cameras. There are CCTVs 
+everywhere – on the street, in shops, on the 
+train. And then, we all have smartphones 
+and we use them to take pictures and 
+videos. Lastly, our photos are everywhere, 
+on social media, on our company’s 
+servers, in government databases, etc. 
+This combination – surveillance cameras 
+everywhere and face recognition that 
+is becoming more accurate and easy to 
+obtain – creates a situation where anyone 
+can identify you, track you, and steal your 
+identity. 
+Face recognition technology can be used 
+to rank citizens’ behaviour or to tell you 
+who around you has a debt with the bank. 
+In some countries, you can take a picture 
+of a random person on the street and use 
+face recognition to find out every last detail 
+about him. These apps have been known to 
+be used to harass minorities and protesters. 
+In the United States and other places, 
+face recognition is used to learn about 
+a customer’s age, gender, ethnicity, our 
+satisfaction when we shop, and much more. 
+In short, I think we should all be concerned 
+about our privacy. Luckily D-ID is here to 
+help.
+D-ID’s proprietary algorithm combines 
+the most advanced image processing and 
+deep learning techniques [which enable 
+a machine to independently recognize 
+complex concepts such as faces, bodies, 
+etc.] to resynthesize any given photo to a 
+protected version. This is extremely difficult 
+to do, and we believe that we’re the only 
+ones today who are capable of providing 
+such a technology. 
+Do you envisage facing any problems with 
+government agencies, who use a lot of facial 
+recognition technology?
+No, we don’t. In fact, governments and local 
+legislators are pushing for more privacy 
+regulation, which plays well with our vision.   
+Who are your main customers? Is it 
+individuals who want to protect their 
+identities? 
+Currently we sell mostly to businesses. 
+Our customers use our technology to 
+protect the images of their management 
+and employees, and to protect the image 
+databases of their customers.
+We also target schools to help teachers and 
+students to post and share images that 
+are privacy-protected. As we advance with 
+our technology, we are looking to be able 
+to offer D-ID to everyone – with on-device 
+solutions for smartphones and cameras, so 
+that every picture we take would be de-
+identified on creation.  

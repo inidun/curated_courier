@@ -1,0 +1,287 @@
+AN S.O.S.
+FROM CABLEMAN
+TO FISHERMAN
+by C. S. Laivlon
+DEEP-SEA TRAWLERS with their sea
+bed fishing gear have been responsible for
+many cuts in international telephonic commu¬
+nications through their trawls fouling ocean
+cables. It is not uncommon for a cable repair
+ship to find a fleet of as many as 40 large
+trawlers at work in the area of ocean-bed
+cables. Damage occurs in practically every
+month of the year and in depths of well
+over 200 fathoms (1,200 feet) of water.
+Chauffard © Rapho, Paris
+E ven In the earliest days of ocean cables, com¬
+mercial fishing constituted a hazard, but radi¬
+cal developments have come about in both Industries to
+so aggravate the situation that now it is causing grave
+concern to the communications companies.
+Years ago fishing was carried out with hand lines by
+small local groups with limited financial resources and
+little, if any, government assistance. However, the popu¬
+lar realization of the importance of developing this poten¬
+tially vast source of food has brought with it great
+emphasis by the governments of the world upon basic
+research to Improve fishing methods, and the granting of
+financial aid to the fishing industry.
+The introduction of bottom trawling in the early 1900's
+at once increased the hazard, particularly as (instead of
+using two ships to keep the net spread between them)
+most trawlermen tow the net from a single vessel,
+dragging a pair of Otter boards along the bottom attached
+to, but in advance of the outer edges of the mouth of
+the net.
+The safest bottom for a communications cable ls flat
+and even, Irregularities cause suspensions across small
+concavities. Because cable is inherently stiff and some¬
+times has a tendency after having been uncoiled from a
+ship's tank to retain a bit of helical springiness, these
+suspensions cannot be avoided entirely by laying cable
+without residual tension. As a matter of fact, if the
+bottom is sufficiently flat and even, better results some¬
+times may be achieved by laying it bartlght.
+Naturally, if a cable is not resting on bottom at all
+points and a trawl board, its lower edge scraping along
+the bottom, is towed across It where the cable is sus¬
+pended, the probability of fouling is great. Poor main-
+tainance of the Iron shoes which sheath the lower edge of
+the boards and the bolts which hold them in place, as
+well as the shape of the boards themselves and their
+attachments, often are contributory factors, but the chief
+causes of fouling reside in the cableman's inability to
+make cable conform closely to the contour of the sea
+bottom and the fisherman's conviction that the boards
+cannot be towed off bottom and still function properly.
+The fishermen's stock argument runs: "The fish were
+here before the cables", but even this "ain't necessarily
+so". Fish have a way of migrating from one area to an¬
+other with minor changes in water temperature brought
+about by shifting currents which carry their food (plank¬
+ton) and by the gradual melting of the polar ice caps.
+As an instance of the latter, Cape Cod, Massachusetts,
+the waters around which were teeming with codfish when
+the Cape was named, supports little commercial cod-
+flshlng today whereas this fish Ls plentiful in the waters
+around southern Greenland, the inhabitants of which
+scarcely knew what a codfish looked like sixty years ago.
+The advent of refrigeration at sea and the ability to
+ship frozen fish inland have revolutionized the fishing
+Industry. The number, size and power of trawlers and
+the depths in which they operate, all have increased. It
+is not uncommon for a cable repair ship to find a fleet
+of twenty to forty large trawlers of several nationalities
+milling around In a small area on the continental shelf,
+21
+CONT'D ON NEXT PAGE
+
+ITU. Geneva
+OCEAN-BED TRAWL (above) is a broad net whose
+mouth is held apart by a pair of Otter boards which
+drag along the bottom of the sea. Some of the modern
+trawlers and their gear are so powerful that they can
+break the strongest communication cables, in some
+cases without even being aware of it. Repairs by cable
+ships (right) are costly and time-consuming and cause
+major traffic diversions In International communications.
+S.O.S. FROM CABLEMAN (Cont'd;
+Can two freedoms of the seas' be reconciled?
+well over a hundred miles from land, wherever bottom
+fish are abundant. The season is limited only by the
+presence of heavy field ice. Cable damage occurs in
+practically every month of the year and in depths to
+well over 200 fathoms of water.
+There was a time when a cable could be designed for a
+reasonable degree of protection by sheathing it with
+heavy wire armor. That day has passed. Some of the
+modern trawlers and their gear are so powerful that they
+can break the strongest communication cables, in some
+cases possibly without even being aware of them. These
+cables have tensile strengths on the order of twenty tons
+or more but under certain conditions it takes less than
+the full tensile strength of a cable to break it.
+B ecause two of the basic concepts of the free¬
+dom of the seas, the freedom to lay cables and
+the freedom to fish, are in serious conflict, the problems
+at issue must be resolved on an international basis if
+substantial Improvement is to follow.
+Efforts have been, and are continuing to be made to
+re-design the Otter board. The present bottom trawl is
+not an efficient tool in that most of the fish in its path
+are able to escape and almost one-third of a trawler's
+propulsive effort is absorbed by the friction of the boards
+scraping along the ocean bottom. Nevertheless, where
+fish are plentiful it Is serving its purpose.
+In the past those fishes which inhabit depths Inter¬
+mediate between the surface and the sea bottom have
+been most difficult to catch (except by hand-lines).
+Recently, however, the sciences of "mid-water trawling"
+has been the object of considerable research by govern¬
+ment agencies and a few private inventors. One product
+of this research is the buoyant Otter board which can
+be controlled so as to operate off bottom.
+Theoretically it should be possible to utilize such boards
+with bottom trawls, since the boards are positioned some
+distance ahead of the net and a slight upward pull of
+22 the boards so positioned should not be enough to lift the
+heavy weighted foot-rope of the net off bottom. Their
+elevation by as little as a fathom or two would cause them
+to ride harmlessly over cables while from the fishermen's
+standpoint there would be either a substantial saving in
+propulsive effort or a substantial increase in speed of
+towing (which improves the chances of catching fish).
+Where the bottom is consistently penetrable to a depth
+of from 7 to 24 ins. and currents are not too strong for a
+surface vessel to manoeuvre, cables have been successfully
+buried over distances of about 20 miles in the ocean
+bottom across a fishing area ranging in depths between
+100 and 450 fathoms of water, but this technique is too
+limited in application in the present state of the art to
+be of much general assistance.
+Research is going forward, however, in the extension to
+deeper water of methods utilizing a bottom vehicle,
+television-controlled and powered from a surface vessel.
+The under-water television camera, with Its ability
+actually to photograph cables lying in situ and trawl nets
+in action gives scientists a new and powerful tool for
+probing these mysteries, but how long It will take to bring
+about the desired new techniques of cable laying and
+fishing is anyone's guess. They certainly are not
+imminent.
+Efforts have been made to move cables out of heavily-
+fished areas. Ten years ago Western Union moved
+several of its transatlantic cables northward off the east
+coast of Newfoudland on the advice of government
+biologists that the cod would never be found there in
+sufficient density to support commercial fishing. It was
+known that redfish were there but at that time redfish
+were not considered too suitable for the market and when
+caught most of them either were thrown back or used
+for fertilizer.
+Fi rom about 1956, however, as cod became less
+plentiful east of Newfoundland and other
+nationalities sent their trawling fleets across the ocean to
+fish, the lowly redfish, under the more attractive name of
+ocean perch, became "socially acceptable" and can now
+be purchased in frozen form almost anywhere in the
+United States. The result has been that the cable diver-
+
+Rapho. Paris
+sions which were costly and time-consuming to make,
+afforded only a few years of Immunity from damage.
+One of the chief complaints of the trawlermen ls that
+unless they have 'the positions of the cables they cannot
+very well avoid crossing them, but until quite recently
+these positions have had to be kept confidential for
+security reasons. However, the wide-spread damage since
+the last World War has convinced most governments that
+the fishermen already have a fair acquaintance with
+cable routes so that not much is to be gained through
+continued secrecy.
+Now that most of the countries concerned have agreed
+to eliminate the security restriction it has been possible
+to publish charts for distribution to trawlermen covering
+fishing areas where there are cables, showing the route of
+each cable but without individual identification as to
+owner or terminal points; cables not now In use are
+clearly marked, however. '
+Every available means is being employed to bring this
+matter to the attention of trawler owners, government
+officials, and the fishermen themselves and to see that
+they are kept fully Informed.
+Ihe International Convention accord of March
+14, 1884, for the Protection of Submarine
+Cables, is evidence that broken cables have been an inter¬
+national problem of long standing. The twenty-seven
+signatories agreed that anyone who hooked a cable must
+sacrifice his gear rather than cut the cable. Cable owners
+were required to pay for the lost gear.
+Appropriate legislation enacted by the member nations
+still is in force but has done little to alleviate the problem.
+Before the advent of the botton trawl, ships' anchors
+had been the chief cause of cable damage, confining it to
+fairly shallow water. But when a fisherman has to
+sacrifice a trawl net, complete with Otter boards, he may
+well find himself called upon to sacrifice a catch of fish
+in the net and, unless he has a spare set of gear on board,
+valuable fishing time while he proceeds to port to replace
+it. When he returns the fish may not be there, of course.
+The- consequential damages (as opposed to the sacrifice
+of the fishing gear Itself) are difficult to assess with any
+reasonable degree of accuracy and the cable operators
+take the view that they cannot be held responsible for
+them. Were they to accept responsibility, the way would
+be open for fishermen to Ignore the presence of cables
+entirely, whereas It ls mast essential from the cable
+operators' point of view that tluTe remain some deterrent
+to the practice of trawling over cable lines.
+
+When a fisherman's trawl gets caught on something,
+not knowing what he Ls foul of, the natural tendency of
+the fisherman Ls to try to free his gear. In doing so, If
+it happens that he has hooked a cable, he ls in grave
+danger of damaging it electrically, even If he does not
+break it entirely. Thus, whether he elects to cut away
+his gear and claim damages merely on suspicion of having
+hooked a cable, or whether he brings the cable to the
+surface and cuts his gear away with the full knowledge
+that It ls indeed a cable (thereby still further Increasing
+the probability that he has caused damage), the fact
+remains that it ls a hazardous practice to tow a bottom
+trawl over cable lines.
+As an example of what can happen. Western
+Union lost four transatlantic cables In twenty-
+six hours on February 24 and 25, 1959, three days after
+the interruption of TAT 1, the telephone cable laid in 1950
+between Canada and Scotland. Six days later (on
+March 3) Western Union lost still another. The damage
+to the telephone cable Included a tensile break and a cut
+less than a mile apart. "Damage to the five Western
+Union cables included ten tensile breaks and two Hush
+cuts.
+These cables are armored with No. 1 HWO galvanized
+steel wires which were in good condition. The depth of
+water ranged from 170 to 215 fathoms. The telephone
+cable was out of use for eight days. Western Union lost
+six days on each of two cables, seven on another, eight
+on another, and fifty-six on the last one due to an ice
+field (on the edge of which the trawler evidently had
+been working) moving over the cable, making It
+Inaccessible for repair.
+The repairs required a total of 43 days of ships' time
+and necessitated the remplacement of 19 miles of cable.
+The total cost to the cable operators for repairs on UiLs
+occasion was about $120 000. Tills, of course, did not
+Include the cost of traffic diversions and hire of alternate
+facilities where available.
+In the first ten months of 19C0 Western Union cables
+were Individually Interrupted or made faulty by trawlers
+on forty-four occasions, and the telephone cables were
+broken on several occasions aLso.
+When cable interruptions come singly, suitable fall-back
+arrangements can be made to overcome the loss but when
+several cables are broken within a matter of a few hours,
+such as has happened off Newfoundland repeatedly, there
+Ls bound to be disruption of service and long delays in Its
+restoration.
+Despite the International scope of the problem and the
+best efforts of those engaged in telecommunications,
+neither of the two recent international conferences on
+the Law of the Sea have been able to cope with it, having
+been too deeply absorbed in the controversy over the
+width of the Territorial Sea. On the other hand, It must
+be clear to any serious student of the matter that the
+provisions of the 1884 Convention arc ineffectual in
+dealing with the situation which confronts us today.
+In the early days of radio it was the hope of the fishing
+fraternity that this invention would spell the end of
+cables and the annoyance which went with them. No
+doubt they are pinning their present hope on the develop¬
+ment of communication satellites, but from the amount
+of money now being Invested In new cable projects and
+the extent of these projects it seems like a forlorn hope
+lor the Indulgence of this generation of fishermen.
+C. S. Lawton is General Manager of the International staff of
+the Western Union Telegraph Company, New York.
+23

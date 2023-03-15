@@ -1,0 +1,414 @@
+FROM THE MIDDLE AGES TO THE ENLIGHTENMENT
+The roots of modern maths
+42
+
+BY CATHERINE GOLDSTEIN AND JEREMY GRAY
+'-J* beazLDc *yLr*£ir
+oy
+Icrrmiu tTtlfT cxcud . al«.T Ttnd
+JL HE mathematics teaching offered by the Eu¬
+ropean universities around the time when they
+were founded in the late twelfth and early thir¬
+teenth centuries, was largely inherited from the
+traditions of classical Antiquity. At Paris, Oxford
+and Bologna, the curriculum covered the quad-
+rivium of arithmetic, geometry, music and as¬
+tronomy. However as the study of divinity,
+leading to the elucidation of the basic Christian
+texts, was considered to be of more importance,
+the arts faculties, which ran mathematics courses,
+enjoyed much less prestige than the faculties of
+law, medicine and above all theology.
+The content of maths courses was rudimen¬
+tary, consisting of the elementary principles of
+arithmetic and the first books of Euclid's treatise
+on geometry, the Elements. Principles of motion
+were also studied in the works of Aristotle, and
+at Oxford and Paris, mathematical methods were
+
+
+
+beginning to be applied to the study of natural
+phenomena. The fourteenth-century French
+bishop and economist Nicole Oresme, for exam¬
+ple, attempted to make a graphical representation
+of variations in speed in a given period of time
+in certain types of movement.
+Measuring the land
+and charting the heavens
+In the late Middle Ages, mathematics was being
+used by two distinct groups of people, in some
+cases graduates of the same universities: on the
+one hand there were tradesmen such as surveyors,
+engineers and accountants, and on the other there
+were physicians and astrologers, who had a higher
+social status.
+Economic change in the fourteenth century,
+the development of the towns and of trade,
+favoured the rise of mathematicians in society.
+The increasing complexity of trade called for
+specialized calculating and accounting skills.
+Mathematicians gave consultations in "abacus
+shops", where they drafted contracts and calcu¬
+lations in layman's terms, and resolved banking
+problems concerning interest rates, the exchange,
+circulation and value of currency, and the distri¬
+bution of profits.
+In order to make a decent living, these trades¬
+men had to prove their worth against their com¬
+petitors and convince their employers or clients
+that their skills and know-how were useful. Their
+mastery of the algebraic techniques borrowed
+from the Arab world was one reason for their
+professional success.
+At first, algebra was not formulated as it is
+today, by using symbols to express relationships
+between numbers. It served instead to classify the
+L Académie des sciences et des beaux-arts,
+an engraving by Gottfried Stein (1687-1747)
+after a painting by Sébastien Le Clerc. 43
+
+44
+possible relationships between unknown values
+and to describe general methods of determining
+them. These methods were usually set out in
+treatises as practical examples. The adoption of
+a system of decimal notation in Europe was both
+part of and a great incentive to the advancement
+of mathematics. Texts packed with approxima¬
+tions of roots and complex fractions proliferat¬
+ed, their publication facilitated by the advent of
+printing.
+Thus the growth of mathematics as a skilled
+profession, whose prestige was linked to that of
+its chief clients, the merchants, was a corollary
+of changing economic and social priorities.
+New perspectives
+Not only the financial world was in a state of up¬
+heaval. A number of practical inventions, such
+as the compass and binoculars, appeared in the
+West towards the end of the Middle Ages, and
+descriptions of measuring instruments and how
+they worked were sometimes published with
+texts on algebra. The voyages of discovery, in fact
+all commercial sea traffic, popularized the use of
+the astrolabe and the quadrant. Part practical, part
+theoretical treatises on perspective were written
+by artists, cartographers and architects, associat¬
+ed with what is now known as geometrical op¬
+tics. There was no hard and fast division between
+mathematical theorists and practitioners.
+The late fifteenth century saw the rise of the
+Humanist movement, which concentrated on the
+study and dissemination of the texts of classical
+Antiquity. At first the movement did not really
+favour mathematical methods. If Humanist
+scholars in the late fifteenth century showed any
+interest in arithmetic, it was because of their
+study of Plato or of Pythagoras, but on the whole
+they despised arithmetical calculation.
+Intellectual life, of which the Reformation
+was one of the most spectacular manifestations,
+was more concerned with the study of texts than
+contact with craftsmen. Humanist scholars
+produced a new batch of translations of key
+works of Antiquity, from Arabic, then directly
+from Greek. In going back to the Greek geome¬
+ters, they were responsible for a revival of interest
+in mathematics.
+The mathematical heritage of Antiquity
+flourished because it did not fall on barren soil.
+European rulers increasingly sought the services
+of scientists, such as the astronomers Tycho Bra-
+he and Johannes Kepler who were attached to the
+court of Rudolf II in Prague, not only to cast their
+horoscopes but to construct fortifications or
+resolve ballistic problems as interest grew in the
+application of mathematical skills to warfare.
+Mathematics began to find a place in the largely
+Humanist education of the aristocracy, and some
+military engineers were even ennobled as a re¬
+ward for their services. The growing interest in
+mathematics in the sixteenth century is typified
+in the works of such men as John Dee, the En¬
+glish alchemist and astrologer who wrote the
+preface to the first English translation of Euclid;
+Gerolamo Cardano, the Italian physician and as¬
+trologer whose book on the "Great Art" is one
+of the cornerstones of the history of algebra; or
+François Viète, the French jurist who specializecf
+in cryptography and introduced the first sys¬
+tematic algebraic notation.
+The indifference, bordering on hostility,
+which was felt towards applied mathematics be¬
+gan to weaken with the backing of certain
+reformers of the education system, such as the
+French philosopher Pierre de la Ramée (Petrus
+Ramus) who dedicated his teaching chair at the
+College Royal in Paris to mathematics and its
+practical applications. One of his disciples, the
+Dutch astronomer and mathematician Willebrord
+1 he Banker and his Wife
+by Quentin Metsys (1455-1530).
+
+
+Snell, was active in the introduction of universi¬
+ty mathematics courses in Holland, aided by the
+foundation of a military engineering school at
+Leiden. Mathematics, geography and hydraulics
+competed with and then gradually replaced as¬
+trology in European universities.
+The rise of the academies
+The rediscovery of the works of Greek mathema¬
+ticians was at its most intense in the early seven¬
+teenth century. While translations and reissues
+were still widely available, many attempts to
+reconstruct lost or corrupt texts show how
+widespread mathematical culture was becoming.
+Mathematics gained in prestige through such
+events as Galileo's discovery of the satellites of
+M-^ÍT
+46
+The Pythagorean quadrivium
+The writings of Plato (and of Isocrates) tell us of
+the generally accepted organization of the mathe¬
+matical sciences that was current during the
+Hellenistic era. In the medieval educational system
+it was called the Pythagorean quadrivium. It con¬
+sisted of arithmetic, geometry, astronomy and
+music. Astronomy could mean either elementary
+notions about the rising and setting of stars, the
+calendar and the seasons, or more elaborate mathe¬
+matical notions concerning the real and apparent
+movements of the Sun, the Moon and the planets.
+The strictly mathematical aspects were sometimes
+called Spherics, owing to hypotheses concerning the
+spherical shape of the Earth and the cosmos that
+were current from the fifth century BC. Similarly,
+music in this context signified the theory of musical
+intervals, in particular the numerical determination
+of consonant intervals. It was also known as canon-
+ics. It seems that this system existed from the fifth
+century BCperhaps indeed linked to the
+Pythagorean school in the context first of
+"higher", then of "secondary" education.
+Bernard Vitrac
+Jupiter, which he named Sidera Medicea in
+honour of the Medicis, whose family emblem was
+Jupiter. Galileo believed that mathematics was the
+
+
+
+key to understanding the language of the
+universe: "The Book of Nature is written in
+mathematical characters... the triangles, the cir¬
+cles and the other geometric figures without
+which it is not humanly possible to understand
+a single word," he wrote.
+Scientific academies modelled on earlier
+Italian societies also began to appear in Europe.
+Some of them, such as the Academia dei Lincei
+to which Galileo belonged, were founded by pa¬
+trons of the arts and sciences; others were autono¬
+mous groups of scholars who met to exchange
+new books, scientific and literary news, to watch
+a dissection or to observe the stars.
+Printed books and journals, especially scien¬
+tific ones, were still few and far between, so these
+academies made a considerable contribution to
+the dissemination of knowledge. One of the best-
+known groups met regularly with the Abbé
+Marin Mersenne in Paris and attracted such emi¬
+nent scientists as Blaise Pascal, René Descartes,
+Pierre de Fermât, Gilles Personne de Roberval
+and Gerard Desargues.
+Brought up on the great classical authors,
+these mathematicians were close to the Humanist
+tradition. But they were also the heirs of the
+tradesmen-mathematicians, as shown by the im¬
+portance attached in their work to algebraic tech¬
+niques. Some of them were the sons of merchants
+who had grown wealthy and bought patents of
+nobility.
+Seventeenth-century mathematicians no
+longer depended on patrons, nor did they live on
+their earnings from writing or even from teach¬
+ing. They combined their calling with that of
+parliamentary adviser, monk, diplomat or soldier.
+Formerly, masters of the art of mathematics
+could boost their income by defending their repu¬
+tation in public. To best an adversary on a mathe¬
+matical problem would bring in clients. Although
+mathematicians still offered their interlocutors
+tricky problems to which only they knew the an¬
+swers, this seemed to be more of a demonstra¬
+tion of skill or a way of encouraging others to
+study the subject. Following the lead of Descanes,
+these men drew a clear line between "geometry",
+based on reasoning alone, and "mechanics", ap¬
+plicable to the practical demands of craftsmen.
+Their geometry did not necessarily resemble
+that practised by the Greeks, however. Descartes
+and Fermât turned it into an analytical science.
+The correspondence and treatises of these men
+are packed with references to investigations of
+tangents and curves, calculations of surface area,
+estimations of probability in games of chance,
+problems of whole numbers. They were also
+interested in optics, in fact in all natural
+phenomenanow held to be governed by mathe-
+« I Tí S
+In this wood engraving of
+1503, arithmetic (centre)
+seems to be settling the
+dispute between "abacists",
+the supporters of calculation
+using counters, and
+"algorists" who used
+written notation, in favour
+of the latter.
+
+matical laws. This scientific rigour, a trend which
+began at Oxford in the fourteenth century, had
+mechanics as its model.
+In the mid-seventeenth century, the state
+took over from private initiative to support, at
+least in part, the development of the sciences. In
+1662 a number of academies in England were in¬
+corporated by royal charter into the Royal Soci¬
+ety of London, and the French Académie des
+Sciences, founded by the minister Jean-Baptiste
+Colbert in 1666, counted among its early mem¬
+bers those who had worked with Mersenne. Peri¬
+odicals such as the French Journal des Savants and
+the Royal Society's Philosophical Transactions
+made the latest scientific discoveries known to
+all who were interested.
+The second half of the seventeenth century
+saw an increase in studies based on analytical
+geometry. Other mathematicians' discoveries
+relating to methods of calculating area and tan¬
+gents were synthesized, independently, by the
+English physicist Isaac Newton and the German
+philosopher Gottfried Wilhelm Leibniz, each of
+whom elaborated a different but in each case
+coherent theory of differential and integral
+calculus. Neither of their theories was wholly
+acceptable to their contemporaries and a major
+row went on for years over the priority or the
+superiority of both contenders.
+These developments marked a new phase in
+the relationship between mathematics and the
+physical world. In his masterpiece Philosophiae
+Isaac Newton, very great
+head of school but not
+pompous" is the title
+of this Japanese engraving
+attributed to
+Hôshû(c. 1890).
+47
+
+Naturalis Principia Mathematica (The Mathemati¬
+cal Principles ofNatural Philosophy) published in
+1687, Newton set forth a unified theory of plane¬
+tary motion expressed in geometrical terms simi¬
+lar to those used in Euclid's Elements. This
+theory, on which numerous commentaries were
+written in the following century, led to greater
+understanding of natural phenomena. In the
+1730s, following study of Newton's work, the
+French mathematician Alexis Claude Clairaut
+specified the periodicity of certain planetary
+phenomena, including that of the celebrated Hal¬
+ley's Comet (named after the British astronomer
+who was the first to calculate its orbit).
+
+
+
+The Age of Enlightenment
+The "tradition established at the end of the seven¬
+teenth century was carried on in the eighteenth.
+But while soldiers and diplomats, knights and no¬
+bles, continued to show an interest in mathemat¬
+ics, they were gradually overshadowed by
+professional mathematicians looking for full-time
+employment. In some countries, mathematicians
+were attached to educational institutions, in
+others they belonged to scientific academies or
+royal courts. Preference was given to the practi¬
+cal applications of mathematics and their contri¬
+bution to the advancement of technology and to
+human welfare. In France, especially, the Enlight¬
+enment encouraged the spread of scientific ideas
+that would ensure the "march of progress" and
+"free minds from religious prejudice". The
+French mathematician and encyclopaedist Jean
+Le Rond d'Alembert wrote a number of articles
+on mathematics for the Encyclopédie. Men too
+circulated, as well as ideas. When the Swiss physi¬
+cist Leonhard Euler moved from the Prussian
+Academy of Sciences at Berlin to the St. Peters¬
+burg Academy, the Italian-French mathematician^
+Joseph-Louis Lagrange left Turin to fill Euler's
+post at the invitation of Frederick II the Great,
+on whose death Lagrange went to the court of
+Louis XVI in France.
+Even more systematically than in the previ¬
+ous century, mathematicians were writing, ex¬
+changing theses and problems, and publishing
+articles on research in progress as well as finished
+treatises. They broadened the scope of the calcu¬
+lus and sought to increase its applications. Eul¬
+er's Introduction to Infinitesimal Analysis (1748),
+was one of a number of didactic works written
+by leading mathematicians to make the new ways
+of thinking accessible to students. They suggest¬
+ed methods of notation and standardized the
+problems considered to be of interest. Confidence
+was growing in algebra as a tool. Calculus no
+longer sought justification in geometry and at last
+became an independent discipline.
+The rediscovery, assimilation and surpassing
+of the Graeco-Arab heritage thus spanned sever¬
+al generations of social change and intellectual
+liberation. It came about through men whose in¬
+terests ranged from new techniques of drainage
+or construction, to cosmogony and methods of
+calculating area.
+CATHERINE
+GOLDSTEIN, French
+mathematician, is a
+researcher with the
+National Centre for
+Scientific Research (CNRS).
+Her research is mainly
+concerned with the theory
+of elliptical curves and the
+history of the theory of
+number in the 17th
+century. She was a
+contributor to Eléments
+d'histoire des sciences
+(Bordas publishers, Paris,
+1989), prepared under the
+direction of Michel Serres.
+JEREMY GRAY,
+of the United Kingdom,
+teaches mathematics at
+Britain's Open University.
+He has published several
+works on the history of
+modern maths, including
+Ideas of Space (Oxford
+University Press, 2nd ed.,
+1989) and recently co-edited
+(with John Fauvel) an
+anthology entitled The
+History of Mathematics and
+the Reader (MacMillan,
+London, 1987).
+48
+1 he solar system according
+to Galileo is shown in this
+anonymous 16th-century
+engraving.

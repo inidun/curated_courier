@@ -1,0 +1,450 @@
+71 in the sky
+BY JEAN-CLAUDE MARTZLOFF
+22
+PREDICTION OF CELESTIAL
+PHENOMENA WAS A
+MAINSPRING OF EARLY CHINESE
+MATHEMATICS
+T
+V-/HINESE mathematics", defined by the
+Chinese themselves in ancient times as the "art
+of calculation" (suan chu), covers a vast range of
+practices and currents of thought that grew up
+in China between the first millennium BC and
+the fall of the Manchu dynasty in 1911. After that
+date Chinese mathematics became westernized
+and the traditional practices were virtually im¬
+penetrable to those without specialized training.
+Divination, astronomy
+and mathematics
+Although writing already played an important
+role in China at the time of the composition of
+the earliest canonical writings (the "classics"
+which were always so essential in the training of
+intellectual élites), mathematics was not then con¬
+sidered to be a body of knowledge that it was
+necessary to record in specialized texts.
+It seems, however, that mathematics was in¬
+strumental in the emergence of what the sinolo¬
+gist L. Vandermeersch has judiciously called
+"divinatory rationality". Beginning with oracles
+in the form of tortoise shells, animal bones or the
+leaves of the Chinese yarrow, the prognostics
+made using this form of divination were based
+on the interpretation of all manner of natural
+signs, especially meteorological and astronomi¬
+cal phenomena such as rainbows, halos, winds,
+meteors, positions and conjunctions of stars,
+eclipses and sunspots. This magical worldview did
+not however exclude recourse to purely rational
+investigations. The diviners attempted with some
+success to fit all their' 'observations into numeri¬
+cal and arithmetical schemes devised for the
+recording of memorable past phenomena and the
+prediction of certain recurrent events. Some
+predictions of periodically recurring celestial
+1,420 stars are depicted on
+this polychrome sky map
+made in 1453. The map
+forms part of a panelled
+ceiling in Beijing's
+Longfu temple.
+
+
+1 he legendary emperor
+Yao requests the
+astronomers Hsi and Ho
+to establish the calendar
+'and pay tribute to the
+heavenly bodies. Engraving
+from the late Manchu
+period (1905).
+phenomena began to be confirmed by observa¬
+tion, and led to the birth of the calendar and
+mathematical astronomy.
+Each successive dynasty in China made its
+mark by introducing a new system for comput¬
+ing the calendar so that the historical events
+recorded by annalists could be reassessed and fu¬
+ture events predicted. The ruling class therefore
+needed qualified personnel who specialized in
+calendrical and astronomical calculations. A body
+of imperial chronologers thus gradually came into
+being, serving both as historian-annalists and
+astronomer-calendrists.
+The continuing requirements of Chinese dy¬
+nasties down the ages explain why the search for
+appropriate methods of predicting the most visi¬
+ble celestial phenomena (conjunctions of stars, oc¬
+cultations, eclipses) was foremost in the minds of
+mathematicians.
+However, as the astronomer-calendrists of
+24
+egresa gffWHgtfi^^KSg
+imperial China usually had a lowly social status,
+and as their knowledge was handed down from
+father to son, their activities were often denigrat¬
+ed and looked upon simply as a static way of up¬
+holding tradition.
+The overwhelmingly dominant factor in the
+history of Chinese mathematical astronomy is the
+extraordinary durability of conflicts between rival
+schools. From the beginning of our era to the six¬
+teenth century, the Chinese calendar underwent
+no less than fifty reforms. However, these con¬
+flicts turned out to be more constructive than des¬
+tructive in that they were almost always settled
+by the concordance between observed reality and
+the predictions.
+Unfortunately, very few works devoted ex¬
+clusively to mathematical astronomy have sur¬
+vived. Monographs written by non-specialists,
+abridged versions of which were included in the
+annals of successive dynasties, are practically all
+that remain.
+The social background
+of Chinese mathematics
+During the Han dynasty (206 BC to 220 AD),
+another branch of mathematics appeared, this
+time recorded in specialized manuals. Collections
+of problems and their solutions were organized
+in chapters according to their practical applica¬
+tions. The descriptions in these texts are often so
+detailed and realistic that it is almost possible to
+reconstruct from them entire chapters of Chinese
+social and economic life at a given period.
+Whether they are about tax collection, corvée
+labour, weights and measures, currency, the con¬
+struction of dykes or canals, the management of
+manpower, land or river transport, policing
+or military logistics, no practical detail was
+neglected. Generations of "civil servant-
+mathematicians" were trained for the imperial
+bureaucracy by the study of such manuals.
+The Tang dynasty (618 to 907 AD) set up an
+examination system whose syllabus included
+mathematics as well as letters. Although least im¬
+portance was accorded to mathematics, study of
+the subject at the Guozijian, the "College of the
+Sons of the State", lasted seven years and was
+based on a classic textbook, "The Ten Mathemat¬
+ical Manuals" (Suanjing shi shu). In 1084, under
+. the Southern Sung dynasty, this text was print¬
+ed. Yet after 1230 mathematics was banished from
+the examination syllabus for good, in favour of
+literary subjects.
+Paradoxically, the high-water marks of '
+mathematics are not to be found in the short
+periods when the teaching of the subject was
+institutionalized. On the contrary, the most
+remarkable advances took place when the empire
+
+Diagrams illustrating problems in spherical trigonometry
+examined by the astronomer-mathematicians Kuo Shou Ching
+(1276, left) and Hsing Yûn Lu (1600, right).
+was divided, in time of war and bureaucratic
+breakdown. During the Warring States period
+(453 to 222 BC), the Moists (followers of Mo-tzu
+who challenged the dominant Confucian ideolo¬
+gy) developed the rudiments of theoretical geo¬
+metry, but their method had little influence on
+the main current of mathematical thought. The.
+greatest mathematician of ancient China, the de¬
+tails of whose life are unfortunately unknown,
+was Liu Hui, who elaborated several mathemat¬
+ical theorems at the time when China was split
+into three kingdoms (220 to 265 AD). During the
+Mongol conquest in the thirteenth century,
+a wealth of original achievements took
+root, flowered, and were quickly consigned to
+oblivion.
+The last and greatest of the Sung mathemati¬
+cians was Zhu Shijie (fl. around 1300), a wander¬
+ing scholar who travelled far and wide teaching
+the results of his research. Also during these
+Lid ofa coffer dating from around the beginning
+of the Warring States period (c. 433 BC).
+The Great Bear (at centre) is surrounded by the names
+and symbols of the 28 lunar mansions.
+troubled times, the hermit Li Zhi (1192-1279) or¬
+
+
+
+ganized a private group devoted to the study of
+the mysteries of the world and of numbers, which
+led to the development of algebra in China. And
+in the nineteenth century, shortly after the
+Opium War, when the Chinese empire was over¬
+taken by major disasters, Li Shanlan (1811-1882)
+failed his literature examinations and dedicated
+himself to the joys of mathematics. He discovered
+an astonishing series of perfectly correct formu¬
+lae which were to baffle even a twentieth-century
+mathematician of the calibre of Paul Turan of
+Hungary.
+The reasons behind these sudden and short- 25
+
+lived flashes of brilliance are poorly understood.
+Perhaps political anarchy freed the intellectual
+élite from the obligation of preparing the sterile
+mandarinate examinations. Confucianism, the
+dominant ideology, relegated mathematics to a
+minor role. Those who were attracted by the sub¬
+ject could therefore give free rein to their intellec¬
+tual curiosity without great risk. Even in stable
+times, however, many Confucian scholars used
+their leisure hours to study mathematics. From
+the eighteenth century onwards, more and more
+philologists and specialists in textual criticism
+dreamed of turning mathematics into a branch
+of history. Some of them tried their best to use
+mathematical astronomy to authenticate the clas¬
+sics. They wanted to define by calculation the
+historical reality of natural events recorded in an¬
+cient documents (especially eclipses of the Moon
+or the Sun). Others enthusiastically studied "con¬
+crete sciences" such as economics, hydraulics,
+civil engineering or architecture. Out of these ex¬
+cursions along lonely and difficult paths there
+sometimes grew a taste for pure mathematics, in¬
+dependent of any particular application.
+Contact with other cultures is also of impor¬
+tance in the history of Chinese mathematics: with
+India during the first millennium AD as Budd¬
+hism was being preached abroad; with the Arab
+\jilt bronze equatorial
+Moon dial. Qing Dynasty
+26 (1744).
+
+COUNTING-ROD NUMERALS OF ANCIENT CHINA
+The use of counting-rod
+numerals, which may have
+originated with the UNITS
+1 2 3 4 5 6 7 8 9
+arrangement of actual rods
+laid out on a flat board,
+HUNDREDS
+TEN OF THOUSANDS I II III IUI lllll T T ¥ ¥
+developed in China around
+the 3rd century BC. Units
+were noted vertically, tens
+TENS
+THOUSANDS ___
+	 = = J_ _L =!= =
+horizontally. The value of
+the signs was determined
+by their position: THE NUMBER 34,567
+WRITTEN AS:
+III = lllll J. T
+and Persian peoples at the time of the Mongol
+expansion; and with European missionaries from
+the late sixteenth century onwards. Although
+many similarities can be seen between mathemat¬
+ics in China and in other cultures before 1600,
+it is unclear whether this is a sign of actual in¬
+fluence or simply of parallel development.
+For example, the Chinese symbol for zero,
+which was written as a small circle as it is today,
+appeared for the first time around 1200 in astro¬
+nomical tables and could have been of Indian ori¬
+gin. A number of ancient and medieval
+mathematical games, whether from the Hellenis¬
+tic or the Arab world, India, Europe or China,
+have a surprising family likeness. Very similar
+mathematical techniques existed at the same peri¬
+od in China and in Greece. To cite but two ex¬
+amples, Euclid and Liu Hui both discovered
+methods of determining the volume of a pyramid;
+Archimedes and Liu Hui found the volume of
+a solid by the intersection of two orthogonal
+cylinders.
+Even if these parallels do indicate the trans¬
+mission of influences, Chinese mathematics had
+an internal coherence and developed indepen¬
+dently.
+Geometry without parallel
+In traditional Chinese mathematics there is no
+geometrical reasoning based on axioms, postu¬
+lates, definitions and theorems. There are no ab¬
+solute truths in the manner of Euclid, but only
+relative and provisional truths. In geometry, there
+are no angles nor even any parallel lines, but only
+lengths, areas and volumes. Neither is there any
+algebra in the Arab style, nor the search for the
+roots of equations using radicals or intersecting
+curves. And there is no "rhetorical" algebra en¬
+shrined in prose or verse.
+Yet Chinese mathematics is based not on
+purely empirical procedures but on heuristic prin¬
+ciples. The emphasis is on the answer itself, rather
+than on explaining the intermediate stages in get¬
+ting there, which are taken for granted. For ex¬
+ample, one of the cardinal rules of Chinese
+geometry stipulates that the surface or the volume
+of a figure remain the same after it has been
+broken up and re-assembled, even though the
+number of the fragments is potentially infinite.
+This type of principle does not at all exclude the
+recourse to an axiomatic system, but it is true that
+Chinese geometric figures were not usually ab¬
+stract ideals. They were, rather, like tangible
+pieces of a puzzle that can be distinguished by
+their colour and manipulated at will. Chinese ge¬
+ometry basically relies on a shrewd and
+meticulous examination of a problem to reveal
+certain results. This method is not only impor¬
+tant in the calculation of areas and volumes, but
+also in bringing out certain properties of the right-
+angled triangle, in calculating the total of a series,
+in resolving equations or systems of equations,
+and in the visual proof of mathemathical identities.
+What is more, Chinese geometry sees noth¬
+ing wrong (as Euclid would have done) in resort¬
+ing to calculations or any other method that may
+be useful to solve a given problem. This attitude
+shows Taoist influence, and Chinese mathemati¬
+cians of the third to the fifth centuries AE
+declared their boundless admiration for Zhuang-
+zi, the father of philosophical Taoism. This ec¬
+centric sage had rejected the use of language as
+a notably effective way of reaching the truth, on
+the grounds that the fallacious arguments of the
+sophists showed its limits.
+He had concluded that all attempts to reach
+the truth founded on discursive argument, that
+is to say on a method capable of engendering
+manifestly false conclusions, would be doomed
+to failure. Hence the tendency of Chinese
+mathematicians, influenced by Taoism, to place
+only limited faith in the power of language. On
+the other hand they tended to make use of all the
+means at their disposal, without ever ignoring the
+evidence of their senses. This is why they were
+JEAN-CLAUDE
+MARTZLOFF,
+French sinologist, is a
+researcher with the
+National Centre for
+Scientific Research (CNRS).
+He is particularly interested
+in the exchanges between
+Chinese science and other
+scientific traditions. He is
+the author of a history of
+Chinese mathematics
+{Histoire des mathématiques
+chinoises, Masson publishers,
+Paris, 1987).
+27
+
+28
+so fond of calculations and all kinds of manipu¬
+lations, so long as they could avoid putting them
+into words. Only as a last resort did they have
+recourse to discursive arguments.
+How did mathematicians apparently so ob¬
+sessed by the concrete have produced sophisticat¬
+ed results? In fact the practical nature of Chinese
+mathematics does not imply any lack of abstrac¬
+tion in their thinking. On the contrary, some of
+the results obtained from manipulating their puz¬
+zles presuppose great ingenuity and a remarkable
+capacity for abstraction.
+Moreover, Chinese mathematicians often
+deliberately distorted reality, as they could not
+easily teach their subject using as examples the
+increasingly complex problems of daily life. This
+is why many Chinese mathematical problems
+conceal purely fictitious situations behind a
+veneer of practical reality: values which are im¬
+possibly large or small, or that make no sense
+(fractions of men); data arranged in an arbitrary
+manner, as when areas are added up with volumes
+and prices; inversion of known and unknown
+values as when calculating the dimensions of ob¬
+jects from their volume, or capital from the in¬
+terest gained, or quantities of goods from the
+share received by each person. Obviously such
+methods opened up very much more interesting
+situations from the mathematical point of view.
+Chinese algebra developed on this "fictional
+territory". In the oldest manuals are many cal-
+culatory formulae for resolving limited classes of
+problems. In extreme instances, each problem
+constitutes a specific case. Later, generalized
+procedures appear by which an increasingly wide
+range of problems could be solved, so fictitious
+situations were no longer required.
+All this could not have taken place without
+Chinese computational methods, which were
+based on mechanical aids. The abacus is perhaps
+the best known of these, but it appeared at a
+late date (around the fifteenth century). Chinese
+mathematicians relied above all on the manipu¬
+lation of counting-rods (chousuan), which were
+arranged to represent the various coefficients
+of numerical equations. Mathematical problems
+transferred to arrangements of counting-rods
+were, so to speak, divorced from their practical
+context and taken into the realm of abstraction.
+This method of calculation by tabulation is
+generally known as fangcheng (fang meaning
+"square" or "rectangle" and cheng meaning "di¬
+vide up") and involves arranging the counting-
+rods to form a square or a rectangle (a matrix).
+Two types of rod were used, red and black or
+positive and negative, representing the com¬
+plementary forces which controlled the Chinese
+universe, yin and yang.
+Here we have an "instrumental" algebra
+which dispenses with all discursive methods of
+argument. This is its strength, but also its weak¬
+ness, as during the manipulations of the counting-
+rods, calculations vanish without trace as soon
+as they are completed. This "art of the rods" is
+like the art of a musician who plays without look¬
+ing at the score, and it is no coincidence that some
+Chinese mathematicians explicitly compare
+mathematics with music.
+Calculations and manipulations are the bas¬
+ic ingredients of a form of mathematics which
+has never felt itself to be bound by any dogma,
+and which at various phases of its history has
+syncretized many elements from other cultures.
+I he gelosia or grating
+method of multiplication as
+shown in a Chinese book
+of 1593.
+O m -y.
+asjs
+H
+ffl
+t
+S\
+M
+A it
+XA f
+/A
+III/
+/>
+V V +
+A
+x Ixight, detail from a 12th-
+century Greek manuscript
+of Euclid's Elements.
+	
+^ oO f HJUpt GOV
+t f turtèhp«
+n
+M-*^1 u
+£i-*Ti p »P TIT? <*4
+W (cOI»i'»P-*OCK.«
+J-7 pop («UXJUUf
+of IM CjO |»T* CT» *
+rt'ífuxoa¿\£i.
+|K^AS TP* r
+\377lWp*wf-jLCj
+£ u-Vb/ajui oíTóuf i
+	 .* l "-¿írL.
+TH> «T>"7r» woccüTí
+rv**«»eiVM.*»M-

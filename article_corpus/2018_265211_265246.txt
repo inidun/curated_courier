@@ -1,0 +1,345 @@
+Many corporations around the world are 
+conducting vital scientific research in the 
+field of AI. The results to date have been 
+excellent – AI has learned to predict a 
+person’s risk of developing diabetes with 
+the use of a smartwatch, or to tell the 
+difference, based on their appearance, 
+between moles and certain types of 
+cancerous growths. This powerful tool, 
+which surpasses human intelligence by 
+one of its most important characteristics, 
+speed, is also of interest to the military.
+
+
+
+The threat of 
+killer robots
+Vasily Sychev
+Artificial intelligence (AI) has a growing number of applications 
+in the security and military areas. It facilitates manoeuvres in the 
+field, and can save lives when things go wrong. It also boosts 
+the performance of armies by providing robot allies to combat 
+forces. According to some experts, Lethal Autonomous Weapons 
+Systems (LAWS) are creating a “Third Revolution” in warfare, after 
+gunpowder and nuclear weapons. It is time we start worrying about 
+the day when armies of robots are capable of conducting hostilities 
+with full autonomy, without humans to command them.
+Thanks to the development of computer 
+technologies, the weapons systems of the 
+future will become more autonomous 
+than those currently being used. On 
+one hand, this empowerment will 
+undoubtedly provide valuable assistance 
+to combatants. On the other, it will bring 
+its share of challenges and risks – it could 
+set off arms races between countries, 
+an absence of rules and laws in combat 
+zones, and irresponsibility in decision-
+making. Today, many entrepreneurs, 
+policymakers and scientists are seeking to 
+prohibit the use of autonomous weapons 
+systems, although military authorities 
+insist that in combat, the final decision – 
+to kill or not to kill – will always be made 
+by a human.
+We want to believe that. But we must 
+remember, nuclear weapons – which 
+should never have seen the light of day, 
+and which have faced opposition from the 
+earliest phase of their conception – has 
+nevertheless been well and truly used. 
+Public opinion is increasingly 
+mobilizing against the development of 
+lethal autonomous weapons. 
+
+As in all other spheres of human activity, 
+AI can greatly facilitate and accelerate 
+work in the field of security. For example, 
+researchers at the University of Granada, 
+Spain, are developing software that 
+uses neural networks to detect small 
+weapons – pistols, machine guns and 
+submachine guns – on video images, 
+almost instantly, and with great 
+precision. Modern security systems 
+include a large number of surveillance 
+cameras whose operators simply cannot 
+view every image. The AI is therefore 
+very useful for analysing these images, 
+detecting the presence of weapons and 
+informing agents in record time.
+In another example, the Center for 
+Geospatial Intelligence (CGI) at the 
+University of Missouri in the United States 
+has developed an AI system capable 
+of rapidly and accurately locating anti-
+aircraft missile devices on satellite and 
+aerial images. The system’s research 
+capacity is up to eighty-five times faster 
+than that of human experts. To form the 
+neural network underlying this system, 
+photographs representing different types 
+of anti-aircraft missiles were used. Once 
+the system was trained, it was tested on 
+a set of photos. In just forty-two minutes, 
+it found ninety per cent of the defensive 
+devices. It took human experts sixty 
+hours of work to solve the same problem, 
+yielding the same result.
+There are also more complex applications 
+of AI. The US Army Research Laboratory 
+(ARL), for example, is developing a 
+computer system that analyses the 
+human response to a given image. It 
+will be useful for military analysts who 
+need to view and systemize thousands 
+of photos and hours of video recordings. 
+The principle of the system: the AI tracks 
+the person's eyes and face and compares 
+facial expressions with the images 
+the person is looking at. If an image 
+catches the person's attention (meaning 
+the facial expression or the direction 
+of his gaze changes), the software 
+automatically moves it into a thematic 
+folder. During the tests, a soldier was 
+shown a set of images divided into five 
+main categories: boats, pandas, red 
+fruit, butterflies and chandeliers. He 
+was asked to count only the images 
+of the category he was interested in. 
+The images scrolled at the rate of one 
+per second. The AI “concluded” that 
+the soldier was interested in the boats 
+category and copied these images into a 
+separate file.
+In the field of combat
+AI can also help soldiers in combat. In 
+Russia, for example, the development 
+of the fifth-generation Sukhoi Su-57 jet 
+fighter is nearing completion; the plane 
+could be commissioned before the end 
+of 2018. The software of this stealth 
+plane’s flight computer contains elements 
+of AI. Thus, in flight, the fighter plane is 
+constantly analysing the quality of the air, 
+its temperature, its pressure and many 
+other parameters. If the pilot attempts 
+to perform a manoeuvre and the system 
+“estimates” the action will cause a crash, 
+the pilot’s command will be ignored. 
+If the plane goes into a spin, the same 
+system tells the pilot how to steady the 
+plane and regain control.
+Meanwhile, Japan is developing its own 
+fifth-generation fighter. Its research 
+prototype, the X-2 Shinshin (“Spirit of 
+the Heart” in Japanese), made its first 
+flight in April 2016. A vast network 
+of sensors, which will analyse the 
+condition of each component of the 
+aircraft and determine any damage it 
+has suffered, will ensure its “survival”. If, 
+during combat, an aircraft’s wing or tail 
+is damaged, its control system will be 
+reconfigured so that its manoeuvrability 
+and speed remain virtually unchanged. 
+The Japanese fighter's computer will be 
+able to predict the exact time at which 
+a damaged element will fail entirely, so 
+that the pilot can decide to continue the 
+fight or return to base.
+This makes AI a “godsend” – if such 
+a term can be used for weapons and 
+combat systems. 
+A linear perspective drawing originally 
+intended for publication in Crisis 
+in Zefra, a fictional narrative by 
+Karl Schroeder, who is interviewed in 
+this issue of the Courier.
+© Kalman Andrasofszky
+Wide angle
+
+Killer robots
+Its speed of analysis and its ability to 
+learn make AI attractive for combat 
+systems. The military, although they 
+still don’t admit it, are probably already 
+tempted to create combat systems 
+capable of operating on the battlefield 
+in a fully autonomous manner, which 
+means being able to identify a target, 
+open fire on it, move around and choose 
+the optimal trajectories, allowing them 
+to get to safety. 
+A few years ago, the military authorities 
+of China, Germany, Russia, the US, and 
+several other countries, announced that 
+the creation of fully autonomous combat 
+systems was not their objective. At the 
+same time, the military forces noted that 
+such systems are likely to be created.
+In 2017, the US Department of Defense 
+completed and began to implement the 
+Third Offset Strategy. It involves, among 
+other things, the active development 
+of next-generation technologies and 
+concepts, and their use in future military 
+initiatives.
+On 1 September 2017, Russian President 
+Vladimir Putin declared, at a public 
+lecture at a school in Yaroslavl: “Artificial 
+intelligence is the future, not only for 
+        Russia, but for all humankind. 
+A linear perspective drawing originally 
+intended for Crisis in Zefra by Karl 
+Schroeder, illustrating emerging 
+technologies that could become part of 
+Canada’s Army of the Future.
+© Kalman Andrasofszky
+It comes with colossal opportunities, but 
+also threats that are difficult to predict 
+today. Whoever becomes the leader 
+in this sphere, will become the ruler of 
+the world.” He added that it would be 
+“highly undesirable for anyone to gain a 
+monopoly. So, if we become leaders in 
+this field, we will share these technologies 
+with the entire world.” But does this mean 
+that we are not at the beginning of a new 
+era of arms races? 
+On Earth, a growing number of areas 
+are reliably protected by anti-aircraft 
+and anti-missile systems, monitored 
+by satellite and unmanned systems, 
+and patrolled by ships and aircraft. In 
+the minds of the military, only combat 
+systems with AI will be able to, in the 
+event of war, penetrate these closed areas 
+and operate with relative freedom.
+Today, there are already combat systems 
+capable of detecting and classifying 
+their targets, and of controlling the 
+firing of anti-aircraft missiles, such as the 
+S-400 advanced surface-to-air defense 
+missile systems in Russia. America’s Aegis 
+Combat System, which controls the 
+arming of warships, works in the same 
+way. Along the demilitarized zone, on 
+the border with the Democratic People's 
+Republic of Korea, the Republic of Korea 
+has posted several SGR-A1 military robots 
+in charge of surveillance. In automatic 
+mode, they are able to open fire on 
+the enemy, although they will not fire 
+on people who have their hands up. 
+However, none of these systems is used 
+by the military in automatic mode.
+A complex programme capable of 
+optimally solving a particular problem 
+– ten times faster than a human can 
+– not only facilitates the work of a 
+reconnaissance aircraft, a drone operator 
+or an air defence system commander, 
+but it can also save lives. It would be able 
+to come to the rescue of crew members 
+aboard a submarine in distress (remotely 
+putting out fires in compartments 
+abandoned by humans), airplane pilots, or 
+operators of damaged armoured vehicles.
+
+The latest advances in AI development 
+make it possible to create combat 
+systems that can move around. Thus, 
+in the US, unmanned aircraft are being 
+developed to fly behind human-operated 
+fighter planes and target aerial or 
+ground targets on command.
+The fire control system of the next-
+generation Russian T-14 tank, based 
+on the Armata universal heavy-
+crawler platform, will be capable 
+of autonomously detecting targets 
+and bombarding them until they are 
+completely destroyed. Russia is also 
+simultaneously working on a family 
+of tracked robots that will be able 
+to participate in combat with 
+human soldiers.
+For armies, all these systems are called 
+upon to perform several basic functions 
+– most importantly, to destroy enemy 
+targets more efficiently and to save the 
+lives of their own soldiers. At the same 
+time, there are still no international 
+standards or legal documents to 
+regulate the use of combat systems 
+equipped with AI in war. Neither the 
+Laws and Customs of War on Land nor 
+the Geneva Conventions define which 
+AI systems can be used in combat and 
+which cannot. 
+Nor is there any international 
+legislation that would help identify 
+those responsible for the failure of 
+an autonomous system. If a drone 
+bombards civilians autonomously, who 
+will be punished? Its manufacturer? The 
+commander of the squadron to which it 
+was assigned? The Ministry of Defence? 
+The chain of potential culprits is too long 
+and, as we know, when there are too 
+many culprits, nobody is guilty.
+In 2015, the US-based Future of Life 
+Institute published an open letter signed 
+by more than 16,000 people, warning 
+of the threats that AI-based combat 
+systems pose to civilians, the risk of an 
+arms race, and ultimately, the danger 
+of a fatal outcome for humanity. It 
+was signed, notably, by the American 
+entrepreneur and founder of SpaceX and 
+Tesla, Elon Musk, the British astrophysicist 
+Stephen Hawking (1942-2018), and the 
+American philosopher Noam Chomsky. In 
+August 2017, Musk led a group of 116 AI 
+experts to send a petition to the United 
+Nations, calling for a total ban on the 
+development and testing of autonomous 
+offensive weapons.
+These experts believe that the creation 
+of robot armies capable of conducting 
+hostilities autonomously will inevitably 
+lead to the emergence of feelings of 
+absolute power and impunity among 
+them. Moreover, when humans are in a 
+conflict situation, they make decisions 
+that include, inter alia, their moral 
+attitudes, feelings and emotions. The 
+direct observation of the suffering of 
+others still has a deterrent effect on 
+military personnel, even if compassion 
+and sensitivity eventually diminish 
+among professional soldiers. In the event 
+of the widespread introduction of LAWS, 
+the effects of which can be unleashed 
+simply by swiping the screen of a tablet 
+on another continent, war will inevitably 
+become nothing more than a game, with 
+civilian and military casualties reduced 
+to numbers on a screen.
+An arms expert and journalist, Vasily 
+Sychev (Russian Federation) writes for 
+publications including the Rossiyskaya 
+Gazeta newspaper, Expert, the Russian 
+weekly business magazine, Lenta.ru, an 
+independent Russian news site, and 
+the Military-Industrial Courier, a defence 
+newspaper. He also heads the “Arms” and 
+“Aviation” sections in the popular science 
+web journal N + 1.
+Armies of robots capable of waging war 
+autonomously remain in the realm of 
+science fiction. Still, many AI experts are 
+extremely concerned about the possibility. 

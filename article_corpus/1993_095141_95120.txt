@@ -1,0 +1,385 @@
+F==}s
+v~
+The origin of numbers
+The story of a great intellectual adventure
+by Tony Levy
+Above, detail of an ancient
+Egyptian painted low-relief
+depicting a table for
+funerary gifts (2700 B.C.).
+On it several numbers are
+written in hieroglyphic
+script (the hieroglyph for
+1 000 appears four times,
+bottom right).
+IT is generally accepted that some animal species
+are capable of perceiving quantitative differ¬
+ences, such as a chick missing from the brood
+or a more or less abundant food supply. The
+human infant also shows a kind of quantitative per¬
+ception in relation to familiar objects long before
+it is able to speak. The development of language
+and the use of words widen and refine this quan¬
+titative perception, so that some cultures have
+invented names for vast multiplicities such as the
+stars in the sky or the sand on the seashore, and
+have even attempted to quantify infinity.
+D Counting and recounting
+Of all the powers conferred by speech, that of
+naming numbers certainly seems to be among the
+oldest. After all, "numbering" means organizing
+and putting in order the real world and our ideas
+about it. This is apparent in the idiom of different
+languages.
+
+English eighteen 8-10
+French dix-huit 10-8
+German acht-zehn 8-10
+Ancient Greek
+Modern Greek
+okto-kai-deka 8 and 10
+deka-okto 10-8
+Latin
+Latin
+decern et octo 1 0 and 8
+duo-de-viginti 2 from 20
+Lithuanian ashtuno-lika 8 left over (from 1 0)
+Breton tri-ouch 3-6
+Welsh deu-naw 2-9
+Mexican
+Finnish
+(from K. Menninger
+caxtulli-om-mey
+kah-deksan-toista
+1 5 and 3
+2 (from) 1 0 (in the) second (ten)
+Number Words and Number Symbols)
+IO
+- In some European languages, for example,
+there is a strong similarity or even an overlapping
+between words meaning "count" and words
+meaning "tell": compter/raconter in French,
+contare/raccontare in Italian, contar/contar in
+
+
+
+Spanish and Portuguese, and zählen/erzählen in
+German. In modern English the word tale
+denotes a story, but the word teller can be used
+to designate a bank cashier as well as someone
+who tells a story. So it is not surprising that this
+similarity is found in older Indo-European lan¬
+guages. Etymologically, the Sanskrit term for
+number, sankhya, denotes a way of saying
+things. The Greek word logos, denoting both
+reckoning and also word or speech, derives
+these different meanings from the old sense of
+the verb lego, to collect, choose, gather, and
+hence to reckon, count, enumerate, and then to
+recount or say. Similarly the Greek word
+arithmos means both number in the arithmetical
+sense and also adjustment or disposition. This
+ambivalence later shifted to the Latin numerus
+and its derivatives. The adjective numerosus
+means both numerous and harmonious.
+Moving away from the Indo-European
+languages, we find a similar situation in two
+Semitic languages, Arabic and Hebrew. In
+Arabic the word for account is hisab, from the
+triliteral root h.s.b. The verb "to count" is
+hasaba, which with one vowel change becomes
+hasiba, to imagine, believe. Likewise with
+Hebrew, which from one root, s.p.r., constructs
+the words for book, sepher; number, mispar;
+and story, sippur.
+Words and numbers
+Whatever numerical facility a given language
+may have developed, the names it uses for num¬
+bers seem to go back to a very early period in the
+history of that language and have, moreover,
+remained amazingly stable through the ages.
+They are reminders of human strivings since
+time immemorial to bestow names on the diver-
+Different ways of forming
+the number 18.
+sity of the real world, and occasionally they
+provide us with a glimpse of the process that pre¬
+ceded and underlay the naming of the various
+orders of quantity.
+One example, that of the number 9, illus¬
+trates the interest as well as the difficulty of
+historical analysis. In many Indo-European lan¬
+guages the word for this number is strikingly
+close to the adjective conveying the idea of new¬
+ness: Latin novem/novus, French neuf/neuf,
+English nine/new, German neun/neu, Sanskrit
+nava/navas. Combining the disciplines of the
+linguist and the historian, one is tempted to
+explain the phenomenon as follows: at the dawn
+of counting, the number 9 was perceived as a
+"new" level after 8. The word for 8 {octo, huit,
+eight, acht, ashta in the five languages cited
+above) could be derived in its turn from a gram¬
+matical dual of the word for 4 (quattuor, quatre,
+four, vier, tchatvara). In the light of many other
+linguistic and cultural phenomena it turns out
+that the number 4 really does represent a new
+stage in our perception of numbers. We can
+easily discern one, two, three or four objects
+without needing to count them, but from five
+A runic calendar (Finland,
+mid- 1 6th century). Runic
+writing, using an alphabet
+of characters known as
+runes, was used by the
+Germanic peoples of
+northern Europe between
+the 3rd and 17th centuries.
+
+A Phoenician inscription
+on gold leaf in honour of
+the goddess Astarte (early
+Sth century B.C.).
+onwards we have to count them before we can
+say how many there are.
+This is an attractive hypothesis, although in
+such a field it is impossible to be dogmatic. If we
+pursue our linguistic investigations a little fur¬
+ther, we can even find new arguments to support
+it. Most Semitic languages use phonetically
+related terms to denote the number 9: Akkadian
+uses tishu, Hebrew tesha', Syriac tscha', Arabic
+tis'un, and Ethiopian tes'u. Arabic grammar
+indicates that the word tis'un is derived from the
+verbal root wasa'a, "to be or become wide".
+Thus it is possible that the notion of "newness"
+observed in the Indo-European languages recurs
+in the Semitic ones.
+Ordering, combining and
+counting
+Any number system, however elementary, pre¬
+supposes the adoption of a small number of
+
+
+
+symbols words, pictograms or graphic signs
+structured according to two principles. A prin¬
+ciple of order or arrangement distinguishes the
+first symbol (one) from the second (two) and if
+necessary from the third (three) etc., and a prin¬
+ciple of grouping or combining interrupts the
+series of distinct individual symbols by intro¬
+ducing a symbol of a higher order of magnitude
+which is then combined with the previous
+symbol to continue the system. Thus "one, two,
+three. . . , ten, ten-one, ten-two. . . , ten-ten or a
+hundred, a hundred and one, a hundred and
+two. . ." is called a base-10 system or decimal
+system.
+But other bases have been or still are used:
+base two (the binary system), five (quinary),
+twenty (vigesimal) and sixty (sexagesimal). It
+seems likely that the bases 5, 10 and 20 were
+originally chosen because of their relationship to
+characteristics of the human body, and traces of
+this remain in some oral counting systems. In
+Api, the spoken language of the New Hebrides,
+the word luna denotes a hand, and also the
+number 5; the number 2 is lua, and 10 is of
+course lualuna literally, two hands.
+The variety of the rules governing the forma¬
+tion of the names of numbers is a striking instance
+of human cultural and linguistic diversity. The
+table on the opposite page illustrates how the
+number eighteen is formed in various languages.
+We must recognize, however, that little is
+known about the methods of reckoning used in
+very ancient times. Certainly the numbers for
+which words already existed had to be repre¬
+sented symbolically. In addition to verbal
+numeration manual gestures were used
+(counting on the fingers) or physical devices
+such as an abacus, a counting frame, a sand-
+table or a knotted cord. To the historian, this rep¬
+resentational numeration seems in some cases to
+foreshadow certain forms of written numeration.
+I Counting systems, writing systems
+and alphabets
+The advent of writing resulted in a fantastic
+growth in numerical capacity. Written counting
+systems or numerations may be divided into I I
+
+,cx A 9 Y
+1000 900 90
+//
+1 3 2? n n
+4 50 300 400 5000
+Figure /. Alphabetical number
+systems
+1993 in Greek alphabetical
+numeration (left)
+5754 in Hebrew
+alphabetical numeration
+.(right)
+two main types: additive numeration, in which
+a number is produced by directly adding
+
+
+
+together the numerical value of its component
+symbols, as in Ancient Egyptian hieroglyphic
+numeration and in Roman numerals, and posi¬
+tional or place-value numeration, in which the
+value of a symbol (units, tens, hundreds, etc.) is
+determined by the position it occupies. Thus
+1034 (written from the left to the right, "one-
+zero-three-four") represents one (thousand)
+plus zero (hundreds) plus three (tens) plus four
+(units). This system, which requires the use of a
+zero (a blank space or a graphic sign) appeared
+historically only in four civilizations with
+written languages: in Mesopotamia, in China, in
+ancient India and in the Maya civilization of
+central America.
+Though writing first appeared in Sumer
+during the fourth millennium B.C., alphabetical
+scripts were doubtless invented in the middle of
+the second. The best-known and most influen¬
+tial script was that developed by a trading and
+seafaring people, the Phoenicians, who spoke a
+Semitic language. It was adopted or adapted by
+other languages in the same group (Hebrew,
+Aramaic and later Arabic), as well as by other
+languages less closely related to Phoenician.
+The Phoenician alphabet only transcribed con¬
+sonants, of which there were 22. The Greeks
+later added vowels to it. The Latin alphabets,
+descended directly from the Greek, retain the
+order of the Phoenician alphabet almost
+unchanged.
+Mastery of this extraordinary tool led to the
+development of a number of counting systems
+12
+S O
+0ï
+»
+E91
+y»
+' HA- o 2.
+figure 2. Use of the zero in
+ancient China
+Multiplication of 3069 by
+45 (from a 1 4th-century
+Chinese mathematical
+treatise).
+including the ancient Hebrew system, the so-
+called "learned" Greek counting system, and
+the Arabic counting system known as hisab al-
+jummal or hisab abjadi. These were alphabetical
+additive numerations, whose principle is
+extremely simple provided the user knows the
+order and numerical value of the letters of the
+alphabet. The first nine letters correspond to
+the nine digits (1,2,3,..., 9), and the next nine
+to the nine tens (10, 20, 30 . . . 90). The remaining
+letters are used to denote the hundreds. Thus
+alphabetical numbers are written in descending
+order of numerical value of their constituent
+letters, in the direction of the script (figure 1).
+Since the alphabet comprises only a small
+number of different signs (22 in Hebrew, 28 in
+Arabic and 27 in Greek), this counting system
+initially only allowed the representation of num¬
+bers below 10,000. Various expedients were
+available for going further, but it became diffi¬
+cult to handle large numbers. Consequently
+scholars, particularly astronomers, had to adopt
+the far more efficient Babylonian sexagesimal
+positional number system and adapt it to their
+script. In principle this numeration requires 59
+different symbols plus a sign for zero. These
+"sexagesimal digits" would often be expressed
+in alphabetical numeration, thus combining the
+power of positional notation with the conve¬
+nience of alphabetical notation.
+LI A legacy from India
+The decimal positional numeration system with
+a zero, as developed in India, gradually came to
+supersede other written systems and is now in
+virtually universal use. It spread slowly, however,
+and in a complex fashion.
+China, for instance, acquired a decimal posi¬
+tional system of its own quite early on, inde¬
+pendently of the Indian one, but one which did
+not use a zero. It may even be supposed that the
+Chinese could have designed a system like the
+Indian positional system on their own. But the
+introduction of the zero into the Chinese posi¬
+tional notation seems to have been of Indian
+origin (figure 2).
+Nowadays schoolchildren in the West learn
+to count with "Arabic numbers": but what
+
+tint» iiipomii iuni'0 qnaan
+io quiuqu» flew ín*ymíio
+vH-ÍUÍlti Ol C 0 I I H, J
+exactly are they? We owe our knowledge of the
+principles of Indian arithmetic to Arab scholars
+of the eighth century. In about 774 A.D. an
+Indian scholar passing through Baghdad made
+known a Sanskrit book on astronomy which
+adopted the principles of "Indian arithmetic"
+{hisab al-hind), and al-Fazzari's Arabic transla¬
+tion of this book represented the first stage in the
+history of "Indian arithmetic" in the Muslim-
+Arab empire. The Arabic word sifr, "empti¬
+ness", is a translation of the Sanskrit sunya. It
+was chosen in the ninth century to represent
+zero. Sifr gave rise to the Latin cifra in the thir¬
+teenth century, the French chiffre in the four¬
+teenth century and the German Ziffer in the
+fifteenth century. It is also the forebear of the
+English cipher. By a parallel development sifr
+gave rise to the Latin zefirum in the thirteenth
+century, the Italian zefi.ro/zevero in the fifteenth,
+and finally the word zero. Western terminology
+is unquestionably Hindu-Arabic.
+We must, however, distinguish between the
+spread of knowledge about the principles of
+Indian numeration and the development of the
+graphic signs used for its notation. The rela¬
+tionship between the written forms recorded
+from India and those that appeared in the Arab
+world from the ninth century onwards is not
+clear. Moreover there is a difference between
+eastern and western Arabic numerals. While
+the principles of Indian numeration spread in
+Latin in the medieval West in the twelfth century,
+the figures we call "Hindu-Arabic" spread
+through intermediaries that have not all been
+identified, sometimes borrowing from earlier
+Roman or Visigothic forms in Spain.
+A system for counting on
+the fingers is shown in this
+illustration from a 13th-
+century Spanish
+manuscript.
+TONY LEVY,
+of France, is a research
+associate at his country's
+National Centre for Scientific
+Research (CNRS) and teaches
+the history of science at the
+University of Paris Vlll-Saint
+Denis. His main centre of
+academic interest is the
+Hebraic mathematical tradition
+in the Middle Ages and its
+relationship to the Arab and
+Latin traditions. He is the
+author of a study on the
+history of the idea of infinity
+entitled Figures de l'infini. Les
+mathématiques au miroir des
+cultures, published by Editions
+du Seuil, Paris, 1987. 13

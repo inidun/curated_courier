@@ -1,0 +1,700 @@
+How science unlocks the secrets
+of the past by Tony Hackens
+ARCHAEOLOGY was born in sixteenth-century Europe as
+an offshoot of the scholarly pleasures of the Renais¬
+sance. Many early archaeologists were collectors moti¬
+vated by an aesthetic interest in Antiquity and a desire to recon¬
+stitute the background of events described by ancient writers.
+Until the beginning of the twentieth century, generations of
+archaeologists set out to rediscover and excavate great sites, to
+record the evolution of styles and to retrace the interplay of cul
+tural influences according to aesthetic criteria and typology
+the study of objects by types.
+Today's archaeologist usually lives in a world which is far from
+the preoccupations of scholarly collectors or prestige excava¬
+tions. He or she is at the centre of a group of specialists from dif¬
+ferent scientific disciplines. Working with these specialists and
+profiting from methods used in the natural sciences, modern
+archaeologists attempt to decipher the messages stored in the
+Tell-tale tree rings
+In the late 15th century Leonardo da Vinci discovered seasonal
+growth patterns in trees. In this century tree-ring dating (den¬
+drochronology) has become a science. Each ring produced in a
+tree's trunk during its yearly growth is unique. The rings are
+wide or narrow depending on the prevailing growth conditions,
+and precisely the same long-term sequence of wide and narrow
+rings is never repeated, because year-to-year variations in
+climate are never the same. By putting together tree-ring pat¬
+terns from overlapping living trees and dead wood (see diagram)
+scientists construct a tree-ring chronology. Samples of wood
+from objects discovered by archaeologists can be dated by be-
+/
+W 1572 MdKacreol St. Bartholomew
+1589 Asiaitmation ol Htnr III
+1610 Anamination ol Henr IV
+HI
+1643 Dnthof Log« XIII
+©
+1715 Death of Louii XIV
+17 89 French Revolution
+1804 Coronation of Napoleon I
+1852 Loun Napoleon proclaimed emperor
+' 11)70 Proclamation of the 3rd Republic
+1669 Inauguration of the Eiffel Tower
+1914 Firjt World War
+ISM Strand World War
+ing matched, either visually or using a computer, to such master
+chronologies, established region by region.
+Because they live to such a great age, the bristlecone pines
+which grow in the White Mountains of California have served as
+a unique tool in tree-ring dating. Using them, Dr. C.W. Ferguson
+of Arizona University has established a continuous tree-ring
+sequence which stretches back over 8,500 years into the past
+(see back cover). Ferguson hopes that this sequence will even¬
+tually reach back at least 10,000 years. This sequence and
+others developed in other parts of the world have been used to
+"calibrate", or cross-check, dates established using radiocar¬
+bon or carbon 14, another important scientific dating method
+used by archaeologists.
+Developed in the late 1940s, radiocarbon dating is based on
+the fact that living organisms absorb radiocarbon from the at¬
+mosphere. When they die the carbon disintegrates at a known
+rate, and by measuring the amount of it left in a sample ol
+organic material such as charcoal or bone, it is possible to deter¬
+mine how long ago the plant or animal died. However, when
+scientists analysed the carbon 1 4 content of tree rings of known
+age they found that although the carbon 1 4 age and the tree-ring
+age should have been the same, there were actually con¬
+siderable discrepancies. Earlier than 1000 BC the carbon 14
+dates give a progressively greater underestimate of the true
+calendar date. Why is this so? The reason is that radiocarbon
+dating was based on the assumption that the cosmic rays that
+created carbon 14 had bombarded the atmosphere at a fixed in¬
+tensity, but in fact carbon 14 has fluctuated. Today, tree-ring
+calibration charts have been established which convert
+radiocarbon years into calendar years. It is amazing to think that
+some Swiss lake-villages of the 4th millennium BC can be dated
+not by millennia or centuries but down to the year in which the
+trees used to build them were felled.
+This development had far-reaching consequences for ar¬
+chaeology. Many European prehistoric monuments and sites
+were shown to be centuries older than previously thought. The
+classical theory whereby their origin was due to skills and
+motivations which were diffused into Europe from the east was
+no longer tenable in the light of tree-ring calibration.
+Left, section of an oak felled in the Forest of Fontainebleau in
+1952. By counting the tree-rings it was possible to establish the
+age of the tree which, because it began to grow around the time
+of the Massacre of St. Bartholomew in Paris, in 1572, is known
+as the oak of St. Bartholomew.
+©
+mi; 1 1 trrm
+an
+Liv,nfj
+tu
+Dead t rees Dead wood
+
+material archives of human activity in the form of multifarious
+traces left on a wide variety of materials. Although they may not
+tread in the footsteps of Schliemann at Troy and Mycenae, or
+those of Lord Carnarvon in Egypt, nor experience the excitement
+of discovering tombs overflowing with precious objects and
+jewellery, they perform an equally valid humanist task as they
+use the latest scientific techniques to recapture aspects of the
+life, environment, landscape, economy or technology of the past.
+To excavate is to destroy, and once destroyed the archaeologi¬
+cal heritage unlike naturecannot grow again. These seem¬
+ingly commonplace observations underlie the mission of the
+archaeologist, who must identify the slightest hint of past human
+activity, analyse every facet of the information it can yield by
+using every available method, and evaluate his or her interpreta¬
+tion through reasoning which may later be tested with the
+computer.
+The following text, with accompanying boxes and illustrations,
+attempts to provide a highly simplified and selective account of
+some of the complex scientific techniques being used today by
+archaeologists in prospection, excavation, analysis, dating and
+preservation.
+WHERE TO EXCAVATE. One problem a field archaeologist
+faces is that of knowing where to dig. Sometimes the study of old
+documents and literature is helpful: in other cases clues must be
+found from the air or on the ground. The use of aerial photo¬
+graphy in archaeology (see page 1 8) goes back to the beginning
+of the century, when photos were taken from a balloon above
+Ostia, the port of Rome. Its systematic application has made it
+possible to study the layout of towns before beginning to exca¬
+vate, to locate traces of Roman roads and villas and to observe
+systems of land management. More recently télédétection from
+satellites has vastly expanded the scale of possibilities for aerial
+prospection.
+On the ground, the use of electrical resistivity to detect buried
+walls and ditches is now widespread. In making a resistivity sur¬
+vey, an electrical current is passed through the ground to mea-
+These 3 drawings of the site of ancient Troy reflect some of the
+changing techniques and approaches in field archaeology since
+the last century. Top, a cross-section drawn in 1879 and publish¬
+ed by Heinrich Schliemann. It shows the accumulation of debris
+to which the great German archaeologist often referred as a ma¬
+jor obstacle to his search for Homeric Troy. Middle drawing is a
+diagrammatic section of a deposit at Troy by Carl Biegen, who
+directed the University of Cincinnati's research at Troy from
+1932 to 1938. Biegen 's major interest was the analysis of
+stratigraphical sequences in different parts of the artificial hill of
+Troy. Bottom drawing is a recently published section showing
+not only stratigraphy but the sampling of soil in the different
+layers. This is done to help reconstruct the environment at dif¬
+ferent periods.
+©
+13
+
+)> sure the resistance of the soil, which is affected by moisture.
+Metal detectors are being widely used by treasure hunters in
+some countries where, when used indiscriminately and irrespon¬
+sibly, they have caused havoc to the archaeological heritage.
+Recently US and Swedish technicians have developed a radar-
+truck capable of recording structures buried to a depth of four
+metres in certain terrain such as peat.
+EXCAVATION. When they come to excavate, the most impor¬
+tant method used by modern archaeologists is to study the strati¬
+graphy of a site, the arrangement of archaeological deposits in
+superimposed layers or strata. The earliest excavations at Rome
+in the sixteenth century and at Pompei and Herculaneum in 1717
+were above all a harvest of objects from the soil, and Schliemann
+himself admitted that he had dug through (and destroyed) many
+recent levels before reaching the "interesting" Trojan levels. He
+was not alone in acting in this way. His drawings give some idea
+of the superposition of strata and remains, but he made no pre¬
+cise visual records which can be interpreted without reference to
+his reports.
+The next generation of archaeologists made abundant
+records, drew vertical and horizontal sections, and covered the
+site with a grid of squares of standard size in order to "read" the
+way in which the strata were superimposed, to analyse their rela¬
+tionship with the levels of soil on which people had lived, and with
+layers of building and destruction. A meticulous description was
+made of every trace revealed during the methodical removal of
+earth, often using precision instruments to locate the exact posi¬
+tion of each vestige.
+The present generation of archaeologists takes large numbers
+of samples while excavating samples of earth, pollen, and
+charcoal. In this way it is possible to deduce from the ruins of a
+building what the building was actually like, to reconstitute its
+environment, and to identify the occupation of those who lived in
+it. Analysis of the isotope Carbon 13 in bones and tissue can pro¬
+vide evidence of the diet of prehistoric men, and the study of
+insect finds can help indirectly to identify their occupations. Stra¬
+tigraphy now makes use of a range of scientific disciplines,
+among which the earth sciences play an increasing part.
+Top photo: analysis of a small Byzantine
+cross being carried out by proton-
+induced X-ray emission (PIXE), at the
+Laboratoire d'Analyses par Réactions
+Nucléaires, Namur, Belgium. The cross is
+bombarded with protons from a "proton
+gun", inducing X-rays whose
+characteristics are measured by X-ray
+detectors at each side of the cross. The
+analysis showed the relative content of
+gold, copper, iron and silver. Photo,
+above, shows the non-destructive nature
+of this test : a member of the Namur team
+uses the same method on his own teeth.
+Did Philip of Macedón
+look like this?
+In 1977 Professor Manolis Andronicos of
+the University of Thessaloniki discovered
+three royal graves at Vergina in
+Macedonia (see Unesco Courier, June
+1979). It seemed possible that King Philip
+II of Macedón (382-336 BC), the father of
+Alexander the Great, might have been
+buried in the biggest tomb, but proof was
+lacking. In 1981 Richard Neave of Man¬
+chester University, Dr. John Prag of the
+Manchester Museum and Dr. J.H.
+Musgrave of Bristol University began to
+co-operate with Professor Andronicos in
+examining the skull in question and
+reconstructing the dead man's ap¬
+pearance. Casts were taken of the bones
+of the skull, in fragments after cremation.
+It proved difficult to fit the bones
+together, and study showed that this dif¬
+ficulty was largely due to injury and con¬
+genital deformity. "In short," Dr. Prag
+has written, "the left side of the dead
+man's face was markedly
+underdeveloped and the right side
+overdeveloped, to compensate for this."
+Plastic surgeons also noted injuries to the
+right eye-socket which, they concluded,
+could only have been caused by a missile
+from above. Portrait heads of Philip show
+an injury to the right eye which was ap¬
+parently sightless, and a 1st century BC
+author noted that "he had his right eye
+cut out when he was struck by an arrow
+while inspecting the siege engines and
+the protective sheds at the siege of
+Methone." This account, Dr. Prag notes,
+"tallies exactly with the injury we noted
+on the skull from Vergina. It provided the
+proof that Andronicos has always been
+hoping for and appears to have silenced
+the sceptics." The team which
+reconstructed the head used the same
+techniques as those used by the police to
+identify unknown decomposed bodies.
+Measuring pegs were inserted at different
+points on the skull to establish the
+thickness of soft tissue, muscles were
+modelled, and then superficial layers
+added. The details of the scar were based
+on an almost identical injury received
+some years ago by a Canadian
+lumberjack.
+1. Reconstructed skull
+showing injury to right
+eye
+2. Plaster cast of the
+finished head
+3. Wax cast of the
+reconstructed head
+with hair, beard and
+skin colour
+14
+
+THE ANALYSIS OF ARCHAEOLOGICAL FINDS. Since the
+end of the Second World War great strides have been made in
+the analytical techniques used by archaeologists. Objects may
+be analysed to discover how they were made, what they were
+made of, and where those materials were obtained. The Lydian
+stone or touchstone was the earliest method used to determine
+the proportion of precious metal contained in an object. It pro¬
+vides remarkably precise results. The metal to be assayed is rub¬
+bed on the touchstone which is then exposed to a reactive agent
+whose colour changes are evaluated.
+In the third century BC, Archimedes used the concept known
+today as specific gravity to solve the problem of whether or not
+King Hieron of Syracuse's crown was made of gold or of an alloy
+of gold and silver. According to the story, it occurred to him one
+day as he stepped into his bath and saw the water overflow that
+the excess of bulk caused by the introduction of alloy could be
+measured by putting the crown and equal weights of gold and sil¬
+ver separately into a vessel of water and measuring the differen¬
+ces of overflow. Each of these techniques is still used today.
+In chemical analysis techniques a sample has to be taken from
+the object being analysed, and in the case of precious objects
+this is often undesirable. Spectrographs analysis, which suc¬
+ceeded "wet chemistry", investigates the chemical nature of a
+material by examination of its spectrum. Using this technique
+only a single point may be examined in each object, and if a
+sample is taken it is destroyed and the experiment cannot be
+repeated. The ¡deal remained a method of analysis which did not
+destroy the object being analysed.
+The next step towards non-destructive analysis was to
+bombard objects with X-rays which cause no damage and simply
+provoke other rays whose diffraction or energy levels are
+characteristic of different materials. This analysis is confined to
+a microscopic layer of atoms on the surface of an object. A
+specimen which is not homogenous will thus deceive the analyst
+as to its true nature. The X-ray method requires a profound
+knowledge of series of objects so as to avoid hasty generali¬
+zations made from surface analyses.
+Dating prehistoric sites
+In an experimental study which could
+open up fascinating possibilities for
+future work on human evolution and ar¬
+chaeology, Swedish scientist Svante
+Pääbo recently succeeded in extracting
+and cloning (reproducing identical copies
+of) a DNA sample from the 4,500-year-old
+mummy (right) of an ancient Egyptian boy
+who died at the age of one. DNA (deox¬
+yribonucleic acid) is the master molecule
+of life and carries the hereditary instruc¬
+tions that determine the nature of a living
+organism, and information on DNA se¬
+quences can give us a clear picture of a
+population's genetic identity. Informa¬
+tion on the DNA sequences of ancient
+Egyptian mummies could, therefore, tell
+us not only about the relationships bet¬
+ween members of the Egyptian royal
+families, but also about population
+movements in ancient Egypt. It should be
+pointed out that, despite sensational
+rumours, it is not possible using these
+techniques to reconstitute a functional
+gene, and even less a living human being,
+from such DNA sequences.
+Methods Materials Range of time
+Thermoluminescence Ceramics
+burned rocks
+(silex,
+sandstone,
+granite)
+stalagmites
+0 to several
+hundreds of
+thousands of
+years
+Comments
+Dendrochronology Wood 0 to 7,000
+Carbon 14 Organic
+remains
+(wood,
+bones)
+shells
+0 to 40,000
+Uranium- Stalagmites 10,000 to
+thorium ratio bones
+shells
+250,000
+Electron spin
+resonance
+Stalagmites
+bones
+1 ,000 to several
+million years
+under
+development
+Fission tracks Volcanic
+glass,
+minerals rich
+in uranium
+0 to several
+hundred thousand
+years
+Potassium-argon volcanic larva 1,000 to
+1,000 million years
+Amino-acids Bones under
+development
+Chart (0 Centre des Faibles Radioactivités, Centre mixte CNRS-CEA, Gif-sur-Yvette, France
+Certain dating methods are more appropriate than others,
+depending on the approximate age of the site and the materials
+available. Whenever possible it is advisable to use several
+methods and to compare results.
+Rome has embarked on a far-reaching
+project in which the conservation of the
+antiquities in its historic centre is an in¬
+tegral part of the wider canvas of modern
+city planning. The protection of marble
+and bronze monuments and statues
+disfigured by air pollution was a priority
+step. Right, statue of Marcus Aurelius
+undergoing treatment at the Central In¬
+stitute of Restoration.
+
+The use of more penetrating rays has made it possible to elimi¬
+nate both the disadvantages of destructive analysis and the
+superficial character of X-ray analysis.
+Nuclear analysis using neutrons either produced from a re¬
+actor or an accelerator has greatly extended our knowledge of
+ancient metalwork, as well as helping to identify recent forgeries,
+through establishing the respective content of certain elements
+and identifying the sources of metals in ancient coinage by what
+are called the "geological fingerprints" of their original mines.
+But one field of nuclear analysis is particularly fruitful: that of the
+proportion of isotopes of certain bodies determined by mass
+spectrography. The proportions of Oxygen 16 and Oxygen 18 in
+ancient marble are characteristic of different deposits, and it is
+much safer to identify the origins of Greek marble artefacts using
+this method rather than by an "experienced" judgment of the
+grain and the colouring of the veins. The application of this
+method to lead is even more widespread, since lead is so exten¬
+sively used in building and glass. It has been possible to identify
+deposits of lead from ancient Spain to Iran with considerable
+certainty.
+Finally, analyses are carried out to find out more about the
+nature of ancient technologies. The electron probe micro-
+analyser provides an enlarged image on a screen of responses
+recorded when electron beams bombard a surface. This method
+has been used to determine whether gilding was done with mer¬
+cury. Detailed and repeated analyses can be carried out, even on
+cumbersome objects, using Proton Induced X-ray Emission
+(PIXE) apparatus in which protons strike a small area of the
+object and provoke X-rays whose characteristics are measured
+by X-ray detectors.
+DATING. The Carbon 14 dating method invented by Willard F.
+Libby is today part of the dating arsenal of many archaeologists.
+An accurate measurement of the proportion of Carbon 14 con¬
+tained by a given sample makes it possible to estimate its age
+"BP" (Before Present, i.e. before 1950). Extensive research
+revealed that Carbon 14 dates were in some cases erroneous
+In many countries today treasure hunting
+using metal detectors is a popular out¬
+door hobby. Archaeologists preoccupied
+with the problem of the erosion of the ar¬
+chaeological heritage and damage to
+sites have strongly criticized treasure
+hunters on the grounds that they are only
+interested in objects and that by remov¬
+ing objects from their context they
+destroy valuable information about the
+past. At the same time many ar¬
+chaeologists are also aware of the danger
+of a "comprehension gap" between them
+and the public and feel that it is important
+to try to mobilize the enthusiasm of
+treasure hunters for the buried heritage
+and reconcile their hobby interests with
+the scientific investigation of the past.
+Georadar is an electromagnetic method
+of site investigation which has been
+developed to map geological structures
+and which also has applications for ar¬
+chaeology. Electromagnetic energy is
+transmitted into the ground from a unit on
+Graphic
+Recorder
+Power
+Supply
+Tape
+Recorder
+Pulse
+Transmitter
+Receiver
+Transmit
+Receive
+Selector
+Antenna
+iround. \
+urface \ \
+Transmitted
+Pulse
+Target
+the surface. On its way through the soil
+part of the energy is reflected when it
+meets an interface between two materials
+of differing electrical properties (such as
+soil and bedrock, or soil and an ar¬
+chaeological object) while the rest pro¬
+ceeds to greater depths (see diagram). By
+measuring the time between the transmit¬
+ted and reflected signals it is possible to
+survey the different layers of soil and rock
+and the location of buried objects. The
+reflected signals are displayed on a
+cathode ray tube and on a graphic
+recorder, providing a continuous profile
+of the subsurface. Below, the radar
+system in field operation. The antenna is
+mounted on a boom which can be raised
+or lowered by a winch inside the vehicle.
+The graphic record of the reflected
+signals is a close approximation to the in¬
+terfaces that would be seen in the wall of
+9
+dip jwr*2^^j Baa«
+BHaMBaaaHMBB^HPrfl
+a trench dug along the path taken by the
+radar apparatus. Below, "radargram" of
+a Bronze Age road in a Danish bog. The
+oak road, slightly inclined, was based on
+sand. The depth of the road surface was
+approximately half a metre.
+Oak road
+'
+G round surface
+
+because of wide fluctuations of cosmic rays in the past. Carbon
+14 dates have been adjusted after confrontation with dates pro¬
+vided by other methods such as thermoluminescence and den¬
+drochronology (see box page 1 2).
+Thermoluminescence is based on the phenomenon that rays
+from radioactive elements in the soil and cosmic rays accumu¬
+late in the crystalline materials of pottery and that when the mate¬
+rials are heated this energy is liberated and emitted in the form
+of light. The quantity of energy and thus of light is proportional
+to the length of time during which they have been accumulated.
+The system acts as a kind of clock which starts at zero when the
+material is heated to a certain temperature. (In the case of pottery
+this is when the pottery was baked.) The quantities of light invol¬
+ved are infinitely small, and photomultipliers are needed to make
+them visible and measure them. Nevertheless, the accumulation
+is significant for long periods of over 1,000 years, and this
+method is of inestimable value above all for periods earlier than
+50,000 years. In very ancient civilizations lacking any written or
+typological references, such as the prehistory of Brazil, or the
+Jomo culture of Japan, or the oldest cultures of West Africa, ther¬
+moluminescence has become accepted as a pioneer dating
+method. For space reasons it is not possible to include all dating
+methods such as magnetic dating and new nuclear methods now
+being developed (see chart page 15).
+COMPUTERS AND MATHEMATICAL TECHNIQUES. The
+possibilities opened up to archaeologists by access to big
+archaeological data banks are virtually limitless. This would
+replace cumbersome paper files and the consultation of annual
+bibliographies which often inevitably appear with delay. We
+should have literally at our fingertips information about objects
+and monuments, sites and current research which we could call
+up at will. But the danger is that of the tower of Babel. Computer
+languages and software must be compatible, yet even in a field
+with a concise and international language such as numismatics
+different teams have different aims and equipment. Views and
+experiences are being exchanged but not yet, automatically at I
+The preservation of Pete Marsh
+The body of a man was discovered in a
+peat bog at Lindow Moss south of Man¬
+chester (UK) in August 1984 and taken to
+the British Museum for analysis and
+preservation. The body had been
+mutilated by an excavating machine but
+its upper half, including part of the
+digestive tract and much skin and hair,
+were still intact after preservation in peat,
+partly decayed plant matter that gives off
+a preservative acid, absorbs moisture and
+excludes oxygen. Radio-carbon dating
+showed that the corpse of "Pete Marsh",
+as the man was nicknamed, was about
+2,500 years old. A team of scientists in¬
+cluding specialists in forensic science,
+dermatology, anatomy, microbiology and
+botany immediately began to investigate
+the remains and a portrait of Pete Marsh
+emerged. He is estimated to have been
+1 67 cm tall, aged between 20 and 30, with
+mousey-coloured hair, red moustache,
+beard and sideburns, and immaculately
+trimmed fingernails. He had come to a
+violent end by garrotting. Further study of
+the body has been carried out by X-ray,
+and computerized images of its insides
+have been taken with a nuclear magnetic
+resonance scanner. Using newly
+developed genetic engineering tech¬
+niques, researchers are also proposing to
+extract genes from the corpse and
+"grow" them in the laboratory. Before
+being put on public display, Pete Marsh is
+being "freeze-dried" (lyophilized) using a
+technique which involves freezing the
+water content of the body which is then
+placed in a vacuum chamber where its ice
+crystals vaporize.
+17
+
+any rate, information and data themselves. Too many data banks
+are closed systems reserved for the privileged who have access
+to them. Distance questioning is rarely possible. However, tens
+of thousands of images can already be recorded on a video disc,
+and theoretically the major photo libraries could become accessi¬
+ble like those museums which have published illustrated micro¬
+fiches of their holdings.
+Computerization has also made it possible to carry out com¬
+plex reasoning through simulation in short spaces of time, and
+to catalogue, record and relate masses of data at great speed.
+Interdisciplinarity is thus a keynote of archaeology today. It
+should not be limited to the use of costly new methods. Archaeo¬
+logists also call increasingly on the expertise of geologists, soil
+scientists, botanists and others working in long-established disci¬
+plines. It is not possible here to make acomplete list of the
+sciences nowadays involved in the reconstruction of the past, but
+such a list would include the study of shells, diatoms and
+fishbones, mining and ore processing techniques, the study of
+glass and paper, not to mention the whole field of underwater
+archaeology.
+TONY HACKENS, of Belgium, is Professor of Classical Archaeology,
+Numismatics and Technical Methods in Archaeology at the Catholic
+University of Louvain-la-Neuve, and a research associate with the
+Center for Old World Archaeology, Brown University, USA. He is Vice-
+President of PACT, the European Expert Group for Physical, Chemical,
+Mathematical and Biological Methods in Archaeology, Council of
+Europe, Strasbourg. He is also scientific rapporteur for the inter¬
+disciplinary post-graduate schools of sciences in archaeology held at
+the European University Centre for the Cultural Heritage, at Ravello,
+Italy.
+Archaeology from the air
+Aerial photography has become a major
+tool of modern archaeology and each
+year leads to the discovery of large
+numbers of new sites which are often in¬
+visible at ground level. Buried traces of
+human activity can affect plant growth for
+thousands of years, and these dif¬
+ferences in vegetation can be observed
+from the air. Interpreting aerial photos is
+a highly specialized task; the image
+changes as the light changes at different
+times of day and at different seasons, and
+varies with the state of the vegetation and
+other factors. Buried sites may be reveal¬
+ed as soil-marks (traces of differently col¬
+oured or textured soil) or crop-marks.
+Drawing above shows how crop-marks
+develop. The vegetation is taller over the
+buried ditch but stunted above the stone
+foundations. Photo gives a rare oppor¬
+tunity to see why crop-marks appear. The
+dark soil of a silted up Iron Age ditch can
+be seen at the edge of this gravel pit. The
+barley above it is taller as a result of the
+extra depth of soil and moisture. Remote
+sensing technology using devices
+mounted on spacecraft and aircraft which
+can "sense" on wavelengths that cannot
+be detected by the human eye or by con¬
+ventional photography seems bound to
+affect radically the way in which ar¬
+chaeological reconnaissance is planned
+and carried out. As yet the potential of
+this technology for archaeological
+research has only begun to be tapped.
+The Nazca enigma
+Immense patterns made of furrows or ditches are etched into
+the barren Nazca desert almost 500 km southeast of Lima,
+the capital of Peru. They are so vast that they cannot be seen
+from ground level, but when viewed from the air they unfold
+into a fantastic bestiary of semi-naturalistic monkeys, long-
+necked birds, a spider, a lizard, dogs, fish and whales, sur¬
+rounded by zigzags, spirals, star-shapes, rectangles and
+trapezoids. The lines, scored by moving aside lines of rocks
+to expose the lighter alluvial soil beneath, are named after
+and widely attributed to the Nazca culture which flourished
+in the area from around 200 BC to 600 AD.
+What was theirpurpose? Eversince the discovery of the Naz¬
+ca display over 40 years ago by Dr. Paul Kosok, this has been
+a perplexing archaeological mystery. Many theories have
+been put forward, some far-fetched. Did the lines indicate a
+space-port built by or for extra-terrestrial beings? Did they
+have a ritual significance, with torchlight processions
+winding along the pictograms on ritual days? Were they a
+star map of the ancient heavens, "the world's largest
+astronomy book," in Dr. Kosok's phrase? Did they contain
+symbolic information for transmission to later generations?
+Although many different interpretations have been made of
+the individual components of the Nazca display, today many
+scholars agree that it has social, political, economic and
+religious implications of some kind.
+Ever since the Nazca lines were discovered, astronomer-
+mathematician Dr. Maria Reiche has devoted her life to stu¬
+dying them andattempting to establish correlations between
+them and astronomical occurrences. She has specially
+recorded some of her conclusions for the Unesco Courier.
+"The perfect proportions of these figures, some of them 200
+or 300 metres long, suggest that they might have been made
+in order to be seen from the air. They could represent con¬
+stellations which, as in other ancient cultures, were con¬
+sidered to be divinities. These constellations characterize
+the different epochs of the year according to their visibility
+at night. The most important time of the year was always
+December because it was then that water was expected to
+flow in the drier rivers and people prepared for this event by
+making ploughs... In Nazca this water-announcing constella¬
+tion was the Big Dipper. When afraid the water would not ap¬
+pear, the people would draw on the ground an image of the
+water-bringing divinity, that is the constellation which
+always appeared at the same time as the water, so big that
+the divinity could see itself from high up and be reminded to
+send water again. For several reasons the Big Dipper is
+depicted as a monkey. The spider can be considered to
+represent Orion."
+Not all archaeologists agree with Dr. Reiche's theories, but
+they pay tribute to her determination to preserve the fragile
+Nazca lines for posterity, so that even if their mystery is
+never fully explained they will remain among the most
+beautiful creations of human ingenuity.
+Right, 90-metre-long Nazca humming Bird seen from the air.
+18

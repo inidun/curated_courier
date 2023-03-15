@@ -1,0 +1,453 @@
+One of the world's great civilizations, the Mayan, vanished
+from pre-Columbian Central America in the I Oth century
+A.D. When the Conquistadores arrived 600 years later
+they saw only a few vestiges and ruins of their glorious past.
+Amazing architects and artists, the Mayas built numerous
+cities throughout their empire, some of which are still
+being uncovered from the tangle of jungle which has hidden
+then for centuries. The unique character of Maya art comes
+from the treatment of the serpent which has left its mark
+on all the civilizations of Central America and southern
+Mexico. Above, copy of a relief found at Chichen Itza, Yuca¬
+tan (Mexico) representing the famous "Plumed Serpent" with
+human head. Below, a small temple at Pelenque, in Mexico.
+26
+Soviet mathematicians have succeeded in deci¬
+phering the hieroglyphic script of the ancient
+Mayas of Mexico and Central America with the
+help of modern electronic computing machines.
+Last year at a session of the All-Union Mathe¬
+matical Congress, historians and linguists and
+hundreds of other people packed the assembly
+hall of the Leningrad Mining Institute to hear a
+famous Soviet mathematician, S.L. Sobolev, an¬
+nounce the deciphering achievment in a special
+paper. Dr. Sobolev is Director of the Soviet Insti¬
+tute of Mathematics, Siberian Division, of the
+Academy of Sciences of the U.S.S.R., who was in
+charge of the work on the Maya manuscripts. The
+article below tells the fascinating story of the
+Maya manuscripts, why electronic computers
+were used, and how the deciphering was done.
+When Europeans first reached Central America
+they discovered on the Yucatan Peninsula the
+highly-developed civilization of the Mayas. The Mayas
+had built awe-inspiring cities and possessed their own
+system of writing. ActuaUy it was the only system of
+writing »ever invented by any of the aboriginal inhabitants
+of America. The Maya priests possessed astronomical
+observatories very much like those of Ulugh Beg In Cen¬
+tral Asia, the huge stone edifices of which were designed
+for the study of the sky with the naked eye. (1) The
+calendar constructed by the Maya priests was, despite
+its Intricacy, more accurate than our present Gregorian
+calendar. How many centuries' observation must have
+gone into »the production of such a calendar!
+The Europeans, however, showed no Interest in the
+Maya calendar; the Conquistadores destroyed the Maya
+state and hurried the Maya books; Maya idolatry was
+replaced by Christianity, Mayan young men were sent to
+Catholic schools, and in a very short time the secret of
+the Maya system of writing was forgotten, no one could
+read the old manuscripts and, indeed, very few of them
+were left to read.
+(1) Ulugh Bey (1394-1449) a grandson of Tamerlane, founded about
+1420 a splendid observatory at Samarkand. Under his patronage
+astronomical tables were drawn up which constitute one of the great
+legacies in astronomy that the Hast has bequeathed io the West.
+
+Cryptogram technique used
+to solve linguistic enigma
+COMPUTER DECIPHERS
+MAYA HIEROGLYPHS
+by Felix Shirokov
+Lecturer, Moscow Power Institute
+i i i i in i n m
+u it
+m u it
+mi it.
+Ill mi II II i I
+II IUI HU H I'
+. I II IUI IUI H <
+I I II IUI I" U "I
+Novosibirsk Institute of Mathematics, U.S.S.R.
+Soviet scientists using cryptogram -deciphering techniques and modern electronic computers have cracked the Mayan script. Photo shows two perfo¬
+rated cards used in the operations. Computers took only 40 hours to do the job for which the human brain would have needed thousands of years.
+Only three manuscripts have been preserved; they are
+now in museums in Madrid, Dresden and Paris. The
+Paris codex was in a bad state from the time of its
+acquisition and the Dresden codex was badly damaged
+during the Second World War and may be considered
+as non-existent; fortunately this »manuscript had been
+published and research workers are able to use a printed
+copy. There are also a number of inscriptions on stone,
+done in a special "lapidary" script. These, taken
+together, constitute the sources of our knowledge of the
+Maya system of writing.
+The language of the Mayas, on the contrary, is well
+known. There exist two Maya-Spanish dictionaries the
+Motul and one compiled by Brasseur de Bourbourg. The
+Maya words in these dictionaries (there are about 10,000
+in the Motul) are transcribed in accordance with the old
+Spanish spelling.
+There are also some texts in the Maya language, such
+as the Chilam Balam books of chronicles and prophecies
+written by Maya priests using the same Spanish alphabet.
+The scribes had not much idea of how to break up
+phrases into their constituent words and the Chilam
+Balam books contain some very lengthy word-monsters.
+Furthermore, since the sounds of the Maya language
+were different from those of Spanish, the scribes used
+combinations of letters for each sound. It is not known,
+however, exactly what sounds these letter combinations
+were intended to represent.
+The Chilam Balam books are based partly on original
+Maya documents and describe events that took place at
+the time of the colonization of the country. Lastly, there
+are about a million people in Guatemala and Honduras
+who speak a Maya language that differs very considerably
+from that spoken four hundred years ago owing to the
+changes that have taken place since the Spanish conquest.
+Diego de Landa, second Archbishop of Yucatan, compiled
+a book entitled Report on the Affairs of Yucatan (1566).
+He believed the Maya symbols to be the letters of an
+alphabet and reproduced them as such in his book.
+Scholars have since tried to read the Maya manuscripts
+by using de Landa's alphabet but have always been
+unsuccessful. The "alphabet" actually bore little
+resemblance to the symbols in the manuscripts and,
+furthermore, it has been shown that the Maya system of
+writing is not alphabetic.
+Many years devoted to deciphering the Maya writings
+have produced some results; symbols indicating dates
+have been identified, individual words have been read,
+and, finally, a Leningrad scholar Y. V. Knorozov, has
+succeeded in reading whole phrases; Knorozov proved that
+the Maya script is hieroglyphic and that the symbols may
+27
+CONT'D ON NEXT PAGE
+
+COMPUTER DECIPHERS MAYA HIEROGLYPHS (Cont'd)
+A gigantic crossword puzzle
+represent a sound, a syllable or a whole concept (ideo¬
+gram).
+Such was the situation when three young scholars of
+the Institute of Mathematics, Siberian Division of the
+Academy of Sciences, tackled it; the three mathemati¬
+cians were E. V. Yevreinov, Y. G. Kossarev and V. A. Usti¬
+nov, »all working at the Novosibirsk Institute of Mathe¬
+matics.
+On the one hand there were the hieroglyphic manu¬
+scripts (the mathematicians used the Madrid and Dresden
+MSS) in which each character might depict any one of
+the "elements" of the language a sound, a syllable or
+a word. On the other hand there were the Chilam Balam
+books and the dictionaries from which the elements of the
+language were known. The hieroglyphic symbols had to
+be correlated with these language elements and for this a
+process of mathematical substitution was necessary; in
+other words, for the manuscripts to be readable the
+symbols had to be replaced by the language elements they
+represented. There are altogether some 400 hieroglyphs
+in the manuscripts, about a half of which had not been
+identified when the mathematicians hegan their work.
+S ucH a substitution is not difficult in principle.
+All you have to do Is to sit down and try out
+all possible substitutions in all possible combinations until
+you strike the correct one. Unfortunately this is impossi¬
+ble in practice because the number of possible substitu¬
+tions is such that all the people on earth, all those
+living In the past, the present and the future, would
+never complete the task. And to find the solution by
+guesswork would be as improbable as getting an ape
+armed with a typewriter to write Alice in Wonderland.
+This is where the electronic calculator, the modern,
+rapidly functioning »computing machine come into the
+picture. This electronic secretary was given the job of
+solving a unique crossword puzzle that contained several
+thousand words in an ancient language. But before the
+solution could be found the appropriate data had to be
+fed into the machine.
+The Maya manuscripts were the work of different
+scribes living at different times and the hieroglyphs
+looked different when drawn by a different hand. The
+first thing, then, was to identify individual hieroglyphs.
+In this the Novosibirsk group received considerable help
+from Y. V. Knorozov.
+The scholars adopted an entirely new principle; instead
+of trying to discover the meaning of separate symbols they
+tackled the text as a whole. The statistical method, the
+basic method used by the Novosibirsk scholars, can be
+applied only »to a complete text. Furthermore, the
+correctness of the "substitution" would be guaranteed
+only when a text was readable and understandable as a
+whole and in connexion with drawings accompanying it.
+The entire mass of words constituting the Maya
+language was arranged in a number of sequences that
+would enable any word to be found from any of the letters
+it contained, initial, medial or final; this is actuaUy what
+we do when we are solving a crossword puzzle when some,
+of the letters of a word are known we fill in the others
+according to those already in the squares.
+The Motul dictionary and the entire Chilam Balam
+text (about 60,000 words) and the symbols for calendar
+dates were also arranged in order and codified; Maya-
+Russian glossaries were compiled for such subjects as the
+animal and vegetable kingdoms, crafts, deities (with
+ritual, sacrifices, etc.), astronomical and chronological
+terminology and, lastly, the words most frequently
+occurring.
+It was possible to hazard a guess at the contents of the
+Maya manuscripts from the drawings on them and the
+thematic glossaries helped the search for the necessary
+words. All this mass of material was recorded on
+perforated cards and magnetic drums, the computing
+machine's auxiliary memory. The hieroglyphic characters
+were then analyzed in the same way. Finally, the
+drawings in the manuscript were broken down into
+elements and codified. The whole material thus obtained
+was then processed statisticaUy.
+Y ou will remember how in Poe's story, The
+Gold Bug, William Legrand found his gold
+bug wrapped in a piece of parchment on which was
+written a cryptogram compiled by William Kidd the
+buccaneer. It began.
+53TT + 305))6*; 4826)4 -T .)4 T )
+You will also remember that Legrand counted the
+number of times each symbol occurred in the cryptogram
+and arranged them in descending order of frequency.
+Legrand assumed that Captain Kidd would not be
+capable of compiling a complicated cryptogram, and
+therefore decided, that each symbol in the cryptogram
+would represent a letter of the English alphabet. Legrand
+knew that the letter "e" occurs more frequently than any
+CONT'D ON PAGE 31
+28
+
+Photos Novosibirsk Institute of Mathematics
+PEOPLE OF THE CALENDAR
+Soviet scientists E. Yevreinov, Y. Kos-
+sarov and V. Ustinov compare Maya
+manuscripts with the deciphering
+results obtained by their computer.
+Manuscripts were found to be priestly
+books. Fragment, right, describes
+how the gods of good and evil made
+their fires. Left, a fragment from a
+Maya priestly calendar indicating
+when the maize god, the god of death
+and other gods fired pottery. The
+Mayas were amazing astronomers and
+mathematicians and produced the
+most precise calendar known to this
+day. Scholars have long known that
+the Maya monuments do not contain
+a single ornament, relief or frieze
+that is not connected with some date.
+There is no other case In the world of
+such subordination of architecture to
+the calendar. The Mayas used not one
+but two types of notation for their
+numbers. These systems were deci¬
+phered many years ago. Shown
+above right are: glyphs with varying
+human heads and bar-and-dot numerals
+29
+
+MAYAS VISIT THEIR ANCESTORS
+Since the middle of the 19th century archaeologists have
+been uncovering the remains of Maya cities in the tropical
+forests of Guatemala, El Salvador, Honduras and Mexico.
+The descendants of the Mayas still speak dialects resem¬
+bling the language of their ancestors. Here, an Indian
+family visits a museum in Guatemala City where many of
+these treasures made by their forebears reliefs, sculp¬
+ture and stelae are preserved. Whether the sudden
+collapse and disappearence of the remarkable Maya
+civilization was caused by wars, destructive epidemics or
+a natural disaster of some kind is still a complete mystery.
+Photos © P. Aimasy
+30
+F l.í
+f Ml j*À
+
+COMPUTER DECIPHERS MAYA HIEROGLYPHS (Cont'd)
+From Poes gold bug to the seven of diamonds
+other in the English language and is followed in descend¬
+ing order of frequency by a, o, i, d, h, n... This gave him
+the clue.
+The symbol "8" was the most frequent in the crypto¬
+gram and Legrand therefore identified it as the letter
+"e". Then he guessed the definite article "the" and
+so on, filling in the missing letters on the basis of those
+already identified until he had the whole message: "A
+good glass in the bishop's hostel in the devil's seat forty-
+one degrees and thirteen minutes..."
+The Maya priests were probably no more efficient as
+"cipher clerks" than the bold Captain Kidd and it was
+assumed that their hieroglyphic "cryptograms" were
+compiled by the same method. The Novosibirsk mathe¬
+maticians therefore decided to try and solve them by the
+"Edgar Allan Poe" method.
+In any language, be it Russian, Spanish or Maya, every
+language element (sound, letter, syllable, etc.) occurs with
+a frequency typical for the given language. An English
+text written in a phonetic alphabet, say that of Bernard
+Shaw, would be easy to decipher. It would only be
+necessary to find the frequency of occurrence of all the
+symbols used and compare it with the known frequency
+of English sounds.
+^>
+tmKm
+I
+&3
+The Novosibirsk mathematicians used their
+electronic computer to find the frequency of
+letter combinations in the Maya language as revealed by
+the Chilam Balam books. Then the computer found the
+frequency of occurrence of the hieroglyphs in the Madrid
+and Dresden manuscripts. After that, there remained
+only the job of correlating the frequencies. But here
+they came up against a snag.
+Let us imagine that Captain Kidd, instead of terrorizing
+the Caribbean on his buccaneering trips, took a devoted
+interest in entomology. Any tiny insect would then have
+had greater significance for him than the sordid yellow
+metal. He might even have written a Treatise on Gnats
+and enciphered it. The combination of letters "gn,"
+which is not typical for English, would have occurred very
+frequently in the cryptogram and would have upset
+William Legrand's statistical picture, even if Legrand
+himself had been profoundly interested in insects; the
+"gnat effect" would have provided greater difficulty for
+him.
+The Novosibirsk scholars came up against a similar
+"gnat effect" in their work; the hieroglyphic manuscripts
+and the Chilam Balam books belong to different epochs
+and deal with different subjects.
+The simplest hypothesis was that one hieroglyph
+represented a pair of letters in the Maya language (had
+each character represented a letter the script would have
+been alphabetic). This was the working hypothesis
+adopted by the mathematicians. The frequency of
+occurrence of the hieroglyphs and that of the »pairs of
+letters, however, simply refused to coincide the symbols
+could not be directly identified with the letter pairs.
+Could their working hypothesis possible be wrong? No!
+the cause of the trouble was the specific nature of the
+texts. Let us try to show by an example what the
+mathematicians had to do.
+Let us take a pack of 52 playing cards and
+i arrange it by suits in the order spades, clubs,
+diamonds, hearts, with the cards in each suit proper
+sequence from ace to king. This we shall call the "nor¬
+mal" order of the cards. Then let us shuffle each suit
+separately and replace the cards with the suits in the
+same order. The pack will now be arranged in a "spe¬
+cial" order that will not differ very greatly from the
+"normal" order. The cards have been shuffled by suits,
+that is, within a relatively small group of cards; we may
+guarantee that the seven of diamonds (card 33 in the
+"normal" sequence) will not be in the first place but
+will lie somewhere between the twenty-seventh and
+thirty-ninth card.
+In a specific text (as opposed to a "normal" one) there
+is also a shuffling of letter combinations that disturbs the
+normal order of frequencies. But, as we saw from the
+playing »card example, the displacement is within fairly
+small limits. The frequency of a pair of letters does not
+change very greatly. Even in the Treatise on Gnats the
+"gn" pair would not occupy first place in the frequency
+list (diamond cards remain within the range of the
+diamond suit).
+The mathematicians took advantage of this fact and,
+Instead of comparing individual characters with the
+31
+CONT'D ON NEXT PAGE
+
+COMPUTER DECIPHERS MAYA HIEROGLYPHS (Cont'd)
+Easter Island writing future target
+individual pairs of letters, began to compare groups of
+each. To be more precise they found which hieroglyphs
+occur most frequently, the overall frequency of the first
+two most frequent, the overall frequency of the first three,
+and so on. They then did the same for the pairs of
+letters.
+In this case they found a marvelous coincidence. The
+frequencies of the letter combinations in the Chilam
+Balam texts almost completely coincided with the
+frequencies of the hieroglyphic symbols. Half the words
+in the Chilam Balam texts (frequency 50 per cent) began
+with one of seventy pairs of letters, and half the
+hieroglyphic groups in the Madrid and Dresden
+manuscripts began with one of seventy-three hieroglyphs.
+According to the working hypothesis the meanings of the
+seventy-three symbols should be found among the
+seventy letter combinations.
+The same work was done for other groups in the Chilam
+Balam texts and the hieroglyphic manuscripts, for
+instance, for the final pairs of letters, the computer being
+used for all these operations.
+In this way, step by step, identifying and comparing,
+using the computer to analyze the thematic glossaries and
+calculate frequencies, the three Novosibirsk mathemati¬
+cians deciphered the Madrid and Dresden manuscripts in
+full. They employed only forty hours of the computer's
+working time and even of that forty hours a considerable
+amount of time was used up in setting the machine to
+programmes of work.
+Thus the key to one of the greatest puzzles in world
+history was found.
+The scholars are now preparing a three-volume report
+on their work. The first volume will contain the Madrid
+and Dresden manuscripts with an alphabetical translitera¬
+tion in the Maya language and translations into Spanish
+and Russian. The second volume will contain a complete
+catalogue of the symbols and the third, une programmes
+for the computer and the results of the mathematical
+analysis.
+The manuscripts proved to »be »priests' boàks of auguries,
+prophecies, etc. To the left there are dates from the
+Maya 260-day cycle (the Maya "year" contained thirteen
+months and the "month" twenty days which gives a
+cycle of 260 days).
+This differed from another Mayan calendar, a true
+calendrical year of 365 days, admirably calculated by the
+Mayas and divided into 18 months each of 20 days and a
+supplementary five-day month. For each day of the
+sacred calendar there is a description of the activities of
+the deities the gods fire pottery, make idols, decorate
+temples, tend bees and crops (in other words they engage
+in the same activities as the Mayas themselves). The
+Mayas, following the recommendation of the priestly
+books, planted trees, fired pottery, etc., at propitious times.
+The extensive Maya pantheon contained good and evil
+beings. There were the gods of the winds black, yellow,
+white and red; the Lord of the Skulls and the young
+maize god (maize was the chief Maya crop) ; the kindly
+god of the North Star and the malevolent yellow jaguar.
+There was even a goddess allotted to people who had been
+hanged, for the Maya people believed that beyond the
+grave there existed a special paradise for these
+unfortunates...
+Here are some examples from the translation:
+The young maize god fires pottery from white clay;
+The god of death, the destroyer, fires a pot;
+The god of the North Star fires a pot;
+The yellow jaguar fires a pot.
+There are some phrases that sound very modern,
+although the Mayas no doubt pu7, a different meaning
+into them; the legend to one of the drawings reads:
+"The woman's burden is the god of war."
+The work on these manuscripts has been completed but
+there are other systems.of writing that have not yet been
+»deciphered. A special group of philologists in Novosibirsk
+contemplates working on the Rongo-Rongo inscriptions
+from Easter Island.
+The use of mathematical methods and computing
+machines in the most diverse fields of science and culture
+is typical of our age. This amazing piece of work on the
+Maya manuscripts is only the beginning of the applica¬
+tion of mathematics to the study of linguistics and
+history.
+32

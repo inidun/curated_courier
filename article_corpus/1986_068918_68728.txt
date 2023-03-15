@@ -1,0 +1,447 @@
+Science and music
+An interview with Iannis Xenakis
+Iannis Xenakis, besides being a musician
+you are also an architect. How do you
+account for these twin preoccupations?
+I am not really an architect in the profes¬
+sional sense of the term. When I worked
+with Le Corbusier, a good many years ago, I
+was involved in both activities at once. In
+particular, I collaborated on the Cité
+Radieuse residential complex in Marseilles,
+the Convent of Sainte-Marie-de-La-
+Tourette in Eveux-sur-1'ArbresIe, near
+Lyons, and the city of Chandigarh in India.
+And in 1958 I designed the Philips Pavilion
+at the World's Fair in Brussels. But since
+then I have been concerned with making
+music, and occasionally, when the oppor¬
+tunity arises, with architecture.
+What is your most recent project?
+The plan for an experimental concert hall
+that I designed with the architect Jean-
+Louis Veret. It was short-listed for the Cité
+de la Musique music community centre at
+La Villette, in Paris, but was not the win¬
+ning design. This concert hall is entirely
+different from a conventional one. It is a
+sort of potato-shape, so as to avoid being
+circular, which is very bad acoustically. So it
+has a rounded, oval shape, with walls that
+bulge slightly. Instead of a fixed floor, there
+are cubes one metre wide, each of which
+can accommodate two people: the contours
+can thus be modified and the levels can be
+varied by as much as six metres. This makes
+several combinations possible: groupings in
+the centre, or several groupings to left and
+right, or, again, a traditional stage. The
+instrumental performers can accordingly be
+placed in the middle, on a platform of
+cubes, with the audience all around them.
+But it is also possible to shift the focus away
+from the centre, or, on the contrary, to
+keep everything on one side only. Every¬
+thing is possible. Running around the inside
+of the walls there is a spiral gallery which
+can accommodate the audience and also
+musicians, so as to produce a three-dimen¬
+sional soundscape. The walls themselves
+are perforated with panels which can vary in
+their degree of absorbency to obtain the
+right degree of reverberation. Moreover,
+this entire volume can be made to com¬
+municate with another, much larger
+volume, which contains it and which opens
+outwards, thereby creating a great many
+new possibilities for performances. But this
+is not mobile architecture. Mobile
+architecture never works, because the
+machinery gets jammed.
+Why is there such a link, in your opinion,
+between these two areas of creative activity,
+music and architecture?
+
+2 2
+ra u.
+Because architecture is a three-dimensional
+space in which we live. Humps and hollows
+are very important, in sound as well as in
+the visual sphere. The handling of propor¬
+tions is essential here. The best architecture
+has to do not with decoration but with plain
+proportions and volumes. Architecture is
+the bare bones. Architecture is something
+visual. And in the visual sphere there are
+components which relate to what we call the
+rational sphere, which is also part of music.
+Whether we like it or not, there is a bridge
+between architecture and music. It is based
+on our mental structures, which are the
+same in both cases. Composers, for exam¬
+ple, have used symmetrical patterns which
+also exist in architecture. If we want to
+discover the equal and symmetrical parts of
+a rectangle, the most informative way of
+proceeding is to rotate it. There are four
+directions in which a rectangle can be tur¬
+ned, and no more than four.' Such trans¬
+formations also exist in music: this is what
+was invented in the melodic field during the
+Renaissance. You take a melody: (a) you
+read it upside down; (b) you invert it in
+relation to the intervals; (c) that which rose
+towards the upper part of the scale now
+descends towards the lower, and vice versa.
+To this you must add (d) the recurrence of
+the inversion, which was used by the
+polyphonists of the Renaissance and which
+also occurs in serial music. In this example,
+we find the same four transformations car¬
+ried out in architecture and in music.
+Another example is the Philips Pavilion.
+To design this I used ideas borrowed from
+the orchestral music that I was composing at
+Above, the Philips Pavilion at the 1958
+Brussels Exposition, designed by Iannis
+Xenakis in what was then a totally new
+architectural form composed of hyperbo¬
+lic paraboloids. The world premier of
+Poème Electronique by the composer
+Edgard Várese (1883-1965), with a film by
+Le Corbusier, was held in the pavilion dur¬
+ing the Exposition.
+
+^ the time. I wanted to create changeable
+spaces, which could be continuously altered
+by the displacement of a straight line. This
+produces hyperbolic paraboloids in
+architecture and masses of glissandos in
+music.
+Can you give any examples from history of
+such a convergence, or even coincidence,
+between architectural and musical patterns?
+Bartok used the golden section to achieve
+his harmonies. The golden section is taken
+from the visual sphere. It is a geometrical
+proportion, with the additional property
+that each term is the sum of the previous
+two terms. From the Egyptian pyramids to
+the Greek temples, it was used in
+architecture as a sort of miraculous key to
+the creation of something beautiful.
+But for you this correspondence is fun¬
+damental?
+Goethe said: "Architecture is frozen
+music. " If we attempt to go further than this
+literary form of words in order to make a
+more objective claim, we soon come to
+mental structures which fall into the group
+category. The rotation of rectangles or
+melodies are groups of transformations.
+And in fact group theory deals with sym¬
+metries, down to the infinitely small level of
+particles this is the only means whereby
+particles can be identified.
+There are thus several levels of corres¬
+pondence. The vaguest is the literary level,
+that of Goethe; I have mentioned another,
+more objective level, with my example of
+groups; there are others of a different type
+such as that of forming space either in sound
+or in architecture by using the acoustic axis
+such as glissandos, or the numerical axis.
+But there are other possible approaches.
+Rhythm, for example. What is rhythm? It
+consists of chosen points along an axis,
+namely, the axis of time. The musician mea¬
+sures time as the walker counts milestones.
+The same thing is found in architecture
+with a façade, for example. And piano keys
+are also architecture. They are regulated in
+a constant manner. In one case it is a matter
+"" of time , and in the other, of space. So there
+is a correspondence between the two. And
+this is possible because there is an under¬
+lying mental structure which mathemati¬
+cians call an "order structure".
+Stretching across the top ofpages 4 to 8 Is
+the score of" Mycènes Alpha (1978), apiece
+of music created by Iannis Xenakis on the
+UPIC, a composing machine he invented
+(see photo opposite page). The work lasts
+approximately 10 minutes.
+So in your experiments as a composer, you
+draw on experiments in physics, among
+other things?
+Admittedly, I have not carried out such
+experiments myself, but I know that they
+are so defined. The surprising thing is that
+order structures, isomorphic mapping and
+group theory originated with mathemati¬
+cians. They created, as it were, a more
+searching experimental psychology than the
+psychologists of the nineteenth century.
+Much later, researchers such as Jean Piaget
+discovered that the development of mental
+structures in children coincides with these
+definitions in mathematics and physics.
+In your work as a musician, informatics
+plays an important part because of the new
+possibilities it opens up. You have even in¬
+vented a music-composing machine, the
+UPIC. Can you tell us about it?
+In the laboratory that I set up twenty years
+ago, we developed a system whereby any¬
+body at all can compose music by drawing.
+It is both a tool for composers and acoustics
+experts and a teaching aid for children, who
+can learn to think in music without having to
+be trained in musical notation learning by
+direct experience, in other words. This
+could not have been done without informa¬
+tics, which yielded possibilities comparable
+to those brought by the invention of writing:
+preserving thought in symbols. Here, we
+can use our machine to preserve musical
+thought, since we can also store it.
+Do children remain free and unaffected by
+the conditioning of a specific musical lan¬
+guage?
+They do. For example, an Indian or
+Balinese child who has learned the tradi¬
+tional music of his village will start to think
+musically in a different way if he or she uses
+this machine. Children can imitate Bach
+without having learned musical notation.
+Gradually the child assimilates this and
+fashions his or her own environment in a
+particular style.
+How do you use computers at present?
+In Diatope (1977), the entire programme of
+laser beams and electronic flashes co-ordin¬
+ated with the music, which was also pro¬
+duced by computer, had been devised by
+programming in computation centres.
+There were 1,600 electronic lights which
+could flash on and off individually in one
+twenty-fifth of a second. This cannot be
+done by hand: it is too fast and the numbers
+are too high. Furthermore, computers and
+other new technology available to us can
+produce light, so that it becomes possible to
+transpose the musical composition into the
+visual sphere and experiment with shapes
+and movements. The effects of light be¬
+come like visible sounds. You can play with
+them just as you play with sounds, but in a
+spatial dimension instead. The morpholo¬
+gical techniques (creating moving or sta¬
+tionary shapes) are often the same as in
+music. For example, if you want a cloud of
+points of light to appear and disappear, you
+need to introduce the calculus of prob¬
+ability, as I did with sounds. It is the same
+technique. But not everything is con¬
+vertible...
+It should be borne in mind that computer
+technology is only a tool. If I use mathema¬
+tical functions or even sometimes physical
+theories in music, it is because there is a
+profound connexion between music and
+numbers. All of Pythagorean theory, of
+course, is based on this thesis. But it is a
+truth which derives from our own mental
+structure, nothing more. Once you have
+grasped this principle, it is easy to make use
+of whole chunks of mathematical thought,
+which is already present in music and even,
+in some cases, at a much more advanced
+stage than in mathematics.
+For example, consider what happened
+when musicians in the tenth century in¬
+vented musical notation, no longer relying
+on the vague indications of neumes, but
+using the staff and calibrated units of the
+characteristics of sound: pitch and duration.
+In doing this they transformed sensations
+which have nothing to do with spatial sensa¬
+tions into spatial notation.
+Four hundred years before Nicole
+
+Oresme and six centuries before the analy¬
+tical geometry of Descartes! Music was
+ahead of its time. I do not know whether
+Oresme or Descartes were influenced by
+musical notation, which did exactly what
+they did, and yielded even more abundant
+possibilities, since pitch and duration have
+nothing to do with space, whereas these two
+thinkers were working in space. This is only
+one instance where musicians, without
+knowing what they were doing, have stolen
+a march on knowledge and invention in
+other areas.
+Do you see no sharp dividing line between
+traditional musical thinking and the most
+modern aspects of contemporary music?
+None. There is even a fairly smooth con¬
+tinuum which has resulted, for example, in
+serial music. The escape from tonal func¬
+tions made possible by "dodecaphony", and
+later by serial music, was only relative, since
+Schoenberg and the Vienna School adopted
+self-imposed restrictions in returning to
+manipulations of the polyphonic type that
+came in with the Renaissance. This was the
+criticism that I levelled at the serialist school
+in the 1950s. If Schoenberg had been famil¬
+iar with the science of his day, including
+philosophy, physics and mathematics, he
+would have introduced the calculus of prob¬
+ability.
+So the musician should keep up to date with
+contemporary knowledge?
+Yes. Of course, this is increasingly difficult.
+But even without a thorough knowledge of
+every field, he should be familiar with as
+Iannis Xenakis with the composing
+machine he Invented in 1975 and which
+has since won wide acclaim. Known as the
+UPIC (Unité Polyagogique Informatique du
+CEMAMu), the machine makes it possible
+"to compose music through drawing, even
+without any knowledge of music or infor¬
+matics", with a stylet on the electro¬
+magnetic table. It brings musical creation
+within reach of everyone and is a useful
+educational tool. It enshrines one of the
+composer's major preoccupations, the re¬
+lationship between forms created in space
+and those created in time.
+
+Drawings by Iannis Xenakis of a theatre
+and concert hall which he designed in
+association with the French architect
+Jean-Louis Veret. The building consists of
+two volumes: a large multi-purpose area
+enclosed by a thin concrete shell (8), in¬
+side which is the "potato-shaped" ex¬
+perimental music room itself, with its
+wood-covered concrete walls. The two
+areas communicate by means of pivoting
+acoustic panels (1). The building opens
+out through sheets of "wavy" glass (4)
+onto an elevated platform (6). The project,
+initially intended for the "Cité de la Musi¬
+que" at La Villette, in Paris, breaks with all
+previous conceptions of what a concert
+hall should be, and is designed to "receive
+music, musicians, their technological
+equipment and the audience in three
+dimensions".
+View from the "Fontaine aux Lions' General access ramp
+8
+1) Pivoting acoustic panel:
+2) Interior ramp for audience, performers,
+projection, sound and lighting equipment
+3) "Potato-shaped" experimental concert hall
+4) Sheets of "wavy" glass
+8) Hyperbolic paraboloid shells (thin layer)
+5) Helicoid general access and
+performance ramp: mJn entrance
+9) Outside ramp for movement
+\ around the potato-shaped hall
+10) Variable relief floor
+11) Cloakrooms, rehearsal rooms,
+dressing rooms, lifts, etc.
+12) Helicoid general access and performance ramp
+7) Stage for open-air events
+Cité de la Musique, La Villette
+Experimental concert hall
+and theatre, March 1984
+©
+O)
+ç
+ï
+(0
+O
+
+^ many elements as possible. For the essential
+core of knowledge and this is what is mar¬
+vellous is easy to impart. For example, if
+one talks about degree of order or disorder,
+many people know what this means , but not
+explicitly. Now, in a film like Battleship
+Potemkin (1925), Eisenstein was perhaps
+the first to create a mobile art of this kind:
+he artistically directs drifting masses of indi¬
+viduals, statistical events, since we see
+crowds moving one way and then another.
+This procedure was followed by other film¬
+makers in their turn, notably Abel Gance in
+his Napoleon (1926). If you tell people: this
+is what happens with clouds or galaxies or
+intrastellar gases, they understand im¬
+mediately. I believe that there are fun¬
+damental concepts which are communi¬
+cable.
+How do you account for the central place of
+scientific thought in your musical aesthetic?
+I drew my early inspiration from the culture
+of ancient Greece, and especially that of
+Athens in the fifth and fourth centuries BC.
+This was a period of extraordinary creativ¬
+ity in the history of humankind. It saw the
+birth of mathematics as we now know it.
+From a structural point of view, this ax¬
+iomatic, Euclidian science is still continuing
+today. There has been no break.
+Then there was philosophy. The other
+day, I was reading an article about the
+formation of the universe. It said that the
+whole of science up till now has been based
+on causality. But, today, we are starting to
+ask the following question: can the universe
+have emerged from nothing, without a
+cause? Astrophysicists are tending to think
+that it did. Accordingly, and this is the
+interesting point, the Parmenidean tradi¬
+tion is capable of changing and developing.
+Besides these influences, there were my
+contacts with certain individuals such as Le
+Corbusier and Messiaen. Even if he is not a
+mathematician, Olivier Messiaen has a kind
+of affinity with numbers. This is apparent in
+his "modes of limited transposition", and in
+his love of Hindu and Greek rhythm sys¬
+tems. These two categories of music,
+moreover, are mathematical par excellence.
+In the sphere of rhythm, which is the hand¬
+ling of temporal number in the pure state,
+no music has developed further than per¬
+cussion in India. African types of percus¬
+sion, which are different, are also remark¬
+able. With these kinds of music, I feel per¬
+fectly at home. I would even say, perhaps,
+that I have felt Western music to be more
+"exotic" than these .
+IANNIS XENAKIS, of Greek origin, is an interna¬
+tionally known composer who is also a mathe¬
+matician and architect. A former professor at the
+University of Indiana, he currently teaches at the
+University of Paris I and is director of the Centre
+d'Etudes de Mathématique et Automatique
+Musicale (C.E.M.A.Mu.) in Paris, which he
+founded in 1966. His prolific output of over sixty
+works, some of them already classics, includes
+every form of musical composition. Among his
+works composed in recent years are: Polytope
+de Cluny, electronic and laser ray music (1972);
+Cendrées, for choir and orchestra (1973); Ais, for
+baritone, percussion and orchestra (1980) and
+Shaar, for string orchestra (1982). This autumn
+his Keqrops, a work for piano and orchestra, will
+be performed for the first time, by the New York
+Philharmonic Orchestra.
+

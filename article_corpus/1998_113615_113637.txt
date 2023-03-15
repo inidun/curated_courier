@@ -1,0 +1,164 @@
+‘Lo o k , yo u ’re a doughnut.” P r o f e s s o r
+Michael Hawley is stating his case for
+embedded technology. “ Yo u ’re a
+roundish little thing with a hole in the top
+and you pour food in and it comes out a hole
+in the bottom and you roll around a little
+d u ring the day, but topologically speaking
+you’re just a doughnut.And that’s about all
+you know about the nature of what you eat
+and what comes out.”
+H aw l e y, a principal inve s t i g ator for the
+Things T h at Think (TTT) consort i u m , a
+research group at the Massachusetts
+Institute of Te c h n o l o g y ’s Media Lab, i s
+t rying to make commonplace, e ve ry d ay
+objects smarter to better understand and
+monitor our bodies. “ We are incredibly
+n a i ve about how our bodies work day to day.
+. . because we don’t have any way to
+measure it or sense it.”
+For too long we have been forced to adapt
+to technology—to make our bodies and live s
+c o n f o rm to clunky desktop computers , f o r
+e x a m p l e . We memorize long strings of we b
+addresses to find cheap airfares but have
+trouble remembering where we left our keys.
+The solution to these problems, at least in
+the United Stat e s , is more technology.
+Embedded technology that is smaller, s m a rt e r
+and,most importantly, everywhere.
+Embedded technology—fitting out objects
+with computational enhancements that
+i n t e gr ate digital and physical wo r l d s — w i l l
+m ove in two directions: out into our
+e nvironment and closer to our bodies.
+According to Professor Mitchel Resnick,
+another TTT member, the gr owth of research
+in this fie l d , which has substantial corp o r at e
+s u p p o rt , can be tied to three deve l o p m e n t s :
+smaller and cheaper processors , better sensors ,
+and continued advances in communicat i o n
+and networking technologi e s.
+H awley say s ,“ I t ’s becoming miniat u ri z e d
+so quickly that what used to be as big as a
+house and then as big as a file cabinet now sits
+on your desk,and then it’s in your lap, then
+it’s in your pockets and then it might as well
+be your pockets.”
+Back to the doughnut.One of Hawley’s
+many research interests is body monitoring
+t e c h n o l o g y.His team has attached new body
+sensing technology to marathon ru n n e rs and
+Mount Everest climbers. Subjects eve n
+swa l l owed a pill that measured body core
+t e m p e r at u r e . H awley foresees a time when
+we will monitor our health with a wri s t wat c h
+
+When the  
+Microchips may soon be in your shoes, monitoring
+your body temperature. But how long before they
+take you for a walk?
+
+device or a processor in the heels of our shoes,
+where there is room for chips. According to
+H aw l e y, health monitori n g, for those who
+can afford it,will be “one of those really big
+i nventions that is an indispensable part of
+everyday life.So that your shoes know more
+about you eve ry day than the doctor has eve r
+known before.”
+Making this technology more intuitive and
+c o m f o rtable is MIT gr a d u ate student
+Margaret Ort h , who is developing electronic
+fa b ri c. While she can imagine the practical
+uses of fa b rics embedded with computat i o n a l
+c o m p o n e n t s ,O rth is dri ven by expressive and
+emotional goals: to create clothing which can
+not only monitor heart rates but also
+emotions—or act as an interface for creat i ve
+e x p r e s s i o n .She has already designed a musical
+jacket with a sewn-in keyboard, and believe s
+t h at “by creating computational devices that
+are intimate with us phy s i c a l l y, we begin to
+think about technology differently.We begin to
+think that it is accessible, r e a c h a b l e , c r e at i ve
+and ultimately human.”
+The key to many embedded technologi e s
+is the communication between objects.M e d i a
+Lab researchers have proposed giving every
+single object on the planet a unique Unive rs a l
+B i n a ry Identific ation Code (UBIC), a seri e s
+of numbers that identifies it to any
+other object or network that has a
+need to know.
+Imagine a smart box of corn
+f l a k e s. A sensor collects dat a
+about how much cereal is in the
+b ox . The processor “ k n ow s ” w h e n
+the box is almost empty and then
+c o m m u n i c ates the inform ation to
+the house netwo r k , w h i c h
+places an online order for a
+new box.Hold up a bottle of aspirin to your
+n e t worked bathroom screen and the
+m a n u fa c t u r e r ’s web site or inform ation about
+drug interactions will appear.The goal is to
+make mundane tasks as easy and automatic
+as possible, freeing time for more entert a i n i n g
+or thoughtful pursuits.
+Place a can of mushroom soup, an old
+bag of carrots and other food on your kitchen
+counter and the kitchen will suggest several
+r e c i p e s , then recite the instructions as yo u
+cook.
+But if your house is automatically re-
+ordering everything from your food to your
+l i p s t i c k , h ow easily could stores or
+m a n u fa c t u r e rs construct a profile of yo u r
+life? Will your home screens display
+advertisements to offset their cost, and will
+they make shopping so easy that you purchase
+more than you need? 
+As with many new technologies, we will
+need to balance the issues of access and
+privacy.Your car company may remind you
+when you need a tune-up, but by tracking
+your mileage they will also know when to
+send you advertisements for a new car.
+Yet beyond these commercial interests,
+there is a wider concern lurking in the
+b a c k ground of this smart new
+wo r l d . Media scholar and MIT
+l i t e r ature professor Henry
+Jenkins reminds us that the
+h i s t o ry of technology has alway s
+been coupled with fear of the
+new tools. “ W h at is basic to
+these fears is the sense that we
+are giving over too much
+control over our lives to
+t e c h n o l o g y.” At the
+
+
+
+  kitchen does
+the cooking
+
+same time, “ We have too long a history of
+watching technology fail in our daily lives.”
+As Jenkins explains, “ Trusting the
+machine means not simply trusting the
+technology itself , which seems alien and
+unreliable, but also trusting the companies
+which made it,which are often perceived as
+out for quick profit, planning for
+o b s o l e s c e n c e , disinterested in consumers ’
+real needs and sloppy in their wo r k m a n s h i p.
+W h at if we make our culture more and more
+dependent upon machines which we do not
+u n d e rs t a n d , do not know how to fix ours e l ve s ,
+and do not trust?” n
+Sari M. B o re n
+Expressive footware may be
+the latest in fitness.

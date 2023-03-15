@@ -1,0 +1,313 @@
+Cracking the code
+o f a r t’s allure
+
+‘If a Martian ethologist were to land on
+earth and watch us humans,he would
+be puzzled by many aspects of human
+nature, but surely art—our propensity to
+c r e ate and enjoy paintings and sculpture—
+would be among the most puzzling.What
+biological function could this mysterious
+behaviour possibly serve?
+“Cultural fa c t o rs undoubtedly influ e n c e
+what kind of art a person enjoys. But,even
+if beauty is largely in the eye of the beholder,
+might there be some sort of universal rule
+or ‘deep structure’, underlying all artistic
+experience?”
+V i l ayanur S. R a m a c h a n d r a n ,Director of
+the Center for Brain and Cognition at the
+U n i ve rsity of California at San Diego, h a s
+made a bold and controve rsial attempt to
+a n swer these intriguing questions by
+proposing a new scientific theory of art .T h e
+t h e o ry explains many familiar experi e n c e s ,
+such as why a cartoon squiggle can evoke a
+we l l - k n own face more quickly than a full
+colour photogr a p h , and why many men fin d
+the hour-glass figure of Marilyn Monroe sexy.
+Professor Ramachandran’s theory
+addresses three questions: (a) W h at are the
+“ rules of art ”t h at make something pretty? (b)
+W hy did these rules evo l ve and have the form
+t h at they do? (c) W h at is the brain circuitry
+i nvo l ved? Previous theories of art have looked
+at one or two of these questions,but this is the
+first time all three have been tackled together.
+With his colleague William Hirs t e i n ,
+Ramachandran proposes a list of “Eight law s
+of artistic experience . . . t h at artists either
+consciously or unconsciously deploy to opti-
+mally titillate the visual areas of the brain,” i n
+p a rticular that part of the brain known as the
+limbic system. Of the eight (see box page
+4 2 ) , three seem to be especially signific a n t : a
+p s y c h o l o gical phenomenon called the “ p e a k
+shift effect”; the principle of “ gr o u p i n g ” ;a n d
+the benefit of focusing on a single visual cue.1
+The ‘peak shift effect’
+The “peak shift effect” is a we l l - k n ow n
+p rinciple in animal discri m i n ation learn i n g .
+For example, if a rat is taught to discri m i n at e
+a square from a rectangle and rewarded for the
+r e c t a n g l e , it will soon learn to respond more
+frequently to the rectangle. M o r e ove r , if the
+r at is trained with a prototype rectangle of, s ay,
+aspect ratio 3:2, it will respond even more
+p o s i t i vely to a longer and skinnier fig u r e — s ay,
+of aspect ratio 4:1.This curious result implies
+t h at what the rat is learning to value is not a
+p a rticular rectangle but a ru l e : rectangles are
+better than squares. So the gr e ater the rat i o
+b e t ween the long and the short sides, i . e .t h e
+less square-like it is, the “ b e t t e r ” the rectangle
+is in the rat ’s eye s. This is the “peak shift
+e f f e c t ” .Ramachandran argues that this pri n-
+ciple holds the key for understanding the
+e vo c at i veness of much of visual art .
+H ow does the peak shift effect relate to
+human pat t e rn recognition and aesthetic pre-
+ference? Consider the way in which a skilled
+c a rtoonist produces a cari c ature of a fa m o u s
+fa c e , s ay the late U. S . President Richard
+N i x o n ’s. W h at a cartoonist does (uncons-
+ciously) is to take the ave ra ge of all fa c e s ,s u b-
+tract it from Nixon’s face (to get the difference
+b e t ween Nixon’s face and all others) and
+then a m p l i f y the differences to produce a cari-
+c at u r e .The final result, of cours e , is a draw i n g
+t h at is even more Nixon-like than the ori-
+gi n a l .The artist has amplified the differences
+t h at characterize Nixon’s face in the same
+way that an even skinnier rectangle is an
+a m p l i fied ve rsion of the ori ginal prototype
+t h at the rat is exposed to.Hence Ramachan-
+d r a n ’s aphorism that “All art is cari c at u r e ” .
+(This is not literally tru e , as he admits, but it
+applies surp risingly often.) In other wo r d s ,
+w h at the artist tries to do is not only capture
+the essence of something but amplify it in
+order to activate neural mechanisms more
+p owerfully than the ori ginal object.
+Look at the Chola bronze—the accen-
+t u ated hips and bust of the Goddess Pa rvat i
+( F i g . 1) and you will see at once that this is
+essentially a caricature of the female form.
+Here the artist has chosen to amplify the
+“very essence” (called the rasa by Hindu
+artists) of being feminine, by moving the
+image abnormally far toward the feminine
+end of the female/male spectru m . T h e
+a rtistic amplific ation produces a “super sti-
+mulus” to which, Ramachandran conjec-
+t u r e s ,c e rtain brain circuits respond.A rt i s t s
+may also try to evoke a strong direct emo-
+tional response by exploiting the peak shift
+effect along dimensions other than form.
+For instance,a Boucher, aVan Gogh, or a
+Monet may be thought of as a cari c ature in
+“colour space”.
+Perceptual grouping
+and binding
+A second basic principle suggested by
+Ramachandran is “ gr o u p i n g ” (or binding).
+The way this works can be illustrated by the
+D a l m atian dog picture shown in Fig. 2 .T h i s
+is seen initially as a random jumble of
+s p l o t c h e s. The number of potential gr o u-
+pings of these splotches is infin i t e , but once
+the dog is seen,your visual system links only
+a subset of these splotches together and it is
+impossible n o t to “hold on” to this group of
+linked splotches. I n d e e d , the discove ry of
+A bold new theory to identify the 
+common denominator of all visual art
+1. V.S. Ramachandran and William Hirstein are
+publishing a fuller exposition of this subject later
+this year in the Journal of Consciousness Studies
+under the title “The Science of Art, A
+Neurological Theory of Aesthetic Experience”.
+Anthony Fr e e m a n
+Managing editor,
+Journal of Consciousness Studies
+F i g u re 1. The accentuated features of a bro n z e
+statue of the Indian goddess Parvati 
+( c i rca 11th century A . D. ) , amplify the essence of
+the feminine to produce a “peak shift effect”.
+
+the dog and the linking of the dog-releva n t
+splotches generates a pleasant “ a h a ”s e n s a-
+t i o n . In “colour space” the equivalent of this
+would be we a ring a blue scarf with red flo-
+we rs if you are we a ring a red skirt ; the per-
+ceptual grouping of the red flowe rs and yo u r
+red skirt is aesthetically pleasing. A rt i s t s
+u n d e rstand the pleasure gi ven by such effects.
+The evo l u t i o n a ry value of such gr o u p i n g
+of stimuli to pick out objects is obvious: it
+makes the detection of both prey and pre-
+dators much easier. But how is such grou-
+ping achieved? The key idea is as follows.
+G i ven the brain’s limited at t e n t i o n a l
+resources and shortage of neural space for
+competing representat i o n s , e ve ry stage in the
+processing of visual information offers an
+opportunity to generate a signal that says,
+“Look, here is a clue to something poten-
+tially object-like!” Pa rtial solutions or
+conjectures to perceptual problems are fed
+back from every level in the hierarchy to
+e ve ry earlier module to impose a small bias
+in processing, allowing the final percept to
+emerge from such progressive “bootstrap-
+ping”.
+C o n s i s t e n cy between partial high-leve l
+“ hy p o t h e s e s ” and earlier low - l e vel ensembles
+g e n e r ates a pleasant sensat i o n — e . g . t h e
+D a l m atian dog “ hy p o t h e s i s ” encourages the
+binding of corresponding splotches which,
+in turn ,f u rther consolidate the “ d o g - l i k e ”
+n ature of the final percept and we feel good
+when it all finally clicks in place.And what
+the artist tries to do is to tease the system with
+as many of these “potential object” clues as
+possible—an idea that would help explain
+w hy grouping and “perceptual problem-
+s o l v i n g ” are both frequently exploited by
+a rtists and fashion designers.
+Isolating a visual signal
+The third principle (in addition to peak
+shift and binding) emphasized by
+Ramachandran is the need to i s o l at e a single
+visual modality before you amplify the signal
+in that modality.The brain’s ability to do this
+explains why an outline drawing or sketch is
+more effective as “ a rt ” than a full colour
+p h o t o gr a p h .Consider a full-colour illustrat i o n
+of Nixon, with depth, s h a d i n g, skin tones and
+b l e m i s h e s ,e t c.W h at is unique about Nixon
+is the form of his face (as amplified by the
+c a ri c at u r e ) , but the skin tone—even though
+it makes the picture more human-like—
+d o e s n ’t contri bute to making him “ N i x o n -
+l i k e ” and therefore actually detracts from the
+e f fic a cy of the form cues.This explains why
+one not only “gets away ” with just using
+outlines—they are actually more effective than
+a full-colour half-tone photo, despite its hav i n g
+more inform at i o n . Hence the aphori s m
+“more is less” in A rt .
+Additional evidence for this view comes
+from the “ s avant syndrome”—autistic chil-
+dren who are “ r e t a r d e d ” and yet produce
+beautiful draw i n g s.The animal drawings of the
+e i g h t - year-old artist Nadia, for instance, a r e
+almost as aesthetically pleasing as those of
+Leonardo da Vinci (Fig. 4 ) . R a m a c h a n d r a n
+argues that this is because the fundamental
+disorder in autism is a distortion of the
+“salience landscape”; s avants shut out many
+i m p o rtant sensory channels, thereby allo-
+wing them to deploy all their at t e n t i o n a l
+resources on a single channel.
+‘Lie detector’ testing
+Ramachandran believes that the “peak
+shift principle” can be tested directly. The
+method would employ skin conductance
+response (SCR), the technology used in
+“lie detectors”. The size of the SCR is a
+direct measure of the amount of limbic
+(emotional) activation produced by an
+i m a g e . It is a better measure, as it turn s
+o u t , than simply asking someone how much
+emotion they feel about what they are loo-
+Figure 3.A caricature of Richard Nixon by the
+French cartoonist Mulatier.
+Figure 2.Grouping:the Dalmatian emerges from
+a random jumble of splotches, producing a
+pleasing sensation.
+
+of the term “ p r e t t y ” . If used at all by seri o u s
+a rt cri t i c s , the word damns with faint praise.
+Prettiness is not seen as a synonym for
+b e a u t y, but as a shallow impostor.Yet Rama-
+chandran uses it without irony as a positive
+at t ri bu t e .This one piece of unfort u n ate ter-
+minology might be forgi ve n , but other ele-
+ments in his work are all of a piece with it.
+First, there is the heavy reliance on the
+female form and upon the erotic in his
+e x a m p l e s. Then he seems to equat e
+“ a r o u s a l ” (as measured by SCR) with a
+p o s i t i ve aesthetic response—an assump-
+tion felt by critics to presuppose the reduc-
+tionist case he is trying to prove . Ta k e n
+together,these points seem to some critics
+to confuse pornography with high art.
+The “science of art ” has also been
+attacked from the scientific side, on the
+grounds that its proponents have not ye t
+conducted any serious empirical tests of their
+i d e a s. At best they have offered a manifesto
+for a research programme and made some
+suggestions for possible lines of inve s t i g at i o n .
+E ven then, it has been pointed out that the
+n a rr ow range of examples used hardly justifie s
+the lofty claims to be dealing with the whole of
+a rt , let alone to have uncovered the “ l aws of
+aesthetic experi e n c e ” . Nor has hitching his
+b a n d wagon to the Buddhist train, b y
+a s s o c i ating his “eightfold law s ” with the
+B u d d h a ’s eightfold noble path wo n
+Ramachandran any fri e n d s , though to be fa i r ,
+he admits himself that this is a slightly
+whimsical associat i o n .
+C riticism has centred on the lack of
+p r o p o rtion between the narr ow approach to
+art taken by Ramachandran and the gran-
+diloquent claims he makes for his theory —
+a l t h o u g h , as he admits, he initially pro-
+posed it “in a playful spirit”. But the very
+audacity with which its author propounds
+it guarantees that we shall be hearing a lot
+more of it in the coming months. n
+king at , because the verbal response is
+fil t e r e d , e d i t e d , and sometimes censored
+by the conscious mind. M e a s u ring SCR
+a l l ows direct access to “ u n c o n s c i o u s ”
+mental processes.
+The experiment would compare a sub-
+j e c t ’s SCR to a c a ri c at u r e o f, s ay, Einstein or
+N i x o n , to his SCR to a p h o t o of the same indi-
+v i d u a l s. I n t u i t i ve l y, one would expect the
+photo to produce a large SCR because it is
+rich in cues and therefore excites more
+m o d u l e s. If one found, p a r a d ox i c a l l y, t h at the
+c a ri c ature actually elicited a larger SCR, t h i s
+would provide evidence for the operation of
+the peak shift effect—the artist would have
+unconsciously produced a super stimulus.
+Critical responses
+Ramachandran says that one could also
+compare the magnitude of an SCR to cari-
+catures of women (or indeed, to a Chola
+bronze nude or a Picasso nude) with the
+SCR to a photo of a nude wo m a n . It is
+c o n c e i vable that the subject might claim
+to find the photo more at t r a c t i ve at a
+conscious leve l , while regi s t e ring a large
+“unconscious aesthetic response”—in the
+f o rm of a larger SCR—to the artistic repre-
+sentation.That art taps into the “subcons-
+c i o u s ” is not a new idea, but our SCR mea-
+surements may be the first attempt to test
+such a notion experimentally.
+Not surp ri s i n g l y, R a m a c h a n d r a n ’s
+attempt to reduce aesthetic experience to a
+set of physical or neurobiological laws has
+already met with stout cri t i c i s m .A symptom
+of trouble to come has been seen in his use
+Figure 4.The savant syndrome:
+horses drawn by Leonardo 
+da Vinci (right) and by 
+an eight-year old autistic child.

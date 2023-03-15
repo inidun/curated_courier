@@ -1,0 +1,488 @@
+WHAT IS RELATIVITY ? The following way of illustrating the
+concept of relativity was thought up by the celebrated French
+mathematician Henri Poincaré. Just suppose, said Poincaró, that
+one night while you were fast asleep everything in the universe
+somehow became a thousand times bigger. Everything : the
+stars, the sun, the earth, your home, your bed, you yourself, the
+length of light waves, atoms and electrons. When you woke up,
+would you know that anything had changed ? No, said Poincaré;
+no experiment could possibly prove that anything had changed.
+It would be meaningless to say that the universe had become
+bigger, because if you say that a thing is "bigger" you imply that
+it is bigger than "something else" and in the case of the universe
+there is no "something else". In other words size is a relative
+concept.
+Drawings Philippe Gentil Studio, Paris © Unesco Courier
+
+
+
+Relativity
+in a nutshell
+by Isaac Asimov
+ISAAC ASIMOV of the USA is internationally
+known as a popularizer of science anda science
+fiction writer. His huge output of published
+works reflects the variety of his interests which
+include : literary criticism, psychology, mathe¬
+matics, mystery, poetry and humour. Earlier this
+year he published his 200th book, assigning the
+same number to two works: Opus 200 (Hough¬
+ton Mifflin), an Asimov anthology, and In
+Memory Yet Green (Doubleday), the first
+volume of his autobiography.
+ACCORDING to the laws of motion
+first worked out in detail by Isaac
+Newton in the 1680s, different mo¬
+tions add together according to the rules of
+simple arithmetic. Suppose a train is mov¬
+ing away from you at twenty kilometres an
+hour and a person on the train throws a ball
+at twenty kilometres an hour in the direc¬
+tion of the train's motion. To the person,
+moving with the train, the ball is moving
+twenty kilometres an hour away from him.
+To you, however, the motion of the train
+and the ball add together, and the ball is
+moving away from you at the rate of forty
+kilometres an hour.
+Thus, you see, you cannot speak of the
+ball's speed all by itself. What counts is its
+speed relative to a particular observer. Any
+theory of motion that attempts to explain
+the way velocities and related phenomena
+seem to vary from observer to observer
+would be a "theory of relativity".
+Albert Einstein's particular theory of
+relativity arose from the fact that what
+works for thrown balls on trains doesn't
+seem to work for light. A moving source of
+light might cast a beam of light in the direc-
+tion of its travel, or against the direction of
+its travel. In the former case, the light
+should (according to Newton's laws) travel
+at its own speed plus the speed of the light-
+source. In the latter case, it should travel at
+its own speed minus the speed of the light-
+source. That's the way the thrown ball on
+the moving train would behave.
+Light doesn't behave so. It always seems
+to travel at its own speed regardless of the
+motion of the source. Einstein attempted
+to arrange the laws of the universe to ac¬
+count for that.
+Einstein showed that, in order to ac¬
+count for the constancy of light's velocity,
+one had to accept a great many unex-k
+pected phenomena. He showed that ob- f
+
+Einstein's topsy-turvy universe
+The curious tale of a ride on a beam of light, clocks that
+run slower when they are in motion than when they are
+stationary, the long-playing record whose centre is older
+than Its outer rim, light rays that bend, objects that
+change in size and weight, a man only half as old as his
+twin, black holes in space from which not even light can
+escape all these Alice-in-Wonderland notions which
+seem to fly in the face of common sense form part of
+Einstein's topsy-turvy world of relativity. Did Einstein
+really throw common sense out of the window ? Not at
+all. The curious effects his theory postulates only become
+evident when we enter the world of very high velocities.
+Although they are of great importance in physics, in
+ordinary life they are so infinitesimal that they can be
+ignored. Many of the implications of the theory of
+relativity are so complex that they can only be fully
+expressed in mathematical terms. The drawings and
+captions on this and following pages are an attempt to
+give an approximate visual introduction to Einstein's
+mysterious universe.
+300000 km
+nz7,
+A street-car named relativity
+As a teenager in Zurich, Einstein asked himself a seemingly innocent question the
+answer to which contained the core of the principle of relativity. "What would the
+world look like", he pondered, "if I rode on a beam of light ?"
+Let us make this imaginary journey with Einstein. Picture yourself boarding a street¬
+car at the foot of a clock-tower in Berne, as Einstein used to do every day on his way
+to work at the Swiss Patent Office. Imagine that, instead of travelling along its usual
+track, the street-car carried you away at the speed of light (300,000 kilometres per
+second) on the very beam of light with which you saw the time indicated on the clock.
+Suppose the clock showed three o'clock when the street-car whisked you off to a
+destination 300,000 kilometres away. The journey ought to take you exactly one
+second. But the clock as you see it (assuming that you could see it from a distance of
+300,000 kilometres) would still say three o'clock; this is because it takes the beam of
+light from the clock showing the time you set off as long as it has taken you to reach
+your destination. By keeping up with the speed of light you as a passenger in the
+street-car are cut off from the passage of time. But to a man left standing on the
+pavement in Berne the same clock would indicate one second past three. In other
+words, time runs differently for you in the street-car and for the man on the pavement
+in Berne; contrary to what Newton thought, therefore, there is no such thing as
+universal time. Furthermore, although in the street-car you discover the same laws,
+the same relations between time, distance, speed, mass and force as everyone
+everywhere discovers, the actual values that you get for time, distance, and so one,
+are not the same as for anyone else. The only value that is invariably the same for
+everyone is the value for the speed of light.
+For Newton, time and space formed an absolute framework and the world looked the
+same to every observer, wherever he might be and however he might travel. For
+Einstein, what two observers see is relative to each of them, to their position and their
+speed. We cannot know what the world is like, we can only compare what it looks
+like to each of us. Relativity is the understanding of the world not as events but as
+relations.
+Drawings Studio Philippe Gentil © Unesco Courier
+kjects would have to grow shorter in the
+"direction of their motionshorter and
+shorter as their motion was faster and
+faster, until they would have zero length at
+the speed of light; that moving objects
+would have more and more mass the faster
+they moved till their mass was infinite at
+the speed of light; that the rate at which
+time progressed on moving bodies decreas¬
+ed the faster they moved till it stopped
+altogether at the speed of light. For each of
+these reasons the speed of light in a
+vacuum was the maximum speed that
+could be measured.
+Furthermore, he showed that a little bit
+of mass was equal to a great deal of
+energy, according to his famous equation,
+E = me2, where c stands for the speed of
+light.
+All this, he worked out in 1905 for bodies
+moving at the same speed in an unchang¬
+ing direction. This special kind of motion
+10
+
+Time out of joint
+A curious prediction of the theory of relativity was that a
+stationary clock would run faster than a moving clock. In 1905,
+Einstein wrote "that a clock fixed at the earth's equator will run
+slower by a very small amount than an identical clock fixed at
+one of the earth's poles". This was proved experimentally by the
+English scientist H.J. Hay who visualized the globe squashed into
+a flat disc with the North Pole at the centre and the equator at
+the rim. Placing a radio-active clock at the centre and another at
+the rim he set his model turning. Einstein's prediction was
+proved correct, the clock at the rim kept time more slowly than
+the clock at the centre. This holds true for any spinning disc on
+every turntable, and each time a long-playing record revolves on
+a record-player its centre is ageing faster than its rim.
+was dealt with in Einstein's "special theory
+of relativity."
+The effects predicted by Einstein are
+noticeable only at great speeds. The simple
+arithmetic of Newton's laws therefore
+works at ordinary speeds, simply because
+Einstein's effects are too small to notice.
+Because we are always surrounded by the
+working of those laws, they come to seem
+like "common sense" to us while Einstein's
+effects seem strange.
+Nevertheless, at the time Einstein
+published his theory, scientists were work¬
+ing with subatomic particles hurled out¬
+ward by exploding atoms. These sub¬
+atomic particles moved at great speeds and
+the Einstein effects could be noted in them
+exactly. Atom-smashing machines and
+nuclear bombs couldn't exist unless the
+special theory of relativity was correct.
+In 1916, Einstein worked out a more
+complicated version of the theory of
+relativity, one that included not only mo¬
+tion at constant speed in the same direc¬
+tion any kind of motion at all, motion
+that changed speed or direction or both.
+Since it dealt with any motion in general,
+this version of his theory is "the general
+theory of relativity."
+The most common reason why objects
+move at varying speeds and in changing
+direction is because a gravitational force is
+acting on them. A ball when dropped
+moves faster and faster because earth's
+gravity is pulling it. A thrown ball follows a
+curved path because earth's gravity is pull¬
+ing it. The earth follows a curved path in
+space because the sun's gravity is pulling
+it.
+For this reason, Einstein's general theory
+had to deal with gravitation.
+Einstein worked out a set of equations
+which showed that if there were no matter
+anywhere and no gravitation, a moving
+body would follow a straight line. If there
+were matter, the surrounding space would
+be distorted so that the moving body
+would follow a curved line. Einstein's
+general theory showed what those curves
+ought to be and they weren't quite what
+Newton's theory of gravitation predicted.
+The differences between Einstein's equa¬
+tions and Newton's equations are very
+slight indeed, and only the most careful
+and delicate measurements can show us
+which set of equations is actually followed
+by moving bodies.
+One way of telling whether Einstein or
+Newton is right is by studying the
+behaviour of light when it passes through a
+strong gravitational field. According to
+Einstein, the light would pass through the
+distorted space and follow a very slightly
+curved path. This would not be so accor- w
+ding to the Newtonian rules. f
+11
+
+Drawing studio Philippe Gentil <& Unesco Courier
+A matter of gravity
+To Newton, gravitation represented the mutual attraction of
+masses of matter, the power of bodies to influence each other in
+proportion to their size and the distance between them. This
+force acted everywhere in the cosmos, whether causing an apple
+to fall to the ground or the moon to circle the earth. Setting
+aside this concept of an active force, which formed the
+underlying mechanism of the Newtonian universe, Einstein
+thought in terms of the "gravitational field". Thus the
+gravitational field of the earth governed the fall of Newton's
+apple and the solar gravitational field governs the motion of the
+planets around the sun. Matter, Einstein maintained, creates this
+gravitational field by distorting what he called the "space-time
+continuum" around it. This has been likened to an outstretched
+rubber sheet which is deformed by heavy objects (the sun, the
+stars) placed upon it. Diagram shows how light rays move along
+the curves thus formed and are thus "bent" round large heavenly
+bodies.. Einstein predicted that starlight passing near the sun
+would follow the curved pathways in space caused by the sun's
+presence, thus seemingly "bending" round it. His prediction was
+confirmed in a famous experiment by the English astronomer Sir
+Arthur Eddington in 1919 (see page 19)
+12
+
+\\a\\\\WLmmL\WLmL\a\\UÊLWLwmLmm
+y In 1919, a total eclipse was observed and
+the positions of the stars near the sun were
+accurately measured. If the light travelled a
+curved path, each star should seem to be a
+little farther from the sun than it ought to
+be. The amount of displacement would de¬
+pend on how near the sun the light passed.
+Einstein's theory predicted exactly how
+large the displacement ought to be. The
+measurements at that 1919 eclipse, and at
+every total eclipse since then, seem to
+place the stars where Einstein predicted
+they would be.
+These were hard measurements to
+make, though, and difficult to get exact. In
+our space age, we have been able to do
+better.
+In 1969, for instance, two probes were
+sent toward Mars. When the probes were
+on the other side of the sun, the radio
+waves that they beamed back to earth had
+to pass near the sun and therefore followed
+a distorted path. Because of the distortion,
+the path was longer than a straight line
+would have been, and it took a bit more
+time for the waves to reach us. It took them
+a ten-thousandth of a second longer, ac¬
+tually, something which could be measured
+and which was just what general relativity
+predicted.
+Another prediction of Einstein's general
+theory is that in space distorted by gravity
+time slows up.
+A large object giving off light, emits that
+light in waves that are longer than they
+would be otherwise, because the slowing
+of time in the object's gravitational field
+keeps one wave going longer before the
+next one comes out. Even the sun, though,
+has a gravitational field that is not strong
+enough to show a measurable effect.
+Just about the time Einstein advanced
+his theory of general relativity, however, a
+new kind of star was discovered. This was
+the "white dwarf." A white dwarf might
+have all the mass of the sun squeezed
+down into a volume no larger than that of
+the earth. Its gravitational field at its sur¬
+face would be two hundred thousand times
+as intense as the sun's gravitational field
+was.
+Particular light-waves emitted by a white
+dwarf would have to be longer by a par¬
+ticular amount than those same light¬
+waves emitted by the sun. In 1925,
+measurements were taken of the light com¬
+ing from a white dwarf and were found to
+be longer by just the right amount
+predicted by Einstein.
+It was, of course, very difficult to take
+the measurement of the light from a white
+dwarf. Such stars are very dim and trying
+to analyse their feeble beams of light is a
+tricky matter.
+It has been found, however, that under
+certain conditions, a collection of atoms in
+a crystal would emit gamma rays. Gamma
+rays are made up of waves like those of
+light, but much shorter. The crystal emitted
+' gamma rays that all had the same
+wavelength exactly, and the wavelength
+could be measured with great accuracy.
+If Einstein's general theory were correct,
+however, the gamma ray wavelength could
+be slightly changed if the gravitational pull
+upon the crystal were either increased or
+decreased.
+Here on earth, gravitation increases as
+one gets closer to earth's centre. If you live
+in an apartment house, earth's gravity gets
+stronger with each floor you descend but
+so slightly that you can't possibly tell the
+difference.
+But it shows up in the gamma rays. As
+the crystal was taken down from the attic
+to the basement, the wave grew very
+slightly (but detectably) longer, and by ex-
+CONT1NUED PAGE 16
+161/2 grams at the North Pole
+grams at 40°
+ilMorth Latitude
+0 grams at the centre
+of the earth
+151/2 grams
+at the Equator
+An object does not weigh the same at all
+points on the earth's surface. This is
+because the earth is not perfectly round
+and It is rotating. An object would weigh
+nothing at the centre of the earth because
+the earth's matter pulls on it equally from
+all directions.
+Drawing studio Philippe Gentil © Unesco Courier
+adapted from The World Book Encyclopedia © 1979 World
+Book-Childcraft International, Inc.
+13
+
+CONTINUED FROM PAGE 13
+y actly the amount predicted by Einstein's
+theory.
+Still another consequence of Einstein's
+treatment of gravitation in his general
+theory of relativity is that gravitation, like
+light, can be given off in waves. In this
+way, gravitation, like light, can carry
+energy away from the object giving it off.
+Such gravitational waves are given off
+when an object moves round and round in
+response to gravitation, or back and forth,
+or pulses in and out. The earth, when it
+moves around the sun, gives off gravita¬
+tional waves, according to Einstein. It is
+losing energy so that it is slowly dropping
+in closer to the sun.
+Gravitational waves are so weak,
+however, and carry so little energy that the
+waves given off by earth are far too feeble
+to be detected. The energy they carry off is
+so tiny that earth won't drop closer to the
+sun by more than a few metres in billions of
+years.
+It may be, though, that somewhere in
+the universe there are more intense gravita¬
+tional fields than there are here in the solar
+system. Extremely rapid motions may in¬
+volve the giving off of gravitational waves
+that are just barely energetic enough to
+detect.
+Many scientists have been trying to
+detect such gravitational waves using very
+delicate instruments. Some have reported
+success, but the results were very
+borderline and such reports have not yet
+been accepted.
+In 1967, however, a new kind of star was
+discovered, a "pulsar". Such a star is even
+smaller and more compressed than a white
+dwarf is. A pulsar may have a mass equal
+to our sun and yet have it all squeezed into
+a little ball no more than twelve kilometres
+across. The gravitational field at the sur¬
+face of such a pulsar would be
+10,000,000,000 times that of the sun.
+In 1974, two pulsars were found that
+circled each other. With circlings in so in¬
+credibly powerful a gravitational field, ef¬
+fects that are barely noticeable in our solar
+system become easy to measure.
+For instance, there is a small component
+of Mercury's motion about the sun that
+isn't accounted for by Newton's theory of
+gravitation. A particular point in Mercury's
+orbit makes a complete circle about the sun
+in a little over 3,000,000 years although by
+Newton's theory it shouldn't move at all.
+Einstein's theory, however, accounts for
+the motion exactly.
+That same point in the orbits of that pair
+of circling pulsars should make a complete
+circle in a mere eighty-four years according
+to Einstein's theory, and the point is mov¬
+ing at the proper speed to do so.
+What's more, the pulsars should be giv¬
+ing off gravitational waves as they revolve,
+much stronger ones than earth does. The
+energy carried off by the gravitational
+waves ought to be enough to cause the
+pulsars to be spiralling in toward each other
+at a noticeable rate. This, in turn, should
+cause certain radio wave pulses they give
+off to reach us at shorter and shorter
+intervals.
+In 1978, delicate measurements of those
+radio pulses were made and they were
+found to be coming at shorter and shorter
+intervals by just the predicted amounts.
+What it comes to is this: In the three-
+quarters of a century since Einstein advanc¬
+ed his theory of relativity, scientists have
+tested it in every way they could think of,
+over and over again, and Einstein's theory
+has passed every single test they have
+devised without exception.
+Isaac Asimov
+Einstein's work gave new impetus
+to cosmology, the study of the
+universe as a unified whole. The
+Russian mathematician Alexander
+Friedmann had shown that
+Einstein's theories suggested that
+the universe was unstable and
+probably expanding. Einstein
+himself was at first unable to
+accept the logic of his own
+equations and in order to arrive at a
+closed model of the universe he
+introduced a factor into his
+gravitational equations which he
+called the "cosmological constant"
+(see article page 29). In 1924, the
+American astronomer Edwin
+Hubble proved experimentally that
+Friedmann's view was correct, that
+the distant galaxies were receding
+at increasing speeds and that the
+universe was in fact expanding.
+Einstein finally bowed to the
+evidence and described his earlier
+stance as "the biggest blunder of
+my life". Right, representations,
+top, of an open universe which will
+expand for ever, and, bottom, of a
+closed universe that will .eventually
+contract.
+Drawings studio Philippe Gentil © Unesco Courier
+16

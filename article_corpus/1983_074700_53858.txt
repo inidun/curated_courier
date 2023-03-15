@@ -1,0 +1,274 @@
+What's new
+in science teaching?
+First organized by University College,
+Cardiff (UK) in 1981, an experimental
+competition for schools in which
+drama is used as a vehicle for pre¬
+senting, understanding and enjoying
+science was so successful that it has
+become an annual event. Each entry
+is a presentation, devised and per¬
+formed by children from junior, middle
+or secondary schools, of an episode
+from the history of science,
+technology or engineering, a con¬
+troversial issue related to the social
+consequences of science and
+technology, or the exposition of a
+scientific concept. Right, pupils from
+Bodringallt Junior School, Ystrad
+Rhondda, South Wales, depict water
+in a scene from their prize-winning
+1982 dance-drama Metamorphosis
+which illustrates the compatibility
+between Darwinism and Christianity.
+by Mircea Malitza
+NEW developments in the exact and natural sciences
+have little direct influence on the curriculum.
+After all, the requirements of social life guide
+education in general; the aims of education are to provide
+the student with whatever he needs for active, intelligent
+participation in life.
+Mathematics thus becomes increasingly "mathematics
+for all"; its aims concern the individual as well as society,
+and increasingly affect our culture and civilization.
+The reform of the curriculum is a specific process in¬
+volving the developmental characteristics and educa¬
+tional traditions of each country. It seems to be
+reasonable to use a negative model indicating which sub¬
+jects should not be taught since they are totally outdated
+and useless. Such a list could only be drawn up by a large
+panel of specialists.
+Until now the objectives of mathematics teaching have
+mainly been concerned with the logical and formal
+aspects, helping the child to acquire the capacity for
+rigorous thinking, free from logical contradictions. This
+is insufficient; in mathematics as in other fields, educa¬
+tion should not shrink from an effort to grasp meanings.
+Progressive learning, in which the pupil is exposed to a
+variety of situations in which the use of mathematics
+becomes meaningful, should accompany the axiomatic
+treatment.
+Intellectual curiosity should be cultivated. Only in¬
+quisitive, critical minds can go beyond the superficial
+MIRCEA MALITZA, of Romania, is professor at the faculty of
+mathematics of the University of Bucharest and a former minister of
+education of his country. He has lectured on international affairs at
+academic centres in Asia, Europe and the United States. He is the
+author of books on education and mathematics, and co-author of the
+report to the Club of Rome entitled No Limits to Learning.
+Photo courtesy of University College, Cardiff, UK
+aspects of mathematics. In this way creativity is also
+developed; it cannot be encouraged by the deductive
+presentation of a finite, consistent system.of theories. To
+arouse students' interest it is necessary to point out the
+origin of concepts so that they can discover by means of
+exploratory investigations the notions that are to be learn¬
+ed. This presupposes, along with a logical exposition, a
+psychological one in which more attention must be paid
+to historical developments.
+A generally acknowledged objective of mathematics
+teaching is the development of probabilistic as well as
+deterministic thought. This process should be initiated in
+the first elementary grades, especially since mathematics
+is increasingly bound up with science in which a pro¬
+babilistic approach is common, and notions related to
+this approach are not beyond the understanding of
+students.
+A final objective concerns the development of the
+capacity to perceive, and not only to solve, problems.
+Along with the usual activities of solving problems and
+proving theorems, students should also have experience
+of solving their own problems and proving their own
+theorems. This issue is related to creativity and
+understanding, and is far too often overlooked.
+Certain themes should not be neglected in mathematics
+teaching. Some of them have already been included in
+many syllabuses and include such subjects as probability,
+'statistics, discrete mathematics and matrix theory. Others
+will be included very soon, namely: courses in the con¬
+struction of mathematical models; courses in scientific
+organization; and subjects from computer science (infor¬
+matics) such as algorithms, formal languages, elementary
+numerical analysis, programming; elementary education
+in systems science; and applications as an integral part of
+mathematics teaching.
+15
+
+Psychologists point to the fact that intellectual maturi¬
+ty depends largely on having the opportunity to par¬
+ticipate in activities. Hence there is a need to devise ac¬
+tivities which lead the child to personal discovery. Ac¬
+tivities must be rooted in reality, permitting pupils to in¬
+vestigate and examine the environment. They should be
+encouraged to collect data for themselves and devise their
+own problems. Mathematical applications can be en¬
+visaged in real-life activities such as census-taking and
+meteorological records.
+The impact of new technological inventions should also
+be considered from the point of view of participation.
+Pushed to its extremes, the technicization of teaching
+evokes images such as that of the student isolated in a
+cubicle listening to a taped lesson or sitting in front of a
+computer terminal pushing buttons marked "yes" or
+"no", staring mesmerized before a visual-display
+screen all of which are instances of non-participatory
+learning. However, if used judiciously, technological aids
+enable students to concentrate on problems and their
+solutions instead of cumbersome computations. Com¬
+puter simulations, for example, permit students to in¬
+vestigate more variants of a problem situation.
+In science teaching, it seems that the general orienta¬
+tion is towards the creation of "accomplished", open-
+minded individuals who are aware of the enormous
+destructive potential of science. The future scientist
+should be actively involved in society and be aware of his
+responsibilities.
+Almost all contemporary sciences use models as a
+means of investigating both the physical and social
+phenomena of the real world that surrounds them.
+Models may be simulated on computers, and this opens
+new perspectives in secondary education. Good pupils are
+often disappointed when, after learning classical
+mechanics and acquiring a personal outlook on the func¬
+tioning of nature, they are told that they were wrong and
+that the theory of relativity alone corresponds to reality.
+This is a result of inadequate teaching methods that place
+too much emphasis on the basic hypothesis of the
+Newtonian model, and do not critically discuss the
+possibility that it may not necessarily correspond to reali¬
+ty. If we teach pupils to conceive physical theories as a
+changing mass of facts, theorems and ideas, then we shall
+come very close to the ideal of modern thinking.
+Integrated education has been intensively debated.
+Thus there are discussions on "global" curriculum in¬
+tegration, the integration of theory and practice, the in¬
+tegration of the natural sciences and the social sciences,
+vertical and horizontal integration. A profusion of in¬
+teresting works have recently appeared on this theme.
+The distinctive characteristic of contemporary science
+is undoubtedly the quantity of data. If science continues
+to develop at the present rate, specialization will remain
+one of the major characteristics of the scientist in the
+coming decades. The difficulties of such a situation are
+well-known: limitation to a narrow field of knowledge
+can hinder the understanding of general phenomena. One
+method of coping with this problem is to promote
+research groups as opposed to the individual approach to
+science.
+The integration of mathematics with physics and
+chemistry seems at first sight superfluous, since it is a
+natural process. However, there is still plenty of room for
+improvement, especially when the material is designed for
+younger pupils.
+Mathematical problems, which are often abstract,
+could generally be presented by demonstrating their
+16
+relevance to physics, particularly as regards probability
+theory, the notion of complex numbers, the concept of
+limits, the introduction and utilization of differential
+calculus, etc. These examples are designed to show that it
+would be well worth while to focus mathematics teaching
+on the application of mathematics to physical
+phenomena.
+Although the integration of physics with chemistry is
+almost inevitable, the two are still often taught as if they
+were separate subjects. The demand for flexible forms of
+education calls for the use of a whole range of methods
+borrowed from the classic type of education. Non-formal
+education must be carefully planned to complement and
+supplement formal education. The most often quoted
+forms of free scientific activity that concern mathematics,
+physics, chemistry and related subjects are "the following:
+These two works by the French artist Edgar
+Degas 11834-1917) have been used by Pro¬
+fessor Istvan Hargittai of the Budapest
+Academy of Sciences to illustrate the scientific
+phenomenon of isomerism, the existence of
+two or more substances that have identical
+chemical compositions but different ar¬
+rangements of their atoms. Textbooks explain¬
+ing isomerism often give the examples of
+molecules of a certain type which appear in two
+different isomeric forms ("staggered" and
+"eclipsed") depending on the disposition of
+their atoms (inset in the Degas drawings).
+Hargittai noted that in "End of an Arabesque"
+(far right) the position of the dancer's arms and
+legs recall the staggered form, while the
+"Dancer Seated Lacing her Buskin" (right) is a
+representation of the eclipsed form.
+Special publications and reviews for pupils contain¬
+ing series of problems or open situations to be work¬
+ed out outside school;
+Science clubs or societies the activities of which in¬
+clude carrying out projects, designing and building
+models of specific items of apparatus, conducting
+surveys, collecting data and materials, ecological
+investigations;
+Competitions on various subjects and at various
+levels. They should be a means of furthering learning
+in a spirit of friendship;
+Popular scientific centres or museums endowed with
+scientific libraries and facilities for showing scientific
+films;
+
+In schools: organization of scientific exhibitions,
+productions by pupils on scientific subjects to be
+broadcast on closed-circuit radio;
+Science fairs, youth science camps, excursions and
+field trips, quizzes;
+Distance teaching by correspondence, broadcast
+courses on national radio and television, and
+multimedia teaching systems supported by a wide
+variety of audio-visual aids such as slides, tapes,
+cassettes, records, open-circuit radio and television
+broadcasting.
+The teacher is and will continue to be the keystone of
+the educative process. In spite of many attempts in several
+countries to replace the teacher with monitoring devices
+poses that more attention will be paid to the history
+of science.
+Teaching will include elements of "science ethics"
+and "technology assessment" calling into play a
+system of values and a normative approach, in con¬
+trast to the positivism that has prevailed so far.
+It will explore border areas where fields with dif¬
+ferent axioms and methodologies meet. This will
+amplify the trends towards the integration of the
+sciences, which has important consequences for
+teaching and teacher-training.
+system of interdisciplinary work-teams and
+modular education will develop further.
+and self-testing systems for pupils, there is no chance that
+the teacher/human being will be replaced by the
+teacher/machine.
+It seems that in the future the computer will be mainly
+used for communication rather than for computer-
+assisted teaching.
+Teacher training is an important problem. The in-,
+tegrated teaching of science presupposes quite important
+changes in the higher education of future teachers.
+In conclusion we should like to emphasize the
+following:
+Teaching of science will be done in a more "contex¬
+tual" way, drawing attention to the problems solved
+by science, in contrast to the axiomatic trends of
+thought which have prevailed since the beginning of
+the century, reaching a climax in the 1950s. This sup-
+Computer modelling will have a strong influence on
+science teaching; it will be practised in all scientific
+disciplines and will result in a spread of numeric
+calculus and simulated experiences.
+Computers and telematics will shift the emphasis
+from data, information and memory to process
+modelling, algorithms and operations.
+Scientific organization will thrive, based on decision,
+systems and games theories and on organization
+techniques.
+As the immediate future will be dominated by intense
+research into new energy sources and less energy-
+consuming technologies, the curriculum will reflect
+this preoccupation.
+Mircea Malitza
+17

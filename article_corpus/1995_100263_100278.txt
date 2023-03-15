@@ -1,0 +1,54 @@
+New therapeutic approaches
+by Jean-Marie Andrieu
+By slowing down the activity of the immune system it may be possible
+to slow down the development of the disease
+The human immunodeficiency virus (HIV) infects a specific cat¬
+egory of white corpuscles, the CD4 lymphocytes. It causes a bio¬
+logical disease typified by the gradual disappearance of these
+CD4 lymphocytes from the lymphoid tissue. Clinically speaking,
+this disappearance takes place silently between three and fifteen
+years after infection. When the CD4 pool is severely depleted,
+repeated opportunistic infections occur which eventually lead to
+death, even if they are treated with antibiotics. In order to combat
+replication of the virus, and the consequent destruction of the CD4
+lymphocytes, researchers have turned their attention to the anti¬
+retroviral molecules, the chief of which is zidovudine (AZT). For
+a period generally lasting no more than a few months this med¬
+ication slows down viral replication and thus the depletion of
+CD4s.
+The phenomenon of activation is a point of capital impor¬
+tance in understanding the loss of CD4 lymphocytes. It is a process
+encompassing a phase of cellular proliferation accompanied by the
+emission of biological molecules and followed by the death of the
+cells. Death is either spontaneous or caused by killer cells
+according to a biological process called apoptosis. Activation
+thus causes excessive cellular consumption. If it is accepted that
+cell renewal in the immune system is a finite process, it is clear that
+marked chronic cell consumption might exhaust the immune
+system. It has long been known that the more biological symptoms
+of activation there are, the more quickly infection develops. The
+activation level of immune cells results from individual genetic
+diversity and from environmental factors. Thus the high number
+of pathogenic agents present endemically in Africa and in the
+tropical regions are certainly constant factors in the activation of
+the immune system, which would explain the faster development
+of HIV infection in Africa.
+It can thus be seen that forms of treatment that partially
+inhibit excessive activation of the immune system may paradox¬
+ically slow down CD4 activation and thereby preserve the CD4
+pool. Cyclosporine and glucocorticoids are medication of this
+kind. We have studied their effects on a small number of HIV-
+infected patients . Among the HIV-infected patients treated over
+a one-year-period with a small dose of glucocorticoids (0.5 mg/kg,
+then 0.3 mg/kg), a decrease in the activation of the immune system
+was observed as well as a stabilization of the concentration of the
+virus and an increase in the rate of CD4 associated with a decrease
+in their apoptosic rate. Nevertheless, a great deal of caution is
+called for in exploring this kind of treatment. We hope that in the
+near future Aids research groups will paya good deal of attention
+to these new therapeutic approaches. Before considering its ther¬
+apeutic use, the benefit/toxicity relationship of this kind of treat¬
+ment must be evaluated with great precision.
+* Journal of Infectious Diseases, March 1995;
+AIDS, January 1995; Immunology Today, January 1995.
+

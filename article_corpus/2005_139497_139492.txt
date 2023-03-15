@@ -1,0 +1,218 @@
+talking to LAURA KONG
+“MANY LIVES COULD 
+HAVE BEEN SPARED”
+According to the latest estimates, the tsunami that struck countries with  
+coasts on the Indian Ocean in December 2004 caused nearly 300,000 deaths. 
+Had an early warning system been in place in the region, the toll would not 
+have been as heavy. UNESCO’s Intergovernmental Oceanographic Commission 
+set up such a tsunami alert system in the Pacific in 1965, and is now working 
+on a world-wide one that will be operational by June 2007. Laura Kong, 
+Director of the International Tsunami Information Centre based in Hawaii, 
+outlines the project’s benefits.
+
+The Pacific Tsunami Warning Centre had detected and 
+located the earthquake, but was unable to warn people on 
+the coasts of the Indian Ocean countries of a tsunami risk. 
+Could we have imagined a different scenario?
+LK. We could have, if there had been an early warning 
+system. First it detects an earthquake, determines how large 
+it is and then sends out a warning to the right people, in the 
+right manner. It’s also necessary to confirm that a tsunami 
+wave has been generated, because most earthquakes don’t 
+generate tsunamis. That requires instruments. Such a system 
+also means that those notified then have to know exactly 
+what to do, which is to get at least 1km inland or move  10 
+meters uphill. If such a system had been in place, many lives 
+could have been spared in December 2004.
+ But the problem is that many countries don’t have a 24-
+hour instant alert system. Japan and Hawaii have sirens, as 
+well as radio and TV broadcasts. Japan can get a message 
+out in two to five minutes. But they often get earthquakes 
+and tsunamis, so they can justify the amount of money 
+they put into the system, while Hawaii’s notification system 
+was developed with other hazards in mind as well, like 
+hurricanes, because regional scale tsunamis are rare.
+But Indonesia, for example, doesn’t have the necessary 
+communication infrastructure at the local level.  It’s a pretty 
+
+The offices of Radio 
+Republic Indonesia 
+could not withstand 
+the gigantic wave
+tough challenge for them to set up a 
+system. And their special case, being 
+in a seismically active area, is that the 
+hazard is right off their coast. So they 
+probably don’t have much time to 
+make a warning. 
+Q. There have been pledges to get an 
+early tsunami warning system for  
+the Indian Ocean up and running in 
+12-18 months. Is that feasible? 
+LK. An interim system can be ready 
+soon, using the existing warning 
+centres and data stream. The seismic 
+network is probably already there to 
+detect the largest earthquakes. But it 
+is not good enough to be able to tell 
+accurately whether the earthquake 
+is in the water or on land. They’re 
+going to need a lot more instruments 
+to do that – and the data have to 
+be collected and sent somewhere in 
+real time. With unlimited resources 
+in terms of money and people, it’s 
+possible to deploy these instruments 
+and get a system running in a year or 
+two.
+In Bangladesh, a lot of money was 
+put in to develop a storm surge early 
+warning system in the last decade. If it is able to deliver a 
+message instantly at all hours of the day, you no longer have 
+to develop that component; you’re just adding the tsunami 
+warning. So there’s no need to wait. Work can start now in 
+these countries. But this means education of public officials, 
+elected officials, government heads, agency staff, fire, police, 
+and then the public. 
+Q. So there are seismic detectors already in place  
+in the Indian Ocean?
+LK. They’re there. The existing global network has enough 
+fidelity to identify when there’s a very large earthquake, 
+and then to locate it. To have a more precise location it 
+would take more instruments, perhaps 5 or 10 more stations 
+– and probably that will happen. But if there were a large 
+earthquake tomorrow, the Pacific Tsunami Warning Centre 
+and all the other geophysical observatories that get this freely 
+available data stream would know instantly about it. They’d 
+be able to locate it quickly and be able to estimate its size. 
+Q. How do you detect a tsunami and where it’s heading?
+We can detect it in the open ocean using deep ocean 
+detection systems, but we still have to model it or propagate 
+it to shore. These systems are very sensitive gauges that sit 
+on the ocean floor and measure changes 
+in pressure in the water column above. 
+It’s a new technology that has just 
+become operational in the last few years. 
+Because tsunami waves go out in 
+every direction from the epicentre, there 
+is a very simple way to know if one has 
+been generated, by using tide gauges at 
+the coasts. So, if another tsunami event 
+occurred off western Sumatra, that wave 
+would hit at least one tide gauge before 
+it started heading towards Thailand or 
+Malaysia. And if a large wave generated in 
+Indonesia is detected on a coastal gauge, 
+that’s a pretty strong indication that as 
+much or more energy is going the other 
+way towards Sri Lanka. If you had a deep 
+ocean gauge between where it occurred 
+and the Indian continent, then that would 
+be a direct indication that a large wave 
+had been generated.  We would still need 
+to carry out numerical models to estimate 
+its wave height or coastal impact.
+Q. Once you have a system in place,  
+the instruments have to be maintained. 
+What does that involve?
+One of the limitations of the deep ocean 
+pressure gauges is that they need power. 
+They sit on the ocean bottom and talk to the surface by 
+modem when there’s a large signal. If it’s big enough 
+they transmit the data to a satellite. But this requires 
+maintenance. At present, every year after you deploy one 
+of these instruments, you have to go back in a ship, locate 
+the gauge, bring it to the surface from perhaps 4000 metres 
+▲
+At a glance
+A Life in 
+Seismology
+Laura Kong has been Director 
+of the UNESCO/IOC International 
+Tsunami Information Centre, 
+based in Honolulu, Hawaii (USA) 
+since 2001. 
+After finishing her PhD 
+in marine seismology at the 
+Massachusetts Institute of 
+Technology and the Woods 
+Hole Oceanographic Institution 
+(USA) in 1990, she spent a year 
+as postdoctoral fellow at the 
+Earthquake Research Institute in 
+Tokyo (Japan), before taking up a 
+post as geophysicist at the Pacific 
+Tsunami Warning Center. 
+From 1993 to 1995, she 
+worked as a seismologist at the 
+Hawaiian Volcano Observatory. 
+From 1996 to 2001, before 
+becoming Director of ITIC, she 
+held a research post at the 
+Hawaii Institute of Geophysics.
+
+Ocean buoys ready 
+to be deployed in the 
+Pacific
+▼
+depth, change the batteries and the hard disk, service it, then 
+throw it back in the water. This has to be done for each of 
+the instruments. So the recurring cost is high, in addition to 
+the initial investment. These deep ocean devices might cost 
+up to $300,000 to deploy initially and then perhaps $50,000 
+a year to maintain. So you can put in ten of the coastal tide 
+gauges, which are a lot easier to install and maintain than 
+these ocean buoys, for the cost of one deep ocean gauge. But 
+the ocean buoys give you a data point in the middle of the 
+ocean, which the other one can’t. And they buy you extra 
+time for a warning.  Technology is improving very quickly 
+these days so it’s very probable that the costs of the deep-
+ocean systems will go down and servicing time may be 
+reduced as better and more reliable electronic components 
+are developed. 
+Q. So what will be the next stages?
+LK. The IOC can’t implement an Indian Ocean system 
+by itself. It doesn’t have the funding base, or the human 
+resources. It has information and guidance that we’ve used 
+in the Pacific. Each nation has to contribute what they can 
+in terms of instruments and infrastructure to build a regional 
+system. The IOC doesn’t own any of it.
+In order to build a truly regional system, nations need 
+to contribute national resources in a freely available way, 
+especially in terms of data sharing. This is critical to its 
+success.
+Q Do all the States involved agree on this?
+LK. We are aware that some countries have not freely  
+shared their data in real time in the past. Some countries do 
+have networks that are not yet generating real-time data,  
+and so we hope to encourage and work with them so that 
+they will be able to contribute for example, sea-level  
+data, to a regional warning centre.   It’s well known that  
+data sharing is critical, and so we will want every country 
+who participates in the system to  
+contribute Through the IOC 
+coordination process, we hope to 
+achieve this consensus opinion, as 
+well as agree on where and how the 
+regional centre will function.
+Q. Is there a working group to  
+see the proposed global early warning 
+system through to its becoming 
+operational in 2007?
+The IOC will coordinate the regional 
+effort inter-governmentally. But the 
+regional effort has to be built on 
+national efforts, with each country 
+responsible for its own national system, built according  
+to their particular seismology, organisational structures, 
+culture, and ways of interpreting warnings. That’s a big job. 
+The IOC, and particularly the ITIC, which I run, are of  
+course ready and willing to assist in their efforts. 
+Countries are moving very quickly to identify monitoring 
+requirements and establish plans for communicating 
+information to their peoples. That is a good sign that we  
+will see a minimal system implemented in the next year or 
+two.  But if that’s going to happen, it means a huge amount 
+of work and resources. No one’s getting any sleep now.
+Interview by Peter Coles
+Paris (France)

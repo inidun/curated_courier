@@ -1,0 +1,251 @@
+sounding the
+From tolling bells to remote sensing
+by satellite, disaster warning
+systems have come a long way
+BY FABRIZIO FERRUCCI
+Hurricane Fran (September
+1996) as seen from a weather
+satellite.
+rhe tolling of bells was once the usual way
+to warn people of impending disasters
+like floods, fires or approaching armies.
+Warnings based on eye-witness reports
+were passed on from town to town. The fur¬
+ther away the town was from the disaster, the
+longer it had to prepare its defences. These
+days, the approach is much the same even
+though the technology is very different. Warn¬
+ings are still issued at one point and propa¬
+gated across a network of users who deploy
+skills to mitigate the impact of the event.
+Today's warning systems rely on measure¬
+ment techniques, mostly from physics and geo¬
+physics, and on communications technology.
+The science of risk prediction is young, and the
+systematic observation of natural processes is
+not much older. Quantitative meteorology dates
+back to the 1 940s, quantitative seismology to the
+1960s, and quantitative vulcanology is only
+about twenty years old. Remote-sensing fro m
+space only began in the late 1970s. Meanwhile,
+advances in communications technology have
+made it possible to speak to people anywhere on
+earth from a disaster site.
+I Technological risks and
+natural risks
+Technological, or human-made risks are usually
+limited in time and place, even if they cause
+dramatic and long-term effects. Warning
+THE UNESCO lOURIER OCTOBER I9SJ d
+
+systems are built into industrial plants and are
+based on all possibilities of failure known to
+the designers. Natural risks are much more dan¬
+gerous because they involve the biggest energies
+on earth, and because we have less access to risk
+sources that were not designed by human
+beings.
+The concept of warning implies forecasting
+in space, time, or both. In some cases warnings
+can be issued if we can foresee the short,
+medium- and long-term evolution of an
+impending event, and its consequences. In oth¬
+ers they are possible if we can identify minor
+events that are precursors of a much bigger one.
+Good examples of early warning are the fore¬
+casting of weather conditions twelve, twenty-
+four and forty-eight hours ahead, and of extreme
+meteorological events such as hurricanes, their
+path and timing. A bad example is earthquake
+prediction, which is seldom attempted and when
+it is all too often fails. The Table on this page
+shows today's capacity to forecast the occur¬
+rence of some major natural events.
+As a general rule, the capacity to issue reliable
+early warnings requires: good approximate
+knowledge of the specific source of the hazard
+in question; availability of one or more mod¬
+els allowing description of the event in time
+and place; appropriate surveillance systems being
+in operation; transmission of information
+ahead of the development of the hazard.
+Sometimes one type of risk is linked to
+Houses in flames as fire
+spreads through a city block
+following the January 1995
+earthquake in Kobe (Japan).
+Opposite page,
+decontaminating a building at
+Chernobyl (Ukraine) in 1986.
+another. Extreme meteorological events may
+lead to flash floods, plain floods and land¬
+slides. Industrial fires may lead to explosions,
+severe chemical pollution of air, ground and
+water. If there is full control of the source of
+primary risk, warnings about secondary effects
+are possible.
+How do we stand in practice with regard to
+warning techniques of some natural phe¬
+nomena today?
+A mother and daughter look
+on helplessly as their house
+burns down.
+Weatherforecasting
+Weather forecasts are generally reliable because
+meteorologists can model in detail the behav¬
+iour of large masses of air and because a very
+As the Table below shows, we must answer a categorical "no" about the reliability of many
+types of forecast in time. This does not exclude the possibility that, locally and sometimes,
+correct forecasts are issued. However, these cannot be "generalized" and extended
+successfully to other places and other scenarios. F. F.
+IS IT POSSIBLE TO FORECAST THE OCCURRENCE OF DISASTROUS NATURAL EVENTS?
+IN SPACE IN TIME
+Long term
+(a year or more)
+Medium term
+(month to weeks)
+Short-term
+(days to hours)
+Earthquakes Yes Yes, almost No No
+Extreme meteorological events Yes No No Yes
+Flash floods Yes No No Yes/almost
+Forest fires Yes No No No/almost
+Landslides Yes Yes Yes Yes/almost
+Plain floods Yes No No Yes
+Volcanic eruptions Yes Yes Yes No/almost
+THE UNESCO ipURIER OCTOBER 1997
+
+complete set of worldwide observations at all
+scales is available. Weather satellites provide a
+flow of images of cloud distribution over con¬
+tinents and oceans, while a dense network of
+ground stations reports continuously updated
+information about temperature, humidity
+and wind direction and speed at ground level
+and in the troposphere (the lowest level of
+the atmosphere).
+Earth observation from space and efficient
+telecommunications on land and with space
+make it possible to combine national forecasts
+into a global system which can predict extreme
+events in time for precautions to be taken.
+Weather forecasts can warn of heavy rainfall
+which may lead to flooding because of its con¬
+centration in space and the structure of river
+basins. Ground-based weather radar plays an
+important part in short-term flood warning
+by making it possible to estimate the location
+and amount of rainfall, whose effect on a river
+basin can be monitored by sensors which make
+it possible to issue short-term warnings and
+take steps to avoid or limit overflows. A good
+topography of the river basin and the river
+bed are needed to predict the behaviour of
+flood waters on the basis of rainfall density
+and duration and soil type.
+Although flood warnings are not always
+timely, many recent instances show that lack
+of co-ordination rather than lack of warning
+is the weak point in flood risk mitigation.
+Volcanic eruptions
+It is relatively feasible to predict volcanic erup¬
+tions because the volcanic process is condi¬
+tioned by many physical and chemical factors
+that can be individually monitored. Eruptions
+are always preceded by intense seismic activity
+and ground inflation, and the reawakening of
+a dormant volcano can easily be detected by
+just a few seismic instruments, making it pos¬
+sible to issue a long-term warning.
+As the magma makes its way to the sur¬
+face, ground inflation will begin and new gas
+vents will appear, along with changes in the
+gas composition and local disturbances in the
+earth's gravity and magnetic fields. The appear¬
+ance and growing intensity of these phenom¬
+ena make it possible to issue a medium-term
+warning based on data provided by a complex
+blend of instruments including a seismic net¬
+work, networks for monitoring the hori¬
+zontal and vertical components of the ground
+deformation, a network of magnometers, a
+network for measuring very small changes in
+the local gravity field, and instruments for
+analysing volcanic gases.
+At this point forecasting becomes more
+complex. Firstly, as the magma gets close to
+the surface, its effects are concentrated in an
+ever-smaller area, so many more and closer
+spaced instruments are needed to pinpoint the
+highest area of risk.
+Secondly, the shallow part of the earth's crust
+(2-3 km) is much weaker than the intermediate
+crust where the magma was earlier and so erup¬
+tion is easier. The moment of eruption is pre¬
+ceded by much more rapid physical and chem¬
+ical changes. The closer we are to eruption time,
+the greater the forecasting uncertainties.
+Short-term warnings of eruptions are
+therefore still rare and mostly unreliable, how¬
+ever, because the complete range of measure¬
+ment networks is only available for one per
+cent of the world's active volcanoes.
+
+In the case of explosive volcanoes, which
+pose a major threat to people living nearby or
+to aircraft flying into the dense volcanic ash
+thrown up a medium-term warning should
+lead to the establishment of no-go zones but
+this is difficult to enforce for understandable
+social and economic reasons, especially in
+densely populated areas.
+Earthquakes
+The accuracy of earthquake prediction is poor,
+the main reason for the failure of short-term
+forecasting being the abundance rather than
+the lack of events that precede an earthquake.
+Many earthquakes are preceded by tremors,
+sizeable ground deformation, local changes in
+the earth's electrical or magnetic fields, changes
+in the level of water wells, and emissions of
+radon, carbon dioxide and other gases along
+fault lines. But these events also occur inde¬
+pendently of earthquakes, and in the case of
+big quakes have never all occurred together or
+been observed on the right scale by use of a sin¬
+gle instrument network.
+Although we know a lot about the source
+of earthquakes these days, we do not know
+much in detail about the earthquake prepara
+tion process nor about the exact meaning, at
+any given moment, of a hundred or so poten¬
+tial earthquake precursors. So it is easy to
+understand why governments and scientists
+are reluctant to risk their credibility by issu¬
+ing warnings. The most reliable warning that
+can be given for earthquakes today is in fact
+simply to note where and when they have
+occurred and act accordingly.
+Regional networks of seismographs can be
+set up in these earthquake-prone areas. Data can
+be processed in real time or near-real time
+through automated systems which make it
+possible to pinpoint the time, magnitude and
+epicentre of a quake a few minutes after the
+event. In this way rescue services can be alerted
+and directed to the places where they are most
+needed.
+Today early warning of natural disasters is
+either possible or else we know why it is not.
+There is every reason to believe that through
+technology, our disaster-warning capacity will
+improve and that soon it will be possible to
+organize a timely response to all natural risks.
+Until then, keep an ear cocked for the
+tolling bells. It may be just a wedding, but
+you never know.
+A demonstration provoked by
+the escape of toxic fumes
+(dioxin) from a chemical plant
+in Seveso, near Milan (Italy),
+in 1976.

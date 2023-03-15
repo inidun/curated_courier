@@ -1,0 +1,147 @@
+Art, archaeology
+and the atom
+Nuclear dating techniques
+and how they work
+by Bernard Keisch
+ONE cannot possibly overemphasize the importance of
+carbon-14 dating in the fields of art and archaeology since
+its discovery shortly after World War II.
+The importance of the method was recognized immediately and,
+in 1960, earned for its discoverer, Willard F. Libby, the Nobel Prize.
+The reasoning behind the method is this. The earth is being con¬
+tinually bathed in cosmic radiation. One product of that radiation, a
+quantity of neutrons, reacts with nitrogen in the upper atmosphere
+to produce carbon-14.
+Since the flux of neutrons has been nearly cohstant for the last
+several thousand years, the rate at which carbon-14 has been
+produced by this means has been just as constant.
+The carbon-14 atoms react chemically with oxygen to form car¬
+bon dioxide, which eventually mixes, throughout the atmosphere,
+with ordinary carbon dioxide. (Ordinary carbon atoms contain
+6 protons and 6 neutrons and are not radioactive.) Carbon dioxide in
+our atmosphere is incorporated into living tissue by growing vegeta¬
+tion. Animals that eat vegetation, and the animals that eat
+vegetarians, etc., also eventually contain carbon-14.
+The end result is that all living things must contain carbon-14 in
+the same concentration that occurs in the atmosphere during their
+lifetime. But carbon-14 has a half-life of about 6,000 years, and
+when an organism dies and ceases to participate in the biosphere, its
+carbon-14 supply is no longer being replenished by freshly produced
+carbon-14 through' the food chain. The concentration of carbon-14
+in its tissues thus begins to decrease.
+The nature of radioactivity is such that we may express the rate at
+which a radioactive substance disappears in terms of its half-life. In
+this case, it means that after 6,000 years, one-half of the carbon-14
+atoms will have disappeared. After a second 6,000 years, half of that
+remaining after the first 6,000 will have disappeared, or three-
+quarters of the original number will be gone.
+Up to about 1900 the concentration of carbon-14 in our at¬
+mosphere and biosphere was such that the radioactivity of each
+gramme of carbon was about 15 disintegrations per minute (dpm).
+This way of expressing radioactivity, dpm per gramme, is called
+"specific activity". Put another way, for our present case, 15 dpm
+per gramme means that in among the 50 thousand million million
+million atoms of carbon-12 in 1 gramme, there are about 650 thou¬
+sand million atoms of carbon-14 of which 15 "disappear" by radioac¬
+tive decay each minute.
+Thus, 6,000 years after an organism dies, the carbon-14 specific
+activity will be 7.5 dpm per gramme; in 12,000 years, it will be 3.75
+dpm per gramme, and so on. By using large samples (if they are
+available) and efficient instruments for measuring the radioactivity, it
+has been possible to date objects made of wood, for example, that
+are as much as 50,000 years old. Most carbon-14 dating, however, is
+done on objects that are no more than 10,000 to 15,000 years old.
+Most of the objects dated by this method are made of wood. It is
+also possible to date objects of bone, textiles, ivory, and iron. (It is
+possible to date iron because iron contains a few per cent of carbon
+which, in old samples, came from wood charcoal.)
+Another method for the dating of ceramics, radiation-induced j
+thermoluminescence, was first used by George C. Kennedy in 1960. I
+BERNARD KEISCH, U.S. radiochemist, has specialized in the applications
+of nuclear technology to the identification of works of art. This article has
+been adapted from material appearing in his study Secrets of the Past :
+Nuclear Energy Applications in Art and Archaeology, published by the Office
+of Information Services of the U. S. Atomic Energy Commission.
+21
+
+y This method was eventually refined by workers at Oxford University
+at the University of Pennsylvania and has become an extremely
+valuable tool. One reason why it is so valuable is that bits of pottery
+(called potsherds), which are quite durable, are almost always found
+at "digs", or archaeological sites.
+The method itself is based on the principle that radiation distorts
+the electronic structure of insulating materials and so stores energy
+within the material. This process may be likened to the stretching of
+a spring. When the material is heated to a certain temperature the
+forces holding the electrons "out of place" begin to "loosen", the
+structure relaxes as a stretched spring would, and the stored energy
+is released. This released energy is emitted in the form of light.
+The radiation that produces this deformation comes mainly from
+naturally radioactive materials like uranium, thorium, and potassium,
+which are present in the pottery in low concentrations. The soil in
+which the pottery was buried also contains naturally radioactive
+material that affects the pottery in the same way. Cosmic radiation
+also contributes to the radiation "damage".
+As time passes, more and more energy is stored in the material
+and thus the system acts like a clock. The clock is started at "zero",
+which is the last time the material was heated to the temperature at
+which the system "relaxes" (a process called annealing). In the case
+of pottery, this is the time when the pottery was baked as the final
+step in the manufacturing process.
+To read the clock for a potsherd years after it was started, one
+must know or measure at least three important things.
+1. How much radiation "ran the clock" since it was started. This
+information is obtained by measuring the radioactive constituents of
+a sample of the potsherd and the soil in which it was buried,
+estimating the small contribution of cosmic radiation, and
+calculating an annual radiation dose.
+2. The amount of energy stored in the sample must be measured.
+To measure this, a small amount of very fine powder taken from the
+sample is spread in a very thin layer and attached to a block of metal.
+A light-measuring device (called a photomultiplier) is set up so that it
+faces the samples. The metal block is then electrically heated so that
+its temperature (and that of the sample) rises slowly and steadily.
+The temperature and the light emitted are continuously measured
+and recorded to give a thermoluminescence curve. Any material that
+is heated begins to emit light, or glow, when it gets hot enough. The
+trick here is to measure the extra light emitted by the pottery.
+3. The susceptibility of the sample for radiation induced ther¬
+moluminescence. This is determined by measuring the artificially in¬
+duced thermoluminescence produced by irradiating the sample with
+a known quantity of radiation after the original measurement is
+complete.
+Relating these three factors in an equation gives the age of the
+piece.
+It takes careful work and attention to detail to obtain an accurate
+date by this method. For example, the sample must be powdered
+carefully because grinding it too hard and fast may heat it enough to
+emit light prematurely. Nevertheless, the techniques have been
+worked out, and quite a number of dating problems have been solv¬
+ed in this way.
+Other ceramic items besides potsherds can and have been dated.
+Terra-cotta statuary and ceramic figures have also 6een analysed,
+and forgeries have sometimes turned up.
+H Bernard Keisch
+Cosmic rays
+yield
+neutrons
+which react
+with nitrogen
+atoms
+to make
+carbon-14
+which shows up
+as carbon dioxide
+throughout the
+atmosphere, the
+hydrosphere.
+CARBON-14 DATING
+but when
+an organism dies no
+fresh carbon-14 replaces
+the carbon-14 decaying ir
+its tissues and the
+carbon-14 radioactivity
+decreases by half every
+5,700 years.
+22

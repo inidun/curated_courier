@@ -1,0 +1,322 @@
+children who had only played games with
+human opponents, reaction to this object
+was intense. For example, while Merlin fol-
+lowed an optimal strategy for winning tic-
+tac-toe most of the time, it was progr a m m e d
+to make a slip eve ry once in a while. S o
+when children discovered strat e gies that
+a l l owed them to win and then tri e d
+these strat e gies a second time, they usually
+would not wo r k . The machine gave the
+impression of not being “dumb enough” t o
+let down its defences twice.Robert,seven,
+■
+Children have always used their toys
+and playthings to create models for
+u n d e rstanding their wo r l d . Fifty ye a rs
+ago, the genius of Swiss psychologist Jean
+Piaget showed it is the business of childhood
+to take objects and use how they “ wo r k ”t o
+construct theories of space,time,number,
+c a u s a l i t y, life and mind. At that time, a
+c h i l d ’s world was full of things that could be
+understood in simple, mechanical ways. A
+b i cycle could be understood in terms of its
+pedals and gears, a windup car in terms of
+its clockwork springs. Children were able
+t o take electronic devices such as basic
+radios and (with some difficulty) bring them
+into this “mechanical” system of unders-
+tanding.
+Revisiting Merlin
+But in the early 1980s, a first generat i o n
+of computer toys changed the traditional
+story.When children removed the back of
+their computer toys to “ s e e ” h ow they
+worked, they found a chip, a battery, and
+some wires. Sensing that trying to unders-
+tand these objects “physically” would lead
+to a dead end,children tried to use a “psy-
+c h o l o gi c a l ” kind of unders t a n d i n g . T h e y
+asked themselves if the games we r e
+conscious, if they had feelings and even if
+they knew how to “cheat.” Earlier objects
+encouraged children to think in terms of a
+distinction between the world of psychology
+and the world of machines, but the com-
+puter did not. Its “ o p a c i t y ” e n c o u r a g e d
+children to see computational objects as
+psychological machines.
+Among the first generation of compu-
+t ational objects was Merlin, which chal-
+lenged children to games of tic-tac-toe. Fo r
+CUDDL ING UP
+TO CY BORG BA BIES
+◗ Sherry Turkle
+A “cybershrink” traces relations between children and their electronic pets and computer toys
+over three generations
+◗ Professor in the Program in Science, Technology and
+Society at MIT (Massachusetts Institute of Technology)
+and author of numerous articles and several books on
+people’s relationships with technology, especially
+computers. Her most recent book is Life on the Screen:
+Identity in the Age of the Internet (Simon and Schuster,
+1995 Touchstone paperback, 1997). Virtual pets: nine-year-old Zhu Ying tries out a Tamagotchi in a Beijing store.
+
+playing with his friends on the beach, wat-
+ched his friend Craig perform the “ w i n-
+ning tri c k ,” but when he tried it, M e r l i n
+did not slip up and the game ended in a
+draw.
+R o b e rt , confused and fru s t r at e d ,t h r e w
+Merlin into the sand and said,“Cheater. I
+hope your brains break.” He was ove r h e a r d
+by Craig and Greg, aged six and eight, w h o
+s a l vaged the by-now ve ry sandy toy and
+took it upon themselves to set Robert
+s t r a i g h t . “Merlin doesn’t know if it cheat s ,”
+s ays Craig. “It doesn’t know if you break it,
+R o b e rt . I t ’s not alive .” Greg adds, “ I t ’s
+smart enough to make the right kinds of
+n o i s e s. But it doesn’t really know if it loses.
+And when it cheats it don’t even know it’s
+c h e at i n g .” Je n ny, s i x ,i n t e rrupts with disdain:
+“Greg, to cheat you have to know you are
+cheating.Knowing is part of cheating.”
+In the early 1980s such scenes were not
+u n u s u a l . Confronted with objects that
+s p o k e ,s t r at e gized and “ wo n ,” children we r e
+led to argue the moral and metaphy s i c a l
+s t atus of machines on the basis
+of their psychologies: did the
+machines know what they we r e
+doing? Despite Jenny’s objec-
+tions that “ k n owing is part of
+c h e at i n g,” children did come to
+see computational objects as exhi-
+biting a kind of know i n g . By doing
+s o, they recast the Piagetian framewo r k
+in which a definition of life centred around
+“moving of one’s own accord.”
+Observing children in the world of the
+“traditional”—that is non-computional—
+o b j e c t s , Piaget found that at first they consi-
+dered eve rything that moved to be alive .
+Then only things that moved without an
+outside push or pull. Gradually, children
+refined the notion to mean “life motions,”
+namely only those things that breathed and
+grew were taken to be alive.
+Motion gives way
+to emotion
+Children broke with this orderly cate-
+g o ri z ation by making distinctions about
+“machines that think.” Their discussions
+about the computer’s aliveness came to
+centre on what the children perceived as the
+computer’s psychological rather than phy-
+sical properties. To put it simply, motion
+gave way to emotion and physics gave way
+to psychology as criteria for aliveness.
+In the 1980s, the computational objects
+t h at evoked “ a rt i ficial life” (the “ S i m ”s e ri e s ,
+for example, assigns the task of creating a
+functioning ecosystem or city) strained that
+order to the breaking point. Children still
+t ried to impose strat e gies and cat e g o ri e s , bu t
+they did so in the manner of theoretical
+b ri c o l e u rs , or tinkerers , making do with
+whatever materials were at hand and with
+a ny theory that fit a prevailing circum-
+s t a n c e . When children confronted these
+new objects and tried to construct a t h e o ry
+about what is alive , we were able to s e e
+them cycling through theories of “ a l i ve-
+ness.”
+“Sort of alive”
+robots
+An eleven-year-old named Holly wat-
+ched a group of robots with “ o n b o a r d ”
+c o m p u t ational intelligence nav i g ate a maze.
+As the robots used different strategies to
+reach their goal, Holly commented on their
+“personalities”and “cuteness.” She finally
+came to speculate on the robots’ “ a l i ve-
+ness” and blurted out an unexpected for-
+mulation:“It’s like Pinocchio [the story of
+a puppet brought to life]. First Pinocchio
+was just a puppet. He was not alive at all.
+Then he was an alive puppet.Then he was
+an alive boy. A real boy. But he was alive
+e ven before he was a real boy. So I think the
+robots are like that . They are alive like
+Pinocchio but not like real boy s.” S h e
+cleared her throat and summed up:“They
+are sort of alive.”
+Robbie, a ten-year-old who has been
+gi ven a modem for her birt h d ay, put the
+emphasis on mobility when she consi-
+dered whether the creat u r e s
+s h e has evo l ved while
+c r e ating a vir-
+tual ecosystem
+through the
+game SimLife
+were alive.“I
+think they are
+a little alive in
+the game, but
+you cannot
+s ave your game [when you turn it off], so that
+all the creatures you have evo l ved go away. B u t
+if they could figure out how to get rid of that
+p a rt of the programme so that you wo u l d
+h ave to save the game and if your modem
+were on, then they [the creatures] could get
+out of your computer and go to A m e ri c a
+Online [an Internet Service Provider].”
+The resurfacing of motion (Piaget’s
+classical criterion for how a child decides
+whether a “ t r a d i t i o n a l ” object is alive) is
+n ow bound up with notions of a presumed
+p s y c h o l o g y : children are most likely to
+assume that the creatures in Sim games
+h ave a desire to “get out” of the system
+and evo l ve in a wider computational wo r l d .
+Through the 1990s, children still spoke
+easily about fa c t o rs which encouraged them
+to see the “ s t u f f” of computers as the same
+“stuff” of which life is made. I observed a
+group of seve n - year-olds playing with a set
+of plastic transformer toys that can take
+the shape of armoured tanks, r o b o t s , o r
+people.The transformers can also be put
+into intermediate states so that a “robot”
+arm can protrude from a human form or a
+human leg from a mechanical tank. Two
+of the children are playing with the toys,
+mixing human and machine parts. A third
+child insists that this is not right.The toys,
+he say s , should not be placed in hy b ri d
+s t at e s. “ You should play them as all tank or
+all people.”An eight-year-old girl comfort s
+the now upset third child. “ I t ’s okay to play
+them when they are in-between.It’s all the
+same stuff,” she said,“just yucky computer
+‘cy-dough-plasm.’”
+This comment reflects a cy b o r g
+consciousness among today ’s children: a
+tendency to see computer systems as “sort
+of” alive, to fluidly cycle through various
+e x p l a n at o ry concepts, and to willingly trans-
+gress boundaries.
+Feelings for
+Furby
+Most recently, the transgressions have
+involved relationships with “virtual pets”
+and digital dolls (the first and most popular
+of these were Tamagotchis and Furbies)
+which raise new questions about the boun-
+d a ries of what children consider as life.
+What these objects have that earlier com-
+p u t ational objects did not is that they ask the
+child for nurturance.They ask the child to
+assess the object’s “state of mind”in order
+to develop a successful relationship with
+the object. For example, in order to grow
+and be healthy, Tamagotchis (imagi n a ry
+c r e atures “ h o u s e d ” in small screened
+devices) need to be fed, cleaned and
+a m u s e d . Going a step furt h e r , the furry
+electronic pets called Furbies simulate lear-
+ning and lov i n g .They are cuddly, they speak
+and play games with the child. Furbies add
+the dimensions of human-like conve rs a-
+tion and tender companionship to the mix
+of what children can anticipate from com-
+putational objects. In my research on chil-
+dren and Furbies, I have found that when
+children play with these new objects they
+want to know their “ s t at e ,” not to get some-
+thing “ ri g h t ,” but to make the Furbies
+h a p p y. Children want to understand Furby
+language, not to “win” in a game over the
+F u r b i e s , but to have a feeling of mutual
+r e c o g n i t i o n .They do not ask how the objects
+“ wo r k ,” they take the affectively charged
+toys “at interface value.”
+In my previous research on children
+and computer toys,children described the
+life-like status of machines in terms of their
+c o g n i t i ve capacities (the toys could “ k n ow ”
+
+t h i n g s ,“ s o l ve ”p u z z l e s ) . In my more recent
+s t u d i e s , children describe the new toy s ,
+Furbies, as “sort of alive,” which reflects
+their emotional attachments to the toys and
+their fantasies that the Furby might be emo-
+tionally attached to them.When asked whe-
+ther the Furbies are alive , children tend
+not to speak about what the toy can do and
+focus instead on their feelings for the “ p e t ”
+and how it might feel about them.
+Emotional vulnerability
+“Well, the Furby is alive for a Furby,”
+says Ron, six. “And you know, something
+this smart should have arm s. It might wa n t
+to pick up something or hug me.” Kathe-
+ri n e , age five ,a s k s : “Is it alive? We l l , I love it.
+It’s more alive than a Tamagotchi because
+it sleeps with me. It likes to sleep with me.”
+Je n , age nine, focuses not on what the object
+offers her, but what she can do for it. “I
+really like to take care of it.So, I guess it is
+alive, but it doesn’t need to really eat, so it
+is as alive as you can be if you don’t eat. A
+Furby is like an ow l . But it is more alive than
+an owl because it knows more and you can
+talk to it. But it needs batteries so it is not
+an animal. It’s not like an animal kind of
+alive.”
+Today’s children are learning to distin-
+guish between an “animal kind of alive ”
+and a “Furby kind of alive .”The cat e g o ry of
+“sort of alive” becomes increasingly used.
+Pe r c e i ved intelligence or “ k n ow i n g ” is ano-
+ther key distinction.
+Over the past five decades, research in
+a rt i ficial intelligence has not even come
+close to creating a machine as intelligent as
+a person. But it has succeeded in contri-
+buting to a certain deflation of our lan-
+guage in terms of how we use the wo r d
+i n t e l l i g e n c e . It is now commonplace to talk
+about intelligent machines when we really
+are talking about machines that play chess
+or assess mortgage applicat i o n s.These feat s
+are wo n d r o u s , but intelligence used to mean
+a gr e at deal more than that .We now face the
+prospect of a similar deflation of language
+in talking about affect and emotion. Chil-
+dren talk about an “animal kind of alive”
+and a “Furby kind of alive.”Will they also
+talk about a “people kind of love” and a
+“computer kind of love”? 
+These questions bring us to a different
+world from the old “AI [art i ficial intelligence]
+d e b at e s ” of the 1960s to 1980s in which
+r e s e a r c h e rs argued about whether machines
+could be “ r e a l l y ”i n t e l l i g e n t .The old debat e
+was essentialist. The new objects sidestep
+such arguments about what is inherent in
+them and play instead on what they evoke in
+u s : when we are asked to care for an object,
+when this cared-for object thri ves and offers
+us its attention and concern , we experi e n c e
+it as intelligent, but more import a n t , we feel
+a connection to it.The old AI debates we r e
+about the technical abilities of machines.T h e
+new ones will be about the emotional vulne-
+rabilities of people. ■
+
+Rest in peace: Tamagotchis even have their own graveyards, the ultimate reflection of their quasi-human status.

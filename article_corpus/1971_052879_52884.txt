@@ -1,0 +1,508 @@
+By the beginning of the 21st century, three quarters of the world's population,
+it is estimated, will be living in urban conglomerations. What life will be like for
+our children and grandchildren in these cities is anybody's guess, but already
+futurologists are trying to work out forecasts for the organization and management
+of these conurbations and the millions living in them. Photos symbolize: left,
+city built of stacks of punched cards in a world of computers; right, sardine
+skyscrapers for every Tom, Dick and Harry.
+28
+
+PONDERING
+THE IMPONDERABLE
+by Pierre Piganiol
+D
+ECISION-MAKING has
+always Implied looking ahead, that is,
+looking at the future, or as the late
+Gaston Berger termed it "a pros¬
+pective approach". However, it Is
+only in the past 20 years that this
+prospective approach has been pro¬
+perly defined. (1)
+The speed at which modern society
+is now evolving ¡s a completely new
+factor the importance of which cannot
+be underestimated. Our acts today
+will bear fruit in a world very different
+from the one in which they were
+conceived, and even the great con¬
+querors of history who wanted to
+dominate and change the world
+rarely Imagined that future societies
+would be very much different from
+those they lived in.
+Gaston Berger expresses his
+message in a brilliant style which
+gives a clear picture of his main lines
+of thought. Society to him is like
+a ship tossed on a vast ocean which
+needs pilots to guide it through the
+rocks, but also requires a prophet to
+set the course.
+Unfortunately, simply to define a
+prospective or forward-looking attitude
+is not enough to enable us to select
+a line of action, and at the time of
+Berger's death, in 1960, the available
+method for making such a selection
+left much to be desired.
+Here the futurology approach con¬
+sisted mainly in pinpointing certain
+data which were recognized, intuitively
+or otherwise, as having a determining
+influence in shaping the future, and
+carefully studying all the possible
+implications of any decisions taken.
+At about this time there was
+developed, first in the U.S. and very
+CONTINUED NEXT PAGE
+(1) Today the French use the term flfl
+"prospective" coined by the French phlloso- /M
+pher-industrlalist Gaston Berger, as a syno-
+nym of futurology, with perhaps a slight
+philosophical overtone that the word futu¬
+rology does not have in English.
+Photo © The Illustrated London News
+
+PONDERING THE IMPONDERABLE (Continued)
+Computerized happiness, computerized happiness, computerized
+soon thereafter all over the world, a
+technique for choosing a course of
+action with reference to the very
+specific needs of those who had to
+make Important decisions in military or
+industrial matters.
+Research carried out In this field
+led in one instance to the "Relevance
+Tree" method (see page 14), which
+stresses the need to formulate clear
+criteria and to give a weighting (index
+of relevance) to each element con¬
+sidered In relation to these criteria,
+some of which may be purely objective,
+but which, in most cases include
+concepts relating to quality.
+This qualitative weighting is difficult
+but very necessary since it allows the
+method to be extended to cover human
+problems more complex than straight¬
+forward technological choices.
+Improvement of these methods was,
+of course, linked with parallel progress
+in methods of forecasting the most
+likely future scientific discoveries.
+In the last few years we have seen an
+increase in such research and the crea¬
+tion of techniques that range from the
+systematic classification of the opi¬
+nions of a panel of experts (the Delphi
+method, see page 12), to the logical
+analysis of the patterns of science
+from which those likely to lead to
+future discoveries can be deduced.
+Despite their obvious limitations, all
+these methods have proved extremely
+valuable and, since 1968, there has
+been a temptation to apply them not
+only to technological choices but to
+the evolution of society as a whole.
+It was quickly realized, however
+that the "Relevance Tree" form of
+reasoning was inadequate for the study
+of the complexities of the social world.
+Futurologists have therefore, made use
+of the "systems" approach which,
+endowed with a highly sophisticated
+mathematical technique, had been
+widely applied in the management of
+modern industry.
+So we have now reached the stage
+when we can devise the first "social
+models" that can be handled by compu¬
+ters,, thus making it possible to draw
+the outlines of the dynamic evolution
+of the world situation in a future which,
+30
+PIERRE PIGANIOL, a French physicist and
+former head of the Délégation Générale à la
+Recherche Scientifique et Technique, is
+president of the board of the French National
+Institute of Agronomic Research, in Paris, and
+an executive with a French organization
+dealing with operational research. A leading
+member of the French National Centre of
+Scientific Research, he is currently Unesco
+adviser on science policy to the govern¬
+ments of Senegal and the Lebanon. He has
+written widely on scientific questions inclu¬
+ding the future implications of scientific
+development and other problems of futuro¬
+logy. He Is the author of "Pour une Politique
+Scientifique" (co-author Louis Villecourt),
+Flammarlon (1964); "Maîtriser le Progrès",
+Laffont (1968); and "Du Nid à la Cité", Dunod
+(1970).
+for some models, extends as far as the
+year 2050.
+We have come round full circle and
+are returning to Gaston Berger's
+"prospective attitude" which in the
+meantime has been enriched by better
+de'fined, computer-assisted methods of
+reasoning.
+There is clearly a risk that the
+method may finally obliterate the ob¬
+jectives. But in my view, we cannot
+afford to neglect any new methods or
+techniques or spurn the research aids
+and tools now available to us. Though
+the present "models" we set up may
+be far from perfect, they" have much to
+offer us, even if they do no more than
+force us accept their more rigorous
+and precise standards and abandon
+mere verbalism.
+Although I shall be pointing out a
+number of difficulties that are still in¬
+herent in these newly developed meth¬
+ods, I do not wish to give the impres¬
+sion that I have nothing but criticism
+for them. My aim is to encourage their
+development and to suggest guiding
+principles for their use rather than to
+arouse unjustified suspicion of them.
+B
+UT having said this, I
+would add that prudence is necessary
+for many reasons. The first is that
+social problems are extremely complex
+and we have still much to learn about
+the cause and effect relationship bet¬
+ween a decision in the field of human
+affairs and its actual consequences.
+I know of no model which is not
+obliged take into account the changes
+in population either in a particular
+country or in the world as a whole;
+yet as demographers are well aware, it
+is extremely difficult to isolate the fac¬
+tors that determine the rate of popula¬
+tion increase. One can try to link this
+rate with standards of living, progress
+in medicine, availability of raw mate¬
+rials, the quality of food or the amount
+of energy available.
+This exercise is very important. If we
+apply it to the past it confirms the
+curve followed by the actual growth
+rate of population up to 1970. But I do
+not see this as absolute proof of its
+validity when applied to the future.
+For this, after all, is what interests
+us, and here the models indicate some
+far-reaching transformations such as
+the slowing down of the population
+growth rate during the next century.
+In brief, the first difficulty lies in
+our ignorance of the fundamental and
+indeed nighly complex laws of demo¬
+graphy.
+The second difficulty is due to the
+number of factors to be taken into
+account. Here also demography offers
+an example.
+Recent studies relating to a Latin
+American country revealed in great
+detail what would happen if the popu¬
+lation level was suddenly to become
+constant.
+One might imagine that this situation
+would solve many economic problems.
+But this would be an oversimplification.
+A levelling-off in population would re¬
+sult in remarkably far-reaching fluctua¬
+tions in the school population, and in
+the ratio of working to non-working
+population. This ratio could fluctuate
+by up to 100 per cent in a series of
+oscillations over several centuries.
+This hypothesis is, of course, Uto¬
+pian and it is impossible to imagine
+(perhaps this is just as well) how
+the fertility rate could be reduced from
+6 to 0.6, then made to rise again gra¬
+dually over a period of thirty years and
+finally made to fall again that is, to
+subject the fertility rate to a series of
+subdued oscillations which would
+result in a constant population level.
+The third difficulty arises from the
+fact that experimental verifications are
+impossible. A model can, of course,
+be tested against the past, but this
+suggests implicit acceptance of the fact
+that transformations have not been
+sufficiently strong to have thrown
+doubt upon the structure of the model.
+I may be wrong, but I do not have
+confidence in a model simply because
+it has given a correct description of
+the events of the last twenty years;
+I even tend to think that it might have
+been adjusted to achieve this result.
+These models also suppose that
+various aspects of society can be
+represented with the help of certain
+indicators, some quantitative (national
+income, future yields, etc.), and some
+qualitative (feelings of happiness, free¬
+dom, etc.). These indicators are ob¬
+viously "global", that is, they include
+both the many aspects of a particular
+social situation as well as the whole
+range of individual human behaviour.
+The problem is to know what use
+these indicators will serve in a period
+of crisis. We should not forget that
+these models are established so as to
+enable us to analyse forthcoming
+crises, and it would be a pity if this
+were precisely what they lacked the
+ability to do.
+Perhaps models are subject to the
+same phenomenon as may be observ¬
+ed in certain mechanical appliances.
+A network of pipes, for example, may
+be equipped with a fine set of pres¬
+sure gauges, but when "hammering"
+occurs in the pipes the gauge readings
+bear no relation to real pressure. It
+may well be wondered whether some
+recent analyses, both of society as a
+whole and of a number of industrial
+companies, do not contain inherent
+errors precisely because they are
+using faulty indicators.
+Thus, to the material difficulty of pro¬
+cessing data whose interactions are
+
+happiness, compu...
+often difficult to foresee, another prob¬
+lem is added: a somewhat arbitrary
+simplification of social phenomena.
+We may be agreed on the need for sim¬
+plification for the sake of understand¬
+ing, but it is much more difficult to
+accept over-simplified presentations of
+reality when the time comes to make a
+decision. Premature over-confidence
+in the results of what are still experi¬
+mental methods for exploring the fu¬
+ture, and their adoption as a basis
+for decision-making would be ex¬
+tremely dangerous.
+A further difficulty, perhaps even
+more serious, may be added to those
+already mentioned. Technological fore"-
+casting has developed in a world which
+has a certain control over innovation
+in products or processes, and we
+already have a sketchy, though work¬
+able, idea of the innovative process.
+Nothing comparable exists in the social
+sciences.
+We may conclude this list of diffi¬
+culties (without, however, completing
+it) by an important comment: every
+society has its contradictions; its com¬
+ponent sub-systems to borrow an over¬
+used mechanistic phrase, are by no
+means coherent among themselves.
+The problem is that they mesh with
+one another just sufficiently so that
+the tensions created by the underlying
+contradictions do not exceed accep¬
+table limits.
+In the present situation, perhaps we
+should ask ourselves: are our models
+and the machines exploring them capa¬
+ble of inventing new structures and
+resolving existing contradictions?
+What I have said could give the
+impression that I am opposed to the
+use of these models. I hope I have made
+it clear that this is not the case. By
+all means let us use these models but
+with caution accompanied by a much
+more scrupulous analysis of those fac¬
+tors in our society that have an in¬
+fluence in determining the future.
+Let us identify a few of the most
+striking, if not the most important, of
+these factors.
+Nowadays, throughout the world, we
+are witnessing a wave of enthusiasm
+for higher education. Several major
+countries have already reached the
+stage at which about 50 per cent of
+people of an age to enter higher edu¬
+cation in fact do so.
+A society in which 50 per cent of
+citizens have reached this level can
+in no sense be run in the same way
+as those in which the training of spe¬
+cialists and administrators is restricted
+by the limitations of the education
+system.
+There is bound to be an increased
+desire for responsibility and partici¬
+pation in decision-making. And this
+desire will emerge in a world in which
+production units and groups providing
+CONTINUED NEXT PAGE
+Photo © Jean Suquet, Paris
+When the last tree has been felled by the last lumberjack to make
+way for the latest industrial complex, will nostalgia for the days
+of autumn leaves and "the darling buds of May" impel us to reforest
+the land with reinforced concrete conifers and plastic poplars?
+"From now on", says Pierre Piganiol, "human activities, multiplied by
+population growth, will have to be studied from the point of view
+of their interaction with the natural environment".
+31
+
+PONDERING THE IMPONDERABLE (Continued)
+services will become larger and larger
+and in which, consequently, the oppor¬
+tunities for responsibility will be fewer
+than could be desired.
+In these conditions, tensions will
+appear which will probably lead to
+careers of a cyclic type in which
+periods of carrying out orders will
+alternate with periods of responsibility
+and periods of study. This is, of
+course, only a rough outline.
+Periods of study will also be made
+necessary by the rapid Increase In the
+amount of new knowledge required
+and by the accelerated renewal of the
+material means which determine a
+society's way of life.
+Two aspects of study therefore
+emerge: the cultural and the practical.
+In order to understand the world in
+which he lives, each person throughout
+his life, will need to broaden his know¬
+ledge of society, in order to contribute
+as a citizen to Its improvement. Study
+as the key to a fuller life will become
+a feature of fully developed societies.
+On the practical level, each man
+will need either to keep his working
+knowledge (his working tool which
+becomes ever more rapidly obsolete)
+up to date, by re-training, or to acquire
+new knowledge (another working ins¬
+trument), by re-conversion. This will
+demand social structures that enable
+each person to undertake additional
+study which will be continuous In the
+cultural sphere and periodic but Inten¬
+sive on the practical side.
+This raises the problem of Income.
+It Is very likely that for psychological
+reasons the range of salaries will
+become smaller, with the level of
+remuneration linked more closely to
+the man than to the job. It Is also
+probable that systems of benefits will
+be established for those who leave
+their work in order to study.
+One can see looming on the horizon
+a period in which income will no longer
+be distributed indirectly, as in the past,
+through payment for work (or possibly
+through accumulated capital), but by
+other means a situation which can
+already be partly seen today.
+A second essential factor having a
+bearing on the future is the growing
+32
+
+Influence of man on his natural envi¬
+ronment. Formerly, man was marked
+off by his capacity for thought from
+the rest of nature which his presence
+hardly disturbed and then only in loca¬
+lised areas. Today the situation has
+changed and our energy requirements,
+for example, mean that we release Into
+the atmosphere considerable quantities
+of carbon dioxide which can cause
+climatic changes.
+From now on, human activities, mul¬
+tiplied by population growth, will need
+to be studied In terms of their reper¬
+cussions on the natural environment.
+The forecasting of imbalances or of
+new states of equilibrium has become
+essential.
+Finally, a third factor: decision¬
+making in a complex world implies
+extensive knowledge; it requires ex¬
+perts. But how far can these experts
+take account of public opinion or be
+controlled by It? Is there not a consi¬
+derable risk of establishing a more or
+less esoteric technocracy?
+This closes my list of examples.
+Some ambitious projects attempt to fit
+every aspect of society into a parti¬
+cular model and, in particular, to deal
+with the factors I have used as exam¬
+ples by analysing their interactions.
+What is one to think of this?
+The three problems outlined above
+are clearly very different. The second
+deals with a concrete problem,
+a difficult one certainly since it
+concerns meteorology, but one which,
+nevertheless, can be expressed in the
+form of a model. Indeed, it has
+recently proved possible to make a
+map of Europe, in connexion with pro¬
+posed Industrial activities in England,
+showing the sulphur fallout In rain.
+The first example deals among other
+things with the supply and demand
+ratio for skilled manpower. It is pos¬
+sible to make a model of this; it would
+be only approximate, but would, never¬
+theless, be of considerable help to
+further studies.
+The third and last example presents
+a typical problem of organization and
+psychology. Nothing is more difficult
+than to assign numerical values to the
+"feeling of freedom" or the "sense of
+responsibility," and It Is obvious, for
+example, that air-line pilots can hardly
+be selected by universal vote.
+From this is clear how complex
+futurology is and how difficult It is to
+reduce it to a series of simple formulas
+or a simple mode of action.
+Depending on what approach is
+taken, the work of the futurologist
+may be worthwhile and effective (even
+if certain elements of information are
+uncertain) or it may be naive and
+even dangerous (even if the work
+appears to be based on highly sophis¬
+ticated reasoning).
+When all is said and done, planning
+the future cannot be reduced to a sim¬
+ple problem of logic (though logic must
+of course guide all our decisions).
+Equally Important are common sense
+and questions of ethics.

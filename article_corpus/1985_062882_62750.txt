@@ -1,0 +1,307 @@
+The computer revolution
+in research libraries
+by Richard Dougherty
+THE research library in the United
+States today is more than simply a
+vast reservoir of traditional books,
+journals and microforms; its role has ex¬
+panded and been enhanced to support
+faculty and students in obtaining and utiliz¬
+ing information resources. Furthermore, in
+order to cope with the physical growth of
+collections due to the vast increase in the
+number of publications, libraries on many
+college campuses have been dispersed and a
+network of library outlets created. Staff of
+the premier research libraries often number
+several hundred and the functions they per¬
+form are vastly different from those carried
+out by their predecessors.
+The impact of computer technology on
+United States research libraries over the
+past decade has been little short of spec¬
+tacular. In the past ten to fifteen years there
+has been a gradual evolution of the con¬
+figuration, power and functions of these
+systems. Ushered in by the appearance of
+the Ohio College Library Center (OCLC)
+computer network, the new technical
+capabilities enabled libraries to share a
+common data base in support of catalogu¬
+ing operations. Without question the
+OCLC system revolutionized the work of
+technical services divisions of large
+libraries. OCLC grew rapidly throughout
+the 1970s until it now serves over 2,000
+public, academic and special libraries and
+the computer support system supports in
+excess of 6,000 terminals.
+A similar system developed by the
+Research Libraries Group, called the
+Research Libraries Information Network
+(RLIN), was designed specifically to sup¬
+port the programmes of research libraries.
+Although the technology underlying OCLC
+and RLIN are fundamentally different,
+both systems are nationwide in scope and
+are configured in a manner network experts
+frequently refer to as "star networks", that
+Right, the opening bars of one of thirty-
+three hitherto unknown organ chorales
+byJohann Sebastian Bach found last year
+In the Yale University Library. The works,
+which were contained In a volume of
+manuscripts donated to Yale In 1873,
+were Identified by Bach scholar and Pro¬
+fessor of Music Christoph J. Wolff, while
+he was working with the Yale Library on
+the preparation of a new Bach
+compendium.
+is, with a centralized computer system
+which is linked to distant libraries via
+telecommunications .
+In addition to such networks as OCLC
+and RLIN, individual libraries such as those
+of Northwestern University, Stanford
+University and the University of Chicago,
+have developed local on-line technical sup¬
+port systems (for example, systems to han¬
+dle book purchasing, accounting, serials
+check-in, on-line cataloguing, etc). In the
+late 1970s, commercial vendors also began
+to make available "turn-key" systems
+designed to support single operations such
+as circulation and acquisitions.
+Currently the provision of on-line
+catalogues to replace the venerable card
+catalogue is receiving the highest priority in
+most university libraries. Studies that have
+already been conducted by the Council on
+Library Resources, Inc. reflect how much
+more powerful the new catalogues are and
+every indication is that they will be en¬
+thusiastically accepted by the next genera¬
+tion of library users.
+In the next few years it will become com¬
+mon for libraries to operate integrated
+library systems which will tie together all the
+traditional library support activities into a
+single computer system. An integrated
+library system will support the basic func¬
+tions of circulation, acquisitions, accoun¬
+ting, cataloguing of all materials, all aspects
+of serials work, binding and inter-library
+lending.
+Perhaps more importantly these library
+systems will be tied into campus networks
+so that users will be able to access the
+catalogues of neighbouring libraries.
+At present there is a nationally-funded ef¬
+fort to link together the computers of the
+Library of Congress, the Research Libraries
+Group, OCLC and the Washington Library
+Network (a regional network which serves
+the libraries of the north Pacific in the same
+manner as the systems of OCLC and the
+Research Libraries Group support their
+members). When this Linked Systems Pro¬
+ject is completed, it will become possible for
+the major bibliographic utilities on the
+North American continent to share records
+among themselves and with the Library of
+Congress.
+Another major preoccupation of United
+States librarians today is the physical
+preservation of their collections. As P.N.
+Banks, a noted expert on paper preserva¬
+tion, warned in 1978, "it is safe to say that
+the library environment is essentially hostile
+to all forms of recorded materials". But the
+severity of the problem did not gain general
+recognition among research librarians until
+the late 1970s. Even though preservation ex¬
+perts had been issuing warnings for many
+years, most library administrators were
+under such extreme pressure to find ways to
+increase inter-library lending and to
+automate library operations that they had
+little time to attend to the longer-term
+danger of collection deterioration.
+During the early 1980s the situation
+changed rapidly and library staffs began to
+look carefully at the condition of their col¬
+lections. A survey conducted at the Univer-
+26
+
+sity of Michigan determined that, based on
+1978 costs, expenditure in excess of forty
+million dollars would be required to
+preserve and to conserve all the volumes
+that would require attention between 1978
+and the end of the century. The results
+reported by the University of Michigan
+were typical of reports issued by other large
+research libraries.
+The financial dimensions of the preserva¬
+tion problem are so staggering that most
+universities will not be able to raise the
+funds necessary to solve local problems.
+Co-operative programmes, such as the
+Research Library Group's microfilming
+project, offer one of the few viable solu¬
+tions, allowing libraries to work together
+and to avoid unnecessary duplication of
+microfilming activity. In the final analysis,
+if the content of American libraries is to
+survive for the use of future generations, it
+will probably require the assistance of
+private foundations and the intervention of
+Federal programmes to augment the
+resources made available by individual
+universities.
+The rapid growth in size and programmes
+of research libraries has also brought about
+great changes in the duties and respon¬
+sibilities of professional librarians. Faculty
+staff have played a less active role in the
+development of library collections and this
+work has been turned over to library
+bibliographers and collection development
+experts.
+While the appearance of new technology
+has created new opportunities for libraries,
+the rapid changes caused by technology
+have also caused a great deal of organiza¬
+tional stress. Librarians are caught between
+the opportunities afforded by technology
+and the considerable strain of acquiring
+new skills and developing new programmes.
+Technology has enabled librarians to
+play a more central role in providing faculty
+and students with publications, informa¬
+tion and data derived from bibliographic
+and non-bibliographic data bases. In large
+part librarians have been successful because
+in recent years the profession has placed a
+strong emphasis on preparing them to work
+in an increasingly technological environ¬
+ment. The major question facing academic
+librarianship is what roles the librarian will
+play in the years ahead.
+American research libraries will embrace
+new technology as it becomes available. For
+example, libraries are already considering
+how best to use the new video and optical
+disc technologies. These new storage
+systems linked to microcomputers will pro¬
+vide opportunities to store vast amounts of
+printed matter in the form of analog images
+or as digitized data. The work at the Library
+of Congress utilizing optical disc
+technology suggests that this storage media
+might very well solve the current preserva¬
+tion crisis.
+Librarians have been eminently suc¬
+cessful in assisting students and researchers
+in the use of data bases to obtain informa-
+, UVtóWc
+|' f^-.y "jfc-y+S,****^aíínnjrra^a-^-a+L-,
+y
+fj rtiff '/¿SSSrfef 'jfáSjfU. ra* at-aa-öV -*a" S*V -/*«y^^
+... 	 U ,^a _.. ,aj£*ScXm\.rwS~< *** -'¿be**- -
+JSSdCu
+7¿.
+f r . .*_...
+*twtrt» aTi>i ., i,ar^-.a- 1 ¿r, ..nr, \ jmtt 	 T'
+"' » J-aTWaatail-^rtfcff--* lùff M^F,*,?^ r -VÎf*-
+\'uM tt "*" *"-*>-'
+'ftp .mfri^ij-a*'. Vi- . r)£f . jt-«Jv.,^''Jaral" a>r*¿r.
+,VllBlÍÍ|J J *-*£* Xtfjtrt«****^'»***'**?'-'"*
+^-WA,,, itr^^a^*1<L^«.>ii^-*V^^^ , , J,
+. r^ .; 	 ÜZtZ. m*¿¿mZ^¿p,^j:>~s^ joJü	 i*£- *«^"/J''" '%"* ^
+rt'ÍÉC-VLVai.HtVl
+fmlfUSt^.nJ ïu*.
+HtV^^^íi^a^'lí^K'^i-^ad HnM^lTi
+PV I ^ r ^. á ar-vr-a'aaí», J*' il-V^f.f ¿t£*jf **f H*^
+. jt.-^-ií:i^ , . .-.arf^í^^-íi*
+a^fe.aW^y»''' TT jifa aT. a,	 ,, , *>»tW7^- í^''/ iM^*.
+jfrr^S'S*?-rp**tr Jft»mf/r
+.^^ ,- J ^ . ^ ^^>^ 1
+-.r.-p+^-tía-r.a-.arn^-ía-a-a-r . . at" . j-.af.. . _rí 	 f rf" J I iff 1>^I -afa.-~^-J -J -.J^ agLd^a, ,
+¿^J ^rt) ^ . a V //Jia^tatt^-»;*/^-*^* ^ 'a^Ufi^>a^aWa^i^la-fw L
+*f "V*1 W|H* 	 	 a!^ '
+^-^W,aít*4^.^^a>^,^-^.t-^--:f*-a*~'^V-*<*!>-*
+¿¿,.*<+ »* , a^L-.aij^r-^r-»-'«-^"^V"~
+-ty.i^aá-^á^ . ...a- .. . aa 	 ?>jat¿
+^ . /v^^.*/>1Çt^a»^^-í-*-^^^^^í^-^-'J'" : ~T ^_,Ä_t
+.a-* a^ai^- * .aífT^^+^^-
+Above, the first of the four parchment
+pages of the Constitution of the United
+States, signed on September 17, 1787. It
+came Into force as part of the "supreme
+law of the land" on June 21, 1788 when
+NewHampshire became the ninth State to
+ratify it. The first three words were highly
+significant, since under the Constitution
+the source of power became "We the
+People". It Is the oldest written document
+of Its kind In the world.
+tion about the location of books and jour¬
+nals. But our ability to deliver documents
+has not kept pace with the improvements in
+providing bibliographic access. Thus future
+emphasis on improvements in document
+delivery systems seems quite important.
+One of the most important developments
+will be the growing interdependence bet¬
+ween libraries and campus computer cen¬
+tres. These two campus support systems
+have operated as independent organiza¬
+tions, but as libraries become increasingly
+dependent upon technology and computer
+centres become more involved with the
+delivery of information the need for these
+two organizations to work more closely
+together becomes more evident. Although it
+is too early to say what changes are likely to
+take place, it is possible that this growing
+relationship will require changes in the way
+libraries and computer centres are organiz¬
+ed within the university governance system.
+Writers such as Patricia Battin have
+described a possible integration of these two
+campus organizations. She foresees that
+such an integration of library and com¬
+puting agency, "each with its specific
+strengths and expertise, will provide one-
+stop shopping for the university community
+as well as stabilizing planning mechanisms
+for effective and flexible response to rapidly
+changing technologies". Other writers
+foresee a greater involvement in public
+policy as the scope of problems such as
+budgets, the need to capitalize expensive in¬
+formation services and the problem of
+preservation require institutional response
+in the context of public policy.
+In the longer term, those who formulate
+public policy may come to realize that the
+research libraries of universities comprise a
+cohesive national resource rather than a
+series of individual collections. The
+technology necessary to link together the
+libraries of the nation is rapidly becoming
+available and affordable so that the chang¬
+ing attitudes of legislators and government
+officials toward the role of research
+libraries could become a major develop¬
+ment during the next generation.
+RICHARD M. DOUGHERTY, of the USA, is
+director of the university library and professor
+of library science at the University of
+Michigan. He is a member of the board of
+governors of the Research Libraries Group. He
+has edited a number of journals and is the
+author of several books, notably Scientific
+Management of Library Operations.
+27

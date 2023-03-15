@@ -1,0 +1,966 @@
+by Jacques C. Senez
+The new
+biotechnologies
+Promise and performance
+SINCE the beginnings of civilization,
+man has been a biotechnologist, tak¬
+ing advantage of the activities of
+micro-organisms of whose very existence he
+was unaware, to produce foodstuffs and fer¬
+mented drinks. Over the centuries, the
+practices by which he did this gradually
+developed, in a makeshift, empirical fash¬
+ion, to attain a high degree of perfection.
+Yet biotechnology proper, in the sense of
+the scientific use of biological principles for
+practical purposes, only emerged at the end
+of the last century with the birth of micro¬
+biology and its early application to indus¬
+trial fermentation processes.
+Since the Second World War, biology has
+made prodigious progress. In just a few
+years the basic mechanisms of life and
+heredity at the molecular level have been
+unveiled, thus opening up limitless hori¬
+zons. Some of these prospects, in particular
+that of the development of genetic engi¬
+neering (see article page 13) with its con¬
+notations of man the creator, captured the
+imagination and fired the enthusiasm of the
+general public.
+The transfer of genetic material between
+organisms as widely different as bacteria,
+plants, animals and man gave rise to great
+hopes, some of which, such as the produc¬
+tion of human insulin by bacteria recom-
+bined in vitro, have already become reality.
+Today, these methods are on the verge of
+finding new applications of considerable
+economic and social importance in the field
+of agriculture. It would be wrong, however,
+to think that the prospects for biotechnol¬
+ogy are limited to the field of genetic engi¬
+neering. Recent advances in fundamental
+knowledge and techniques in the physiol¬
+ogy of cells, biochemistry, enzyme catalysis
+and bioengineering are just as promising.
+It is generally thought that there is a great
+future for biotechnology in the developing
+countries, particularly in its applications to
+agriculture. These hopes are well founded,
+but it should not be forgotten that progress
+involves potential dangers against which all
+possible preventive measures should be
+taken.
+The first major achievement of agri¬
+cultural biotechnology was the "Green
+Revolution", whose ambitious objectives
+have been largely achieved (see box page
+7). Thanks to the Green Revolution India,
+Bangladesh and several other Third World
+countries have achieved self-sufficiency in
+food. This was a true success, but it brought
+in its train a number of unforeseen social
+consequences. The farming of high-yield
+cereals requires considerable investment in
+fertilizers, pesticides and irrigation which
+many small farmers were unable to make.
+As a result many of them had their fields
+taken over by the large landowners and
+were forced to move to the cities and swell
+the ranks of the sub-proletariat.
+The recent collapse in the world price of
+Egyptian bakers and brewers of 3,500
+years ago are shown at work in this scene
+from a Theban tomb. "Biotechnological"
+processes such as microbial fermenta¬
+tions have been used for thousands of
+years to produce beverages and foods
+such as beer and cheese.
+Drawing taken from A History of Technology
+© Oxford University Press
+sugar is another example of a social and
+economic backlash due to biotechnology.
+Due largely to the production of iso-glucose
+in the United States, this sugar price col¬
+lapse has spelled ruin to a number of tropi¬
+cal countries whose economies are based on
+sugar-cane.
+Fortunately, not all biotechnology
+applications entail problems such as these.
+However, there is a danger that some of
+them will further increase rather than
+diminish Third World dependence on the
+richest and most scientifically advanced
+countries (see article page 29).
+Bearing this in mind, the developing
+countries must concentrate their efforts on
+programmes which are both of direct inter¬
+est to them and which can be implemented
+immediately within the limitations of their
+financial and economic resources. Many
+such opportunities are open to them in agri¬
+culture in which two avenues in particular
+beckon: that of primary production, where
+there are possibilities in the field of plant
+improvement and nitrogen fixation, and
+that of bioconversion of agricultural prod¬
+ucts and wastes into energy and food
+resources.
+New techniques
+for better plants
+Plant improvement by the traditional
+methods of selection and cross-breeding is
+as old as agriculture itself. Thanks to recent
+advances in knowledge of the genetics and
+physiology of plants these methods have
+been refined and will long continue to pro¬
+duce very important results. During the
+past thirty years, for example, the yield of
+maize has increased from 12 to 62 quintals
+per hectare, while that of wheat has grown
+on average by one quintal per hectare per
+year. Similar progress has been made with
+rice, the second most important of the great
+cereals in worldwide use. Today, the Inter¬
+national Rice Research Institute (IRRI),
+set up in the Philippines in 1962, has a col¬
+lection of 60,000 varieties of rice (see the
+Unesco Courier, December 1984).
+<
+©
+
+
+plant culture of colony of
+meristem or cells
+cells multiplication
+in sterile
+conditions
+regeneration
+of plantlets
+mini- greenhouse
+In addition to improving yield, the main
+purpose of selection is to obtain new vari¬
+eties which are resistant to parasites and to
+bacterial and viral diseases. In recent years
+a number of new techniques have made
+their appearance, some of which are
+already in use while others are still at the
+laboratory stage. One of their main aims is
+to reduce considerably the time needed for
+a new variety to be put on the market and
+brought into large-scale cultivation. Using
+classic methods the lead time required to
+achieve this is of the order of ten years,
+whereas, given the capacity for adaptation
+of the phytopathogenic agents (the bacte¬
+ria, viruses, etc., that cause plant disease),
+the useful life of a new variety is estimated
+to be a mere five years.
+Another advantage of certain recently
+evolved techniques is that they make it pos¬
+sible to cross-breed species that are too far
+apart for normal sexual reproduction, thus
+opening the way for the creation of entirely
+new plant varieties.
+The first major successes were achieved
+by means of vegetative hybridization of
+cereal seedlings. This method, which con¬
+sists of cross-breeding between plants by
+the elimination of self-fertilization, is com¬
+paratively easy in the case of allogamous
+cereals, such as maize, in which the male
+organs are separated from the female
+organs and can thus be manually eliminated
+before fertilization has taken place. It is
+more difficult with autogamous plants, such
+as wheat, tomatoes, soya and lupin, in
+which the male and the female organs are
+contained in close proximity within the
+flower. Today, this difficulty has been over¬
+come by the discovery of chemical com¬
+pounds which render the pollen sterile.
+Many varieties of hybrid cereals and
+other plants are now on the market. Gener¬
+ally speaking, fields should be sown with
+first generation hybrid seed. Hybrid seed
+usually tends to degenerate and must be
+renewed annually. At all events, the world
+market for hybrid seed is growing rapidly
+and, according to a recent estimate, will
+attain a value of $20,000 million by the year
+2000.
+Other techniques now being developed
+are more distant in prospect yet just as
+promising. One of these is in vitro vegetative
+propagation, or micro-propagation, by the
+culture of the meristem or other plant
+tissues. Meristem is the name given to a
+grouping of embryonic cells situated at the
+tip of the plant stem (see drawing below).
+Cultivated in aseptic conditions on a solid,
+nutritive culture medium, these cells
+proliferate producing a callus which can be
+divided and reproduced many times.
+Treated with plant hormones (auxins,
+cytokins and gibberelins), the calluses diffe¬
+rentiate into plantlets having all the prop¬
+erties of the original plant.
+By this means, in a period of eight
+The apical meristem is a tiny mass of cells
+where growth takes place at the tip of a
+plant stem. It plays a particularly important
+role in plant propagation because it re¬
+mains healthy even when the rest of the
+plant is infected with a virus. In vitro cul¬
+ture of the meristem of a diseased speci¬
+men makes it possible to generate a new,
+healthy plant, and allows the rapid produc¬
+tion of virus-free planting materials. Be¬
+low, sectional drawing of a plant bud
+shows the apical meristem at centre, pro¬
+tected by enfolding leaf shoots. Meristem
+culture calls for particular care in the
+choice of culture conditions and nutritive
+media.
+leaf shoots
+Drawing shows in highly simplified form
+one of the techniques used in modem
+biotechnology for experimentation under
+controlled conditions with plant cells, tis¬
+sues and organs and for vegetative (i.e.
+non-sexual) propagation of plants in ster¬
+ile laboratory conditions. The sterilized
+plant material which is cultured in the nut¬
+rient medium may be a meristem (see
+drawing at bottom of page), or some other
+piece of plant tissue (see photo story
+pages 8-9), or a protoplast, a plant cell
+whose outer walls have been removed
+(see page 10). From this organ, tissue, or
+protoplast, a proliferating clump of dis¬
+organized tissue called a callus can be
+obtained. From this it is possible to re¬
+generate whole intact plants, and to pro¬
+duce many genetically identical copies,
+known as clones, in a relatively short time.
+A one-cubic-centimetre culture may con¬
+tain one million cells each carrying the
+potential of becoming an entire new plant.
+By selecting cells with certain properties,
+the process of breeding new varieties of
+disease-resistant, stress-tolerant crops,
+trees or flowers can be greatly
+accelerated.
+months, 2,000 million identical tubers,
+spread over an area of 40 hectares, were
+obtained from a single potato tuber derived
+from a meristem, that is a rate of propaga¬
+tion 100,000 times greater than that of sex¬
+ual reproduction. A further advantage is
+that plants obtained from meristems are
+free of pathogenic contaminants, in particu¬
+lar of viruses, which means that it is possible
+to regenerate stock threatened with extinc¬
+tion due to diseases that cannot be treated
+in any other way.
+Tropical agriculture has much to gain
+from micro-propagation. For example, a
+single oil palm regenerated from a fragment
+of leaf tissue could, within a year, supply
+500,000 identical, filariosis-resistant plants
+producing up to 6 tonnes of oil per hectare
+per year, that is six to thirty times more than
+the principal oil-producing plants (sun¬
+flower, soya, peanut). This same technique
+is now being applied to the propagation of
+new varieties of coconut palms.
+Another technique which holds great
+promise for the future is the in vitro produc¬
+tion of haploid plants (plants whose cells
+contain a single set of chromosomes). Tra¬
+ditional methods of selection are made
+more time-consuming and complicated
+because of the diploid nature of vegetative
+plants, that is to say, because the cells of
+which they consist contain a double set of
+chromosomes, one coming from each pa¬
+rent. As a result, some so-called "recessive"
+characteristics carried by a chromosome
+may be masked by a dominant homologous
+chromosome and its presence may only
+be revealed, through the operation of
+Mendelian segregation, after several
+generations.
+This, of course, slows down the work of
+the person undertaking the selection. The
+recent emergence of a technique somewhat
+similar to micro-propagation has made it
+possible to overcome this difficulty. This
+technique enables a complete plant to be
+
+obtained either from the male gametes, or
+reproductive cells (androgenesis), or from
+the female gametes (gynogenesis). Like the
+gametes from which they are derived, these
+plants are haploid. Since they have only one
+set of chromosomes, their genetic charac¬
+teristics, whether recessive or dominant,
+are immediately evident to the person mak¬
+ing the selection. Haploid plants are usually
+infertile, but by treating them with col¬
+chicine, which induces a doubling of the
+chromosomes, a fertile plant is obtained
+with two sets of identical chromosomes and
+with phenotypically stable characteristics.
+Another technique used in gynogenesis is to
+fertilize the ovule with irradiated pollen.
+In China, new varieties of rice obtained
+by androgenesis are being cultivated on sev¬
+eral millions of hectares of land. Laboratory
+experiments in gynogenesis are also now
+being undertaken on barley, rice, wheat,
+maize, sugar-beet and other species.
+High hopes are also being placed in soma¬
+tic hybridization, a technique which consists
+of fusing two cells whose cell walls have
+previously been removed by enzymatic
+treatment. Using this technique scientists
+have succeeded in fusing plant cells not only
+with other plant cells but also with animal
+and even human cells. In most cases,
+however, the chromosomes of one of the
+fused cells are quickly eliminated and it has
+only been possible to obtain complete,
+stable hybrid cells from the fusion of cells
+from very closely related species. Further¬
+more, even when stable stock has been
+obtained, it has proved difficult to regener¬
+ate a complete plant from such fused cells.
+The first success achieved was the regenera¬
+tion of the pomato, a cross between a potato
+and a tomato. However, the plant is sterile
+and remains no more than a laboratory
+curiosity.
+More recently scientists have succeeded
+in regenerating somatic hybrid cells of sev¬
+eral plants of agricultural interest such as
+rapeseed, chicory and potato. On the other
+hand, attempts to do the same with sun¬
+flower, cereals and legumes have so far
+failed. Nevertheless, there is hope that
+present difficulties will soon be overcome,
+at least in obtaining hybrids of varieties of
+the same species.
+The great advantage of somatic hybrid¬
+ization is that it makes it possible to transfer
+not only the genetic characteristics borne by
+the chromosomes of the nucleus, but also
+those of the specialized parts of the cell
+contained in the cytoplasm (the "liquid"
+portion of a cell surrounding the nucleus)
+such as mitochondria and chloroplasts.
+These latter are the key to processes and
+properties of great importance such as
+photosynthesis, the assimilation of carbon
+dioxide, male sterility and resistance to
+herbicides, diseases and drought.
+Somatic hybridization has paved the way
+for the newly emerging discipline of plant
+genetic engineering which is concerned with
+the implantation of specific genes", whether
+of vegetal or other origin, into the genetic
+make-up of a plant (see article page 13).
+Using these new techniques the nutritional
+value of the haricot bean, for example, has
+been improved by the transfer of a gene
+from the Brazil nut.
+In Europe, Japan and the United States
+of America, a number of large multina¬
+tional companies are showing keen interest
+in these new techniques of plant improve¬
+ment with a view to competing for the world
+market. Nevertheless, this branch of bio¬
+technology also offers great opportunities
+for the developing countries. These new
+techniques, which they have already
+acquired or can rapidly master, will enable
+them to adapt their agricultural production
+to meet local conditions and requirements.
+Nitrogen fixation
+Through its World Network of Micro¬
+biological Resources Centres (MIRCENs),
+one of whose priority programmes is
+devoted to the question of nitrogen fixa¬
+tion, Unesco is contributing actively to
+another field of biotechnology that is rich in
+promise (see article page 27).
+The nif genes, which are coded for the
+fixation of nitrogen, have now been identi¬
+fied and their structure is on the point of
+being fully mapped out. Furthermore, these
+genes have been transmitted to non-
+nitrogen-fixing organisms such as Proteus
+vulgaris, Agrobacterium tumefaciens and
+Escherichia coli. In principle there is no
+reason why they should not also be trans¬
+ferred to higher plants and important
+results in this direction can be expected
+soon. However, the creation of nitrogen-
+fixing cereals is a distant prospect still in the
+realm of science fiction.
+With regard to plants other than the
+legumes, attention is now concentrated on
+nitrogen fixation by bacteria and fungi
+which invade their roots either on the root
+surface or by entering their tissue where
+they form nitrogen-fixing nodules. These
+studies have not yet reached the molecular
+biology or the genetic engineering stage,
+but they hold out much promise for tropical
+forestry, sand dune stabilization and the
+fight against desertification.
+Finally, mention should be made of stud¬
+ies being made in the Philippines and Sene¬
+gal on the use of the water fern Azolla pin-
+nata as a biological fertilizer in rice fields
+(seethe Unesco Courier, December 1984).
+In symbiotic association with the blue-green
+algaAnabaena this water fern has the ability
+to fix atmospheric nitrogen. Ploughed into
+the soil between harvests, this "green fertil¬
+izer" can increase the crop by over 50 per
+r
+The Green Revolution
+RESEARCH into the selection of new
+high-yield cereal varieties began after
+the Second World War. Wheat and
+rice varieties were selected In Mexico and the
+Philippines respectively, then during the
+1960s the new strains were used in other
+parts of the world, and it was later established
+that they had contributed to a significant
+increase in agricultural yields.
+In the mid-1960s, following the introduction
+of these high-yield varieties Into several coun¬
+tries of Asia and Latin America, the expres¬
+sion "Green Revolution" was coined to
+describe the various efforts made to increase
+agricultural production in the developing
+countries by means of these new varieties,
+especially wheat and rice. The cultivation of
+these crops required the use of pesticides and
+Irrigation in addition to fertilization and sound
+agricultural practices. Cross-breeding be¬
+tween these varieties and hardy local breeds
+made it possible to obtain cultivars that were
+even better adapted and which gave a better
+yield. In addition to wheat and rice, this
+research also concerned millet and sorghum,
+triticale, maize and several leguminous plant
+species.
+In just over a decade, more than half the
+surface of corn-growing land and one-third of
+that of rlceland in developing countries had
+been sown with high-yield cereal varieties.
+When the latter are irrigated, and receive ade¬
+quate supplies of fertilizer and weed-killer, the
+yield is two or three times higher than that of
+traditional varieties.
+The new varieties of wheat were introduced
+to India in 1966 and Indian wheat production
+had doubled by 1970-1971, when it reached
+23.4 million tonnes. As a result of local efforts
+to improve varieties and a more widespread
+use of selected seeds, output reached 33 mil¬
+lion tonnes in 1978-1980. From being the
+world's second largest cereal importer in
+1966, India had become self-sufficient by the
+end of the 1970s. In the Punjab, farm re¬
+venues doubled in 1972, six years after the
+introduction of new cereal varieties.
+In some regions of Asia where water
+resources permitted, the shortening of the
+growing period of new rice varieties allowed
+two or three crops to be harvested per year.
+The prime beneficiaries of the "Green
+Revolution" were the wealthier farmers of
+some developing countries. The countries of
+Africa south of the Sahara were scarcely
+affected; only Kenya and Zimbabwe in¬
+creased the area of land on which new vari¬
+eties of maize were grown. The wheat and rice
+varieties were not introduced at the same
+pace as in Asia where the development of
+irrigation, adequate fertilizer supplies, and the
+marketing system of farm produce played an
+important role in the success of the "Green
+Revolution."
+Source: Oue//es biotechnologies pour les pays en développe¬
+ment? by A. Sasson, Biofutur/Unesco, Paris. 1986
+
+cent and its effect, which lasts for two years,
+is equivalent to the use of 60 kilograms of
+nitrogen fertilizer per hectare.
+Energy from waste
+Biotechnology's contribution in the field of
+new energy sources is today arousing great
+interest for two reasons: the foreseeable
+exhaustion of our supplies of fossil energy
+(oil and coal), and the world energy crisis
+which, since 1973, has weighed heavily on
+the economies of all countries, but par¬
+ticularly on those of the countries of the
+Third World.
+One achievement, which has already
+been developed on a large scale in a number
+of countries, is the production of biogas
+from cellulose and animal and human
+wastes. This is based on the anaerobic
+digestion of cellulose and nitrogenous
+organic matter by mixed populations of
+microbes consisting of bacteria that break
+down cellulose into organic acids and other
+bacteria that convert these organic acids
+into methane.
+Experience acquired in India indicates
+that the manure from ten cows would
+provide a daily yield of 1.8 cubic metres of
+biogas, which is the equivalent of 1.3 litres
+of petrol, enough to cook the food for four
+people or operate a hundred candlepower
+lamp for fourteen hours. What is more, the
+residue constitutes an excellent fertilizer of
+a quality far superior to the original
+manure.
+A million of these cheap and simple bio-
+gas digesters are in service in India and
+more than seven million are in use in China.
+Production of biogas on farms can be
+expected to spread soon to other agri¬
+cultural areas in which other forms of
+energy are not available. From the ecologi¬
+cal viewpoint, biogas has the great advan¬
+tage that it can replace firewood, thus
+contributing to the struggle against
+deforestation and desertification.
+Biogas production is also increasing in
+the industrialized countries as well as in
+large towns and heavily populated rural
+areas in general. The main economic gain
+here is that the treatment of waste water
+and the handling of agro-industrial wastes
+and the animal waste from intensive stock-
+rearing can be turned to advantage by the
+production of methane. Already several
+urban water treatment plants in Europe
+meet all their energy requirements by the
+production of biogas.
+Green gasoline
+The production of liquid fuels, in particular
+ethanol, is another major contribution of
+biotechnology in the field of new energy
+sources. A large number of agricultural raw
+materials can be used for the production of
+ethanol by fermentation, including the
+sucrose in sugar-cane, sugar-beet and
+molasses, the starch from cereals, manioc
+and potatoes, and the inulin from Jerusalem
+artichokes.
+Brewer's yeast (Saccharomyces cere-
+visiae) and certain anaerobic bacteria, such
+as Zymomonas mobilis, convert the sugars
+into ethanol with an average yield of 47 per
+cent, by weight. Several suitable raw mat¬
+erials are available in considerable quan¬
+tities at a low price. However, from the
+economic point of view there is one impor¬
+tant drawback: the ethanol has an inhibiting
+effect on the micro-organisms that produce
+it and the maximum concentration in the
+reactors cannot exceed 8 to 10 per cent. As a
+result, the distillation of bio-ethanol and its
+complete dehydration, which is essential to
+its use as a fuel, are costly operations con¬
+stituting about 60 per cent of the cost
+price.
+In Brazil, ethanol fuel is produced from
+sugar-cane on a large scale. At present pro¬
+duction is running at 8.4 million tonnes
+which in energy terms is equivalent to 5.6
+million tonnes of super-grade petrol. In
+agricultural terms the yield is 4.7 tonnes per
+hectare of sugar-cane per year.
+At present, the cost price of bio-ethanol
+exceeds that of petrol by $380 per tonne. In
+Brazil, however, the economic motivation
+for producing bio-ethanol is to improve the
+balance of payments by reducing imports of
+petrol and to provide an outlet for the sugar
+industry which has been badly hit by the fall
+in the price of sugar on the world market.
+Bio-ethanol is arousing great interest
+elsewhere for similar reasons. In the United
+States, "Biohol", an automobile fuel con¬
+taining 10 per cent ethanol produced from
+maize, has been on the market for several
+years. In Western Europe it is planned to
+produce 3.4 million tonnes of bio-ethanol
+annually. The aim of this project is to make
+use of European surpluses of wheat and
+sugar-beet. There is also an ecological
+motivation. Added to automobile petrol in
+a proportion of 5 per cent, ethanol can
+replace the tetraethyl lead anti-knock addi¬
+tive now used in petrol, but shortly to be
+banned because of its toxic effects.
+Bridging the protein gap
+Generally speaking, proteins, or the lack of
+them , constitute the major nutritional prob¬
+lem facing the developing countries. Statis¬
+tics published by the Food and Agriculture
+Organization of the United Nations
+(FAO), show that average total protein
+consumption per head of population in the
+developing countries is only half that of the
+rich countries. The difference is even more
+marked with regard to protein of animal
+origin, average consumption of which in the
+developing countries is 13 grams per
+day a mere 22 per cent of that in rich coun¬
+tries and this falls to 4 grams per day in
+the poorest regions of Africa and Asia.
+In the developing countries a great vari¬
+ety of agricultural products and wastes lend
+themselves to the production of single-cell
+edible protein. These include, in particular,
+ligno-cellulosic matter which is available in
+large quantities at a low price. According
+to the United Nations Environment
+Programme (UNEP), the world crop of
+cereals produces annually 1,700 million
+The cloning
+of the oil palm
+The oil palm (Elaeis guineensisj is culti¬
+vated as a source ofoil in the humid tropic¬
+al zones of Africa, the Americas and
+South-east Asia, where oil palm planta¬
+tions cover several million hectares.
+Selection cycles to produce higher-yield¬
+ing varieties through sexual reproduction
+were very long, and their results were only
+perceptible after 15 or 20 years. In the
+1970s, attempts were thus made to perfect
+in vitro propagation of the oil palm using
+Photo © IRHO-CIRAD/ORSTOM, Paris
+tissue culture, and since 1981 oil palm
+plantlets have been produced on a semi-
+industrial scale at the La Mé research sta¬
+tion in the Ivory Coast (1) using a cloning
+technique developed by British and
+French researchers in the 1970s. Photos
+show some of the stages in the cloning
+process. Fragments of very young leaves
+are carefully removed from the tip of a tree
+(2) and placed in a nutrient medium where
+calluses develop (3). After going through a
+second and then a third culture medium
+the calluses evolve into "embryoids" (4)
+comparable to the embryos obtained by
+sexual reproduction. They multiply spon¬
+taneously, and this multiplication is fos¬
+tered in a fourth culture medium. A fifth
+culture makes it possible for the embryos
+to develop into young leaved plantlets (5).
+The shoots are transferred to a sixth
+medium in which roots are induced (6),
+while in a seventh medium entire young
+plants are obtained for planting in soil (7).
+It takes about 3 months to obtain a 12 cm
+shoot from an embryoid.
+L
+8
+
+
+Powerful protoplasts
+Techniques for the cloning of plants are
+now so refined that a single cell removed
+from the body of a plant can be cultured in
+the laboratory and then induced to re¬
+generate a complete individual plant.
+Drawings at left and below are a schematic
+representation of the cloning process
+used by Prof. James F. Shepard and his
+colleagues at Kansas State University to
+regenerate a complete potato plant from
+protoplasts (living cells stripped of their
+outer wall) prepared from leaf cells. Small
+terminal leaves are first removed from a
+young potato plant (1). The leaves are
+placed in a solution containing a combina¬
+tion of enzymes capable of dissolving the
+cell wall to produce protoplasts (2). The
+solution also causes the protoplasts to
+withdraw from the cell wall and to become
+spherical, thereby protecting the proto¬
+plasm during the disintegration of the
+walls (3). The protoplasts are next grown
+in a culture medium (4) where they divide
+and begin to synthesize new cell walls (5).
+After 2 weeks of culture in these con¬
+ditions, each protoplast gives rise to a
+clump of undifferentiated cells or micro-
+calluses (6). These microcalluses develop
+into full-size calluses in another culture
+medium (7) and their cells begin to dif¬
+ferentiate, forming a primordial shoot (8).
+The shoot develops into a small plant with
+roots in a third culture medium and is then
+planted in soil (9). Under appropriate con¬
+ditions protoplasts from 2 different plants
+can be fused to form a cell possessing
+genes of plants which cannot be crossed
+using classic methods. The fused proto¬
+plasts of some species can be grown into
+plants in a process known as somatic
+hybridization.
+tonnes of straw, to which can be added
+some 127 million tonnes of bagasse from
+sugar-cane and pulp from sugar-beet. At
+present, the main obstacle to their use for
+the production of proteins is the lack of
+sufficiently active microbial strains for this
+specific purpose. Recently achieved labora¬
+tory results suggest that this problem will
+soon be overcome.
+Cuba is, at present, the only developing
+country producing single-cell edible protein
+from agricultural raw material. Eighty
+thousand tonnes of forage yeasts for use as
+animal feed are produced annually from
+sugar-cane molasses. The Cuban example
+will probably soon be followed in other
+countries, such as India, where molasses is
+also available at a low price.
+10
+
+33^
+yj.
+For a long time now Western Europe has
+been producing single-cell edible protein
+from various agro-industrial wastes such as
+lacto-serum (80,000 tonnes per year) and
+the sulphite liquors used in paper-making
+(25,000 tonnes per year). As with biogas,
+the main economic incentive for this pro¬
+duction is the elimination of the cost of
+handling potentially polluting wastes. It is
+to be expected that the same will happen
+soon in the developing countries where
+increasing industrialization is making pro¬
+tection of the environment an ever more
+urgent necessity.
+One of microbiology's most promising
+contributions to the problem of edible pro¬
+teins is their production on an industrial
+scale from oil, methanol and natural gas.
+Born in Europe some thirty years ago, this
+branch of biotechnology has developed to
+the point where there are factories with a
+production capacity of 100,000 tonnes per
+year.
+The oil treatment processes make use of
+yeast micro-organisms (Candida lipolytica
+and Candida tropicalis) which are derived
+from diesel oil or from paraffin, previously
+extracted from crude oil, and having a yield
+of 100 per cent by weight. In the case of
+methanol, chemically derived from natural
+gas, the biomass produced is that of bacteria
+such as Methylophilus methylotropha whose
+yield on this substrate is of the order of 50
+per cent, by weight. The methanol treat¬
+ment processes make use of specific meth¬
+ane-eating bacteria (Pseudomonas meth-
+8
+©
+Protein enrichment by fermentation is a
+branch of biotechnology that could help
+some developing countries increase their
+protein resources. Microbial fermentation
+of such crops as manioc, which contain
+much starch and relatively little protein,
+yields a product with a substantially high¬
+er protein content. The banana is a fruit to
+which this process could be applied, and
+several banana-producing countries are
+investigating the possibility of using in
+this way the high proportion of fruit re¬
+jected for export and usually wasted.
+Above, harvesting bananas in Martinique.
+After J.F. Shepard in Scientific American, New York, 1982
+11
+
+ylotropha or Methyiococcus capsulatus) in
+conjunction with other species whose task is
+to prevent the inhibition of the bacteria by
+intermediate accumulation of methanol.
+Very large-scale experiments with the
+products thus obtained from oil and meth¬
+anol have demonstrated conclusively their
+high nutritional value and complete
+innocuousness. Up till now, these edible
+proteins have been marketed exclusively as
+animal feed, but preliminary studies have
+shown that there is nothing to prevent their
+being used directly as food for humans.
+Following the first oil crisis of 1973, pro¬
+duction of single-cell edible protein from oil
+and from methanol slowed down in West¬
+ern Europe due to the increased cost of the
+raw material. In Eastern Europe and in the
+USSR, however, it has developed consider¬
+ably and now amounts to some 3 million
+tonnes per year.
+This branch of biotechnology is of
+obvious interest to those developing coun¬
+tries that are producers of oil and natural
+gas, since these raw materials are available
+to them in large quantities at prices well
+below the world market price. The Organi¬
+zation of Arab Petroleum Exporting Coun¬
+tries, for example, proposes as a first step to
+produce 100,000 tonnes of single-cell edible
+protein a year, either from oil or from meth¬
+anol, and it estimates the potential market
+in the Middle East and in the Maghreb at
+more than a million tonnes. It should be
+pointed out that this amount of protein
+could be obtained from 0.1 per cent of their
+total oil production.
+Protein enrichment of foodstuffs by fer¬
+mentation is another promising prospect.
+Application of modern biotechnological
+methods to this practice, which is tradi¬
+tional in Africa and the Far East, seems set
+fair to provide the developing countries
+with a substantial increase in their protein
+resources for human and animal consump¬
+tion.
+The end product of this fermentation pro¬
+cess is a directly consumable mixture of pro
+tein-rich microbial biomass and residual
+agricultural raw material whose nutritional
+value is thus enriched. This relatively sim¬
+ple technology has the advantage that it can
+be used both on a large industrial scale and
+in small, inexpensive production units
+located in rural communities. This means
+that high-quality edible protein can be pro¬
+duced from a wide range of agricultural raw
+materials that are too costly or available
+locally only in quantities too small for use
+with standard single-cell edible protein pro¬
+duction methods.
+In all the tropical regions, manioc (also
+known as cassava) is the chief agricultural
+raw material potentially available for pro¬
+tein enrichment. Cultivated throughout
+Africa, in Asia and Latin America, the
+world production of manioc is of the order
+of 100 million tonnes. Very rich in starch,
+but containing practically no protein, man¬
+ioc is used above all as a supplementary
+energy food. Furthermore, although under
+good conditions it can yield 50 tonnes per
+hectare and over, it is normally only culti¬
+vated on small patches of land using rudi¬
+mentary methods with low productivity.
+At present, the only country in which
+manioc cultivation has been developed
+rationally is Thailand, which exports 7.5
+million tonnes of manioc root to the Euro¬
+pean Community each year.
+Starting with dried manioc with an initial
+content of 90 per cent starch and less than 1
+per cent protein, fermentation with an
+amylolytic mould (Aspergillus hennebergii)
+yields a product containing 20 per cent well-
+balanced proteins and 20 to 25 per cent
+residual sugars. In this way manioc can
+provide nearly 2 tonnes of protein per hec¬
+tare, that is, three times more than can be
+obtained from the cultivation of soya or
+other leguminous plants.
+The banana too is a raw material with a
+bright future. In the collection centres of
+exporting countries, 20 to 30 per cent of the
+fruit gathered is rejected. This rejected
+fruit, whose protein content at 1.1 per cent
+is too low for it to be used as animal feed, is
+a complete write-off. For a number of Cen¬
+tral American countries which export sev¬
+eral million tonnes of bananas annually, the
+prospect of recuperating wastage on this
+scale by use of the fermentation process is
+clearly of the greatest interest and this
+possibility is being actively investigated in
+Mexico, Guatemala and the West Indies.
+Finally, the third major contribution that
+biotechnology has to offer to the solution of
+the world problem of edible protein is the
+industrial production of amino acids as a
+complement to plant proteins. Many such
+proteins, in fact, are only of limited nutri¬
+tional value because of their lack of certain
+essential amino acids which man and other
+mono-gastric animals (including pigs,
+young ruminants and poultry) are unable to
+synthesize and therefore must find in their
+food. This is the case in particular of lysine,
+which is the amino acid in which cereals are
+most notably deficient and lack of which is
+the main cause of malnutrition in the Third
+World. Almost all the amino acids used as a
+complement to plant proteins are obtained
+by fermentation using hyper-productive
+bacterial strains selected genetically.
+Apart from methionine, which is
+basically intended for use in animal feed,
+lysine is the only amino acid produced in
+large quantities (40,000 tonnes per year). It
+has been estimated that the world deficit in
+lysine, most marked in Africa and the Far
+East, is 136,000 tonnes for human food and
+three times that figure for animal
+foodstuffs. As things stand at present, the
+cost price of lysine is still too high to ensure
+satisfaction of Third World needs and to
+compete with soya in animal feed. The sit¬
+uation is the same for other amino acids, in
+particular threonine and tryptophan,
+which, after lysine, are the chief elements
+lacking in plant proteins. However, it is
+reasonable to assume that, thanks to
+genetic engineering, substantial progress
+will soon be made.
+JACQUES C. SENEZ, French biologist and uni¬
+versity teacher, is a former Secretary-General of
+the Unesco-sponsored International 'Cell Re¬
+search Organization (ICRO) and a consultant
+member of the Protein Advisory Group of the
+United Nations. A past Secretary-General of the
+International Union of Microbiological Societies
+(IUMS), he is the author of a number of studies
+on microbiology and bacterial biochemistry. In
+the late 1960s he initiated the production of
+Single Cell Protein (SCP) from petroleum.
+2 Many developing countries are engaged in
+I programmes to harness the techniques of
+e biotechnology for national development.
+§ Left, fermenters of a Cuban factory pro-
+$ ducing single-cell edible protein from
+© molasses. The installation produces some
+% 40 tonnes of protein a day for use as anim-
+£ a/ feed.
+12

@@ -1,0 +1,19 @@
+
+Declination of the Earth's magnetic field
+The Earth's magnetic field is oriented slightly askew from what might be
+expected. The magnetic North Pole is about 1,900 km from the geo¬
+graphical true north of the planet. The difference between a finger pointing
+at the true geographical North Pole and a compass needle pointing at the
+magnetic North Pole is known as the angle of declination or variation; it is
+not constant, and continually shifts. By the eighth or ninth century AD at
+the latest, the Chinese had discovered this magnetic declination.
+As Needham says, in doing so the Chinese were "antedating European
+knowledge of the declination by some six centuries. The Chinese were
+theorizing about the declination before Europe even knew of the polar¬
+ity...." The magnetic compass and the polarity of the Earth's field are not
+mentioned in any Western writing until 1 190 AD, and the Chinese had had
+the compass for a good fifteen hundred years before that. In his Dream
+Pool Essays of 1086, the medieval Chinese scientist Shen Gua wrote on
+magnetic declination that "Magicians rub the point of a needle with a
+lodestone; then it is able to point to the south. But it always inclines slightly
+to the east, and does not point directly at the south. "

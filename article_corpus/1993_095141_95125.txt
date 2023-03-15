@@ -1,0 +1,330 @@
+Making something out ofnothing
+by Pierre-Sylvain Fiiliozot
+By inventing the zero, India became the
+birthplace of modern arithmetic
+Kushan coin with
+inscription in the ancient
+Indian brâhmî script (first
+century A.D.).
+ÍN India mathematics has not always been
+linked to writing. The earliest surviving
+written document dates from the third cen¬
+tury B.C., but India certainly had an advanced
+civilization many centuries before that, and sci¬
+entific knowledge formed part of it. Most
+knowledge was transmitted orally. This ancient
+learning preserved in human memory makes
+up the corpus of the great religious texts known
+as the Vedas, which incidentally contain evi¬
+dence of mathematical knowledge. The Vedas
+arc written in an archaic form of Sanskrit. Like
+all Indo-European languages, Sanskrit has dec¬
+imal numerals and individual names for the nine
+units, as well as for ten, a hundred, a thousand
+and higher powers of ten (figure 2, page 33).
+30
+figure /
+Numeral signs and their
+values as attested by the
+Nâneghât inscriptions (first
+century B.C.).
+Numerals Value Numerals Value
+Or - 12 - J
+1 or - 1Z
+Thi 1700 Tot Z1,000
+"Mcd? 189 - 1.
+ex q 17 TH 60,000
+TcxT u,ooo "Rx- MOO/
+T * 1,000 M- 101
+oc r 1Z TrM 1,100
+- 1 M 100
+T°"r¥W 14,4-00 M- Jul
+TV 6,00ti TcM- 1,101
+I T7H- 1, 101
+I M- JOl
+1 T = jpoz
+JH 100 T- 1001
+The names of the tens are derived from those
+of the units, somewhat modified and with the
+addition of a suffix. Examples are vimqati 20,
+trimcat 30, catvârimçat 40. The other numerals
+are formed from these components. The names
+for the hundreds, thousands and so on consist of
+a unit name followed by çata or sahasra. Dve
+gate (dual), for example, means 200, and trini-
+sahasrani (plural), 3,000.
+In Sanskrit grammar the qualifier in a com¬
+pound word precedes the qualified. In the case
+of compound numerals the number of the higher
+order is regarded as qualified by the lower.
+Eleven, for example, is ten qualified by the addi¬
+tion of one, giving the compound ekâ-daça,
+and similarly dvâ-daça is 12, trayas-trimgat 33
+and so on. The number is divided into compo¬
+nents, with the smallest coming first. Units are
+followed by tens and so on.
+si The advent of writing
+We do not know when, how or by whom
+writing was introduced into India. All we know
+is that as early as the third century B.C. two
+scripts were in use. One, called kharoshtî, was
+derived from Aramaic. It was used in the
+extreme northwest of the sub-continent, but
+soon fell into disuse. The other, known as
+brâhmî, seems to have originated in India itself.
+It is the forerunner of all the scripts now in use
+in the Indian sub-continent and in southeast
+Asia. The earliest records (from between the.
+third century B.C. and the third century A.D.)
+of figures transcribed into this script reveal a
+notation system that corresponds fairly closely
+to the pronunciation system.
+There is one sign for each digit, and so there
+are nine signs for the nine units, an entirely dif¬
+ferent sign for each of the tens (10, 20, etc.),
+another sign for 100 and yet another for 1,000.
+Compound numbers are represented by com-
+
+An Indian merchant does
+his accounts in Ajmer
+(Rajasthan).
+binations of symbols. The brâhmî script reads
+from left to right, and combinations of signs
+are written in that direction, starting with the
+highest value. Here there is a difference between
+the written and the spoken language. The scribe
+starts with the highest component, whereas the
+speaker starts with the lowest. For example, the
+number 13 is pronounced trayo-daga, or "three-
+ten", but is written "ten-three".
+Combinations of components arc usually
+produced by juxtaposing signs, in some cases by
+ligatures. Whereas there are different signs for
+each of the tens, for the hundreds there is just the
+sign for 100 plus the sign for the number of
+hundreds, and likewise with the thousands.
+At this stage wc cannot yet speak of posi¬
+tional notation. There is a juxtaposition of the
+numeral signs which when added together give
+the desired number. This is exactly in keeping
+with the structure of the language (figure 1).
+I The zero and positional
+numeration
+In the decimal positional system of numeration
+the tens, hundreds and thousands arc not rep¬
+resented by different signs but by the same digit
+signs placed in different positions. Only then
+docs position become significant. It alone shows
+which are the tens, which the hundreds and
+which the thousands. Such a system needs only
+ten signs, the digits from 1 to 9 and a zero or
+at least a blank space.
+There is no satisfactory documentary evi¬
+dence as to how and in what exact period this
+system was discovered in India, and how it
+developed. The earliest reference to a place-
+value notation is a literary one. Vasumitra, a
+Buddhist writer and leading figure at a great
+religious council convened by King Kanishka
+(who reigned over the whole of north and north¬
+west India at the end of the first or the beginning
+of the second century A.D.), maintained in a
+book on Buddhist doctrine that if a substance
+that exists in all three time dimensions (past,
+present and future) is regarded as something
+different every time it enters a new state, this
+change is due to the alterity of the state, not to ¡J I
+
+^$?M?k+.Wt^Jfyffis& é^Û
+*&*
+$$ R* *-* &*j i nA&M-y&KTg'y&i.«^ *
+32
+its own alterity. He illustrated this idea by
+speaking of a marker which in the units position
+counts as a unit but in the hundreds position
+counts as a hundred. He did not specify the
+nature of the marker.
+This may be a reference to a kind of abacus.
+The marker might have been an object that
+could be placed in a column or square, where its
+position gave it the value of a power of ten. Or
+it could be a mark in the sand, in the case of sums
+written on the ground. Indian accountants are
+known to have liked the simplicity of this
+method. In some parts of southern India village
+astrologers can still be seen doing calculations by
+placing cowrie shells in columns drawn in the
+sand. Whatever the form of the abacus, Vasum-
+itra's reference implies the existence of a notation
+that took account of positional value.
+The same is true of the zero, the use of which
+in India is known from literary references pre¬
+dating the earliest written examples. The zero
+forms part of the positional system of numera¬
+tion. Originally it seems to have been a gap in a
+column resulting from the absence of a figure or
+marker in the space reserved for an order of the
+power of ten. This is shown by the use of one of
+the words meaning empty, çûnya or kha. The
+word kha occurs in a treatise on metrics by Pin-
+gala, in which he sets forth a rule for turning
+binary numbers into decimal numbers. Pin-
+gala's dates are unknown, but quotations from
+his works are found from the third century
+Charter dating from 596
+A.D. The last three signs
+on the last line represent
+the figures 346.
+PIERRE-SYLVAIN
+FILLIOZAT,
+of France, is a specialist in
+Indian studies. He is a director
+of studies at the Ecole Pratique
+des Hautes Etudes in Paris.
+A.D. onwards, and so he must have lived earlier
+than that.
+That a dot came to be used to indicate an
+empty space wc know from a Sanskrit story¬
+teller, Subandhu, who probably lived in the
+sixth century A.D. To denote the zero Subandhu
+used the compound noun cûnya-bindu, literally
+"empty point", in other words a dot indicating
+an empty space in a column.
+The zero itself appears in a deed of gift,
+carved on copper plates, from King Deven-
+dravarman of Kalinga (Orissa, in eastern India).
+The document is dated in letters and figures :
+"samvacchara-gatam trir-âgîte (100) 83 shra-
+vane masi dine vimgati 20 utkîrnnam", liter¬
+ally "carved a hundred and eighty-three years
+(100) 83 (having passed) the twenty day 20 in the
+month of Shravand"'. The number 183 is written
+as three signs, the sign for a hundred and then the
+figures 8 and 3. The number 20 is written with
+the figure 2 and a zero in the form of a small
+circle. The period specified in this document
+began in 498 A.D., so that it dates from the year
+681 A.D.
+Positional notation, and the zero in the form
+of a big dot or small circle, are found in inscrip¬
+tions in southeast Asia, at Sambor (Cambodia)
+and Kota Kapur (Malaysia), where the earliest
+records go back to the seventh century A.D.
+The scripts used in these countries are all derived
+from Indian scripts, and their system of writing
+numbers is undoubtedly the Indian system. All
+
+Below, numerals written in
+devanâgarî (script used for
+Sanskrit, Hindi and other
+Indo-Aryan languages) in a
+"magic square" painted on
+a wall in Ujjain (Madhya
+Pradesh, India).
+these documents show that by the late seventh
+century the positional system and the zero were
+in general use not only in India but in all the
+countries to which Indian civilization had spread
+as well.
+Notation using nine digits and a zero seems
+to have quickly taken the lead for inscriptions,
+but it never completely superseded the old
+system, which survived until recently in manu¬
+scripts, and in southern India even in early twen¬
+tieth-century printed books.
+Words standing for numerals
+A mixed notation, in which features of the old
+system are combined with or alternate with
+characteristics of positional notation, was also
+known and used in India. In this system number
+names are replaced by words with numerical
+connotations. For example, two is replaced by
+"eyes", "arms", "wings" or "twins", four by
+"oceans" (there being four oceans in Indian
+geographical mythology), ten by "fingers",
+thirty-two by "teeth", hundred by "human life¬
+span", zero by "empty space", and so on. These
+words are arranged as they would be in speech,
+so that in a compound number the lowest
+numerals come first. In other words, the order
+is opposite to that used in writing. For instance,
+the number 4,320,000 is pronounced khaca-
+tushka-rada-arnavâh, which literally means
+"tetrad of empty spaces-teeth-oceans", or 0
+0
+Figure 2. Number names in Sanskrit
+çata
+sahasra
+ayuta
+niyuta
+prayuta
+100
+1 000
+10 000
+100 000
+1 000 000
+eka 1
+dvi
+tri
+catur
+pañca
+2
+3
+4
+5
+shat 6 arbuda 10 000 000
+sapta
+ashtan
+nava
+7
+8
+nyarbuda
+samudra
+100 000 000
+1 000 000 000
+10 000 000 000
+100 000 000 000
+000 000 000 000
+9 madhya
+anta
+parârdha
+daça 10
+This example is taken from the Sûrya-sid-
+dhânta, an astronomical text which takes
+account of data observable in the fourth century
+A.D. It is one of the earliest records of this
+mixed notation, which enjoyed great popularity
+throughout the history of Sanskrit literature.
+Even among mathematicians and astronomers it
+seems to have been the preferred method of
+expressing numbers. Its advantage was that it
+allowed variation of vocabulary. Sanskrit has
+ten or so common words for eyes, whereas there
+is no synonym for the number 2. Sanskrit tech¬
+nical and scientific literature was usually written
+in verse, so that authors needed to command a
+wide vocabulary in order to find words to fit the
+requirements of prosody.
+It would be a mistake to regard this mixed
+notation as a transitional stage between the old
+oral system and the pure positional system. It
+was an artificial method adopted by authors
+who were familiar with both systems and used
+them in their writings.
+Economy and lightness
+In 662 A.D. a Syriac writer, Severus Sebokt,
+wishing to show that the Greeks had no
+monopoly on science, referred to the inven¬
+tiveness of Indian scholars. The only one of
+their mathematical skills that he mentioned was
+their system of reckoning using nine digits.
+Severus Sebokt's comment points to the greatest
+advantage of this system, its economy. By
+reducing the symbols needed for the notation of
+all numbers to ten nine digits and a zero
+the system achieves the ideal of economy and
+efficiency. Indian intellectuals were well aware
+of the advantages of economy. They had a tech¬
+nical term for it laghava or "lightness" and
+have cultivated it since Antiquity in various
+fields of thought. 33

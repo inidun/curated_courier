@@ -1,0 +1,550 @@
+The changing face of the
+life sciences
+~l
+by François Gros
+IN comparison with its antecedents, con¬
+temporary biology presents a dramati¬
+cally altered image to the world. Not
+only is it in the process of revolutionizing
+medicine, agriculture and the environmen¬
+tal sciences, it is also calling in question,
+through the epic adventure of modern gene¬
+tics, the very nature of the species homo
+sapiens. We are far from the poetic reveries
+of Jean-Jacques Rousseau's botanizing
+"Solitary Walker", or the attempts of
+nineteenth-century comparatists to deter¬
+mine the laws of evolution. Biology has
+been transmuted into an exact, computer¬
+ized, strangely disturbing science which has
+spawned marketable technologies that are
+profoundly modifying the industrial scene
+and the balance between the industrialized
+and the developing countries.
+The decisive turning point was reached in
+1973, the year which saw the birth of the
+new and revolutionary discipline of genetic
+engineering, which derived directly from
+molecular biology. For the first time, the
+general public became truly aware that the
+life sciences existed and were capable of
+exciting a degree of passionate concern riv¬
+alling that aroused by nuclear physics.
+Political and industrial decision-makers
+were quick to recognize the birth of a mod¬
+ern technology and to perceive the impor¬
+tant practical consequences it could be ex¬
+pected to have on the overall economic
+equilibrium of the planet. From being pri¬
+marily a "contemplative" science, biology
+has become an active, manipulative
+science, and even at times, unfortunately, a
+target for speculators.
+At this point I would like to give a few
+examples of some of the most significant
+achievements of contemporary biology.
+Mapping the human genome
+In addition to making it possible to con¬
+trol at will the biosynthesizing capabilities
+of unicellular organisms, genetic engineer¬
+ing techniques have led to the development
+of marker devices known as "genetic prob¬
+es". It is now possible to envisage the use of
+these probes to draw up an accurate map of
+the human genetic make-up. Using recom-
+binant-DNA technology1 (see the Unesco
+Courier, March 1987), scientists have suc¬
+ceeded in cloning2 fragments, varying in
+size, of chromosomes taken from human or
+animal cells within the cells of micro¬
+organisms.
+The micro-organisms propagate and am¬
+plify these chromosome fragments which
+can then be sorted and purified. Once they
+are available in sufficient quantity to be
+analysed, they can be subjected to two
+further operations. The first of these,
+known as physical mapping (or restriction-
+enzyme mapping) consists of identifying the
+fragments by studying the manner in which
+they are cleaved by a battery of restriction
+enzymes.3 The second, known as sequenc¬
+ing, consists of determining their chemical
+sequence, that is, the order in which their
+constituent elements are linked together.
+Before the advent of genetic engineering
+the existence of genes could only be infer¬
+red from the consequences of mutations of
+which they are the site. Evidence for her¬
+editary traits was found by studying change
+in an eye pigment, in the morphology of a
+limb, the behaviour of an animal, or in
+susceptibility to a given disease. Once
+tracked down, as it were, its site in the
+chromosome was usually deduced from stu¬
+dies of crossing based on the frequency of
+liaison or segregation of characteristics dur¬
+ing the recombination of parental chromo¬
+somes. Finally, it was possible, under
+favourable conditions, to reveal certain al¬
+terations in chromosomes (splitting, trans¬
+position, amplification) by observation us¬
+ing optical or electronic microscopes.
+Genetic engineering has made it possible
+to "materialize" the gene. Representing
+little more than a millionth part of man's
+physical inheritance, the gene can hence¬
+forth be isolated as a molecule; it has be¬
+come, technically speaking, "workable".
+Not only can it be analysed, it can also be
+manipulated and, thanks to restriction en¬
+zymes, be subjected to micro-surgery. In
+short it can treated like any other molecule.
+All this has had many consequences for
+our fundamental understanding of life. It
+has led, for example, to the discovery of the
+genetic mechanisms responsible for the di¬
+versity of antibodies, to precise study of
+individual genetic polymorphism, and to
+the discovery of cancer-bearing genes, or
+"oncogenes". For the time being, however,
+let us take a look at some of the medical
+consequences, in particular the study of
+hereditary diseases.
+Locating defective genes
+Every year in France, thousands of chil¬
+dren are born suffering from serious here¬
+ditary diseases. These afflictions, which
+account for 50 per cent of infant mortality,
+include muscular dystrophy, mental dis¬
+orders, intolerances due to metabolic error,
+mucoviscidosis (cystic fibrosis), blood dis¬
+orders, X-chromosome fragility, serious
+immuno-deficiency (an affected child may
+have to be enclosed in a sterile "bubble").
+But this is only the tip of the iceberg. In fact,
+as the fund of genetic knowledge increases,
+doctors and biologists are becoming aware
+that, from birth, our genes bear within them
+a number of risk factors and susceptibilities,
+even when they are not subject to the se¬
+rious mutations that are responsible for the
+monogenic4 diseases. The French geneticist
+Jean Dausset's discovery of genes whose
+properties control compatibility or reaction
+to organ or tissue grafts between individuals
+has shown that certain mutations within
+these genes increase considerably, some¬
+times by a factor of over one thousand, the
+predisposition to such serious illnesses as
+ankylosing spondylitis, rheumatic fever and
+auto-immune disease.
+The ability to establish the chemical
+sequences or physical organization of genes
+opens up wide prospects for pre-natal or
+pre-clinical diagnosis. Such early detection
+was already possible by examination of the
+karyotype or of enzymes, but these tests
+were not very reliable and, above all, could
+not be carried out until a relatively late
+stage of foetal development. Diagnosis us¬
+ing genetic probes, on the other hand, can
+be made from the eleventh week. A dozen
+or more serious illnesses can thus be de¬
+tected and the nature of the mutation pin¬
+pointed.
+Moreover, this new field of genetics may
+open the way to a grandiose project that has
+aroused as much public interest in the Un¬
+ited States of America as the problem of
+AIDS. The proposed project involves
+establishing the sequence of the 3,500 mil¬
+lion chemical elements that make up the
+
+>.!'>:
+f.V.-: ^H
+HH ^
+A biological research laboratory
+:m
+^T^h
+
+complete genetic code enclosed within
+man's forty-six chromosomes. The hope
+would be that we would thus be in a position
+to locate the very large number of muta¬
+tions responsible for hereditary diseases
+whose primary causes are as yet unknown.
+Out of nearly 3,000 hereditary diseases that
+have been described in the medical liter¬
+ature, it has so far been possible to link no
+more than a few dozen with any certainty to
+a corresponding genetic mutation. Of the
+100,000 to 150,000 human genes, barely
+1,500 have been "located" and for only 500
+of these has the chemical sequence been
+established.
+It is not our purpose here to enter into the
+discussion as to whether there is sufficient
+justification for such a project, which would
+cost nearly 1,000 million dollars and occupy
+hundreds of research wqrkers for from ten
+to fifteen years. Yet the fact that it has been
+proposed shows the extent to which the
+recombinant-DNA technique has revolu¬
+tionized genetics. Moreover, we have not as
+yet mentioned its therapeutic possibilities.
+"The ability to establish the chemical se¬
+quences or physical organization of genes
+opens up wide prospects for pre-natal or
+pre-clinical diagnosis." Below, a genetic re¬
+search worker makes a montage of human
+karyotypes.
+T
+k 1 $j£3
+It has been known for some five years now
+that a foreign gene will function normally
+when inserted into a somatic cell, such as
+the lymph cell of human bone marrow.
+Hence the idea of grafting "normal" genes
+to compensate for defective genes by im¬
+planting into a patient some of his own bone
+marrow cells in which the "normal" gene
+has already been inserted. Specialists be¬
+lieve that it will soon be possible to envisage
+the use of these "prosthetic genes", in par¬
+ticular to save the lives of children suffering
+from immuno-deficiency.
+Oncogenes
+Molecular biology and genetic engineer¬
+ing have opened up a new approach to
+human biology and medicine as they relate
+to cancer. With the discovery only some
+twelve years ago of a special category of
+genes, the so-called "oncogenes", we are
+now for the first time in a position to explain
+the genetic origin of cancers and their
+occurrence linked to mutations and viral
+attack.
+The main families of carcinogenic viruses
+were described at the beginning of this cen-
+The dystrophies are inherited diseases char¬
+acterized by progressive weakening and
+atrophy of different groups of muscle tissue.
+(1) Diagram of an normal X-chromosome.
+Arrow indicates the position of the abnormal
+gene responsible for Duchenne's dystro¬
+phy a muscular degenerative disease
+named after the 19th-century French neuro¬
+logist who first described it. (2) Photograph
+of a normal X-chromosome. (3) Photograph
+of an X-chromosome from a patient suffer¬
+ing from Duchenne's dystrophy associated
+with other diseases. Arrow indicates the
+position of the defective gene. (4) Photo¬
+graph of the two X-chromosomes from the
+patient's mother, one normal (black arrow)
+and the other abnormal (white arrow).
+tury. The first was identified in 1914, at the
+Rockefeller Institute of New York, by the
+American biologist Peyton Rous. Rous
+drew attention to a virus which, in a few
+weeks, produced sarcomas in chickens.
+Since then over thirty carcinogenic viruses
+have been isolated. Over the last ten years,
+the conviction has grown that many human
+cancers are linked to oncogenic viruses. The
+most well known are Hepatitis B virus,
+frequently associated with primitive cancer
+of the liver in the tropical zones, the Epstein
+Barr virus, which is one of the elements
+responsible for cancers of the jaw in Africa
+and Asia (in Europe it causes the benign
+condition of infectious mononucleosis), and
+the papillomavirus, responsible for cervical
+cancers. Mention should also be made of
+the RNA or retroviruses, which include the
+HTLV1 and HTLV2 viruses associated with
+leukemia, as well as the unhappily cele¬
+brated viruses responsible for AIDS,
+known under the labels of LAV, HTLV3 or
+HIV, which provoke certain cancers such as
+the Kaposi sarcoma.
+It had been recognized that the carci¬
+nogenic effect of these viruses was linked to
+the presence of a particular gene which was
+an integral part of the hereditary make-up.
+However, much surprise was caused by the
+discovery in 1976 that all animal cells (inc¬
+luding human cells) contained in their chro¬
+mosomes, even when these were perfectly
+healthy, genes very similar to those pre¬
+viously detected only in viruses. Among the
+100,000 or so human genes, only about
+thirty oncogenic genes have so far been
+detected. This amazing discovery has pro¬
+vided some explanations of phenomena of
+great importance to the understanding of
+the mechanisms of tumour formation:
+1 . There is an obvious explanation for the
+existence in carcinogenic viruses of
+determinants6 specific to cancer genes: the
+viruses have "stolen" them from cells they
+previously infested. The mechanisms of the
+exchange between a cell's hereditary deter-
+z
+©
+
++*
+- * .-
+- "
+* . / Vf
+» y/
+££ A
+vi
+--
+- I
+s '
+minants and those of a virus are, in fact,
+well known.
+2. Most of the agents responsible for the
+occurrence of cancers (viruses, chemical
+agents, mutations) have this effect by acti¬
+vating or disturbing the normal functioning
+of certain cellular oncogenes.
+3. It has been established that, as a gener¬
+al rule, at least two oncogenes whose effects
+are complementary must be activated by
+exogenous influences for a cell to develop a
+malign condition. This "co-operative"
+action, which can be experimentally repro¬
+duced by manipulating cell cultures in vitro,
+clearly demonstrates the multifactorial na¬
+ture of cancers.
+4. Since the disturbance of cellular
+oncogenes can result in the appearance of
+extremely varied cancers, that is to say of
+manifestations of uncontrolled cell growth,
+it is reasonable to suppose that, in their
+normal state, oncogenes play a central,
+permanent role in the control of the process
+of cell division and recognition.
+In fact, it has been shown these determi¬
+nants are nothing other than the "genes of
+communication" between cells. Some of
+them code for the exogenous chemical sig¬
+nals, the "growth factor" signals involved in
+this process, others for receptors of these
+signals located on the cell membrane, and
+others, finally, for the substances that carry
+the signal to the chromosomes, once it has
+reached the receptors, so as to trigger off
+the cell division. These substances are
+generally phosphorylation7 enzymes, or
+proteins closely related to DNA and cap¬
+able of performing regulatory functions.
+It would seem, therefore, that a general
+A
+Strand of DNA (deoxyribonucleic acid), the
+material which carries in coded form the
+hereditary instructions responsible for the
+behaviour of cells and the plants, animals or
+microbes of which they are part.
+molecular explanation of the development
+of cancer has been elucidated. Knowledge
+of the precise phenomena triggered by the
+activation of oncogenes should make it
+possible to elaborate new inhibiting pro¬
+ducts that will block the transformation to
+cancerous growth and, perhaps, open the
+way to new therapeutic methods.
+) The neurosciences
+I should like to conclude with a look at
+the equally fascinating field of neuro¬
+biology. No one would deny that, within the
+highly organized framework of a human
+being, two "master elements" account for
+most of our characteristics our genes and
+our neurons. Furthermore, the nature of
+the dialogue between our genes and our
+neurons is a central problem of biology.
+I shall not spend too much time on the
+formidable arsenal of equipment that has
+enabled us to overcome obstacles to the
+study of the human brain: gas encephalog¬
+raphy, arteriography and, above all, tomog¬
+raphic densitometry, nuclear magnetic re¬
+sonance imagery and positron cameras (see
+the Unesco Courier, August 1987). Mention
+should also be made of the enormous prog¬
+ress made in microscopic observation of
+neurons.
+-.
+Yet here again, two fundamental bran¬
+ches of modern molecular biology im¬
+munology with monoclonal antibodies and,
+above all, genetic engineering have un¬
+doubtedly been responsible for speeding up
+study of the neuron. Today, most of the
+proteins and important neuropeptides have
+been cloned. The genetic probes thus
+obtained have enabled us not only to ana¬
+lyse the biosynthetic activities of single
+neurons with extraordinary precision, but
+also to determine the molecular structure of
+adjustors8 and, better still, of receptors and
+ion pathways.
+Without going so far as to suggest that the
+brain secretes thought in the way that the
+liver secretes bile, it must be admitted that
+discoveries concerning the detailed bioche¬
+mistry of neurons is having important reper¬
+cussions on pharmacotherapy. It is,
+however, too early yet to say whether the
+enthusiasm of the reductionists in this re¬
+gard is exaggerated or not. The psycho-
+physiologists think that current notions
+concerning the molecular biology of the
+neuron will go the same way as the now
+demoded micro-electrophysiology10 vogue.
+Be this as it may, the new field of molecular
+neurobiology is now open and has already
+gathered a rich harvest of information.
+We should, however, never forget the
+pluridisciplinary character of the neuro¬
+sciences. Without recourse to neuro¬
+anatomy, neurophysiology and neurohisto¬
+logy, as well, of course, to the study of
+neuropathological behaviour and diseases,
+it would be illusory to hope to understand
+the memory and the major cognitive
+functions.
+
+The study of the genetics of behaviour is
+also in full ferment. It is true that it throws
+light only on simple stereotypes, such as the
+song of the cricket, the reproduction of the
+aplysia, a marine mollusc, or the short-term
+learning cycle of the drosophila fly and its
+memorization. It is also true that we are
+only at the very beginning of the study of
+neurogenetic diseases. We can, however,
+sense the prospect of a modern neurogene¬
+tic discipline emerging which is as worrying
+in its ethical implications as it is full of hope
+for the medical science of tomorrow.
+This exposé of mine has left unexplained
+many aspects of a biological science "in the
+making", as well as of a "ready made"
+biology. I have not explored the vast do¬
+main of biotechnological applications; nor
+have I dealt with the new patterns of phar-
+maco-medicine, a glimpse of which we have
+been given with the creation, by the techni¬
+ques of genetic engineering, of molecules
+endowed with new therapeutic properties.
+I have not touched upon the enormous
+field of microbic genetics, nor on the
+molecular revolution that plant biology,
+long left on the sidelines of contemporary
+scientific advance, is currently undergoing.
+Thanks to genetic engineering the elabora¬
+tion of a physical plant gene map can now be
+envisaged. Micropropagation techniques,11
+the use of artificial seeding and plant or
+microbial transgenation12 could well re¬
+volutionize agricultural technology. There
+is a distinct probability that the next millen¬
+nium will witness great achievements in
+plant genetics, the repercussions of which,
+whether good or bad, will certainly be con¬
+siderable for agriculture.
+For reasons which can easily be im-
+Autoradiogram of a section from the brain
+of a rat, on which the location of cholecysto-
+kinin (a neurohormone) can be detected
+with the aid of radioactive tracers.
+Brainstem neurons photographed with the
+aid of an electron microscope
+agined, any self-respecting science, and not
+only biology (which is only one among
+many sciences), evolves to the rhythm of a
+kind of "self-induced" acceleration. But in a
+certain manner biology touches us more
+closely than the others. As Immanuel Kant
+wrote concerning biology: "I see in it a
+disposition of feeling that is very favourable
+to morality and which, at least, prepares us
+for it." And did not Louis Pasteur see in
+biology a kind of panacea, generator of
+blessings and of peace, intrinsically en¬
+dowed, as Kant noted, with moralizing vir¬
+tue? Can such judgements still be upheld?
+Are they not, as the French doctor and
+biologist François Jacob pondered, just a
+little old-fashioned and outmoded? Is it
+possible to maintain such a vision of the life
+sciences despite certain obvious deviations,
+past, present and to come, of the concepts
+and techniques that have emerged from
+them, such as the excesses of Nazi resear¬
+chers and doctors, the threat of the imposi¬
+tion of a "copyright" on human genes, and
+the menace that will loom over the natural
+resources of the developing world when
+micropropagation and genetic engineering
+have standardized everything?
+Yet biology, like all the other sciences,
+will continue to progress, to surprise, to
+question. It will continue to bring solutions
+and replies to our hopes and our ques¬
+tionings. To be more vigilant, more con¬
+scious of the limitations and dangers of
+science, should not prevent us from moving
+forward. Who could seriously consider
+turning back the clock of knowledge? Who
+could be so mad as to outlaw the search for
+knowledge? We must be more knowledge¬
+able about the results of science, and at the
+same time be wiser and more humane.
+We are about to embark on a great
+adventure of the mind. Let us hope that it
+will also be an adventure of reason and of
+the heart.
+1. Recombinant DNA: The hybrid DNA produced by
+joining together in vitro pieces of DNA from different
+organisms.
+2. Cloning: Asexual reproduction of genetically iden¬
+tical cells or organisms from a common ancestor.
+3. Restriction enzymes: a group of proteins produced by
+living cells which act as natural catalysts by means of
+which a gene can be excised from a fragment of DNA
+and grafted on to the DNA of another organism.
+4. Monogenic: Relating to or controlled by a single gene.
+5. Karyotype: The sum of the specific characteristics of
+the chromosomes of a cell.
+6. Determinant: One of the chemical groupings that
+together determine the specific reactivity of an antigen
+or antibody.
+7. Phosphorylation: Conversion by enzymes of carbohy¬
+drates into their phosphoric compounds.
+8. Adjustor: A unit of the nervous system which controls
+or adjusts stimuli received by a receptor neuron before
+passing it on for action by a motor neuron.
+9. Psychophysiology: A branch of psychology that deals
+with the effects of physiological processes on mental life.
+10. Electrophysioiogy: The branch of physiology con¬
+cerned with the electric phenomena associated with
+living bodies and involved in their functional activity.
+11. Micropropagation: Multiple reproduction of plants
+by in vitro culture of plant tissue.
+12. Transgenation: Gene mutation.
+FRANÇOIS GROS, French biologist, is professor
+of cellular biochemistry at the Collège de France
+and head of the biochemistry unit in the Pasteur
+Institute's department of molecular biology,
+where his main field ofresearch is the functioning
+and regulatory mechanisms of genes. His many
+publications include Les secrets du gène (1986).
+This text was presented at a conference held at
+Unesco Headquarters in October 1987.
+8

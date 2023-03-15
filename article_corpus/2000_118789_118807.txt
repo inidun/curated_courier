@@ -1,0 +1,216 @@
+New m e d i a , n e w r u l e s
+◗ John V. Pa v l i k
+The Internet is challenging the media establishment, empowering 
+the public and re d e fining the role of journalists in society
+2❘ The messenger 
+is the media
+About midnight on Fe b ru a ry 4, 1999 22-ye a r -
+old West African immigrant Amadou Diallo
+stepped through the doorway of his Bronx,
+New York apartment bu i l d i n g . As he reached for his
+wa l l e t , four members of a special police Street
+Crime Unit drew their guns and fired 41 times.
+Nineteen bullets struck the unarmed man,
+several entering the soles of his feet as he lay dead.
+I t ’s unclear why the police opened fire on the man;
+as of this writing they had yet to be interviewed in
+the case, which is scheduled to go to trial in early
+2000.They were apparently seeking a suspect in a
+rape case,and may have thought Diallo was him.
+The case attracted world-wide attention and stir-
+red considerable controve rsy over the use of excess
+force by the police,especially in cases involving mino-
+rity suspects in the outer New York City boroughs,
+such as the Bronx. News media provided extensive
+c overage of the story, r e p o rting in detail the eve n t s
+t h at transpired that eve n i n g, as best could be surm i-
+s e d .
+One news organization, in collaboration with
+students in my class at Columbia Unive rs i t y, o f f e r e d
+an alternative perspective, or perspectives, on the
+Diallo case. In addition to providing the standard
+reporting on the events of that evening, an inter-
+d i s c i p l i n a ry team of Columbia students, i n c l u d i n g
+students of journ a l i s m ,i n t e rn ational affa i rs , bu s i n e s s
+and computer science, worked with journalists at
+A P B n e w s , an online-ori ginal news organizat i o n
+devoted to crime coverage, to offer a multi-angled
+news report on the story.
+To provide a more contextualized view of the
+killing, the Columbia-APBnews team employed a
+new type of camera invented by a Columbia Uni-
+ve rsity professor of Computer Science, Shree Naya r ,
+which shoots a 360-degree view, to photogr a p h
+both the ve s t i bule of Diallo’s apartment bu i l d i n g, a s
+well as the street where he lived.
+◗ Professor and Executive Director,
+the Center for New Media,the
+Graduate School of Journalism,
+Columbia University, New York
+Those who visit the APBnews.com web site
+can examine the street and the vestibule,panning,
+tilting or zooming anywhere in the entire field of
+view. The view from inside the vestibule approxi-
+mates to the view Diallo would have had that eve-
+ning, but you can now see the bullet holes that
+pock-mark the walls.
+Letting the facts
+speak for themselves
+The view from outside the bu i l d i n g, t h o u g h
+taken during the day t i m e ,a p p r ox i m ates to the posi-
+tion the police would have had, giving the viewer a
+sense of pers p e c t i ve on the shooting not possible
+with conventional photojourn a l i s m .To g e t h e r ,t h e s e
+n avigable images, only possible on the Intern e t ,n o t
+only provide more context for the events of that eve-
+n i n g, but can engage the audience in ways impos-
+sible in the world of analog journ a l i s m .This heigh-
+tened engagement and gr e ater context are cri t i c a l l y
+important for journalism in the 21st century.
+As A B P n e w s.com demonstrat e s , I n t e rnet not
+only makes possible a more engaging form of jour-
+n a l i s m ; it also puts gr e ater control in the hands of
+the audience.The facts presented need be less fil-
+tered by journ a l i s t s ; the public can draw its ow n
+conclusions as to their meaning. In other wo r d s ,
+j o u rnalists online can increasingly let the facts speak
+for themselve s. Is this not one of the most long-che-
+rished goals of journalism?
+The Internet also permits a gr e ater range of jour-
+nalistic voices to speak to an increasingly global
+a u d i e n c e .APBnews was founded only two ye a rs ago,
+in 1998,and is already recognized by many other lea-
+ding news organizations as a reliable source of cri m e
+n e w s. In fa c t , the APBnews service is carried by
+dozens of other news organizat i o n s.
+M a ny other credible Intern e t - o ri ginal news sources
+h ave also arisen in recent ye a rs.O n e ,T h e S t r e e t . c o m ,
+
+which cove rs the financial markets, is so respected by
+premier news organizations that on November 24,
+1 9 9 9 , The New Yo rk Ti m e s, perhaps the most highly
+respected news organization in the wo r l d ,a n n o u n c e d
+t h at it was going into part n e rship with TheStreet to
+launch a news gat h e ring operation that would prov i d e
+i m p r oved business news report i n g .
+Examples abound of freelance journalists who
+provide credible news reports from all parts of the
+wo r l d . Freelance journalist Mario Profaca (Croa-
+t i a ) , for example, r e p o rts on the situation in Kosovo
+and also provides extensive coverage of the spy wo r l d
+( h t t p : / / m p r o fa c a . c r o. n e t / m a i n m e n u . h t m l ) .G e o r g e
+Adams edits “Not the South China Morning Po s t ” ,
+o f f e ring a sat i rical view on press freedom in Hong
+K o n g .These and other online news sources prov i d e
+a global audience with altern at i ve journalistic vo i c e s
+to contrast with the mainstream reporting of mul-
+tinational commercial media organizations.
+Research suggests that the public, especially yo u n-
+ger audiences who have gr own up with the Intern e t ,
+is increasingly finding value in this dive rsity of news
+vo i c e s. One study has shown that as of 1998 some 36
+million persons in the U. S . (including 30 per cent of
+18 to 29-ye a r - o l d s , up from just seven per cent in
+1995) look to online sources for news each we e k ,a n d
+t h at 77 per cent of those aged 18-29 “like having so
+m a ny sources to chose from.” In contrast, older age
+groups less accustomed to interactive media are not
+so likely to find this dive rsity appealing (70 per cent
+of those aged 30 to 49,64 per cent of those aged 50 to
+64 and 52 per cent of over 65s).1 I t ’s still too early to
+tell just what impact this increasing use of online news
+is having on the public.
+Personalized news
+The Internet also permits much greater custo-
+m i z ation of news. Because of its ability to enable
+on-demand media, as well as audience segmenta-
+t i o n , the Internet permits audiences and news orga-
+n i z ations to provide increasingly personalized news.
+This pers o n a l i z ation is a two-edged swo r d .
+Although it can permit audiences to get just the
+news they wa n t , such as financial news customized
+to their own investment port f o l i o, it can also increase
+the level of audience fragmentation already ram-
+pant in the media.
+H owe ve r , i t ’s also wo rth noting that there is a
+second type of customization of news possible only
+on the Intern e t , and this type is not necessarily a
+c o n t ri buting factor to fragmentat i o n .U n f o rt u n at e l y,
+it is only in its earliest form ,and in fact few news orga-
+n i z ations are actually employing it, although it embo-
+dies a fundamental news value—localizing the story.
+O n l i n e , it is possible to use databases that inclu-
+
+1.Andrew Kohut,“Internet News Takes Off”, the Pew
+Research Center, June 8,1998.
+A web site showing the hallway where immigrant Amadou Diallo was shot by New York police.
+Internet surfers can analyse for themselves the trajectory of the bullets. At right,poems dedicated to the dead man.
+
+de vast repositories of inform ation about entire
+c o u n t ries or even the entire globe, and perm i t
+audience members to see how a specific story,
+e ve n t , process or phenomenon affects them in their
+own community, interest group or life situat i o n .
+Direct
+access
+B e l ow are three illustrat i ve examples, one from
+an online news organizat i o n , one from a company
+interested in exploiting the capabilities of the online
+world for profit , and perhaps the public good, and a
+third from a consortium of gove rnment agencies,
+j o u rnalistic organizations and educational institu-
+t i o n s.All three examples illustrate how a single story,
+such as crime rat e s , election campaign contri bu-
+tions or we ather pat t e rn s , can be transformed from
+a generic story reported in a uniform fashion for the
+widest possible audience, to customizable, i n t e r a c-
+t i ve multimedia inform ation that can permit anyo n e
+a nywhere in the world to see what that story means
+for them in their own context.
+APBnews permits users living in the United Stat e s
+to enter their zip code and find out the crime rate in
+t h at neighbourhood.This is an unprecedented resource
+for citizens concerned not just about the overall cri m e
+r ate in their city, s t ate or nat i o n ,but in the neighbou-
+rhood where they live , or may be traveling or mov i n g
+t o.The data come from a company that specializes in
+making crime maps.
+Po l i t i c s.com permits users to enter a name and
+find out how much and when that person has contri-
+buted to a political candidat e ’s campaign. U s e rs can
+also enter a zip code and find out who in that neigh-
+bourhood has contri buted to particular candidat e s ,
+as well as how much they contri buted and when. It is
+also possible to see how much particular candidat e s
+h ave received in donations relat i ve to other candidat e s
+and by month.The data come from the U. S . Fe d e r a l
+Election Commission.
+F i n a l l y, the Digi t a l E a rt h . g ov initiat i ve is an effort
+to provide a virtual representation of the planet enabling
+a nyone online to “explore and interact with the va s t
+amounts of natural and cultural information gathered
+about the Eart h .” Not yet fully functional, the site does
+offer a series of operational prototypes, including three
+dimensional (3D) interactive models of the entire Eart h
+o f f e ring detailed we ather data collected via sat e l l i t e
+around the globe, i n t e r a c t i ve 3D terr e s t rial topogr a-
+phic visualizations of any part of the Earth,and much
+m o r e . One of the principal agents in the Digi t a l E a rt h
+i n i t i at i ve is the U. S . g ove rn m e n t . In contrast to day s
+p a s t , g ove rnment agencies, such as NASA, can now
+easily bring their “ n e w s ” directly to the public via the
+Internet.
+This third example also illustrates an important shift
+in the long-standing relationship between news sources,
+news organizations and the public. In the past, n e w s
+sources had to be challenged almost exclusively through
+news organizations before the public. In turn , the public
+looked almost exclusively to news organizations to fil t e r ,
+or act as gat e k e e p e r , for news produced by others.T h e
+I n t e rnet changes this triangular relat i o n s h i p. N ow ori-
+ginal sources of news and the public interface directly.
+■
+
+
+The DigitalEarth.gov web site from which surfers can
+explore the Earth’s natural and cultural life.

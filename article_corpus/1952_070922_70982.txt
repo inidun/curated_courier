@@ -1,0 +1,467 @@
+THE WORK OF A
+CENTURY-IN A
+FEW MINUTES
+Calculating machines,
+and the revolution in
+science which they are
+helping to bring about
+by Dr. S. LILLEY
+University of Birmingham,
+Department of Extra-Mural Studies
+OW much... ?""How many... ?" A surprisingly large number of important questions of
+modern life begin with those words. How many skilled mechanics can India rely on for
+. building much-needed machinery ? How much will a sixpence-in-the-pou d increase in
+income tax yield ? How much energy can you get from a pound of uranium 235 ?
+Some of the most important questions of all do not, at first sight, take this form :-For instance, can
+India avoid a famine in 1956 ? But to answer it, we have to ask : How many mouths will there be to
+feed ? How much food can India's own agriculture produce ? How much of her manufactures
+can she export to make up for the deficiency ?... and so back to that first question about skilled
+mechanics. Without"How much ?" and"How many ?"we should not make our modern world
+work.
+In science, more than anything else, these two questions are of vital importance. There is scarcely
+any major scientific problem-from the nature of the universe to the workings of the endocrine glands,
+from the utilisation of atomic energy to the assessment of an adequate diet-whose solution does
+not depend essentially on counting and measuring, and then making calculation.
+Making calculations-that is the important point. To answer"How much ?"and"How many ?"
+it is usually not good enough to measure, weigh and count. We must also do immense calculations
+to deduce facts about a whole population in 1956 from a few thousand answers to a sample survey
+in 1951, or to calculate the energy obtainable from a uranium pile on the basis of data produced from
+small-stale experiments with cyclotrons.
+It is with this process of calculation and the ingenuity that has gone into making machines to do
+it for us that this article is concerned.
+"How much ?" and"How many ?" have not always
+been so important. They are characteristically
+modern questions. Until some 350 or 400 years ago
+they mattered rather little. The small peasant
+communities that made up most of the world till
+then could get along very well with a minimum of
+calculation.
+Even the cities of Greece or the Empire of Rome
+needed less in the way of statistics than a town
+council does today. And in science before the 16th
+century, the characteristic questions were not"How
+much ?" and"How, many ?" but"What sort ?" and
+"Why ?"
+Calculation played so small a part in ancient life
+that most people were content with cumbersome
+systems of arithmetical notation, of which Roman
+numerals is only one of the worst examples. It is
+hard enough to add with these old systems ; it is
+almost impossible to multiply. And so calculations
+were commonly done with an abacus-by moving
+beads on wires or counters on a marked board.
+In a sense, the abacus was the first calculating
+machine. But it does not count for much in our
+story. Though it can be extremely quick, it is less
+efficient than calculation on paper. And the first
+step towards our modern arithmetical world was
+the development, mostly in the later Middle Ages,
+of our familiar methods of adding, subtracting,
+multiplying and dividing, so that calculations could
+conveniently be done on paper without the help of
+an abacus.
+Towards the end of the 16th century the modern
+world was fast emerging. The local, almost self-
+sufficient units of feudalism were being bound
+together to form truly national states-which
+needed statistics of taxability and military resour-
+ces. Large-scale commerce was growing ; custom or
+guild rules no longer served to guide the business-
+man, but had to be replaced by extensive and accu-
+rate calculations of cost, selling price and profit.
+Surveying, mining engineering, military engineer-
+ing, and a host of other techniques were coming to
+rely more and more on mathematical accuracy.
+Science was taking on its characteristically modern
+form with its emphasis on"How much"and"How
+many."Men grew very interested in saving time
+and trouble in their calculations. In 1585 the
+Dutchman Simon Stevin published his little book
+advocating the use of decimal fractions and so
+inaugurated a new era in arithmetic. And in 1614
+John Napier of Scotland made logarithms known
+to the world.
+In this atmosphere it could not be long before
+some genius or other would invent a calculating
+machine. In fact two of the really outstanding
+scientists of the 17th century-Blaise Pascal and
+G. W. Leibnitz-besides numerous minor men of
+science, devised such machines. Pascal's father,
+as a Government superintendent in the French
+département of Haute-Normandie, had to check an
+enormous number of accounts, and it was to aid
+him in this work that his 18-year old son designed
+the first machine for adding and subtracting, and
+constructed it in 1642 with the aid of a Rouen
+blacksmith.
+WHAT A CONTRAST between the first calculatinl
+Pascal in 1642 and the giant computing marvels o1
+(above) known as the IBM Selective Sequence Elec1
+a number such as 16, 457, 895, 753, 902 and multiply it t
+It can add or subtract even larger numbers 3, 500 timl
+Several other similar machines were invented. In
+1694, Leibniz produced the first machine that could
+do all the ordinary processes of arithmetic : add,
+subtract, multiply and divide.
+During the 18th century many more inventors
+tried their hands at calculating machines, and
+before 1800 they had created practically all the
+devices that go to make up a modern"general pur-
+poses" (adding, subtracting, multiplying and divid-
+ing) machine.
+But none of these instruments was a practical
+success. Some would work well enough when
+handled carefully by experts, but the engi-
+neering technique was not available to turn out
+calculators good enough and reliable enough for
+day-to-day use.
+However, with the gradual improvement of en-
+gineering techniques, practical machines came
+during the 19th century. The first was that of the
+Frenchman Thomas de Colmar, which appeared in
+1820.
+In 1892 came the best known of all calculating
+machines, the Brunsviga, which was such a success
+that some 20, 000 were sold within 20 years. By now
+the general purposes machine had reached the end
+of its basic evolution-though many improve-
+ments have been added since, the most important
+being the electrical drive, to relieve the computer
+of the labour of churning away at a handle.
+The machines we have so far been describing are
+called"digital machines,"because they work with
+BLAISE PASCAL
+At the age of 18, he
+became the first man
+to make a mathemat-
+ical calculation by
+mechanical means
+with his invention of
+the original"Arith-
+metical machine."
+
+machine (left) invented by
+today. Mammoth machine
+'onic Calculator, can select
+, itself fifty times a second.
+s a second. It can multiply
+numbers, store the results in its mechanical memory and then feed them back
+into a problem in a week or in a thousandth of a second. Built in New York in
+1948 for $ 750, 000, it was first electronic calculator for pure scientific research
+in the physical and social sciences and education. Newest electronic marvel in
+U. S. is Whirlwind"built last Decemberfor Massachusetts Institute of Technology.
+LORD KELVIN
+helped prepare the
+way for development
+of modern comput-
+ing machines with
+his plan for applying
+mechanical techni-
+ques to complex ma-
+thematical problems.
+the actual digits with which numbers are
+written. The later 19th and especially the 20th
+century have also witnessed the development of a
+wide variety of machines of a different class-
+"analogue machines,"as they are called.
+The basic idea behind all these is very simple.
+The behaviour of any machine can be represented
+by a set of mathematical equatians and their solu-
+tion. Conversely, given a set of mathematical
+equations, one can construct a machine whose
+behaviour would be represented by them ; if one,
+then, sets the machine working and observes the
+motions of its various parts, one has the solution
+of the equations. A speedometer, for example, is
+an analogue machine which calculates speed
+from the relation between distance travelled and
+time (mathematically, it differentiates).
+A very important class of mathematical problem
+depends for its solution on the reverse of this pro-
+cess (integration). For instance, if you know the
+relations between the rates at which various quan-
+tities are changing (differential equations), and
+their starting value, where will they get to in a
+given time ? Or, to give an easier example : given
+the motorist's speed at every point, how far will he
+go in an hour ?
+As early as 1876 Lord Kelvin sketched a plan for
+a"differential analyser"-an analogue machine for
+solving problems of this type. However, he was not
+able to overcome the mechanical problems involv-
+ed, and the development of the differential ana-
+lyser had to wait till 1931, when Dr. Vannevar
+Bush hit on a very simple way of dealing with the
+difficulties. Since then differential analysers have
+been in constant us. e at dozens of computing labo-
+ratories, while many other types of analogue ma-
+chines have been developed.
+Analogue machines have one great advantage
+over the digital machines we described earlier-
+they will solve a complete problem at one fell
+swoop, whereas the digital machine will only do
+elementary additions, subtractions, multiplications
+and divisions, and the computer must arrange to
+combine thousands of these elementary steps to
+solve the complete problem.
+Against that, analogue machines have several
+disadvantages. Their accuracy tends to be rather
+low, and they are not flexible-each machine will
+solve one type of problem only, whereas the com-
+puter and digital machine between them can solve
+any problem, if given time.
+Would it be possible to make a machine with the
+advantages of both-a machine that would solve
+complete problems without the minute-to-minute
+guidance of a computer as the analogue machines
+do, but which will tackle any problem and give
+results to any desirable accuracy ? The answer is
+Yes.
+In the last few years, remarkable machines (of
+the digital type) with just these powers have been
+built and put into use. One starts by feeding the
+machine with a list of instructions and a few initial
+numbers, and then it gets on with the calculations,
+adding this pair of numbers, dividing that pair,
+storing results in a"memory,"picking out of the
+store the numbers it wants for the next step-and
+so on until the whole complex calculation is
+finished without any human help.
+This is not quite the miracle that it seems at first
+sight. The duties of a computer using an ordinary
+digital machine to solve a typical problem can be
+reduced to a series of instructions which read :"At
+such-and-such a stage, take the two numbers that
+are written in such-and-such places in the first
+column on the paper before you, add them (or
+subtract, multiply or divide), and write the answer
+in such-and-such a place in the second column."
+There may be a few dozen of these instruc-
+tions-and then will come the order"Repeat
+(Continued on next page)
+INDEX OF CALCULATOR
+FLOOR PLAN
+The machine is housed in a specially-designed room. Visit-
+ors see only the panels, arranged along three walls
+of a room 60 feet by 20 feet. Out of sight are complex
+maze of wiring and apparatus through which pass the
+electric currents that carry numbers and instructions from
+circuit to circuit. Equipment in 5, 6, 7, 8, of diagram is
+located behind rear wall, and is not shown in photo above
+1. Card reading tubes.-2. sequence tubes.-3. se-
+quence relays.-4. table look-up.-5. relay memory.
+6. metres.-7. control relays.-8. power distribution.
+9. tape memory.-10. arithmetical unit.-11. pulse
+generator.-12. sequence interlocks.-13. electronic
+memory.-14. console.-15. printers.-16. card
+punches.-J7. card readers.
+
+FEBRUARY 1952
+Machines that relieve man of mental drudgery
+(Continued from previous page)
+all this, but using the numbers in the second
+column,"and so on. Obviously a process like
+this can be mechanised.
+The machine will have to have units which
+will add, subtract, multiply or divide any two
+numbers supplied to them ; it will have to have
+a"memory"in which it can store the results of
+calculations until they are wanted again ; and
+it will have to have some means of receiving
+instructions about the routine it is to follow
+and of transmitting these instructions to its
+various parts. It needs a few other elements
+too, which we need not bother about now. The
+point is that each of these units is simple in
+itself and the only complication arises in
+connecting them together to make one very
+complex and highly integrated organism.
+In 1833 Charles Babbage, a Cambridge ma-
+thematician, proposed the construction of a
+machine on just these lines. His plans in-
+cluded in principle practically every device
+that is used by the modern machines, but he
+never succeeded in putting them into practice.
+It is probable that such a machine built en-
+tirely in mechanical terms-of gears, levers
+CHARLES
+BABBAGE
+The British mathe-
+matician who, in
+1833, designed a
+mechanical cal-
+culating machine
+which included al-
+most every device
+that is now in use.
+and the like-would have been unworkable in
+practice, and no other form was possible in
+the 19th century.
+But in the 20th century we have two new
+types of devices which alter the picture com-
+pletely-electro-mechanical relays (in everyday
+use in automatic telephone exchanges) and
+electronic devices such as radio valves, photo
+cells and cathode ray tubes. By using these,
+instead of mechanical elements like gear
+wheels, practical problems become manage-
+able, and in addition much higher speeds are
+obtainable. Machines that do all that Babbage
+planned have within the last seven years be-
+come almost common.
+The first of these giant calculators, the Au-
+tomatic Sequence Controlled Calculator at
+Harvard, brain-child of Professor H. H. Aiken,
+started work in 1944. It was an electro-mag-
+netic relay type. By the standards that have
+since been reached it was a slow machine-
+taking about a third of a second to add two 23-
+figure numbers or about six seconds to multiply
+them-yet even at those speeds it could work
+about 100 times faster than a computer using
+an ordinary calculating machine.
+The Harvard machine was of momentous im-
+portance as the first proof that the idea of a
+fully automatic calculating machine would
+work, but the future lay not with relay ma-
+chines, but with those using electronic
+elements. The first of these, the Electronic
+Numerical Integrator and Calculator, designed
+by John W. Mauchly and J. Presper Eckert, Jr.,
+went into action in 1946. Intended specifically
+for ballistic calculations, it was limited to a
+rather narrow range of problems, but the
+speed had now gone up to 5, 000 additions a
+second.
+Since then a dozen or more of these
+machines have been built in several countries.
+There is no point in describing them in detail
+here, and instead it will be better to note
+briefly what the general abilities of a fully
+automatic digital calculating machine are.
+Such a machine can work at a rate of any-
+thing from 15, 000 average operations a minute
+upwards-that is, 10, 000 or more times faster
+than a good computer with an ordinary
+calculating machine.
+Given appropriate instructions at the begin-
+ning of a run, it can carry out a long series
+of calculations without further human inter-
+vention, and so solve in minutes or hours
+mathematical problems that would have need-
+ed years with earlier methods. Though most
+of the applications have been mathematical,
+these machines are by no means confined to
+mathematics-they can deal with any type of
+information that can be precisely stated, and
+deduce its logical consequences.
+These calculating giants open up vast new
+possibilities for humanity. There are very
+many scientific problems-in such fields as
+aerodynamics and nuclear physics-in which
+the theoretician can write down a set of
+equations and say.'Solve these equations and
+your scientific problem is solved."But in
+H. H. AIKEN
+Head of Harvard
+University Com-
+putation Laborato-
+ry, he has been
+ca) ! edthe"father"
+of the first of the
+world's great cal-
+culating machines
+many cases, the process of solution would be
+so long that with the older methods it could
+not be carried out in a lifetime, and so
+experiments-often costly ones-had to be
+done instead. Now the speed of the new
+machines enables us to get practical results
+from the theory.
+Again, in using X-ray crystallography to find
+out how the atoms are arranged in various
+solids, a process of trial and error is involved.
+If the scientist can make certain initial guesses
+correctly, then the data on the X-ray photo-
+graphs can be used to calculate the positions
+of the atoms. But there are often so many
+choices for the first guess that the solution
+is in practice beyond us ; the crystallographer
+usually confines himself to cases in which some
+other sort of evidence gives a strong hint on
+how to start.
+Now, an electronic calculator could be set
+to try out all the possibilities one after another
+and to stop and give a signal when it finds
+the right one. In this way it could run
+through many thousands of guesses in a day,
+and give answers in cases which previously
+could not be tackled. In these and many
+other ways the new machines should help
+enormously to accelerate scientific advance,
+and particularly to facilitate the application of
+theory to practice.
+There will probably be a comparable revolu-
+tion in the handling of social and economic
+statistics. One of these machines (on a larger
+scale than the present ones) could be fed with
+all the available information about the eco-
+nomy of a country, and then in a few hours it
+would tell us what would be the effect of in-
+creasing a particular tax or introducing new
+machinery to cheapen the production of steel
+screws, taking into account all the complex
+ways in which such a simple change would
+react on all parts of the economy. All sorts
+of economic problems which are at present
+tackled by hit-or-miss methods would be
+brought within the sphere of reason.
+But to see the full long-term implications
+of these machines we need to set them in a
+broader historical perspective. For some
+6, 000 years or so-ever since the first cart
+was harnessed to an ox or the first sailing
+ship launched-men have been developing
+more and more machinery for relieving them
+from physical drudgery. But until very re-
+cently no machine has done much to relieve
+us from mental drudgery-and, let us make
+no mistake, the.'brainwork"of an office rou-
+tine or even the more skilled work of a com-
+puter is just as much drudgery as the manual
+work of a navvy.
+Now machines are beginning to take over
+our brainwork too-only our second-class
+brainwork, of course, the parts we can reduce
+to a routine, not the creative effort of the
+painter, research scientist, poet or philo-
+sopher. As this new trend develops, we can
+foresee a world in which all uncreative rou-
+tine work, all drudgery, whether manual or
+mental, has been taken over by machines, and
+VANNEVAR
+BUSH
+Succeeded in
+building the first
+differential ana-
+Iyserin 1931, which
+is now in constant
+use in many com-
+puting laboratories
+men and women are liberated to develop to
+the highest degree their creative faculties.
+To end on a more sober note, it is necessary
+to say that the development of these calculat-
+ing monsters does not mean that the earlier
+types of calculating machines will become
+useless. One does not use a steam-hammer
+to crack nuts (although it will do so). And
+similarly there will be plenty of work still to
+be done by our humbler mathematical ser-
+vants, the Brunsviga, the slide-rule, the diffe-
+rential analyser-and even pencil and paper.
+ELECTRONIC NIGHTMARE : With more than 12, 000 e) ectronic tu. bes bui ! t into modern calculators,
+failures are inevitable. That is why engineers are on permanent duty, ready to locate faulty tubes or
+connections. Sometimes they can be found and replaced in a few minutes. Sometimes it takes days
+to track down the failure among the 21, 000 electric relays and 40, 000 connections inside the calculator.
+UNESCO COURIER-Page 10

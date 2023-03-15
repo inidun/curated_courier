@@ -1,0 +1,339 @@
+NIELS
+BOHR
+NIELS Bohr, who was born in Copen¬
+hagen on 7 October, 1885, was
+one of the foremost scientists of
+the twentieth century. Before the First
+World War, he took the new quantum
+theory and used it to construct the first
+successful, detailed picture of how atoms
+work; in the 1920s, he first extended this
+understanding to explain the periodic
+table of the elements. Then revolutionary
+new developments transformed quantum
+theory into the foundation stone of
+modern physics, and Bohr was instrumen¬
+tal in providing the interpretation of quan¬
+tum physics, the Copenhagen Interpreta¬
+tion, which is still today the basis for
+translating quantum ideas into everyday
+terms. He worked on the Manhattan Pro¬
+ject, the construction of the first atomic
+bomb, but in the 1950s he campaigned to
+achieve control of nuclear weapons, and
+his efforts to promote the peaceful use of
+atomic energy led to his receiving the first
+US Atoms for Peace award, in 1957.
+Bohr came from an intellectual family.
+His father, Christian Bohr, was professor
+of physiology at the University of
+Copenhagen; his younger brother, and
+lifelong friend, Harald, was an eminent
+mathematician; and his son, Aage, follow¬
+ed Niels both in the directorship of the
+Institute of Theoretical Physics in
+Copenhagen and as a winner of the Nobel
+Prize in physics.
+In his early academic career Niels Bohr
+displayed thoroughness rather than
+brilliance, carrying out a painstaking
+measurement of the surface tension of
+water in 1906, then moving on to analyse
+the behaviour of electrons in metals, a
+project for which he received a PhD in
+191 1 . It was only after he completed this
+work, and moved first to Cambridge and
+then, in March 1912, to the University of
+Manchester, that Bohr displayed what
+became his characteristic approach to
+scientific problems.
+His particular genius, which was just
+the thing required to make progress in
+atomic physics in those days, was his will¬
+ingness to patch together different ideas,
+from different sources, to make an im¬
+aginary "model" of the atom (a set of
+equations, and a physical picture) that
+worked at least in rough agreement with
+the way observations suggested that real
+atoms worked. Once he had a rough idea
+what was going on, Bohr could tinker with
+the theories to make the bits fit together
+even better, and so work towards a com¬
+plete picture. This was just about the only
+approach that could have worked in the
+second decade of the twentieth century,
+for what physicists knew about atoms was
+decidedly fragmentary and incomplete.
+The electron itself, which we now know
+to be a component of the atom, had only
+Niels Bohr (right) with Einstein in
+Brussels, in 1930. Einstein believed that
+there were laws governing the behaviour
+of everything in the universe from elec¬
+trons to planets and to the end of his life
+he was unwilling to accept a central no¬
+tion of quantum theory that the precise
+movement of a single electron could not
+be predicted. "God", he once said, "is
+subtle but he is not malicious. " And on
+another occasion "God does not play at
+dice." To which Bohr is said have
+retorted "Stop telling God what to do."
+been discovered in 1887, and it was only
+in 191 1 that New Zealand physicist Ernest
+Rutherford (1871-1937), on the basis of
+experiments carried out in Manchester,
+suggested that there must be a small cen¬
+tral nucleus to every atom, containing all
+of its positive charge and most of its mass,
+while the electrons formed a cloud of
+negatively charged particles around the
+nucleus.
+Later experiments showed he was
+correctthe nucleus is only one hundred
+thousandth of the size of the atom.
+Typically, a nucleus about 10-13 cm
+across is embedded in an electron cloud
+10-8 cm across. To put these figures in
+perspective, imagine a pinhead, perhaps
+a millimetre across, in the centre of the
+dome of St Paul's Cathedral (35 metres in
+diameter), surrounded by a cloud of
+microscopic dust motes far out in the
+dome. The pinhead represents the
+nucleus, and the dust motes represent
+electrons. Atoms are mostly empty space.
+But at the beginning of 1912, Ruther¬
+ford's picture of the atom was still con¬
+troversial. In particular, since opposite
+electric charges attract one another,
+physicists could not explain why all the
+electrons in every atom did not im¬
+mediately fall in to their nuclei, releasing a
+burst of energy (radiation) in the process.
+This is where Bohr came in, naturally
+gravitating to Manchester to work with
+Rutherford's group as his interest in the
+atomic puzzle grew.
+The simplest ¡mage of the atom that
+emerged from Rutherford's work was
+something like the Solar System, with a
+nucleus at its heart, in place of the Sun,
+and electrons orbiting around it, in place
+of the planets. The picture is over-
+simplistic, but it was the first step on the
+road to understanding the atom.
+Everything physicists knew about charg¬
+ed particles in orbit said that they should
+radiate electromagnetic energy (light, X-
+rays or radio waves) and spiral inwards.
+So there was an obvious flaw with the
+model. Bohr resolved the dilemma by
+20
+
+a pragmatic genius by John Gribbin
+plucking a totally different idea out of cur¬
+rent developments in physics, and stick¬
+ing it on to Rutherford's atomic model.
+This was the idea, stemming from the
+work of German physicist Max Planck
+(1 858-1 947) at the turn of the century, that
+electromagnetic radiation (light, or the
+other forms) could only be emitted or ab¬
+sorbed by an atom in discrete units, called
+quanta. The automatic bank-note
+distributor at my bank in London operates
+much the same way. It will only issue me
+with money in units of £5. 1 can get £20, or
+£45, but I cannot get £1 , or £37, out of it.
+Bohr said that the electrons "in orbit"
+around the nucleus of an atom could not
+spiral gently inward because that would
+involve radiating energy continuously.
+Quantum theory said that they could only
+release certain fixed amounts of energy,
+and to do so an electron would have to
+"jump", instantaneously, from one "or¬
+bit" to anotherrather as if Mars sudden¬
+ly jumped into the Earth's orbit. There
+were stable orbits, said Bohr, correspon¬
+ding to fixed amounts of energy, rather
+like the rungs on a ladder. But there were
+no in between orbits, and an electron
+could not spiral into the nucleus because
+that would involve releasing fractional
+amounts of energy.
+What Bohr did had no right to work. The
+whole idea of an orbit depends on
+classical physics, Newton's laws; the idea
+of electron states corresponding to fixed
+amounts of energy (energy levels, as they
+came to be called) came from quantum
+theory. Making a model which patched
+together bits of each theory gave no in¬
+sight into what made atoms tick, but it pro¬
+vided just enough of a starting point for
+Bohr to make progress throughout the
+next ten years.
+Niels Bohr used to begin his lectures by
+saying to his students "Every sentence
+that I utter should be regarded by you not
+as an assertion but as a question. " He Is
+seen here, In 1936, at the Niels Bohr In¬
+stitute, Copenhagen, in conversation
+with two other Nobel Prlzewlnning
+physicists, Werner Heisenberg (centre)
+and Wolfang Pauli (right).
+That progress continued in
+Copenhagen, where the authorities
+created a new Institute to entice Bohr
+back. He became director of the Niels
+Bohr Institute in 1920, developing it into
+one of the great scientific centres, where
+theoretical physicists came from all over
+the world to bounce ideas off one another
+and to probe the mysteries of quanta and
+the atom. And in the early 1920s Bohr pro¬
+duced his greatest single achievement, a
+theory of the atom which explained, at
+least in broad outline, the whole science
+of chemistry.
+The Siberian Dmitri Mendeleyev
+(1834-1907) had come up with his
+classification of the elements in the
+1 860s. He showed that these fundamental
+substances could be ranked in a table in
+order of increasing atomic weight, in such
+a way that elements with similar proper¬
+ties appeared beneath each other in the
+columns of the table. But there was no ex¬
+planation of why elements with very dif¬
+ferent atomic masses should just happen
+to have similar chemical properties, until
+Bohr improved his theory of the atom in
+the years following the First World War. It
+was clear to Bohr, and his contem¬
+poraries, that the chemical properties of
+atoms depend almost exclusively on the
+number of electrons they contain. These
+are related to the number of protons
+(positively charged particles) in the
+nucleus, and therefore to the atomic
+mass. But the electrons themselves are
+the visible face an atom shows to the
+world, the "handles" by which it interacts
+with other atoms. So why should an atom
+of lithium, which has three electrons, be
+very similar chemically to an atom of
+sodium, which has eleven electrons, and
+potassium with nineteen? Once again,
+Bohr produced an imaginary model of the
+atom to explain the observations, without
+waiting for the fundamental physics to be
+worked out.
+Imagine the electron "orbits" around
+the atom as more like onion skins, nest¬
+ling one inside the other, than like the or¬
+bits of the planets around the Sun. What
+Bohr said, in effect, was that the inner¬
+most orbit, or "shell", only has room for
+two electrons. He didn't worry why this
+should be so; he just chose the restriction
+to match the observed patterns of
+chemical properties of the elements. The
+next shell out from the nucleus, however,
+has room for eight electrons. So an atom
+which has, say, six protons in its nucleus,
+and therefore "needs" six electrons to en¬
+sure its electrical neutrality, will slot two
+into the innermost shell, and four into the
+second shell. But an atom with eleven pro¬
+tons (sodium) has two in the innermost
+shell, eight in the second, full, shell, and
+the last has to go into a new shell, out on
+its own. This is very similar to the pattern
+for lithium, which has two electrons in its
+innermost shell, and, once again, just one
+out on its own. And potassium fits the pic¬
+ture if we imagine it to have three filled
+shells (two, eight and eight electrons
+each), with a lone electron in the fourth
+shell.
+What matters for chemistry is primarily
+the number of electrons in the outermost
+shell that contains any electrons at all.
+Working outward through the shells for
+heavier and heavier atoms, with more and
+more electrons, Bohr was able to explain
+the relationship between the elements in
+Mendeleyev's periodic table in terms of
+atomic structure, and although he had no
+idea why a shell containing eight elec¬
+trons should be "closed" to further addi¬
+tions, he could use the fact that it was to
+explain how atoms combine with one
+another.
+Bohr proved nothing mathematically
+he just knew that things had to be this
+Niels Bohr (left) sitting back-to-back with
+Ernest Rutherford during a river-side pic¬
+nic In 1923, at Cambridge, where he had
+gone to receive an honorary Doctor of
+Science degree. In 1911, Rutherford had
+made the greatest of his many contribu¬
+tions to sciencehis nuclear theory of
+the atom (see article). It was while work¬
+ing with Rutherford at Manchester
+University that Niels Bohr developed the
+theoretical Implications of the nuclear
+model of the atom, combining It with the
+quantum theory developed by the Ger¬
+man physicist Max Planck.
+21
+
+way. In his Autobiographical Notes,
+published in 1949, Einstein said of Bohr's
+work and the early quantum theory "that
+this insecure and contradictory founda¬
+tion was sufficient to enable a man of
+Bohr's unique instinct and talent to
+discover the major laws of spectral lines
+and of the electron-shells of the atoms
+together with their significance for
+chemistry appeared to me like a
+miracleand appears to me as a miracle
+even today".
+In 1922, Bohr received the Nobel Prize
+for physics for this work; in the same year,
+a previously unknown element, whose ex¬
+istence had been predicted by his atomic
+theory, was discovered, and named haf¬
+nium. But it was only in 1926 and 1927
+that physicists at last began to put the
+quantum theory on a secure footing,
+discovering the relationships and laws
+which explained why electrons had to
+behave in this peculiar manner, why the
+numbers allowed in each shell were
+limited. That full version of the quantum
+theory brought in concepts that still seem
+bizarre. No longer could the electron be
+thought of as a tiny particle, but rather as
+an entity which could be both wave and
+particle at the same time. Any experiment
+designed to find a particle would indeed
+show the electron behaving as a
+particlebut set up an experiment to
+measure wave properties, and it would
+show electrons behaving like waves.
+What was "really" going on?
+By the late 1 920s, physicists had a com¬
+plete theory, a set of self-consistent equa¬
+tions, to describe the behaviour of atoms,
+electrons and radiation. The only trouble
+was it didn't make sense. Once again,
+Jb^.df-ftt , z'*
+¿
+W-'fô-i'jf£c. $-
+-MM

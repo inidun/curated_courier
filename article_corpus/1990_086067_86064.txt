@@ -1,0 +1,308 @@
+
+E,LECTRiciTY ¡s the power source
+that drives the modem world. It pro¬
+vides heat and light, it powers
+machines and appliances and makes
+global communications possible. In
+the same way that friction limits the
+efficiency of mechanical machines,
+resistance to the flow of electrons
+through the conducting material is
+the limiting factor in any electrical
+device.
+In 1911, however, a type of
+material was discovered which has no
+electrical resistance. Known as super¬
+conductors, such materials are effec¬
+tively "frictionless" conductors if
+you start an electric current moving
+in a loop of superconductor it will
+literally go on moving forever. They
+are the electrical equivalent of a per¬
+petual motion machine.
+The one big drawback of the ear¬
+ly superconductors was that they only
+functioned at very low temperatures,
+within a few degrees of absolute
+zero, -273° Celsius, which is known
+as 0 Kelvin or 0 K. Until a few years
+ago, the highest recorded tempera¬
+ture at which a superconductor
+would work was 23 K. This meant
+that liquid helium, an expensive liquid
+to produce and store, had to be used
+as a coolant.
+This has not prevented supercon¬
+ductors from being used. Magnets
+can be made from coils of supercon¬
+ducting wire which produce intense
+magnetic fields. These have been put
+44 to use in medical body scanners and
+
+
+BAFFLING
+BUT IRRESISTIBLE-
+THE WORLD OF
+SUPERCONDUCTORS
+BY DAN CLERY
+in magnetically levitated trains which
+can reach speeds of 500 kilometres
+an hour floating just centimetres
+above the track. Japan has a work¬
+ing prototype of just such a train.
+Electronic devices made from super¬
+conducting materials can be used as
+extremely sensitive sensors or as com¬
+ponents in super fast computers.
+New superconducting
+ceramics
+In April 1986, however, everything
+changed. Two researchers who
+worked for IBM in Zurich, Georg
+Bednorz and Alex Müller, stumbled
+upon a ceramic made from the ele¬
+ments lanthanum, copper, barium
+and oxygen which became supercon¬
+ducting at 35 K. Scientists in the
+United States soon discovered similar
+ceramics which worked at tempera¬
+tures up to 98 K. This was very
+significant since these new supercon¬
+ducting ceramics could be cooled
+with liquid nitrogen, which is much
+cheaper than helium and a much
+easier liquid to handle.
+Suddenly the scientific world was
+in turmoil and scientists all over the
+world were racing to see who could
+find the ceramic that showed super¬
+conducting qualities at the highest
+temperature. At a hastily convened
+meeting of the American Physical
+Society early in 1987, thousands of
+physicists crammed into a ballroom in
+New York's Hilton hotel and fiercely
+debated the new discoveries until 6
+a.m. The press quickly latched on and
+hailed the meeting as the "Wood¬
+stock for physicists". Magazines were
+full of photographs of little blocks of
+the new ceramics levitating over mag¬
+nets. This phenomenon is an exam¬
+ple of the Meissner effect, in which
+a superconductor repels any magnet¬
+ic field from penetrating its surface,
+causing it to float above a magnet.
+The potential of these new
+materials was quickly seen and indus¬
+trial companies as well as academic
+researchers joined in the race.
+Governments poured money into
+research, not wanting other countries
+to get a lead in exploiting the new
+phenomenon. Reports flooded in of
+higher and higher temperatures,
+some even approaching room tem¬
+perature, around 295 K. If this were
+achieved it would literally transform
+electrical technology. People spoke
+optimistically of a world of super-
+efficient machines, effortlessly fast
+levitating trains and new high-speed
+computers.
+Many of the early reports were,
+however, overly optimistic. Most of
+the new ceramics which showed
+superconducting behaviour at tem¬
+peratures higher than 100 K were
+unstable, and soon lost their super¬
+conducting qualities, or were not
+showing true superconductivity. To
+date the highest confirmed temper¬
+ature for a superconducting ceramic
+is 125 K.
+How the new superconductors
+actually work is still confounding the
+theorists. Electrical conduction occurs
+when electrons free themselves from
+their atoms and can move about in
+
+Opposite page: in a startling
+display of lévitation, a small
+cylindrical magnet hovers in
+mid-air above a nitrogen-
+chilled disc of ceramic
+superconducting material.
+The glowing vapour is
+from liquid nitrogen, which
+maintains the ceramic within
+its superconducting
+temperature range.
+Left: a pellet of the ceramic,
+suspended from a length of
+thread, is deflected by a
+permanent magnet.
+Right: molecular computer
+graphic showing the crystal
+structure of one of
+the new generation of
+superconductors.
+the crystal structure of a conductor.
+Resistance is created by the electrons
+bumping into atoms in their path as
+they move through the conductor.
+The theory which explains traditional
+low-temperature superconductors
+predicts that electrons can avoid any
+collisions by moving through the con¬
+ductor on a vibration in the lattice just
+as a surfer rides a wave on the ocean.
+But in order to do this the electrons
+have to move around in pairs, one
+electron following the other like a
+slipstreaming racing car.
+The theory also predicts that
+superconductivity cannot occur
+above 35 K, so theorists have had to
+start from scratch to explain the new
+materials. There is no definitive theory
+yet, but one strong contender
+predicts that conduction occurs not
+through the movement of electrons
+but the movement of electron vacan¬
+cies, or "holes", which jump from
+atom to atom in the conductor.
+Practical applications
+The hype that surrounded the discov¬
+ery of these new materials neglected
+to mention the many problems that
+must be overcome before useful ap¬
+plications can be achieved. Supercon¬
+ducting ceramics are produced as a
+powder which can be compressed
+into a rather brittle solid substance.
+This brittleness makes it very difficult
+to produce useful shapes such as
+wires. Some success has been
+achieved by using techniques taken
+from the microelectronics industry.
+The ceramics can be laid down as a
+thin layer on top of another material
+by gently spraying the constituent
+parts of the ceramic at the underly¬
+ing base. As they land, the molecules
+arrange themselves into the crystal
+structure of the ceramic.
+Any useful application must
+make use of one of the three special
+properties of superconducting
+materials. The first of these is the fact
+that they will conduct electricity with
+no resistance. The most obvious ap¬
+plication would be in the transmission
+of power from power stations to elec¬
+tricity users. At the moment 1 0 to 20
+per cent of all power produced is lost
+during transmission, and so signifi¬
+cant savings could be made. An effi¬
+cient method of drawing the
+ceramics into wires must be found
+before these savings can be achieved.
+Also, the new materials cannot carry
+a large amount of current without
+losing their superconducting quali¬
+ties. The best they can manage at the
+moment is one thousandth of the
+current needed.
+The second special property of
+superconductors is their ability to
+generate very strong magnetic fields.
+Low-temperature superconductors
+can generate fields 200,000 times
+stronger than the earth's magnetic
+field. Any electrical conductor can
+generate a field. If formed into a
+loop, a current round the loop will
+generate a magnetic field through its
+centre. It is a superconductor's ability
+to conduct current effortlessly around
+the loop which leads to such strong
+fields.
+Medical scanners and levitating
+trains could both be made more sim¬
+ply and cheaply using new high-
+temperature superconducting mag¬
+nets. So too could the Supercon¬
+ducting Supercollider, a particle ac¬
+celerator which the US government
+plans to build in an 88-kilometre tun¬
+nel under the state of Texas to study
+the elementary particles of matter.
+Accelerators use powerful magnets
+to bend beams of particles into a cir¬
+cular path so that they collide and the
+fragments of their collisions can be
+analysed.
+The Meissner effect, described
+above, prevents a magnetic field from
+penetrating into a superconductor.
+However, strong fields can break
+through this repulsion, and if they do
+this they destroy the superconduct¬
+ing properties of the material. The
+new superconducting ceramics have
+so far proved susceptible to the ef¬
+fects of strong fields, so their useful¬
+ness for this sort of application may
+be limited.
+The Josephson junction
+The third property of superconduct¬
+ing materials is the one that looks the
+most promising for the new ceramics.
+If two superconductors are brought
+very close together but not allowed
+to touch, electrons can jump across
+and current can flow as if the two
+conductors were touching. The cur¬
+rent across the gap is, however, very
+sensitive to external electric and mag¬
+netic fields, so this so-called Joseph-
+son junction can be used as a very
+accurate sensor of electric and mag¬
+netic fields or as an electronic switch
+like a transistor.
+Devices based on Josephson
+junctions can be used by biophysicists
+to study the minute electrical fields
+created by activity in the brain. On
+board satellites they can be used in
+detectors to look at the stars and
+planets or down at the earth's sur¬
+face. Computer chips based on
+Josephson junctions, with intercon¬
+necting wires also of superconduct¬
+ing material, would be much faster
+than conventional machines. The
+technology for manufacturing these
+tiny devices from the brittle ceramics
+already exists, but many reliability
+problems remain to be solved. It is in
+these high-technology fields of sen¬
+sors and electronics that we are most
+likely to see the new superconductors
+in use.
+The likelihood of superconduc¬
+tors that operate at room tempera¬
+ture now seems remote, unless there
+is another dramatic breakthrough or
+a theory of superconductors which
+can point the way to use at higher
+temperatures. Very exciting possibil¬
+ities for superconducting ceramics lie
+ahead, but perhaps not those which
+people originally imagined.
+DAN CLERY
+is a British journalist specializing in
+the popularization of science.
+E N
+45

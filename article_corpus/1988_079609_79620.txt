@@ -1,0 +1,181 @@
+Computerized typesetting
+in China
+BY XU LIAN-SHENG
+THE technique of printing using mov¬
+able type was invented by Bi Sheng
+in China between 1041 and 1048 and
+not, as is widely believed, by Johannes
+Gutenberg in fifteenth-century Europe. The
+type used by Bi Sheng was made of earthen¬
+ware, but in later times in China it became
+common to use wood, enamelware or metal.
+With the development of movable lead type,
+"hot metal" came to be used all over the
+world for the mass production of printed
+works.
+The low cost of setting lead type, which
+could be melted down after printing so that
+the same metal was used over and over again,
+made this technique the mainstay of the
+printing industry for centuries. With the
+rapid progress of photocomposition,
+XU LIAN-SHENG, of China, is deputy director
+of the Photosetting Centre of the China Research
+Institute of Printing Science and Technology. He
+also played a leading part in the design of China's
+KY Microcomputer Photosetting System.
+however, and especially the computerization
+of typesetting in recent years, movable lead
+type has inevitably become obsolete.
+In China, setting movable type has always
+been a complex and exhausting job because
+of the huge number of characters in the
+Chinese language. A typesetter has to walk
+between five or six cases of type and reach
+high and low in order to find and retrieve the
+required pieces.
+A modern version of this problem arises
+with computerized typesetting. A regular
+keyboard will suffice for entering into the
+computer all the letters of Western lan¬
+guages, but has far too few keys to enter the
+thousands of Chinese characters.
+Two methods can be used to solve the
+problem. One is to make a large keyboard
+with each key representing a Chinese charac¬
+ter, the finding and entering of which are
+done by an operator. The advantage of this
+method is that the operator can see the char¬
+acter to be keyed in. The disadvantage is that
+the keyboard has to be very large and the
+arrangement of the keys is extremely com¬
+plicated. The operator takes a long time to
+learn by heart the position of each character,
+and searching among the mass of keys is a
+laborious task.
+The other method is to use a keyboard the
+same size as that of a Western-language com¬
+puter and enter each Chinese character by
+striking more than one key in a certain pat¬
+tern which reflects the construction of that
+character. A number of systems have been
+developed in accordance with this principle;
+they all make use of either the vocal or the
+written features of a given character.
+An operator using the vocal method has to
+transliterate the characters into the Chinese
+Phonetic Alphabet and then key in the let¬
+ters. For instance, to enter the word China,
+which has two characters, the operator
+strikes the letters making up the words
+"Zhong Guo" (the phonetic pronunciation
+of the word). The advantage of this method
+20
+
+Cases of metal type in the composing room of a
+daily newspaper in China. The Chinese writing
+system, which is ideographic rather than
+alphabetic, uses several thousand characters.
+©
+Drawing of Wang Chen's movable wooden type
+printing process, developed in the late 13th cen¬
+tury, some 250 years after Bi Sheng's invention
+of movable type. Right, a compositor typeset¬
+ting with characters ingeniously arranged in
+revolving typecases to enable rapid retrieval.
+Left, brushing the back of a sheet of paper to
+take an impression from the inked printing
+block.
+Illustration from Science and Civilisation in China, Vol 5, Part 1,
+by Tslen Tsuen-Hsuln and Joseph Needham © Cambridge Uni¬
+versity Press, 1985
+An operator working on one of the first com¬
+puterized typesetters for the Chinese language,
+the KY Microcomputer Photosetting System
+developed at the China Research Institute of
+Printing Science and Technology.
+Photo © Xu Lian-Sheng/Chinese edition of the Unesco Courier,
+Beijing
+A Chinese typewriter. The tray contains some
+2,500 characters individually cast in lead and
+arranged face up. Above is a sheet of paper on a
+roller, and the typing mechanism, which is
+moved into position above the required charac¬
+ter. The operator then pushes a lever which lifts
+the character out of the tray and forces it
+against the inked ribbon.
+is that anyone who knows the correct pro¬
+nunciation of the character to be keyed in
+can operate the machine without previous
+training. The disadvantage lies in the high
+rate of duplicated codes due to the fact that
+there are so many homophones in Chinese.
+Various methods of text input make use of
+written features. All Chinese characters can
+be broken down into basic structural com¬
+ponents, which are few in number. If these
+components are properly arranged on a
+keyboard, any Chinese character can be
+keyed in by grouping them. For example, the
+word Jlj (country) is composed of 3£ and
+\_\ . Both the number of key strokes needed
+to enter a character and the rate of possible
+duplicated codes can be reduced to a fairly
+low level if the breakdown of the compo¬
+nents is correct. Furthermore, the operator
+does not need to know how to pronounce
+the character. This method is clearly useful
+since there are so many local dialects in
+China that sometimes people who live fif¬
+teen kilometres apart cannot understand
+each other.
+One practice commonly used to increase
+operating speed is the word-group method,
+whereby the operator strikes a single key to
+enter a frequently used word or phrase.
+Another problem is that Chinese text may
+be set either vertically or horizontally (in
+some magazines articles are set both ways),
+and a good composing system must be cap¬
+able of meeting these requirements. What is
+more, a number of Chinese magazines pub¬
+lish articles containing words or passages in
+foreign languages, and so we also need a
+system which can set Western language texts
+as well as those in Chinese.
+With regard to output the generation by
+the computer of text in the required for¬
+mat the biggest problem is how to cope
+with the mass of data involved in processing
+a huge number of characters each of which,
+for the computer, has an information con¬
+tent many times higher than that of an En¬
+glish letter. Various methods have thus been
+devised for compressing this information
+into abridged form so as to take up less of the
+computer's memory. This is an area in which
+there is a need for further study and develop¬
+ment.
+Computerized typesetting in the Chinese
+language has already made remarkable prog¬
+ress and, as it comes to replace metal type¬
+setting, will surely play an increasingly
+important role in the Chinese printing
+industry.
+Below, Chinese ideograms printed using mod¬
+ern metal type, in different typestyles and sizes.
+Bottom, the basic elements of Chinese script,
+from which all ideograms are constructed.
+Illustration from Science and Civilisation in China, Vol 5, Part 1,
+by Tsien Tsuen-Hsuin and Joseph Needham © Cambridge Uni¬
+versity Press, 1985
+ä $ t m pu si
+S ft fi W rji m
+* M « W nu si
+* Jt # m 1$ «
+tt * ti- äi m w
+r. M 9 M rr »
+) ~7
+/ ¡
+Tj V
+21

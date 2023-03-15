@@ -1,0 +1,317 @@
+The perspective from space
+by Jean-Philippe Grelot
+.?#<
+Advances in computer
+science and the mass
+of data transmitted
+from remote-sensing
+satellites are taking
+cartography into a
+new era
+Aerial photography is used
+systematically In map
+production. Partly overlapping
+photos are assembled in a
+mosaic (above).
+VMRTOGRAPHY is a very ancient art. As long
+ago as the time of the Pharaohs, surveyors were
+drawing up plans of plots of cultivated land in
+order to re-establish property boundaries or
+replace cornerstones buried under the silt brought
+down by the floodwaters of the Nile.
+The great voyages of discovery of the fifteenth
+century led to the transformation of world maps.
+Returning from their voyages, the great navi¬
+gators of those days recounted their experiences,
+which cartographers working quietly in their
+homes incorporated into more accurate maps.
+The emergence of modern cartography,
+however, dates from the eighteenth century,
+when scientific expeditions such as the French
+expeditions to Lapland and Peru finally con¬
+firmed Newton's hypothesis that the world was
+shaped like a sphere slightly flattened at the poles.
+It was through these expeditions that cartog¬
+raphy acquired the mathematical basis it needed
+to become the instrument for the accurate,
+graphic, scale representation of our knowledge
+of the Earth that it is today.
+The starting-point of all cartography is the
+science of geodesythe determination of the size
+and shape of the Earth and the exact position of
+a series of reference points on its surface. By
+means of successive readings taken in turn from
+each of these points, the co-ordinates of these
+points on the surface of the Earth are determined
+and then transposed to a flat surface.
+Today, methods and instruments have com¬
+pletely changed. Using a small calculator linked
+to an aerial, geodesists "listen" to the specialized
+satellites of the Global Positioning System, which
+give them their precise position immediately.
+During the previous three centuries, however,
+they would have had to take readings with the¬
+odolites of the various topographical features
+around them. On the basis of these reference
+points, topographers would have made a detailed
+examination of the terrain so as to locate the
+roads, houses, forests, rivers, etc., that they had
+observed.
+From about 1930, aerial photography, a tech¬
+nique which had been perfected during World
+War I, radically modified this painstaking work
+and signalled the end of direct accumulation of
+data by observation on the ground. Aeroplanes are
+flown in a series of straight lines and photographs 35
+
+are taken at fairly close intervals. Each section
+
+
+
+of terrain flown over is photographed twice, from
+different angles. In this way the aerial photo¬
+graphs provide the binocular effect of human
+vision, which makes possible the appreciation of
+distance and relief.
+The cartographer makes use of this
+stereoscopic effect which, used in conjunction
+with extremely precise measurement techniques,
+gave rise to the science of photogrammetry (the
+measurement of photographs applied to sur¬
+veying and mapping, as well as for engineering
+and other purposes). Through the twin eyepieces
+of their photogrammetrical reconstitution equip¬
+ment, each of which is focused on one of the two
+successive aerial photographs, the stereo-operators
+get a true picture of the terrain in relief, with its
+heights, its valleys, houses and trees. All that then
+has to be done is to trace the relief with a cursor,
+whilst operating certain controls, for the co¬
+ordinates of the various features to be recorded.
+However, a certain amount of fieldwork
+remains necessary to check the correct identifi¬
+cation of detail, to fill in details not visible in areas
+in shadow, or to add information such as place-
+names or administrative boundaries that aerial
+photographs cannot supply.
+The documentation thus produced is cor¬
+rected by the map editor and then printed. The
+process calls for great care and precision and is
+quite lengthy. About two years should be allowed
+from the taking of the aerial photographs to the
+publication of the map.
+The computer invasion
+Computers came upon the cartographical scene
+in the late 1950s. They were first used in geodetic
+calculations. Some ten years later experiments
+were begun with computer-assisted design,
+although this did not go beyond the laboratory
+stage. Then, in the 1970s, the data on maps were
+recorded in numerical form, which greatly eased
+their use and updating.
+Geodetic surveying afloat.
+Below, members of a
+scientific expedition climb
+Mount Pelvoux, France's
+highest geodetic point (1910).
+In the 1980s computers invaded every sphere
+of cartography, including photogrammetry. Like
+the micro-computer, equipment for computer-
+assisted design became smaller and smaller and
+at the same time more and more powerful. Par¬
+ticularly spectacular progress was made in the
+development of conceptual models and data
+banks and in numerical data-handling capacity.
+Computerized cartography has developed into a
+full-scale "Geographic Information System" with
+its own data banks and its own equipment and
+application programs.
+With their powerful analytical capacity, com¬
+puters have considerably reduced the time
+required to produce a map; but the demand is still
+for faster results. To meet it, cartography is
+turning towards a new toolremote sensing by
+means of Earth observation satellites.
+Remote sensing satellites
+What are the broad principles of this new and
+revolutionary technique? Remote sensing satel¬
+lites capture by means of scanning sensors the
+varying electromagnetic radiations emitted by the
+points the satellites observe on the Earth's surface.
+
+Top, the site of the 1992
+Winter Olympics at Albertville
+(France) as viewed from the
+SPOT satellite. Altlmetrlc data
+are used to make a numeric
+model of the site In which the
+relief Is depicted In grid form
+(middle photo). The model Is
+then combined with the SPOT
+Image to obtain a perspective
+view (bottom).
+The nature of the electromagnetic radiation
+emitted by a given point on the Earth's surface
+depends upon the characteristics of the Earth's
+surface at that pointfactors such as temperature,
+humidity, the presence or absence of vegetation,
+and the nature of rock formations.
+The satellite then transmits the data it has
+obtained to a ground station, either in photo¬
+graphic or numerical form. Analysis of this data
+enables the characteristics of the points observed
+to be deduced. Thus, like aerial photographs,
+satellite images require interpretation by a
+specialist, but with the aid of a computer.
+Broadly speaking, satellites may be classified
+into three groups according to the orbits they
+follow:
+Low-orbit satellites, like the American space
+shuttle and like most military observation satel
+lites, circle the Earth at an altitude of between
+200 and 300 kilometres. Subject to the braking
+drag of the atmosphere, they have an effective life
+span which varies from a few days to a few weeks.
+The photographs they take are of a scale of the
+order of 1:100,000, which means that objects of
+a metre or more can be distinguished. The pho¬
+tographs are transmitted during the satellite's
+return to Earth or when a capsule fitted with a
+parachute is ejected.
+Satellites in heliosynchronous orbit circle the
+Earth at ,an altitude of 800 to 900 kilometres.
+Those in the American Landsat (or ERTS) series
+(five satellites since 1972) or the French SPOT
+series (two satellites, one in 1986 and one in 1990)
+have a life span of a few years and record numer¬
+ical images each of which covers an area of from
+3,500 to 35,000 square kilometres. Their resolu¬
+tion varies from about fifty metres for Landsat
+to about ten metres for SPOT, which, using
+stereoscopic methods, is the first system of Earth
+observation to "see" in relief. They pass over the
+same point of the Earth at the same time in rela¬
+tion to the Sun (hence the term heliosyn¬
+chronous) approximately every twenty days. By
+orienting the mirrors of its sensors, SPOT can
+record details of a given zone every three days,
+meteorological conditions permitting (SPOT
+satellites cannot pierce cloud cover). The whole
+of the Earth's surface is covered in a period of
+two to three weeks.
+Geostationary satellites, like Meteosat, are placed
+in an equatorial orbit at an altitude of 36,000
+kilometres. They record numerical images
+covering a quarter of the globe with a resolution
+of about five kilometres. Since their position in
+relation to the Earth is fixed they are within cons¬
+tant view of a ground reception station to which
+they transmit images every half hour. They are,
+however, unable to scan the polar ice caps.
+Satellite images make possible the continuous
+updating of maps, with a reduction in the margin
+of error and in the time span. A satellite like
+SPOT makes possible the updating of the car¬
+tographical cover of a country in a matter of
+months, as compared with ten years or so using
+classic methods.
+Today evolving computer technology has
+combined remote sensing and cartography and
+taken advantage of their complementarity. As a
+result, now that we can handle both cartographic
+data and the images on which they are based,
+whether these be numerical or graphic, we talk
+nowadays in terms of "integrated" geographical
+information systems
+Practical applications
+The first field of application for geographical
+information systems is resource management in
+both urban and rural areas. Now that it can pro¬
+vide the most accurate information about the con¬
+dition of a given area and furnish a visual and
+data-based synthesis of it, cartography is in a 37
+
+38
+position to optimize the efficiency and cost-
+effectiveness of that area's management.
+The supply and waste utility networks of an
+urban area (water, electricity, telephone and tel¬
+evision cables, waste water conduits, household
+waste collection and road networks) are all inter¬
+twined within a restricted space. As they become
+older they have to be renovated and adapted to
+meet new needs. Work of this kind has to be care¬
+fully planned to cause the least possible distur¬
+bance to users, to reduce the risk of accidents and
+to keep costs to a minimum. Cartography also
+has a part to play in other sectors, such as public
+transport and the siting of medical and educa¬
+tional facilities. In fact, all aspects of the life of
+the community are involved. Three-quarters of
+the data handled by urban authorities are local¬
+ized data and thus come within the sphere of
+geographical information systems.
+In agriculture, the main application of car¬
+tography is in the study of land-use and cultiva¬
+tion methods, monitoring plant cover, harvest
+forecasting and the assessment of the conse¬
+quences of such climatic hazards as drought or
+floods and of the incidence of such events as epi¬
+demics or fires.
+Coupled with management is development,
+on which the whole aspect of an area depends.
+This includes town planning, the construction of
+the road infrastructure and agricultural improve¬
+ment. Here, project mapping, which is limited
+in both space and time according to the nature
+and scope of the project envisaged, is used as well
+as overall, basic cartography. This is a specific
+type of cartography based on a specific range of
+data. It is dependent upon precision, constant up¬
+dating and a permanent observation system. In
+this domain, aerial photography and satellite
+imagery play a decisive role because of the speed
+with which they can furnish information.
+Lastly, understanding and control of the
+environmenta more recent concern directly
+connected with developmentcall for broad car¬
+tographical involvement, for here too thinking
+must be in terms of spatial analysis. The factors
+that have to be borne in mind are multiple and
+complex yet they require simple formulation.
+The areas involved are becoming larger and larger
+so that the interactions and spread of phenomena
+can be taken into account. Satellites that roam
+in space unhampered by national boundaries are
+the ideal tool for the acquisition of the necessary
+global information. This is even more true now
+that computer science is beginning to provide the
+means (vast storage capacity thanks to the new
+optical disks, rapid data handling by means of
+parallel processors, transmission by local net¬
+works and integrated service networks) for rapid
+and efficient handling of the vast mass of data
+these satellites transmit.
+Cartography still retains its essential didactic
+function. A synthetic science that reveals the lines
+of force of global phenomena by demonstrating
+their spatial relationships, it also pioneers the way
+to new horizons of knowledge. And, feeding back
+to us as it does the image that we are giving to
+our land, it has become a prime witness to our
+cultural development.
+A satellite Image forms the
+basis of this map of Bamako
+(Mali).
+JEAN-PHILIPPE GRELOT,
+French geographer, is sales
+director of his country's
+National Geographical Institute.
+He teaches cartography at
+France's School of
+Geographical Sciences, and is
+vice-president of the
+International Cartographic
+Association. He has published
+many articles on cartography
+in French and other journals.

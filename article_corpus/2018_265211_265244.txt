@@ -1,0 +1,154 @@
+What projects are you working on 
+in FAIR’s Paris laboratory?
+The topics that interest me most are the 
+fairness, transparency and reliability of 
+AI. In 2017, a group of colleagues and 
+I were the first to develop algorithms 
+(Houdini) that evaluate the robustness of 
+intelligent systems, whatever the media: 
+sound, video or other.
+The robustness of algorithms is 
+essential for the security of AI products. 
+Imagine what could happen if someone 
+malicious wanted to change the 
+algorithm that drives your autonomous 
+car! Any computer system can be 
+attacked from the outside – by hacking 
+or malicious modification. So it is 
+essential to ensure its ability to resist 
+such attacks.
+Other work I recently published with a 
+colleague involves equipping intelligent 
+algorithms with the ability to treat all 
+human beings fairly – which means 
+that their behaviours are no different 
+whether you are a man or a woman, 
+black or white, etc.
+In other words, I try to ensure that 
+algorithms are not only as reliable as 
+possible, but as relevant as possible 
+to the needs and values of the human 
+society they are meant to serve.
+
+Moustapha Cissé, interviewed by Katerina Markelova
+He is 32 years old, and was born and raised in Senegal where he 
+studied mathematics and physics. He earned master's degrees in 
+artificial intelligence (AI) in France and Canada before returning 
+to Paris to pursue a Ph.D. Two years ago, he joined Facebook 
+AI Research (FAIR). Founded in 2013, it has since established 
+laboratories around the world − in New York, Menlo Park (California), 
+Paris, Montreal, and most recently, in Seattle and Pittsburgh. This, 
+in short, is the story of Moustapha Cissé, who tells us about his 
+research, his motivations and his hopes.
+Democratizing AI in
+Africa
+Studies have shown that facial 
+recognition systems work better with 
+European faces than with African ones, 
+for example. It is the same for AI systems 
+that identify skin cancers: they give 
+better results for white patients than for 
+black patients. Similarly, some systems 
+were found to work better with men 
+than with women. There is, therefore, a 
+whole axiological dimension that has 
+been neglected during the development 
+of these systems. I am working with 
+other colleagues to integrate this 
+dimension from the very beginning in 
+the construction of the AI models we 
+are working on. This is a very important 
+aspect of AI development, if we want 
+it to be able to offer the same benefits 
+to everyone.
+You have said that the AI research 
+community should stop focusing 
+exclusively on “white people’s problems”.
+I term all those technological advances 
+that are in the realm of reality in the West 
+“white people’s problems”, and the realm 
+of the imagination elsewhere, such as 
+autonomous cars, for instance. In Africa, 
+but also in many parts of Asia and South 
+America, people have other problems to 
+deal with on a daily basis, the solutions 
+of which depend on technologies that 
+are much less sophisticated, and yet 
+are non-existent. I believe that as a 
+scientific community, we could have 
+a much greater impact if we looked 
+at the problems of these people to 
+find solutions.
+In concrete terms, how can people's lives 
+be improved through AI?
+When you give people the opportunity 
+to access the information they need 
+to build social connections, get more 
+quickly integrated into an environment, 
+find work, etc., you improve their lives. 
+If you use AI to diagnose their diseases 
+earlier and offer therapies, you also 
+improve their lives.
+AI is already changing many industries 
+and I would like it to be made available 
+to all those who need it – not just part 
+of the world's population – to meet 
+the various challenges of this century. 
+For my part, I try to make things move 
+in that direction, at my level. And I 
+remain convinced that the AI research 
+community is making giant strides.
+How can the most disadvantaged 
+be given access to these 
+technological advances?
+If this technology is to be accessible 
+to all, it must be taught everywhere. 
+It is through education that it will be 
+placed in the hands of those who need 
+it most. And I guarantee you that if you 
+give them the means, people will find 
+solutions to their own problems.
+For the last three years, I have started, 
+along with a group of friends, to teach 
+AI at summer schools organized in 
+Africa, by Data Science Africa, a non-
+profit professional knowledge-sharing 
+group. Every summer, for a week or two, 
+we introduce various AI techniques to 
+students and teachers who want to 
+discover this scientific discipline.
+Last year, we launched the Black in 
+AI initiative with a group of other 
+friends. It brought together more than 
+200 black researchers (not counting the 
+Americans) at the 30th edition of the 
+world’s largest AI science conference, 
+Neural Information Processing Systems 
+(NIPS 2017).
+
+Narcisurfing Netizenship (2015), 
+sculpture by Maurice Mbikayi from 
+the Democratic Republic of the 
+Congo, who is particularly interested 
+in the impact of modern technology 
+on society, especially in Africa.
+
+In previous years, we were not even 
+ten, out of a total of more than 
+5,000 participants.
+So, at our modest level, we are trying 
+to democratize AI and access to 
+information about the discipline. I am 
+aware that this is not enough and 
+that greater action is needed, but 
+I remain optimistic.
+Are these initiatives that you have 
+launched on your own, or are they part 
+of your work at FAIR?
+These are initiatives that I launched 
+personally with friends, but I have 
+received logistical and financial support 
+from Facebook, which sponsored most 
+of the participation of about fifty young 
+African researchers at the conference I 
+just talked about.

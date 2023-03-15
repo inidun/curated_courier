@@ -1,0 +1,275 @@
+We live in a time when robots clean 
+our houses, drive our vehicles, 
+disable bombs, provide prosthetic 
+limbs, support surgical procedures, 
+manufacture products, entertain, teach 
+and surprise us. Just as smartphones and 
+social media are offering a connectivity 
+beyond anything we imagined, 
+robots are beginning to offer physical 
+capabilities and artificial intelligence 
+(AI), cognitive abilities beyond 
+our expectations. Together, these 
+technologies could be harnessed to 
+help solve important challenges, such as 
+ageing societies, environmental threats 
+and global conflict.
+What will a day in our lives look like, 
+in this not-so-distant future? Science 
+fiction has explored these possibilities 
+for centuries. Our lives will likely be 
+longer: with synthetic organs to replace 
+defective parts of our bodies, nanosized 
+medical interventions allowing the 
+precise targeting of diseases and 
+genetics, and autonomous vehicles 
+reducing fatalities in traffic. 
+Vanessa Evers
+For an artificial agent to assume 
+a real social role and establish 
+a meaningful relationship with 
+a human, it would need to 
+have a psychological, cultural, 
+social and emotional profile. 
+Current machine learning 
+methods do not allow for such 
+a development. Tomorrow's 
+robots will be our humble 
+assistants, nothing more.
+The residents of the Tsukui retirement 
+home in Kawasaki, Japan, do 
+some gymnastics with their coach, 
+Pepper (2015).
+
+Of robots and humans
+
+Our jobs will change dramatically. 
+Certain jobs will not exist anymore 
+and new jobs will emerge – in the 
+development of robot service apps, for 
+instance, that could run on available 
+robot platforms in our homes. The 
+way we are educated will also change 
+radically (see p. 34-35) – our senses and 
+brains may be artificially enhanced, and 
+our ability to reflect on new insights 
+gained from the automated analysis 
+of vast amounts of data will require 
+a different treatment of information 
+in schools. 
+But how will we relate to each other 
+in a civilization that includes robots? 
+In what way will we meet each other, 
+have relationships and raise our 
+children? To what extent will robots and 
+humans merge? 
+
+Many of us wonder whether AI will 
+become so intelligent and capable 
+in human communication that the 
+boundaries between human and 
+artificial beings will blur. If it is possible 
+to communicate in a natural way and 
+build a meaningful interaction over 
+time with an artificial agent, will there 
+still be a divide in the relationships we 
+have with people and technology? Also, 
+once our human bodies and minds are 
+enhanced with AI and robotics, what will 
+it mean to be “human”?
+Smart tricks
+From an engineering perspective, these 
+advanced capabilities are still very 
+far away. A number of hurdles need 
+to be overcome. For now, robots and 
+computers are completely dependent 
+on a power source – they require a 
+lot of electricity, and this complicates 
+integrating robotic elements with 
+human organic tissue. Another hurdle is 
+the intricacy of human communication. 
+While a one-off natural language 
+conversation in a specific context with a 
+robot can feel realistic, engaging people 
+verbally and non-verbally over many 
+conversations and contexts is quite 
+another matter. 
+For example, when you call an artificial 
+lost-and-found agent at an airport, 
+a satisfying conversation is possible 
+because there are only a limited number 
+of goals the caller has. However, in 
+creating a more extended relationship, 
+for example, with a robotic pet, a much 
+more complicated model must be 
+developed. The robot needs to have 
+internal goals, an extensive memory 
+that relates experiences to various 
+contexts, and it needs to develop these 
+capabilities over time. 
+Through smart “tricks”, a robot can seem 
+more intelligent and capable than it 
+is – by introducing random behaviours 
+which make the robotic pet interesting 
+for longer, for instance. Humans have the 
+tendency to “make sense” of the robot’s 
+behaviours in a human way (we do this 
+with animals too).
+However, in order to sustain a 
+meaningful relationship which deepens 
+and evolves over time, an extensive 
+artificial inner life will need to be created.
+How machines learn
+A major hurdle in creating this rich 
+artificial inner life is the way machines 
+learn. Machine learning is example-
+based. We feed the computer examples 
+of the phenomenon we want it to 
+understand – for instance, when people 
+feel comfortable. In teaching a machine 
+to recognize this, data of people being 
+comfortable is provided – this could 
+be in the form of images, videos, their 
+speech, heartbeat, social media entries, 
+etc. When we feed videos to a computer, 
+these are labelled with information on 
+whether the people in it are comfortable 
+or not – this may be done by experts in 
+psychology, or in the local culture. 
+The computer uses machine learning to 
+“reason” from these labelled videos to 
+identify important features that correlate 
+with feeling comfortable. This could be 
+the body pose of a person, the pitch of 
+their voice, etc.
+Once the machine has identified the 
+features predicting “comfort”, the 
+resulting algorithm can be trained and 
+improved, using different sets of videos. 
+Eventually, the algorithm is robust and 
+a computer with a camera can recognize 
+how people feel with high, if not 
+100 per cent, accuracy. 
+Now that we understand roughly how 
+machines learn, why is that a hurdle 
+in creating a compelling inner life for 
+an artificial agent to realize a seamless 
+integration with humans? 
+
+Towards a complex 
+synthetic profile
+In order to develop an artificial agent 
+that can have a sustained relationship, 
+over a long period of time, with a person, 
+we need the agent to have a compelling 
+personality and behaviours, understand 
+the person, the situation in which they 
+are both in, and the history of their 
+communication. More importantly, 
+the agent would have to keep the 
+communication going across a variety 
+of topics and situations. It is possible 
+to make a compelling agent, such as 
+Amazon’s Alexa or Apple’s Siri, that you 
+can speak to in natural language and 
+have a meaningful interaction with, 
+within the specific context of its use – set 
+the alarm clock, make a note, turn down 
+the heating, etc. 
+However, beyond that context of use, 
+the communication quickly breaks 
+down. The agent will find acceptable 
+responses for a large variety of questions 
+and comments, but will not be able to 
+sustain an hour-long discussion about 
+a complex issue. For instance, when 
+parents discuss how to respond to their 
+child not working hard at school, the 
+conversation is very rich – they bring 
+to it their understanding of the child, 
+and their own personalities, emotions, 
+history, socio-economic and cultural 
+backgrounds, psychology, genetic 
+make-up, behavioural habits and 
+understanding of the world.
+In order for an artificial agent to take 
+on such a meaningful social role and 
+develop a real relationship with a 
+person, it would need to have a synthetic 
+psychological, cultural, social and 
+emotional profile. Also, the agent would 
+need to learn over time how it “feels” and 
+respond to situations in relation to this 
+synthetic internal make-up. 
+This requires a fundamentally different 
+approach to current machine learning. 
+An artificially intelligent system 
+that develops much like how the 
+human brain develops, and that can 
+internalize the richness of human 
+experiences, is needed. The intricate 
+ways people communicate with each 
+other and understand the world is 
+an unimaginably complex process to 
+synthesize. The envisioned and currently 
+available models of AI are inspired by the 
+human brain or have elements of how 
+the brain works, but are not yet plausible 
+models of the human brain. 
+We already see AI achieving amazing 
+feats – like reading the entire internet, 
+winning at Go, the ancient Chinese 
+board game, or running a fully 
+automated factory. However, just like 
+the English physicist Stephen Hawking 
+(1942-2018) said he had only scratched 
+the surface of understanding the 
+universe, we are still merely scratching 
+the surface of understanding human 
+intelligence.
+It won’t happen 
+tomorrow
+Robots and artificially intelligent systems 
+will be able to offer us unique abilities 
+to support and enhance our decision-
+making, understanding of situations 
+and ways to act. Robots will be able 
+to contribute to or autonomously 
+carry out labour. Perhaps robotics 
+will be fully physically integrated in 
+our human bodies once a number of 
+challenges are overcome. Also, we 
+will relate to artificial agents as we do 
+to humans – by communicating with 
+them in natural language, observing 
+their behaviours and understanding 
+their intentions. However, in order 
+to sustain a meaningful relationship 
+with conversations and rituals, which 
+deepen and evolve over time in the rich 
+context of everyday life, as is the case 
+between people, an extensive artificial 
+inner life will need to be created. As 
+long as we replicate or surpass certain 
+functions of human intelligence rather 
+than the holistic whole of human 
+intelligence placed in the rich context 
+of our everyday lives, it is unlikely that 
+artificial agents and people can be 
+totally integrated.
+Active in developing robotic solutions, 
+Vanessa Evers (The Netherlands) is a 
+professor of Computer Science at the 
+Human Media Interaction group and 
+Scientific Director of the DesignLab 
+at the University of Twente. She has 
+published almost 200 peer-reviewed 
+publications, is an editor for the 
+International Journal of Social Robotics 
+and a senior editor of the Journal of 
+Human-Robot Interaction. 
+Robots, a new generation of workers, are 
+helping to remedy the shortage of carers 
+in Japanese hospitals. Riba, invented 
+by Toshiharu Mukai, can carry patients 
+weighing up to eighty kilos.

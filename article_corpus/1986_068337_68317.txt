@@ -1,0 +1,258 @@
+Satellites scan the ocean
+Modern technology
+in the service of oceanography
+by D. James Baker
+WHEN I entered oceanography
+in the early 1960s, rapid strides
+were being made towards de¬
+scribing and predicting ocean behaviour.
+The first expedition in whióh I partici¬
+pated spent six months in the Indian
+Ocean helping to measure the currents
+and winds in the equatorial regions there.
+But the technology and the research ships
+available to us at that time had serious
+limitations. The ship we used was the
+Argo, a former submarine rescue ship
+deeded from the United States Navy to
+the Scripps Institution of Oceanography
+and our equipment was largely devoid of
+electronics. Our officers used celestial
+navigation, dead-reckoning and local
+measurements. The difficulty of obtain¬
+ing any kind of global view or photograph
+of conditions at any one time over a large
+area of the Indian Ocean was painfully
+obvious.
+Today, our instruments are much more
+sophisticated, largely because of the re¬
+volution in micro-electronics and com¬
+puters, but the limitations of measure¬
+ments from ships are still with us.
+Measurement of the ocean from satellites
+promises to liberate us from many of
+these shipboard limitations. Navigation
+by satellite, a technique that uses satel¬
+lites and on-board receivers and com¬
+puters, is commonplace for research
+ships and commercial vessels. Accurate
+positioning is available at two hourly in¬
+tervals in most regions of the world and in
+any weather conditions. We are also now
+beginning to use other satellite data to get
+photographs of the behaviour of the
+oceans its temperature, the shape of its
+The SEASAT satellite which produced the
+global measurements of water vapour,
+wind speed and wave height illustrated on
+colour page opposite. Drawing shows
+SEASAT in polar orbit over Alaska.
+surface, its waves and its chemical and
+biological properties.
+The ocean is a subject of intense in¬
+terest to the applied scientist for a variety
+of reasons. Whereas in the past increas¬
+ing energy and food requirements could
+be met by expansion of frontiers, use of
+chemicals for fertilizers and pesticides,
+and by using available reserves of gas and
+oil, we are today being confronted by the
+finite dimensions of the world. We are at
+the point where we affect both regional
+and global climate. We are a factor in the
+
+^ global cycles of carbon, nitrogen, phos¬
+phorus and sulphur because we produce
+significant amounts of these chemicals
+and dump them into the air and the sea. It
+is essential that we understand how the
+overall ocean-atmosphere system works
+if we are to live successfully with global
+change. We have to understand the cyc¬
+ling of energy, waste and essential che¬
+micals through the atmosphere, land and
+oceans.
+The oceans regulate the climate and
+make it more predictable. The slow varia¬
+tions of ocean currents which affect the
+transfer of heat to the atmosphere could,
+in the view of many experts, provide a
+mechanism for predicting the climatic
+changes in the atmosphere. But in order
+to understand these variations of ocean
+currents we need to understand the
+general circulation of the ocean, how the
+currents are driven and how and why they
+change. Another largely unknown factor
+in the climatic system involves the role of
+sea-snow and sea-ice. Both of these are
+quantities that can be measured and mon¬
+itored by satellite.
+The distribution and cycling of nut¬
+rients is also important to the "habitabi-
+lity" of our planet. The nutrients are re
+lated to the biological productivity cycle
+through the atmosphere, rivers, coastal
+zones and the deep ocean. The continen¬
+tal shelf is a critical area. Most of the
+world's fisheries occur here, much of the
+world's petroleum production may be in
+these areas in the future and it is here that
+most of man's pollution enters the ocean.
+The shelf is a direct source of food for
+humanity and the pressures on this food
+supply are increasing rapidly. We must
+know what is happening here and we
+must be able to understand the mechan¬
+isms that control the transport of these
+nutrients from terrestrial sources to
+oceanic sinks. To do this we must be able
+to understand the interactions between
+physical and biological processes in the
+oceans. Large-scale satellite views of nut¬
+rients in the ocean are necessary for this
+understanding.
+Changes in the amount and timing of
+global rainfall are critical for farmers.
+The green revolution has shown dramati¬
+cally how genetic engineering can pro¬
+vide farmers with exactly the right kind of
+crops for a maximum of productivity if
+the water resources are known. Thus
+rainfall is critical, but we must know it
+globally. The problem is not yet solved;
+j -jjjr£3&g?9*¡7'"'" ' J Jküü
+'Ï	
+©
+.¿***
+in fact, the natural rainfall patterns over
+the globe are only marginally predictable
+by the use of climate models now avail¬
+able. Global rainfall is another parameter
+that we can measure by satellite.
+For the oceanographer, ships are
+essential. There is no other way to get
+samples of water, chemicals or biological
+organisms from the sea. But ships alone
+cannot give us an overall view of the
+ocean. A typical research ship travels at
+about ten knots; at that speed it takes
+about ten days to make a single crossing
+of the North Atlantic. It can therefore
+take months to complete a careful survey
+of any large region, and in that time the
+state of the ocean can change drastically.
+From ships and from the relatively few
+buoys that are moored in the ocean for
+weather measurements and for research
+purposes, we get an average view of the
+ocean's properties (for example its
+temperature and salinity) and of near-
+surface weather. This average view is im¬
+portant, but we have to recognize that the
+ocean is continually changing. It does not
+change as fast as the atmosphere, but it
+does behave in a similar way. The atmos¬
+phere changes its weather in a few days
+and its climate varies from year to year.
+The ocean's "weather", that is, the cur¬
+rents and temperatures, changes over
+periods of a few weeks instead of a few
+days. The ocean's "climate" also changes
+from year to year.
+But how do we get an overall view of
+the ocean? Our instruments have to be
+placed in a position away from the earth
+in order to see it all at once. Satellites are
+the only way. Typically satellites receive
+their power from the sun, and they are
+classified as either passive or active. The
+passive satellites receive the radiation
+that comes from the earth and attempt to
+interpret it; the active satellites illumin¬
+ate the sea with specified radiation and
+observe the reflected pulses. We now
+have satellites that can measure the shape
+of the ocean's surface, the surface
+temperature of the ocean, the wind speed
+near the surface, the extent of the polar
+ice, the surface chlorophyll and a variety
+of properties in the atmosphere.
+From these instruments we get a global
+view either an image of almost half the
+earth at a time from a satellite in geosta-
+Above, the US research ship Anton Bruun,
+which took part In the International Indian
+Ocean Expedition. Before being refitted
+for ocean biology research and renamed
+in honour of the famous Danish oceano¬
+grapher, it was the US presidential yacht
+Williamsburg.
+Left, the Argo, the research vessel of the
+Scripps Institution of Oceanography, San
+Diego, California.
+24
+
+ON- 90E QÇ09
+tionary orbit, or from a series of tracks of
+"low earth orbiter satellites" which travel
+closer to the earth and repeat their orbits
+about every ninety minutes. Thus we
+have at our disposal a new and remark¬
+able series of pictures of the ocean and
+the land, and this new imagery has dra¬
+matically changed the way in which we
+view the ocean, allowing us to plan for
+new research programmes. We now see
+the possibility of describing and under¬
+standing some of the important cycles of
+climate, of nutrients and of other en¬
+vironmental factors that affect global
+habitability.
+Enormous quantities of data have been
+collected since the early 1960s, when
+satellites first came into use, but it is only
+in recent years that satellite pictures that
+can be used for real scientific understand¬
+ing of the ocean have become available.
+The four photographs on page 22 demon¬
+strate the power of these new techniques.
+Encouraged by this technological
+advance, a number of scientists have
+proposed the establishment of an interna¬
+tional Global Habitability Programme
+aimed at improving our understanding of
+the climate and the global cycles. The
+central elements of the programme
+would be satellite measurements by many
+nations and shipboard and land-based
+measurement and modelling of the
+ocean, the earth and the biosphere. Us¬
+ing satellites, ships and computers, en¬
+vironmental scientists have the technolo¬
+gy to carry out the required research. In
+addition, their theoretical tools have ad¬
+vanced to the point where the integrated
+study of the global system is becoming
+feasible. With scientists working together
+internationally it is possible that rational
+management of the earth and its re¬
+sources may be achieved.
+D. JAMES BAKER, of the USA, is Dean of the
+College of Ocean and Fishery Sciences and
+professor of Oceanography at the University of
+Washington Seattle. He is a member of the
+Board on Ocean Science and Policy and the
+Climate Research Committee of the US National
+Academy of Sciences as well as of the Earth and
+Space Sciences Advisory Committee of the
+National Aeronautics and Space Administration.
+He is the author of many articles on the general
+circulation of the ocean, the role of the ocean in
+climate variation, and ocean technology. This
+article is extracted from a longer study first pub¬
+lished in the Unesco science magazine Impact oí
+Science on Society.
+Satellite image ofa cyclone over the Indian
+Ocean
+25

@@ -1,0 +1,268 @@
+Audrey Azoulay, 
+Director-General of UNESCO, 
+interviewed by Jasmina Šopova
+Artificial intelligence (AI) 
+could help humanity 
+overcome many of the 
+serious social problems it 
+faces. But at the same time, 
+AI presents a series of complex 
+challenges, particularly in terms 
+of ethics, human rights and 
+security. Yet, no international 
+ethical framework that applies 
+to all AI’s developments and 
+applications currently exists. 
+An international regulatory 
+tool is indispensable.
+The question of what skills to develop 
+in order to evolve in an increasingly 
+automated world will become more and 
+more central. 
+In the field of culture, AI is already widely 
+applied: for example, 3D imaging is 
+used for heritage reconstruction – as 
+we will do for the old city of Mosul in 
+Iraq. In the sciences too, particularly 
+in our environmental programmes 
+and in underwater research – for the 
+classification of plankton images or 
+the automatic detection and census of 
+cetaceans and seabirds, for example. 
+Communication and information are 
+also directly dependent on advances in 
+AI. UNESCO must lead this reflection on 
+the benefits and risks of AI in education, 
+culture, science and communication 
+and information.
+
+Making the most of artificial 
+intelligence 
+Audrey Azoulay
+Why is UNESCO interested in AI?
+The experts are unanimous: humanity is 
+on the threshold of a new era. Artificial 
+intelligence will transform our lives to 
+an extent that we cannot imagine. This 
+transformation has already begun and it 
+affects all aspects of our lives. AI has many 
+applications in fields as varied as health, 
+education, culture, security, defence, 
+etc. Research has increased considerably 
+in recent years: the giants of the web, 
+FAMGA, but also many countries, are now 
+investing massively in AI, and becoming 
+actors of this “Fourth Industrial Revolution”.
+UNESCO has a significant role to play 
+in these changing times. First, because 
+AI’s applications directly affect the 
+Organization’s areas of expertise. 
+Education will be profoundly transformed 
+by AI. Teaching tools, ways of learning, 
+access to knowledge, and teacher 
+training will be revolutionized.
+A symbolic representation of an 
+AI cooperating with humans. 
+© Veronique Deshayes
+
+What are the risks, in your view? 
+In general, AI can be a fantastic 
+opportunity to achieve the goals set by the 
+2030 Agenda, but that means addressing 
+the ethical issues it presents, without 
+further delay. An opportunity, because its 
+applications can help us to advance more 
+rapidly towards the achievement of the 
+Sustainable Development Goals (SDGs) 
+– by allowing better risk assessment; 
+enabling more accurate forecasting and 
+faster knowledge-sharing; by offering 
+innovative solutions in the fields of 
+education, health, ecology, urbanism and 
+the creative industries; and by improving 
+standards of living and our daily 
+well-being. But it is also a threat, because 
+automation and digitization create new 
+imbalances. They can decrease diversity 
+in cultural industries, disrupt the labour 
+market, create job insecurity and increase 
+disparities between those who have 
+access to these new technologies and 
+those who are deprived of them.
+This is where UNESCO also has a role to 
+play – in trying to reduce the inequalities 
+in access to knowledge and research 
+– through the support it provides to 
+its Member States. The technological 
+divide is likely to have a multiplier effect 
+on social inequalities. UNESCO must be 
+able to help its Member States adapt to 
+new realities and access technological 
+knowledge.
+How can UNESCO provide this support, 
+concretely?
+One of the challenges for Member 
+States is to have sophisticated, 
+cutting-edge engineering materials 
+and adequate human resources – 
+scientists and engineers. Through its 
+Centres for Education and Training in 
+Science, Technology and Innovation 
+(STI), its Global Observatory of 
+Science, Technology and Innovation 
+Policy Instruments (GO-SPIN) and its 
+International Basic Sciences Programme 
+(IBSP), UNESCO is in a position to provide 
+such support – and to help reduce 
+disparities between countries. 
+What are the challenges posed by AI in 
+education? How does UNESCO intend to 
+respond to these?
+This is, of course, a key area for the 
+Organization. Here again, the revolution 
+that is now underway is generating both 
+positive and negative effects. 
+Educational software based on AI is 
+already being used to decentralize 
+teaching and personalize it, and to 
+provide students with curriculum 
+advice, or even certification. But these 
+technologies are expensive and therefore 
+inaccessible to the great majority – the 
+gap between rich and poor is likely to 
+widen even further.
+UNESCO has a 
+significant role to play in 
+these changing times. 
+AI’s applications directly 
+affect the Organization’s 
+areas of expertise
+
+As a result of its coordinating role in 
+the SDG-Education 2030 Steering 
+Committee to monitor the achievement 
+of Sustainable Development Goal 4, 
+dedicated to education, UNESCO is in an 
+excellent position to lead this work – by 
+identifying the possible contributions of 
+AI to inclusive education and assessing 
+its potential impact on the future 
+of learning.
+Promoting open-access AI tools that will 
+encourage local innovation will be one 
+of our priorities.
+To prepare future generations for 
+the new landscape of work that AI is 
+creating, it will also be necessary to 
+rethink educational programmes, with 
+an emphasis on science, technology, 
+engineering and mathematics – but 
+also giving a prominent place to the 
+humanities and to competencies in 
+philosophy and ethics.
+ 101NETEXPLO NOTEBOOK  | HUMAN DECISIONS THOUGHTS ON  AI
+ 
+ 
+We need to prevent the misuse of AI.
+It is our 
+responsibility 
+to enter this 
+new era with 
+our eyes 
+wide open
+
+What is the relationship between AI and 
+philosophy or ethics?
+In their adult lives, today's 
+schoolchildren and students will 
+undoubtedly have to face problems 
+that are currently unfathomable to us. 
+It is difficult to predict all the possible 
+developments of these increasingly 
+sophisticated machines that are gaining 
+a little more autonomy each day – to 
+the point of already challenging human 
+identity, to a certain extent. This is why 
+skills in ethics, but also in the social 
+sciences and the humanities in general, 
+will be just as important as those in 
+the formal sciences. There may also be 
+embedded biases – including gender 
+biases – in AI systems, that require more 
+transparency from these systems and 
+strong ethical principles to correct them.
+Why is it difficult to predict future 
+developments in AI?
+Research in the field of AI is advancing 
+at a very rapid pace, while the legal, 
+social and ethical environments that 
+are needed to guide it are evolving 
+very slowly. How far can a machine’s 
+autonomy and its decision-making 
+power be allowed to go? If an accident 
+occurs, who is responsible? And who 
+decides what values are instilled in 
+machines during what is called their 
+“training”? These and many other 
+questions remain unanswered today.
+It was noticed, for example, that 
+algorithms trained in ordinary human 
+language had acquired prejudices 
+based on stereotypes from textual 
+data present in our everyday culture. 
+How can we not be concerned about 
+the danger of the emergence of 
+machines with discriminatory, racist or 
+hostile behaviours?
+There are also many other reasons to be 
+concerned about – privacy protection 
+and targeted advertising on the internet; 
+freedom of expression and censorship 
+algorithms; automated journalism and 
+information monopolies, etc.
+Even if fundamental research in this 
+field is largely motivated by well-being, 
+unintentional, but also intentional, 
+deviations are always possible. That 
+is why it is imperative to ensure that 
+this technology develops according to 
+rigorously established ethical standards.
+
+What can UNESCO do in this regard?
+If we are to make the most of the 
+possibilities offered by AI to the world, 
+we must ensure that it serves humanity, 
+with respect for human dignity and 
+human rights.
+Yet, no international ethical framework 
+that applies to all AI developments and 
+applications currently exists.
+UNESCO is this unique universal forum 
+with over twenty years of experience in 
+developing international instruments 
+related to bioethics and the ethics of 
+science and technology*. It can also 
+rely on the expertise of two advisory 
+bodies working actively on these issues: 
+the World Commission on the Ethics of 
+Scientific Knowledge and Technology 
+(COMEST) and the International 
+Bioethics Committee (IBC).
+It is our responsibility to lead a universal 
+and enlightened debate – not a technical 
+debate, but an ethical one – in order to 
+enter this new era with our eyes wide 
+open, without sacrificing our values, and 
+to make it possible, if Member States 
+so wish, to establish a common global 
+foundation of ethical principles.
+*  Universal Declaration on the Human Genome 
+and Human Rights (1997)
+   International Declaration on Human Genetic 
+Data (2003)
+   Universal Declaration on Bioethics and 
+Human Rights (2005)
+   Declaration of Ethical Principles in relation 
+to Climate Change (2017)
+   Recommendation on Science and Scientific 
+Researchers (2017)

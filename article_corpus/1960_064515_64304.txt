@@ -1,0 +1,211 @@
+&
+THE WORLD'S KNOWLEDGE
+^ T
+H INSIDE A CIGAR BOX
+WKËBBÊÊÊÈ
+fr
+\í
+>.
+A% í>£í ..¿¿i JkM% '
+r .iL-/ wfáHE km'
+fcy Ritchie Calder
+'--vilLU
+Ehen, in 1801, Jacquard invented a loom, in
+which a series of punch cards enabled a machine
+to weave figured fabrics which had once de¬
+pended on the art and skills of hand-weavers, he
+nearly lost his life in the riots which followed.
+In Britain, when Kay devised the flying shuttle,
+the weavers destroyed his house. When Ark-
+wright, Hargreaves and Crompton further mechanized
+weaving, the workers rose and burned the factories. The.
+poet, Lord Byron, intervened impassionedly on behalf of
+the despairing worker, whose livelihood was being taken
+from them by the machines.
+Yet these machines eventually meant work for millions,
+cheaper goods for the people, and economic prosperity.
+Until about fifteen years ago, the great engineering
+advances were in machines to relieve men of muscle drud¬
+gery. What this means might be illustrated by the fact
+that the turbines of an ocean liner of today represent the
+muscle-efforts of three million galley slaves, pulling on
+oars. And the average modern worker in an up-to-date
+factory can, with the flick or a switch, have at his disposal
+work-power equivalent to a hundred human slaves.
+But, in the past dozen years or so, new types of machines
+have come into existence which are causing uneasiness not
+only among workers who see "automation" replacing their
+skills but also among philosophers. The machines are
+called Electronic Computers and the name suggests what
+they were originally, just calculating machines, or glorified
+electrical versions of the "bead-frames" on which children
+26
+learn to count. The name now is quite misleading because
+these machines do not just do arithmetic. They imitate
+many of the functions of the human brain and control
+and direct other machines which replace, not only muscle
+effort, but the human senses.
+At the International Conference on Information Proces¬
+sing, organised by Unesco in Paris (June 15-20
+1959), the two thousand scientists and engineers who
+attended were seriously discussing machines which would
+memorise all the knowledge in the world and in which the
+equivalent of an individual human memory could be
+reproduced on a piece of glass, 5" by 6" the size of
+a photographic plate. They were describing machines
+which can produce business decisions and be "taught" to
+think for themselves and to form valued judgments. As
+Dr. Edward Teller, of California University, pointed out,
+once a machine can form value judgments, it is conceivable
+that it will develop emotions.
+DWENTY years ago, all this was impossible.
+Even electronic calculations seemed impracti¬
+cable. Three hundred years ago, the French
+mathematician Blaise Pascal invented a
+mechanical calculating machine. Over a hun¬
+dred years ago, Charles Babbage, an English
+mathematician, worked out a machine which
+could do mathematical calculations and analyses on a
+punch card system like that which Jacquard employed in
+
+The Unesco Courler. January 1960
+Photos IBM, Paris
+POWERFUL AND RAPID calculation instrument, this electronic
+data processing machine is usually used tosolvescientificand engineer¬
+ing problems. It is really a set of interconnected machines composed
+of an input unit, processing unit and output units. From the console,
+the operator, can supervise the performance of millions of data-
+processing steps by the units. Opposite page, part of a plate of
+magnetic core storage (the "memory" unit) composed of thousands
+of tiny doughnut-shaped ferro-magnetic rings threaded on wire.
+his loom. Cash-registers and mechanical comptometers,
+hand-operated, were doing complicated calculations before
+the Second World War. But the first of the electronic
+computers began to function only twelve years ago.
+Radio valves replaced the cogs of the mechanical compto¬
+meters (or, more elementarily, the beads of the counting-
+frame).
+The early machines consisted of massive racks of radio
+tubes and tangles of wires but they could do addition,
+subtraction, multiplication and division and work out, in
+split seconds, mathematical equations which would have
+taken hours, or days, of pen-and-paper calculations.
+Today, regardless of the number of digits in the sum a
+computer can average ten thousand operations in a
+second. The latest are a thousand times faster than those
+of three years ago and a million times faster than those of
+ten years ago. The only limit to their ultimate speeds is
+the velocity of light which is 186,000 miles a second but
+the distances the signals have to travel in a computer are
+not reckoned in miles but in fractions of millionths of an
+inch. So that "the Computer People" can talk glibly of
+getting results in hundreths of millionths of a second.
+The machines, in terms of work-capacity are getting
+bigger and bigger but the components are getting smaller
+and smaller. Instead of having radio valves they are being
+constructed with transistors no bigger than grains of rice.
+But even that is gigantic compared with recent advances.
+In what is called the "cryotron", the cells which store
+information are a 250th of a millionth of an inch in dia¬
+meter. The circuits consists of "wires" of similar
+dimensions a spider's web, which only an ultra-powerful
+microscope can see. These circuits and '"cells" are print¬
+ed on glass and a temperature of 270 degrees below zero
+is maintained by "deep-freezing" the units in liquid hydro¬
+gen. At that temperature certain metals offer no resis¬
+tance to the currents of electricity which can therefore go
+on flowing, at the speed of light, indefinitely and without
+loss of signal-strength.
+Ehen one gets down to those dimensions it will
+be possible to store all the information of all
+the books of all the libraries of all the world
+in a space no bigger than a cigar-box.
+The problem then is how to get it out.
+Humans are forgetful when they cannot recall
+information which is in their memory. Too so,
+the problem in the electronic brains is how to retrieve it,
+when, and in what form, one wants it. As one expert at
+the conference put it "An electronic computer is a bank
+in which information is deposited, put away in a vault,
+and eventually paid out."
+To "pay in" the information the computer expert has
+it typed out as punch-holes in a paper tape. And on the
+tape also he gives instructions as to how it is to be used.
+This is called "programming". The information is then
+recorded on a magnetic memory by the computer. It will
+pay it out exactly as instructed by the programmer. It will
+transfer its information again to a punched tape which will
+CONT'D ON NEXT PAGE
+
+THE WORLD'S
+KNOWLEDGE
+(Continued)
+automatically operate a typewriter, so that the result is
+readable.
+The computer began as a fast way of doing arithmetic
+but any logical process can be converted into numbers and
+thus into a code by which all kinds of information can be
+stored or processes executed.
+For example, a computer can be put in charge of a ma¬
+chine Which is working on some large and complicated
+piece of machine cutting like carving, to precisions of
+thousandths of an inch a huge block of metal into the solid
+and complex shapes of a supersonic aircraft, or a rocket.
+The computer will help to work out the specifications and
+the mathematical contours of the part. The programmers
+will then feed into it the instructions which it has, itself,
+helped to produce and it will then control the automatic
+machine-tools which will cut the metal in three dimensions
+simultaneously.
+With its electronic allies, like photoelectric eyes; the
+Merton grating (which gives a machine the sense of touch
+and greater accuracy than any skilled craftsman); and the
+servo-motors which manipulate parts (with a '"feed-back"
+like a mechanized nervous-system) the computer can carry
+out, if need be, any job a human operator can do. In
+other words, it can work out ¡the details of a computer
+more advanced than itself and then control the machines
+to make those parts and (eventually, if not yet) assemble
+them. It could, in fact, reproduce itself breed other
+computers.
+NTENSiVE work by linguists, mathematicians
+and engineers, is going on all over the world
+to secure mechanical translation of languages
+from Russian into English, Japanese into
+French and so on; The progress is slow
+because one does not just exchange words;
+there is the grammar and structure of senten¬
+ces and idioms which are peculiar to each language. But
+in translation of scientific works, articles have been trans¬
+ferred from one language to another in terms which are
+quite comprehensible to experts in the branch of science
+concerned. Success has already been achieved in the
+translation of work into the language of the blind, Braille.
+What the experts are now seeking is "pattern identifica¬
+tion" which means that the computers, instead of having
+to be fed with punched tape, would be able to read directly
+from a printed page or identify the sound-pattern of the
+spoken word and then to translate into the other .language.
+That is still some years off.
+But the scientists and engineers have already given to
+the computer enough human attributes to worry (many
+people. The president of the Paris : Conference,
+Dr. Howard Aiken, of Harvard University, wanted to reas¬
+sure them. He said that, while they must always bear in
+mind their social responsibilities, the scientists and engi¬
+neers could feel that, so far from making men the slaves
+of the machines, the machines were liberating them from
+slaving at tasks that were drudgery, making possible a
+higher standard of life for everyone, and leaving people
+free for creative work.
+28" -
+To store information It receives the
+electronic data-processing machine on
+the previous page uses plates made
+up of tiny rings (shown here In com¬
+parison to a matchbox). One memory
+unit is composed of 36 plates made
+up of 4,096 rings each. The core
+storage Is the most powerful and the
+fastest working memory of the machine.
+IBM, Paris

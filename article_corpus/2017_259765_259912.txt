@@ -1,0 +1,169 @@
+International initiative
+Called SMART Cables (Scientific Monitoring 
+and Reliable Telecommunications), 
+this JTF initiative aims to harness 
+the vast network of submarine cables 
+already in place, turning them into 
+environmentally-aware “green cables”. 
+An international effort in the truest 
+sense, the JTF is made up of experts 
+(many of them volunteers) from several 
+dozen countries and 80 organizations 
+representing science, observing system 
+managers, industry, government agencies 
+and sponsors. 
+More than a million kilometres of 
+submarine cables form the global 
+telecommunications infrastructure 
+backbone for business, finance, 
+social media, entertainment, political 
+expression, and science. Internationally, 
+these cables are the physical layer of 
+the internet. The dependability of this 
+infrastructure is so important that entire 
+national economies are affected when 
+problems arise.
+These same submarine cables could 
+also provide a platform for gathering 
+deep-ocean and seabed data for a range 
+of environmental issues. Our oceans and 
+climate are experiencing global changes, 
+including warming, acidification, 
+and sea-level rise, that affect us now 
+and in the future. 
+A standard telecommunication 
+system includes an electro-optical 
+seabed cable with optical repeaters 
+approximately every sixty kilometres. 
+By adding environmental sensors 
+to the repeaters, we could have access 
+to a global network of real-time data 
+for environmental threats and disaster 
+mitigation. 
+An early-warning system for tsunamis 
+could save lives and prove invaluable, 
+particularly for developing countries, 
+where the comprehensive coverage 
+of all subduction zones is not viable. 
+Since tsunami waves often arrive less 
+than thirty minutes after offshore 
+earthquakes, every minute counts.
+To bring this concept to fruition, 
+the international Joint Task Force 
+of three United Nations agencies 
+– the International Telecommunication 
+Union, the World Meteorological 
+Organization and the Intergovernmental 
+Oceanographic Commission of 
+UNESCO (ITU/WMO/IOC-UNESCO JTF), 
+established in 2012, is working towards 
+incorporating environmental monitoring 
+sensors into trans-oceanic submarine 
+cable systems. 
+
+
+
+Harnessing submarine cables to 
+save lives
+by Bruce Howe and Kate Panayotou
+Imagine environmental sensors 
+spaced every sixty kilometres 
+along the seabed, providing 
+much‑needed data to better 
+understand natural threats, 
+such as tsunamis and climate 
+change. With SMART Cables, 
+a global network of real‑time 
+data for disaster mitigation may 
+soon become a reality.
+With this article, the UNESCO Courier 
+marks the 2nd World Tsunami Awareness 
+Day, on 5 November.
+
+It calls upon the private sector, 
+governments, scientists, philanthropic 
+foundations and the internet-using 
+public to recognize this extraordinary 
+need and opportunity, and to take 
+concerted action to make this system 
+a reality.
+The installation of SMART Cables requires 
+access to the sea-floor and the deepest 
+ocean, which today is literally “owned” 
+by the telecommunications private 
+sector. The cables traverse the global 
+ocean floor, crossing several national 
+boundaries – throwing up a bewildering 
+array of legal, technical and financial 
+complications.
+Therefore, unique new partnerships 
+and collaborations must be established 
+to enable this SMART cable vision. 
+The engagement of the private sector, 
+including internet companies which are 
+newly investing in submarine cables, 
+could directly address financial and legal 
+issues, and the permitting process. 
+Growing consensus
+Through a series of meetings 
+and workshops with academic 
+and government scientists and 
+the telecommunications industry, 
+a growing consensus is being reached 
+to assuage the hurdles facing SMART 
+systems. Scientific and societal needs 
+are being documented, and the legal 
+framework under the UN Convention 
+on the Law of the Sea, and technical 
+feasibility have been produced. 
+Today, only a fraction of these 
+telecommunications cables are being 
+used for scientific purposes. 
+Environmental oceanic observation 
+systems, owned and operated 
+by academia and government agencies 
+already exist, but they are utilized 
+only over short distances and used 
+for research purposes.
+The concept of a “wet demonstrator” 
+system suitable for deployment and 
+medium-term operation has been put 
+forth to address the effectiveness and 
+practicality of the SMART approach. 
+A pilot system has been proposed in 
+the South Pacific, linking several islands. 
+Technological advances have 
+made it possible to integrate basic 
+sensors with repeaters on submarine 
+telecommunication cables at a small 
+fraction of the total cost of a new cable 
+system deployment. The unit cost of 
+a single sensor package is expected to be 
+around $0.2 million, so a modest system 
+such as the proposed pilot should be 
+under $10 million, with an expected life 
+of twenty-five years. 
+No ocean-aware underwater 
+telecommunications system is in place 
+today. The deep-ocean data from SMART 
+Cables could bridge a fundamental gap 
+in our knowledge. The time is ripe to 
+begin a future with SMART systems. 
+Crew members load an optical repeater 
+(in the wooden cradle) on the deck 
+of Pierre de Fermat, a cable ship belonging 
+to France’s Orange Marine company.
+Bruce Howe (USA) develops ocean 
+observing sensor network infrastructure, 
+including cable systems. He currently 
+serves as Chair of the JTF SMART 
+Cable initiative, and is a professor at 
+the University of Hawaii, Department 
+of Ocean and Resources Engineering.
+Kate Panayotou (Australia) is a 
+principal environmental scientist with 
+seventeen years’ experience in the 
+coastal, marine, estuarine, environmental 
+and stakeholder engagement sectors. 
+She has worked in the submarine cable 
+industry for over a decade. 

@@ -1,0 +1,226 @@
+T
+JOHN VINCE
+PROFESSOR OF DIGITAL MEDIA AT BOURNEMOUTH UNIVERSITY (UNITED KINGDOM)
+
+
+
+When the media
+meet as one
+Now the Internet’s star has faded, a new buzzword is circulating in the corridors
+of the world’s media. But will “digital convergence” really be able to keep its promise
+of communication and information anytime, anywhere, in any shape or form?
+he past 40 years have witnessed an
+extraordinary evolution. From slow
+expensive machines controlled by punched
+c a r d s, computers have become low-cost,
+powerful units taking up no more space
+than a briefcase. S i m u l t a n e o u s l y,our world
+has become interlaced with telephone wires,
+optic fib r e s, undersea cables, m i c r o w a v e
+l i n k s, television channels and satellite
+communications.
+At the crossing of these two
+developments stands the Internet—a direct
+result of computer technology intersecting
+with communication technology. But for
+many in the world of today’s media,this is
+merely a first landmark in what promises to
+be a giant upheaval in the way people
+communicate, relax and work. This is the
+era of digital convergence.
+According to a recent article in
+Scientific A m e r i c a n, convergence is in
+principle “the union of audio, video and
+data communications into a single source,
+received on a single device, delivered by a
+single connection.” Digital technology has
+already provided a medium for integrating
+media that until now required distinct
+channels of communication: we can now
+send emails using our televisions or text
+messages over mobile phones. Real-time
+video can be transmitted over radio
+c h a n n e l s, while television and radio can be
+received on Personal Computers (PCs).
+Hyped-up precedents
+Full digital convergence promises real-
+time access to information anywhere in the
+world,and global communication through
+t e x t ,g r a p h i c s,video and audio. In fact, t h e r e
+seems to be no technological limit to what
+might be possible.“ The reality of ‘ a n y w h e r e,
+anytime’ access to broadband digital
+networks is going to make our lives freer and
+f u l l e r,”Gerald Levin,chief executive offic e r
+of AOL Time Wa r n e r, has promised. B u t
+technology alone cannot bring about such a
+w o r l d :as long as consumers and companies
+do not embrace it,convergence is likely to go
+the way of several hyped-up predecessors.
+Over a decade ago, for example, v i r t u a l
+reality was the technology of the future,
+and many people anticipated a day where
+we would be wearing head-mounted
+displays and interacting with all manner
+of virtual environments. At the time there
+was real concern about changes in industrial
+practices and social behaviour brought
+about by this technology. So what happened
+to this vision? We l l , we got it wrong.
+Currently, the home computer is the main
+interface to the Internet. But relatively few
+people in the world have access to PCs, a n d
+few would argue that they are ideal for the
+purpose—they crash and freeze because
+
+Watch of the future: a digital audio player on which music can be downloaded to a
+
+they were not designed for widespread
+Internet use.
+In promising to fuse media as diverse as
+t e l e v i s i o n , telephone communication,v i d e o
+g a m e s, music and data transmission, t h e
+era of digital convergence goes one better
+than yesterday’s celebrated “information
+s u p e r h i g h w a y.”Yet in doing so, it also raises
+critical questions: what services are needed,
+what is the ideal platform, will it be fully
+interactive? Can the old be so easily
+combined with the new?
+At the root of any digital application
+stands a binary coding system: d e s i g n e r s
+of early computers found that only when
+using such a system could their computers
+be relied upon to give consistent results.Th e
+binary code enables numbers, letters and
+characters to be assigned unique digital
+patterns that can be stored on magnetic
+t a p e, compact discs, DVD and computer
+fil e s.These digital codes can then be readily
+transmitted via copper cable, fibre optics or
+as radio waves. Once in a digital format,
+t e x t ,a u d i o,graphics and video can therefore
+all be processed by one common
+technology with great accuracy.
+Skeptical consumers
+Yet achieving this single technology is
+far from straightforward. There are
+currently three major television broadcast
+s t a n d a r d s, and they are all incompatible
+with each another. But this is nothing
+compared to the many technologies
+supporting the Internet, each with a
+different bandwidth and physical media.
+The problems faced in designing platforms
+and communication systems that will be
+accepted across the world can appear
+insuperable.
+One body, the International
+Organization for Standardization (ISO), i s
+at the heart of efforts to devise world
+standards for coding audio-visual
+i n f o r m a t i o n . Its Motion Picture Experts’
+Group has already notched up several
+important benchmarks via standards for
+storage media and broadcast, while the
+MPEG-4 (now under development) will
+establish the means for storage, t r a n s m i s s i o n
+and interactive manipulation of video
+data—the essence of
+what digital
+convergence promises
+to deliver.
+Even once global
+standards are assured,
+h o w e v e r, a further
+obstacle lies in wait.
+The Internet is
+plagued by long,
+erratic response times
+because it is a pull-technology, driven by
+patterns of user demands. P u s h - t e ch n o l o gy,
+on the other hand, reverses the
+r e l a t i o n s h i p : servers simply send
+information to passive users, as in
+television and radio. But if some form of
+combination between one-way television
+flow and interactive Internet is to be the
+basis of our future media,it is hard to see
+how it could be operated.Current network
+technology could not support a pull-based
+approach towards television, while a push-
+based approach would simply duplicate
+what we have already: n o r m a l ,
+uninteractive television or radio.
+Yet the problem of fusing Internet with
+television is also one of defining the services
+o f f e r e d . As Steve Jo b s, chief executive
+o f ficer of A p p l e,has observed:“TV is where
+you go to turn your brain off; the computer
+is where you go to turn it on.” I n f o r m a t i o n ,
+entertainment and relaxation appear at
+first to be quite different needs. S e r i o u s
+doubts remain over whether consumers
+will be interested in having to make the
+sort of mental effort associated with
+computing while also settling down in front
+of a sitcom.
+“There is a large group of people who
+have no interest in the new media and,
+contrary to many predictions, that segment
+is shrinking slower that the icebergs in
+Antarctica,” recently warned Horst Stipp,
+director of research at NBC television
+network in the United States.
+Besides the issue of consumer habits,
+infrastructure costs are set to be immense,
+and will have to be met by national states or
+the private sector before being passed on to
+u s e r s. Platforms do not necessarily have to
+be expensive. The mobile phone is a good
+example of how something that is
+technologically sophisticated can almost
+be given away, with its cost recovered
+through service charges. Users are then
+coerced through clever marketing to
+upgrade to newer phones with more
+features to reinforce their dependence.
+The creation and copyright protection
+of digital content are other vital issues.We
+have already seen that satellite television
+provides us with so
+many extra channels
+that television
+programmes have to be
+repeated indefinitely to
+fill the available space.
+But perhaps digital
+convergence will solve
+this by making it easier
+to create totally
+synthetic television
+programs employing virtual sets and actors.
+One might even suggest this has already
+started to happen.
+Whatever the outcome, it is obvious
+that technology will play an increasing part
+in our everyday lives. Beyond technology,
+digital convergence embraces the services,
+industrial practices and social behaviour
+that form modern society. We have in our
+hands the technology to construct the most
+sophisticated machines ever built, but if
+they are unusable, simply because of their
+operating instructions, then recent lessons
+have taught us they will not survive.
+Whatever we design must be simple,
+reliable and useful. Perhaps this is where
+a r t i ficial intelligence will play an important
+role. ■
+
+“TV is where you go
+to turn your brain
+off; the computer
+is where you go
+to turn it on.”
+o a memory card via the Internet.

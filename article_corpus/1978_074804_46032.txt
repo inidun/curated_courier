@@ -1,0 +1,254 @@
+Neptune's
+power station
+Ocean thermal energy conversion
+offers an inexhaustible
+and non-polluting energy source
+by Richard Arlen Meyer
+WHEN most people think of solar
+energy they imagine heating
+panels on roofs of houses and
+other buildings. But actually the sun is
+where all forms of energy (except nuclear)
+originate. Oil and coal were processed by
+nature over thousands of years under¬
+ground, but they began by combining the
+sun's energy with elements already present
+in the earth. Solar energy is also the source
+of the power of winds, waves and tides,
+whose possibilities are now being Inves¬
+tigated by researchers as sources of energy
+which would not pollute the atmosphere as
+do the fossil fuels, coal and oil.
+Solar ocean energy, produced by the
+process known as ocean thermal energy
+conversion, makes practical use of the con¬
+tinuous warmth of the seas, where the
+sun's energy is conveniently stored 24
+hours a day. Ocean thermal energy conver¬
+sion takes advantage of the temperature
+difference between the warm surface
+waters of the ocean and the deep, colder
+waters and taps the largest of the earth's ,
+solar-thermal storage systems by using
+heat exchangers that produce electrical
+power.
+The idea was first suggested by a French
+physicist, Jacques d'Arsonval, in 1881. His
+student, Georges Claude, another French¬
+man, first demonstrated the concept on a
+barge in the Mediterranean and later built a
+plant in Cuba, in the late 1920s. These
+experiments actually produced electricity,
+but the cold-water intake pipes were des¬
+troyed by a storm. Since, at that time, oil
+Richard Arlen Meyer, U.S. zoologist and
+oceanographer, is a specialist in the study of
+solar ocean energy and its uses. He is editor and
+publisher ot The OTEC Liaison, a monthly news¬
+letter on ocean thermal energy conversion
+published in Chicago.
+was cheap and abundant, the power plant
+was never rebuilt. Claude used seawater as
+the working fluid in much the same way
+that power plants today use steam to gen¬
+erate electricity.
+Today the United States has the largest
+ocean thermal energy conversion pro¬
+gramme, with government funding increas¬
+ed from $700,000 in 1974 to an expected
+$56 million in 1978, but other nations are
+also active in the pursuit of solar ocean
+energy. Japan has been working intensi¬
+vely, since 1973, and a consortium of Euro¬
+pean nations and firms is heavily involved
+in research. At the largest conference ever
+held on the subject, in Miami, Florida in
+February of this year, 16 countries were
+represented. The industrial countries were
+there, officials from third world nations
+seeking alternatives to oil, countries bord¬
+ering on tropical seas, and even representa¬
+tives from the oil-producing countries
+themselves, since they know that their
+major energy source is being rapidly
+depleted.
+Solar energy warms the surface water of
+the oceans and other large bodies of water
+to temperatures much higher than deeper
+waters. This cold, deep water is brought up
+to heat-exchangers where the temperature
+difference is utilized and energy extracted.
+Claude's system used warm seawater as
+the medium (operating on only a 13°C
+temperature difference) but modern scien¬
+tists find that the use of other fluids, such
+as ammonia, is more efficient. This was
+first suggested, in fact, by d'Arsonval.
+A prime advantage of ocean thermal
+energy conversion is that power plants can
+operate around-the-clock, and are non-
+polluting. At present, such plants are plan¬
+ned for areas surrounded by tropical
+waters, but increased efficiency of the heat
+exchangers promises a wider range of
+potential locations.
+The transference of energy from the seas
+can be effected in several different ways,
+the prime one being to send electrical
+power to shore by undersea cable. While
+this can be done economically up to 320
+kilometres from shore, additional methods
+of extracting energy are being studied. On-
+site production of energy-intensive pro¬
+ducts such as ammonia for fertilizer, as well
+as other fuels and chemicals, and large
+quantities of fresh water is also being con¬
+sidered. Aluminium processing, which
+uses great quantities of electricity, could be
+enhanced by operating power plants near
+the source of its basic raw material, bauxite
+ore.
+In addition to permanent anchoring of
+the plants, either offshore or on coastlines
+near ocean areas which have large tem¬
+perature differentials, the concept of
+"ocean grazing plants" is being developed.
+These would be floating factories, that
+would move to areas with the greatest tem¬
+perature advantages, which change in the
+oceans from time to time. Satellites are
+already being used to map these locations,
+and plot their movements.
+By-products of ocean thermal energy
+conversion plants make them still more
+attractive. In addition to fresh water pro¬
+duction, the largest potential apart from
+electricity is the likelihood of creating pro¬
+ductive fisheries in waters nearby.
+The cold water pumped up from the
+depths is heavy with nutrients, and re¬
+searchers have found that sea life thrives
+in such an environment. The Humboldt
+Current, a natural cold-water upwelling off
+the coast of Peru, produces a fishery that
+supplies almost 20 per cent of all the
+world's commercial fish. The marlculture,
+or aquaculture, aspect of this new source
+of energy is being enthusiastically observed
+around the world.
+While ocean thermal energy conversion
+holds great promise as an energy source,
+several problems remain. Marine organisms
+cling to the surfaces of the heat exchan¬
+gers, much as barnacles cling to boat bot¬
+toms, but cleaning methods are being
+developed to surmount this problem. The
+22
+
+In conventional electric power
+plants coal, oil or nuclear fuels
+generate heat which converts
+water into steam. This steam
+drives turbine generators which
+produce electricity. In the ocean
+thermal energy cycle no fuel is
+burned and another liquid
+medium, ammonia or propane,
+is used instead of water.
+Diagram below illustrates this
+cycle. Ammonia is pumped
+round a closed circuit. First it is
+heated by the warm ocean
+water (top of diagram) so that it
+turns into vapour. The vapour
+passes through a turbine where
+it expands, driving a generator.
+Emerging cooler and at a lower
+pressure it flows to a cold-water
+heat exchanger where it is
+cooled further to become liquid
+again and the cycle
+recommences. Left, an artist's
+impression of the surface
+platform of an ocean energy
+conversion plant. The cold water
+pipe extends far below the
+surface.
+cold-water pipewhich may be as much as
+20 metres across will pose transport and
+assembly problems of an unprecedented
+scale, and engineers are studying safe and
+economical methods of solving them. Yet
+the biggest questions today are not tech¬
+nical, but political. Who would own and
+operate the plants? Where can they op¬
+erate without infringing on political boun¬
+daries? How should they be regulated?
+How should they be taxed? It is to be
+hoped that this year's International Con¬
+ference on the Law of the Sea will find ans¬
+wers to some of these questions.
+In 1978 ocean thermal research will leave
+the laboratories, where efficiency of heat
+exchangers, elimination of biofouling and
+corrosion, and deployment of plants have
+been studied for almost a decade. Late ¡n
+1978 or early in 1979 the first mini plant will
+be in the water, probably off Hawaii or
+Puerto Rico, with a much larger plant
+scheduled for 1980. Funding in the United
+States and other nations has been increas¬
+ing rapidly each year, although of all of the
+solar energy options being pursued, solar
+ocean energy has probably attracted the
+least public attention.
+Unlike conventional power plants which
+produce pollution of some kind, solar
+ocean energy is a clean source of power.
+While extensive preliminary studies have
+been made to determine the environmental
+effects of such power plants, only minimal
+objections have arisen. Sea life, while pro¬
+tected from the intake openings by
+screens, will actually be aided by the
+nutrient-rich waters, brought from depths
+where little life exists. Researchers have
+estimated that, in the year 2000, if all the
+power in the world came from solar ocean
+energy the surface temperature of the
+oceans would be lowered by less than one
+degree, since the heat would be conti¬
+nuously replaced by the sun.
+The world's researchers are pursuing
+ocean thermal energy development
+because its potential as an inexhaustible,
+clean, renewable energy source is tremen¬
+dous. One estimate is that 180,000 million
+megawatt-hours of power could be genera¬
+ted annually from the Gulf Stream along
+the "east coast of the United States alone.
+This is about 75 times the amount of
+power the United States will be using in
+1980. Similar coastal areas suitable for solar
+energy development could supply a subs¬
+tantial share of the world's population with
+electric power. With man's ingenuity and
+persistence, it is expected that the oceans
+will yield what has been stored there for
+centuries: clean, inexhaustible energy from
+the sun.
+Richard Arlen Meyer
+Liquid ammonia
+"\
+£=\ Warm
+J^seawater
+/29°C
+Gaseous ammonia
+Turbine
+Q
+Gaseous ammonia Pump
+I
+Liquid ammonia
+J
+Drawing ©RA. Meyer, OTEC
+23

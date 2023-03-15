@@ -1,0 +1,389 @@
+> How predictable is nature?
+BY JENS ERIK FENSTAD
+In spite of
+progress in
+mathematical
+modeling, natural
+phenomena still
+defy precise
+forecasting
+Above, a man outside his
+home in flood-ravaged Grand
+Forks, North Dakota (U.S.A.)
+in April 1997.
+The future of science is not what it used
+to be. The optimistic public perception
+that scientific insights and technological advances
+would provide a better future has suffered a
+severe setback. Such "benefits" of scientific
+progress as atomic power, new chemical com¬
+pounds and foodstuffs produced by genetic
+manipulation now generate uncertainty, even
+fear, as to what the future holds in store for
+man and nature.
+The post-war period was a good time for
+modern science-driven technology: it had
+played a decisive part in the allied victory and
+now it was to be harnessed to the tasks of
+post-war reconstruction, promoting increased
+welfare, better health and improved security.
+Few were troubled if at times scientists and
+engineers showed little concern for the preser¬
+vation of nature after all, the aim of tech¬
+nology has always been to transform nature
+for the benefit of humanity. There may, how¬
+ever, be limits to what nature can tolerate.
+Relatively few doubts were raised until the
+United Nations World Commission on Envi¬
+ronment and Development issued its report,
+Our Common Future, in 1987. By that time
+there was growing concern about the environ¬
+mental problems progress was bringing in its
+wake: the fossil fuels used in industrial devel¬
+opment were increasing the carbon dioxide con¬
+tent in the atmosphere, threatening to create a
+greenhouse effect; urbanization was eating into
+agricultural land and woodlands; industrial
+expansion was causing increased pollution and
+loss of fresh water resources. Further ahead
+loomed the threat of the loss of biodiversity.
+Addressing these problems, the Commission's
+report, often referred to as the Brundtland
+Report, advocated a policy of sustainable devel¬
+opment, whereby current demands could be
+met without prejudice to the legitimate demands
+of future generations.
+The Brundtland Report became the charter
+
+^^^ nmoKfr« ucncc no wrvt-mm
+IHAC>MChM«tf*«OMi «Q MOW3V«
+I ¿>.rj TfNUHK IÍAS*MOO>
+PROJECT «UHCQ> BT ^V
+PUBLIC BANK BHD@
+BERSIH Di BUDAYA KITA
+>;-. p>.
+N.
+:,-:
+document for the "Earth Summit", the United
+Nations Conference on Environment and
+Development held in Rio de Janeiro in 1992.
+One of the most important things to come
+out of this conference was the Rio Declaration,
+which set forth guidelines for the future envi¬
+ronmental policy of United Nations Member
+States. One key element in this was the recom¬
+mendation that, in order to protect the envi¬
+ronment, nations should apply the "precau¬
+tionary principle", which may be summarized
+as follows: Whenever there is a threat ofseri¬
+ous or irreversible damage, lack ofabsolute sci¬
+entific certainty shall not be used as an argu¬
+ment for delaying cost-effective measures to
+prevent the destruction or degradation of the
+environment. Never precisely defined, this prin¬
+ciple is open to different legal interpretations
+and raises problems about uncertainty and
+actual risks.
+The Brent Spar controversy
+The story of the Brent Spar oil rig provides an
+object lesson in the complexities of applying
+the precautionary principle in practice. The
+24 r
+THE UNESCO lOURIER MAY '998
+Shell oil company wanted to get rid of this
+platform, which had served its useful life in the
+North Sea oilfields, by sinking it at a suitable
+spot in the Atlantic. The environmentalist
+movement Greenpeace successfully campaigned
+to persuade the public and hence the politi¬
+cians that this would present an unaccept¬
+able environmental risk. Shell claimed the
+opposite but was not believed, and the plat¬
+form was towed to a Norwegian fjord, where
+it still awaits its fate.
+With the benefit of hindsight, it seems that
+the risk analysis carried out by Shell was cor¬
+rect and that the Greenpeace assessment was
+based on inaccurate data. This does not neces¬
+sarily mean, however, that the platform can
+safely be disposed of at sea. Scientific risk analy¬
+sis is only part of the story: there are strongly
+held emotional convictions about the purity
+of the sea and opposition to its becoming a
+rubbish dump. As a basis for action, risk
+analysis needs to take account of all aspects of
+a case.
+In the Brent Spar case, the decisive issue
+was whether sinking the platform at sea would
+lead to serious or irreversible environmental
+Destruction of rain forest for
+housing development (shown
+on hoarding in foreground)
+east of Ipoh, Malaysia.
+
+The blue and green circles are
+computer-generated
+theoretical models of how the
+distribution of galaxies
+evolved. Gold circle at bottom
+shows the real distribution as
+observed from Earth.
+damage. As in many environmental conflicts,
+the debate was adversarial in form, which is
+usual in normative and legal contexts but has
+hitherto been unusual in scientific arguments
+overissues of "scientific certainty". Does this
+mean that in environmental issues we are con¬
+fusing questions of fact with matters of opin¬
+ion? Should Shell and Greenpeace have got
+together to conduct a dispassionate enquiry
+about scientific laws and facts before embark¬
+ing, if necessary, on a discussion of the pros
+and cons of possible action? Can factual
+knowledge be separated from the question of
+how that knowledge is used?
+A positive answer to the latter question
+presupposes that scientific laws exist and that
+scientific certainty can be established, at least
+within acceptable error limits, which has been
+the received view of science and technology.
+From Newton's classical mechanics to Ein¬
+stein's relativity and up to the time of Bohr's
+quantum mechanics, the laws of nature were
+expressed in the language of linear mathemat¬
+ics, and the future was computable.
+The relationship between mathematics and
+the laws of nature has, however, become more
+complex, and in a way that has implications for
+our understanding of the precautionary prin¬
+ciple. The fact that those laws are still written
+in the language of mathematics no longer
+means that the future is necessarily predictable.
+To explain this issue, let us see how the math¬
+ematical modelling of nature works.
+Models ofnature
+There are three stages in mathematical model¬
+ling: first, the specific scientific and/or tech¬
+nological problem is analysed; next, a mathe¬
+matical model is created and analysed; and
+lastly, efficient algorithms problem-solving
+procedures which can be run on a computer
+are developed for use, in the scientific context,
+in making predictions and, in the industrial
+context, in construction tasks. With the rapid
+development of computer technology, the
+range of applications is vast, testifying to the
+central role of mathematics in today's "knowl¬
+edge society".
+Successful application depends, however,
+on the "correct" choice of mathematical model.
+One class of models is particularly relevant to
+a proper understanding of the precautionary
+principle. We often need to understand the
+behaviour of a system ora population of indi¬
+viduals over a certain period of time, e.g. the
+flow of oil and gas in the North Sea fields, or
+plant and animal populations in areas with a
+high concentration of acid precipitation. The
+models used for this purpose can be divided
+into three main classes, according to the
+dynamics that governs their behaviour.
+Nature as a machine
+Models of nature as a machine represent our
+inheritance from Newton and Descartes. They
+are defined by the forces acting upon the body
+or bodies involved in the system, and the laws
+that determine the system are expressed by a
+linear equation. To take as a typical example the
+laws governing the trajectories of planets, once
+the proper parameter values in this case the
+position in space and time and the initial acting
+force have been established, the future devel¬
+opment of the system is completely deter¬
+mined. To use mathematicians' terminology,
+the system is defined by a "unitary group",
+with time as the independent variable.
+This is the kind of mathematics used in
+numerical calculations and industrial applica¬
+tions. Assuming that our equations faithfully
+describe a slice of reality, we extract algorithms
+from them, and the computer then goes to
+
+work, either to predict the future state of a
+physical system or to produce a set of speci¬
+fications for an industrial task. Our confidence
+in the equation is sometimes so great that the
+results of the corresponding calculations are
+presented as true facts of nature.
+Computer simulations can be used for
+many purposes. In science, measurements can
+be extended to values beyond those obtainable
+from experiments and observations, e.g. to
+study systems under extreme temperature con¬
+ditions, and the development of a physical
+system can be speeded up, e.g. in studies of
+the early universe. In industry, simulation can
+replace the use of prototypes it is faster and
+cheaper to simulate collisions on a computer
+than to crash real cars and can be used in the
+design of new pharmaceutical products. The
+presupposition underlying all this is that our
+models correspond with reality and that the
+future is determined by our equations.
+Chance and uncertainties
+So far we have assumed that the law is deter¬
+ministic and that, in principle, the results of
+experiments and observations can be measured
+with absolute precision, but this is in most
+cases too much to ask: wc may be in a situation
+characterized by chance and uncertainties.
+Mathematical modelling knows, however, how
+to deal with such situations.
+Where parameter values cannot be precisely
+measured for technical reasons, there are estab¬
+lished theories for measurement techniques and
+many statistical methods arc available for con¬
+trolling errors. Where uncertainty is inherent in
+the fundamental theory, however, new issues
+arise, especially in the case of quantum mechan¬
+ics, where the development of a system is gov¬
+erned by a probability distribution. In this case
+too, the process is nevertheless still determined
+by a unitary group. The new feature is the use
+of a transformation of probability distribu¬
+tions where the Newtonians used point trans¬
+formations. The latter allow us to follow
+closely the planets in their trajectories, but not
+quantum particles.
+Another form of uncertainty arises when
+the dynamical law is no longer deterministic
+but may include a stochastic or random element.
+This marks a shift from ordinary to stochastic
+equations, which are now widely used in math¬
+ematical modelling. The applications arc some¬
+times opportunistic: in the absence of complete
+knowledge, a random term is added in the hope
+of obtaining a better fit with nature. In most
+cases, however, our knowledge of nature and
+observed fluctuations is sufficiently precise to
+Children, the elderly and
+people with heart and lung
+disorders are particularly
+vulnerable to the effects of air
+pollution.
+
+The Brent Spar oil rig is
+prepared for towing into the
+Atlantic, June 1995.
+SSW « M~ ^«
+provide "faithful" models for phenomena rang¬
+ing all the way from the flow of oil and water in
+porous geological structures to speculation on
+the stock exchange.
+Common to the models examined so far is
+a belief in numbers and measurements. There
+has been a strong tradition in physics accord¬
+ing to which theory is driven by measure¬
+ments, i.e. by exact numbers. It has been held
+that good theories yield numbers, explain
+numbers, help design good apparatus, and
+allow us to control and manipulate the objects
+they describe. But are all theories of nature
+equally amenable to numbers and control?
+Chaos and catastrophes
+The unitary group thus encapsulates the
+notion of linearity and the associated possi¬
+bility of exact prediction, but despite several
+hundred years of progress in physics and tech¬
+nology we must conclude that only a few of
+nature's phenomena can be modelled in this
+way. One solution to the problem is to intro
+duce chance and uncertainties, as described
+above. Another is to keep to deterministic
+equations but to proceed beyond the well-
+known domain of linear equations into the
+new and largely unexplored territory of non¬
+linear phenomena.
+Physical theory has always acknowledged
+the existence of non-linearity, which typically
+occurs where small variations may have large
+effects on the future evolution of a system,
+but only now is the outline of a reasonably
+complete science of non-linear dynamic
+processes beginning to emerge. The first really
+convincing application of non-linear theory to
+a natural phenomenon came in 1 963, when the
+meteorologist E. Lorenz published a paper
+entitled "Deterministic nonperiodic flow",
+which had basically all the "correct" mathe¬
+matics. His equations were a simplified form
+of those used in modern numerical weather
+forecasting, but they were sufficiently complex
+to capture the unpredictable even chaotic
+behaviour inherent in the long-term develop¬
+ment of the weather.
+
+"Chaos" and "non-linear science" have
+become fashionable terms but, unlike many
+other fashions, there is substance behind them.
+The transition to non-linearity marks a change
+of paradigm in the modelling of natural phe¬
+nomena, but with non-linearity there is no
+longer a guarantee for long-term prediction.
+This is the lesson we learned from Lorenz in
+1963.
+Instead of computing a single given future,
+wc can, however, simulate various possible
+future scenarios. The computer can be taught
+to serve another master: there has been a
+change-over from "hard" science based on
+computable predictions to a broader perspec¬
+tive with greater emphasis on insight and a
+critical attitude. Hence, though we cannot pre¬
+dict the occurrence of the next avalanche, we
+can use our models to gain a better insight
+into such phenomena and to develop strategics
+for warding off their adverse effects.
+Earthquakes are also impossible to "pre¬
+dict", in the sense of giving the time, place and
+strength of a future occurrence within accept¬
+able error limits. Such an operation presup¬
+poses a system governed by a unitary group,
+but the earth as a geophysical system is far more
+complex than Earth as a planet. Planets arc pre¬
+dictable in their trajectories; they form a deter
+ministic system. The earth as a geological system
+is in what the experts call "a state of critical self-
+organization", where there is a positive prob¬
+ability of even the smallest earthquake devel¬
+oping into a major disaster. Many attempts
+have been made to devise a warning system for
+earthquakes, but they have all failed.1
+The global processes that drive earthquakes
+are typical of the very many global processes
+in nature. These processes need to be seen in
+conjunction with a social and economic system
+committed to a high per capita consumption
+of natural resources. It is in this context that
+the precautionary principle becomes urgent: we
+are dealing with natural processes that we
+know to be non-linear, where the dynamics of
+the system is poorly understood and where
+our interference may have irreversible conse¬
+quences. Unlike a standard industrial process,
+nature is not a mechanical system that can be
+controlled by ingenuity and engineering skills
+alone. Instead of relying on our ability to fix
+and restore, we must therefore adopt a strat¬
+egy of prevention. In these circumstances, the
+precautionary principle is more than politi¬
+cal rhetoric. It is the best advice that science
+can offer.
+1 Sec the Uni:sco Courier, October 1997: Natural
+disasters: Be Prepared. Editor
+"Spiralunar 3D", a fractal
+landscape based on the
+mathematics of chaos theory,
+which is used to analyse
+turbulent (non-linear) dynamic
+systems.

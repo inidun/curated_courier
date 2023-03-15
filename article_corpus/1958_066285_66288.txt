@@ -1,0 +1,57 @@
+MESS AGES
+FROM SPACE
+WITH SOLAR
+JS A«, JL JL Its j\ JL £a kl
+Soviet Sputniks and American satellites are trans- :
+mitting important data on conditions in space as
+well as in the upper reaches of the earth's atmo¬
+sphere thanks to power picked up directly from the sun.
+Unlike the earlier artificial satellites, the latest ones
+launched during the International Geophysical Year
+are now equipped with solar batteries which means
+that scientists now have an efficient means of receiving
+information from the satellites for years to come.
+Though the life of these solar batteries has not yet
+been determined, some scientists believe that they will
+last about ten years, others hint that they may be
+charged indefinitely by the sun.
+The first Soviet and American Sputniks were
+equipped with standard, though specially sensitive
+batteries (working on a mercury principle) to supply
+the needed electricity for their transmitters. But after
+several weeks their power was exhausted and they
+ceased operating. Thus one transmitter of the second
+U.S. satellite faded out in less than three weeks.
+Both the American and Soviet solar batteries now
+hurtling through space consist of wafer-thin silicon
+cells smaller than the size of common razor blades.
+(The cells in American batteries are l/400th of an inch
+thick). Each cell contains two layers of silicon of
+different electrical properties so that when sunlight
+strikes a cell, electrons move from the first layer
+(positive) to the second (negative), creating an electric
+current.
+The second U.S. satellite, launched on March 17,
+1958, has six solar batteries spaced on its surface
+' (diagram below) so that at least one of them is in
+direct sunlight except when the satellite finds itself
+in the earth's shadow. (Because of its distance from
+the earth, it is estimated that it will not be in the
+shadow period 85% of the time).
+The third Soviet satellite, sent up on May 18, 1958
+(it carried a ton of scientific equipment and measuring
+instruments) has nine solar battery sections Four are
+installed on the front end plate, four on the side
+surface and one on the back end plate. This arrange¬
+ment ensures normal working irrespective of the
+Sputnik's orientation in relation to the sun.
+SECTION "A-A*
+BATTERY-POWERED
+TRANSMITTER
+INSTRUMENTATION
+PACKAGE
+BATTERIES
+CRYSTAL
+-SOLAR -POWERED
+TRANSMITTER
+17

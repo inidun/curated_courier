@@ -1,0 +1,449 @@
+From the snail to the galaxy
+Nature has evolved an infinity of
+SPIRALS
+by Gerald Oster
+m ROM microscopic marine
+shells to the celestial galaxies, spirals
+abound in Nature. In geometric terms,
+a spiral is a plane curve that winds
+around a central point while moving
+ever farther from or closer to it. The
+figure is thus produced by the com-'
+bined operations of rotation and ex¬
+pansion or contraction.
+The essential feature of a spiral is
+that a straight line drawn from the
+centre to the curve, known as the
+radius vector, changes in length with
+the rotation. A tight spiral has a small
+change in its radius vector for a given
+amount of turning, an open spiral has
+a large change.
+The extreme example of a tight
+spiral is a circle, a figure produced
+by pure rotation in which the radius
+remains constant. The extreme case
+of an open spiral is a straight line.
+Here the figure is produced by pure
+expansion without any rotation and
+the radius is infinite.
+The ancient Greeks were evidently
+fascinated by the spiral. They in¬
+corporated it in the capitals of their
+Ionic . columns and based many of
+their vases, such as the amphoras,
+on whole or partial spirals. Typically
+for the Greeks, all of these man-made
+12
+GERALD OSTER Is professor of biophysics
+at Mount Sinai School of Medicine of the
+City University of New York. A pioneer in
+the study of moiré patterns, he has written
+"The Science of Moiré Patterns', published
+by Edmund Scientific, Barrington, New Jer¬
+sey, 1969. (Moiré patterns are formed when
+two regular patterns overlap, and have various
+uses in scientific research, including the
+examination of the atomic structure of crys¬
+tals.) Professor Oster is currently research¬
+ing into questions of human reproduction.
+curves followed strict mathematical
+rules.
+There are many kinds of spirals;
+their differences depend on the
+manner In which the length of the
+radius vector changes with angle of
+turning. Perhaps the simplest spiral
+to conceive of is the one discovered
+by Archimedes in the 3rd century B.C.
+and described in some detail In his
+book On Spirals.
+The Archimedes spiral is the figure
+produced by a sailor when he coils
+a rope. While each turn moves the
+curve uniformly farther and farther
+from its centre, the distance between
+adjacent coils remains constant. In
+other words, the length of the radius
+vector is proportional to the angle of
+rotation.
+Some other examples of this type
+of spiral can be illustrated by the
+movements of an imaginary ant. If an
+ant was to move outward from the
+centre of a rotating turntable at a
+constant velocity in what it presumed
+to be a straight line, it would actually
+be moving in an Archimedes spiral.
+The functioning of the common
+record player is the ant trick in
+reverse. The pickup arm, guided by
+the needle, is constrained to follow
+the Archimedes spiral groove of the
+record and hence moves from the
+outside inward at a uniform velocity.
+If an ant was trained to climb up
+
+From the galaxy to the atom, spi¬
+rals abound In Nature, appearing
+whenever there is outward growth
+combined with rotation. Here we
+show four examples: (1) A nautilus
+shell, the perfect example of an
+equiangular spiral, its structure here
+revealed by X-ray; (2) A spiral galaxy
+seen in the heaveYis as a diffused
+luminous mass and similar in form
+to our own galaxy; (3) Nuclear part¬
+icles visible as a spiral in a nuclear
+research bubble chamber; (4) A
+spiral formed by a drop of oil on a
+glass plate turning at constant speed.
+a cone at a constant slant, its course
+a conical helix when viewed from
+above, would be seen to be an Archi¬
+medes spiral. Similarly, mountain
+roads that ascend at a constant incli¬
+nation appear in aerial views as such
+spirals.
+Crystals that grow around imperfec¬
+tions, called screw dislocations, in the
+orderly arrangement of their atoms
+exhibit the Archimedes spiral.
+Electron micrographs of a cross
+section of developing nerve fibres in
+prenatal human life and in infants up
+to about a year old also show an
+Archimedes spiral. This suggests that
+the nerve covering, or the myelin
+sheath, is laid down like the insulation
+wrapped around an electrical wire.
+Another wrapped spiral structure in
+the body is the organ of hearing with¬
+in the ear, the cochlea, which gets its
+name from the Greek word for snail.
+Let us return to the ant climbing
+up the cone. If, as it nears the top,
+it becomes progressively more tired
+and takes a path of diminished slope,
+the spiral it describes will become
+tighter and tighter. If the ant's degree
+of tiredness follows a geometric
+progression, the spiral will be of the
+type known as equiangular.
+The equiangular spiral has been the
+subject of considerable study since
+the French philosopher and mathema¬
+tician René Descartes first correctly
+defined it In 1638, In this figure, as
+the name implies, the spiral cuts all
+Its radii at the same angle. The
+smaller that angle, the more open the
+spiral; conversely, the larger the angle, ^
+the tighter the spiral. r
+ma / k:
+f¿ prjpp --I / / * S=
+\
+\
+\
+. . . « . vl
+- " >
+- ft"^ r;i, ^T,T_ 1 > 1 /
+ri^ali~.-i L/All pppppi- ».
+v' <C -XT' -1 -JL "^-« --Vj^ '-i
+.~r . -^-jjpjpj
+r^r-s?5H»
+V \ ^
+-:< -:¿£
+Photo © Alvaraz Group, University of California
+Photo 0 Jekabs Zvilna
+
+If a sea captain should stubbornly
+order his ship to follow a fixed com¬
+pass course, the vessel would cut the
+meridians at a constant angle and the
+projected curve it would follow would
+thus be an equiangular spiral. In
+theory, such a course would cause
+the ship to spiral into either the North
+or South Pole.
+Flying ants follow an equiangular
+trajectory when moving toward a
+source of light; a peculiarity of the
+insect's eye causes it to maintain a
+fixed angle of approach. A pilot will
+also often follow an equiangular
+trajectory when homing toward an
+airport.
+Strictly speaking, if the climbing and
+flying ants, the sea captain, and the
+pilot followed a true equiangular spiral,
+they would never reach their destina¬
+tions. Destinations sought by such a
+course are called asymptotic poles;
+they can be approached but never
+reached.
+Among the special properties of
+the equiangular spiral is the fact that
+the radii increase exponentially in
+length as the curve moves away from
+the centre. It was the Swiss mathema¬
+tician Jacob Bernoulli who demon¬
+strated in 1698 that the logarithm of
+the radius is proportional to the angle
+of rotation.
+Because of its logarithmic character,
+the equiangular spiral is also called
+the logarithmic spiral. In his investiga¬
+tion of this spiral Bernoulli noted
+that if any part of the curve is en¬
+larged, thereby tending to flatten it,
+the segment will exactly match some
+other part of the same spiral.
+This invariant property so impressed
+him that he ordered that his tomb¬
+stone be inscribed with a logarithmic
+spiral and the motto "although changed
+I always come back the same". The
+stonecutter got the motto right but
+unfortunately chiselled an Archimedes
+spiral by mistake.
+The equiangular spiral expands
+rapidly with the rotation of the figure.
+With its swirling arm and exponentially
+expanding radius, it seems a more
+dynamic form than the plodding, slowly
+changing Archimedes spiral.
+There are many examples of equi¬
+angular spirals in nature: the web of
+the spider Epeira, the scales of the
+pine cone, the florets of the daisy
+and the giant sunflower, the shoots
+of flowering cymose plants, the struc¬
+ture of hurricanes.
+Perhaps the most nearly perfect
+equiangular spiral to be found is the ©
+shell of the chambered nautilus. The |
+chambers of this mollusc shell grow ¿
+SPIRALLING FLOWERS
+CITIES AND HERDS
+From pine-cones to cauliflowers, from pineapples to
+sunflowers, the seeds, petals and leaves of the plant
+world are often arranged in spiral form. This was per¬
+ceptively observed by the famous Japanese painter
+Hokusai (1760-1849), as this flower painting shows
+(below). The plan of Auroville in India (left) shows how
+urban growth may take spiral form; its whorls are
+similar to those of Hokusai's Japanese flower. Right,
+a herd of reindeer takes fright, turning in on itself in
+a tight spiral formation as it stampedes.
+
+in size in a geometric progression;
+the curve cuts the radius vector at
+an angle of 85 degrees. The shell
+grows larger within a fixed form, that
+is, it grows without a change in mor¬
+phology. Given these conditions, the
+only shape it can take is a spiral.
+As with all true equiangular spirals,
+a magnified view of a horizontal
+section through the pole, or centre,
+looks identical to the whole curve.
+The nautilus shell grows at one end
+only and in this respect it resembles
+the horns of the rhinoceros or moun¬
+tain goat, which also have some spiral
+character.
+Tiny marine organisms called for-
+aminfera, which inhabit all marine
+waters, also have shells shaped like
+crude equiangular spirals. In fossil¬
+ized form, these shells make up the
+material of chalk cliffs and much of
+the ooze on the ocean bottom.
+Some foraminfera shells turn clock-
+ART, LIKE NATURE, has adopted the
+spiral as the form which lends itself most
+readily to regular and simultaneous expan¬
+sion in length and width and also height
+in forms evolving around a central point.
+One example is the helicoidal form of this
+17th-century portrayal of the tower of
+Babel (opposite page), rising upwards like
+the shell of the fossilized gasteropod (left),
+whose whorls coil around a hollow axis.
+wise, others turn counterclockwise,
+from the apex of the shell. The
+direction of rotation depends on the
+temperature of the water at the time
+of the shell's growth.
+By studying the ratio of clockwise
+to counterclockwise shells in ocean
+bottoms, it is possible to ascertain the
+relative temperatures that probably
+pertained during the Ice Age some
+600,000 to 1,000,000 years ago, when
+these shells originally grew.
+Geologists have utilized the direc¬
+tion of coiling of foraminfera shells in
+petroleum exploration to make stratifi¬
+cation correlations between various oil
+wells and determine whether they are
+part of the same bed.
+How spiral growth commences is
+something of a mystery. In all em¬
+bryonic structures, cells are ordin¬
+arily laid down radially In the first
+few cleavages. The spiral character of
+spiral organisms is visible after the
+third cleavage, when 23 or eight cells
+have been formed. The spiraling
+characteristic is apparently a property
+of the original starting cell.
+In that connexion, it is of interest
+that the majority of identical twins
+have hair whorls that turn in opposite
+directions and the same pairs of .
+identical twins that have that form of r
+Photo © Wideroes Flyveselskap, Norway
+15
+
+THE PAINTER
+AND THE SPIDER
+In his painting "Dialectic" (detail
+shown here), the Italian Renaissance
+artist Paolo Veronese depicts the
+Greek myth of Arachne the weaver,
+who enraged the goddess Athena
+and was changed into a spider. In
+spinning their webs, spiders follow
+a spiral movement (see "Unesco
+Courier", December 1969). This fact
+escaped Veronese, who incorrectly
+showed a web consisting of parallel
+polygons.
+16
+mirror imagery also often exhibit
+differences In right- and left-handed-
+ness and reversed dental asymmetry.
+The grandest of all spirals are the
+spiral galaxies, which measure thou¬
+sands of light years in diameter. They
+are clusters of stars in the form of
+multi-armed crude equiangular spirals
+with centres at a common pole. About
+50 per cent of all galaxies are spirals.
+The form of the majority of these is
+the same; they are double 73 degree,
+equiangular spirals.
+Our own galaxy, usually called the
+Milky Way galaxy, is a spiral. The
+earth is about 25,000 light years, or
+approximately halfway, from the centre,
+and, along with neighbouring stars,
+rotates around it at the rate of about
+150 miles per second.
+It was once thought that a spiral
+galaxy was like a rotating pinwheel
+firecracker with stars being thrown out
+from the centre. Recent observations
+show this interpretation to be incorrect,
+although at present astrophysicists
+are generally at a loss to explain the
+origin of spiral galaxies.
+Such is not the case with the spiral
+form of hurricanes, which can be clear¬
+ly seen in aerial photographs. Warm
+moist air rising in the storm system
+and subject to the earth's rotation
+produces a vortex motion, which cre¬
+ates the spiral cloud formation. The
+rotation of the vortex of a hurricane
+is clockwise in the southern hemi¬
+sphere and counterclockwise in the
+northern hemisphere.
+Counter spirals, those whose direc¬
+tion has been reversed, appear in the
+seed patterns of many plants. The
+florets of the daisy and the sunflower
+are arranged along sets of intersecting
+equiangular spirals, one of which
+rotates clockwise, the other counter¬
+clockwise, from the plant's head.
+The florets increase in age, and
+hence in size, as the curves move
+out from the centre. In the daisy
+there are 21 clockwise spirals and 34
+counterclockwise ones. In the giant
+sunflower there are usually 34 clock¬
+wise and 55 counterclockwise spirals,
+but the largest of these flowers may
+contain 89 clockwise and 144 counter¬
+clockwise spirals.
+The seeds of the pine cone and of
+the pineapple are likewise laid down
+as spirals; five clockwise and eight
+counterclockwise in the pine cone;
+eight clockwise and thirteen counter¬
+clockwise in the pineapple.
+The numbers of spirals in these
+plants are successive terms of a
+series called the Fibonacci sequence,
+named for the twelfth-century Italian
+mathematician credited with devising
+it. The Fibonacci series is 1, 1, 2, 3, 5,
+8, 13, 21, 34, 55, 89, 144 and so forth,
+each number being the sum of the
+two previous numbers.
+So far, we have described spirals
+.in terms of how the length of the
+radius vector, or the distance from
+the centre, changes with the angle of
+turning. Spirals can be equally well
+defined in terms of the manner in
+which the amount of curvature changes
+as one moves along the figure.
+Thus, in an equiangular spiral, an
+arc along the curve tends to flatten
+out as one moves away from the
+centre. In the circle, of course, an
+arc taken anywhere along the figure
+has the same amount of curvature as
+any other arc.
+There is yet another kind of spiral,
+called a clothoid, from the Greek word
+for spin, which has. two poles, or
+centres, and two arms that curve in
+reversed directions. In this figure, the
+curvature becomes tighter the farther
+one moves from a point midway bet¬
+ween the poles. Each arm of the
+clothoid, known also as Euler's spiral
+for the Swiss mathematician who dis¬
+covered it in 1744, resembles the
+mainspring of a watch whose torque
+on a shaft remains constant regardless
+of how tightly the spring is wound.
+Many individuals have hair that
+curves in the form of one arm of a
+clothoid. Hair like that Is flatter in
+cross section than straight hair. Micro¬
+scopic examination shows that one side
+of such hair expands more with
+moisture than the other side. The
+expansion of the moisture-sensitive
+side forces hair to curl over. Develop¬
+ing ferns similarly often take on the
+appearance of a clothoid arm due to
+the unequal growth rate of the cells
+at the tip of the plant.
+In pondering on spirals, can we
+find an underlying generality to
+account for their existence from atoms
+to galaxies? The most we can safely
+say without blundering into anthropo¬
+morphic or teleological philosophizing
+is that wherever there is outward
+growth, or a radial force, combined
+with rotation, "a spiral is created.
+Gerald Oster

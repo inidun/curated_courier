@@ -1,0 +1,148 @@
+HOW MANY POSSIBLE HANDS IN BRIDGE?
+53,644,734,400,000,000,000,000,000,000
+One of our readers, Mr. K. Geisen-
+berger of Tunis (Tunisia) writes: "Your
+February issue described the prodigious
+powers of a new electronic calculator,
+the 'flying brain'. This prompts me to
+request that you ask the machine the
+following question: How many possible
+hands are there in the game of Bridge
+played with a Si-card deck? By
+'hands' I mean (1) the possible distri¬
+bution of cards to the four players;
+(2) the possible distribution of 13 cards
+to one player."
+The Unesco Courier has asked
+M. lean Besse of Switzerland to answer
+this question. M. Besse is a noted
+mathematician working with Unesco's
+International Computation Centre lo¬
+cated in Rome. He is also a well-
+known bridge champion of international
+standing. Here is his answer:
+The amazing results achieved thus
+far by the great modern calcula¬
+tors, and the staggering possibi¬
+lities that the machines promise for
+tomorrow have aroused the enthusiasm
+of not only the scientist. As a result
+of the many articles (more or less docu¬
+mented) which have appeared in the
+popular press, these new machines have
+captured the imagination of the general
+public as well. But this is one of the
+subjects on which some of the most
+fantastic and often erroneous notions are
+in circulation as far as the ordinary
+layman is concerned.
+The fantasies of science fiction, the
+exaggerated deluge of publicity, the
+highly suggestive but questionable term
+"Electronic Brain" all these have
+brewed a fog of confusion which has
+engendered the layman's notion of a
+Robot, part demi-god, part superman.
+Though no less wonderful, the reality
+is closer to the human measure.
+Let us, as our reader suggests, ask an
+electronic calculating machine how many
+possible hands there are in Bridge. It
+will be stone deaf to the question. First,
+because the machine does not know
+what you are talking about. Second,
+since it has no intelligence of its own
+(and that is why the term "brain" is a
+misnomer) it is quite incapable of posing
+a problem, much less of studying one.
+To pose a problem and elaborate a
+method leading to a solution these for
+the moment, remain the exclusive do¬
+main of the human brain.
+On the other hand you can very well
+ask a mathematician how many possible
+hands there are in Bridge. After a few
+moments' thought, he will tell you that
+the problem is one of calculating the
+permutations of 52 objects (the cards)
+distributed in four groups (the "hands")
+of 13 objects, the permutation of the
+by Jean Besse
+objects within each group being imma¬
+terial.
+In mathematics, the notation 3!
+(known as factorial three) is the result
+of multiplying 1x2x3. Likewise
+4! = 1 X 2 X 3 x 4; and 5! =
+1x2x3x4x5, and so on. The
+mathematician will tell you that the per¬
+mutations of 52 objects is equivalent to
+52! (that is, the product of multiplying
+1 X 2 x 3 up ,to 52). But we must
+also divide this number by the permu¬
+tations within each of the four groups
+of 13 cards, that is 13!, since the per¬
+mutations within each group are imma¬
+terial. The number we are looking for
+is therefore:
+52
+N
+13! X 13! X 13! X 13!
+The mathematician is now satisfied.
+He will add, perhaps (if he is in a good
+mood) that since 52! is of the order of
+1065 and 13! of the order of 1010 the
+number N is of the order of 1025, that is,
+it would be a number of about 25 digits.
+As the precise calculation of this .number
+would be a tedious job, the mathemati¬
+cian would not go to the trouble of
+doing it (mathematicians, do not like
+tedious jobs).
+At this point, and at this point only,
+one could turn to the Electronic Calcu¬
+lator. There are a hundred tedious
+operations to be done.
+The machine is there just for that.
+But it is necessary to tell the machine
+precisely what is expected of it. For
+this a detailed "programme" must be
+worked out and recorded (assimilated)
+by the machine. ' After that you simply
+press a button and the result comes out
+a few seconds later. That is the mira¬
+cle. There is nothing supernatural
+about it, but it is a sensational accom¬
+plishment of technology.
+For the problem we are considering,
+I prepared a "programme" for the'new
+Computer, Gamma Tabbour Bull, built
+in France (See The Unesco Courier
+February 1959, p. 13), which took me
+one hour to work out (1). The printed
+answer emerged about a second after the
+button had been pressed. The number
+of possible hands in Bridge:
+53,644 quadrillion
+Spelled out, this figure (precise only for
+the first nine digits) is written:
+53,644,734,400,000,000,000,000,000,000.
+As for the second question, "the possi¬
+ble distribution of 13 cards to one
+player", the calculation is simple and
+can be made "by hand" with pencil and
+paper in five minutes. The answer:
+635,013,559,600 hands of 13 cards.
+To "programme" this calculation and
+pass it through an Electronic Computer
+would be a waste of time. It is not
+worth the trouble to ask the machine to.
+do a job that is too simple. Just as it
+is pointless to use a jet aeroplane to
+cross the Champs-Elysées.
+(I) While it may be true that the "programm¬
+ing" time is quite long, perhaps even excessi¬
+vely long, it should not be overlooked that,
+once prepared, the "programme" can be used
+afterwards to solve hundreds of similar pro¬
+blems in split seconds.

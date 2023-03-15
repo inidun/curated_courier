@@ -1,0 +1,762 @@
+Maestro computer
+Exploring the new frontiers of sound
+by Pierre Boulez
+IT often comes as a surprise, and gen¬
+erally not an agreeable one, to hear the
+words "music" and "computer" pro¬
+nounced in the same breath. Indeed, few
+words evoke such widely different, if not
+frankly antagonistic notions as the former,
+with its connotations of free-ranging im¬
+aginative power, and the latter, which sug¬
+gests scientific rigour at its most strict.
+Upon closer examination, however, the
+stereotyped nature of this reaction becomes
+apparent. Imagination is, of course, essen¬
+tial to music; but composition, perfor¬
+mance, improvization and interpretation
+alike presuppose a degree of familiarity with
+many different codes which only a long and
+sometimes painfully rigorous apprentice¬
+ship makes possible; without constraint,
+discipline and knowledge, imagination is
+PIERRE BOULEZ, French composer and con¬
+ductor, is director of the Paris music research
+centre IRCAM (Institut de Recherche et de Co¬
+ordination Acoustique-Musique) and professor of
+music at the Collège de France. Among his more
+recent compositions are Rituel (1974) and Messa-
+gesquisse (1976). This article is based on a paper
+prepared for an international symposium on
+"Informatics and Society", held in Paris in Sep¬
+tember 1979.
+liable to degenerate into mere fancy, "full of
+sound and fury, signifying nothing".
+As far as the computer is concerned, the
+argument that both the nature and the
+mechanics of- such a tool render its use for
+musical purposes incompatible with
+freedom of invention is, to say the least, a
+very simplistic one. Consequently, before
+we address ourselves to the question of the
+relationship between informatics and music,
+we must firmly reject the dichotomy which
+sets the candle-lit garrets of genius in op¬
+position to the complex institutions of
+technocracy.
+What, then, are we to make of the state
+of affairs brought about by a technical ad¬
+vance so rapid that its consequences could
+hardly have been foreseen some thirty years
+ago, when the possible impact of electronics
+on music provoked the first stirrings of
+interest?
+To begin with, we should make a distinc¬
+tion between attempts to enrol the new
+technology in the service of musical creation
+and invention, and the much earlier trend
+towards the invention of new types of
+musical instrument based on certain elec¬
+tronic techniques. If many of the resulting
+instruments enjoyed only short-lived suc
+cess, this was probably due more to a lack
+than to an excess of originality in their
+realization; the possibilities they offered
+were too limited. Nor did they always sus¬
+tain comparison with traditional in¬
+struments, whose output of sound remained
+richer and more varied than the relatively
+predictable and uniform results produced
+electronically.
+But once the concept, albeit a somewhat
+hazy one, of "electronic music" was admit¬
+ted, no time was lost in seeking to clarify its
+implications for musical research. What the
+new technology proposed first and foremost
+was a range of measuring equipment which
+could be diverted from its original purpose
+and adapted, in a more or less artisanal and
+ad hoc fashion, for the reproduction of
+sound. The irruption of the computer into
+what was essentially an aesthetic domain led
+to a number of stormy discussions between
+those who saw it as a tool which could be
+used to strip the phenomenon of sound to
+its essentials and then re-invent it entirely;
+and those who thought that the machine
+itself should be given free rein, and that its
+immense capacities for absorbing, process¬
+ing and re-transmitting all manner of infor¬
+mation could be used for the creation of
+spontaneous poetic "happenings".
+28
+
+In practice, however, neither of these
+paths proved straightforward. The first
+came to a virtual dead end when the tool
+was found to be far from adequate for the
+satisfactory synthesis of sound. The se¬
+cond, in which serious and thoughtful plan¬
+ning had been neglected in favour of
+reliance on flair and dexterity in operating
+the machine, became lost in a sterile and
+above all wearisome maze.
+In the meantime, science itself had forged
+ahead. The synthesis of sound, which only a
+short time earlier had appeared to pose in¬
+surmountable difficulties, now seemed to be
+an attainable objective, if not in the im¬
+mediate future. True, a great number of
+problems, whose complexity increased
+rather than decreased with each step for¬
+ward, remained to be solved, but they were
+at least beginning to be understood more
+clearly.
+At this point, musicians themselves, who,
+it must be admitted, had so far taken scant
+interest in the development of computer
+technology, were agreeably surprised to
+discover that although the computer might
+not necessarily propose a global solution to
+their problems, its capacities of analysis and
+synthesis could help them in a variety of
+ways: not only in the investigation of sound
+itself and the philosophy of music as a
+whole, but also in the study of such specific
+subjects as the language of music, its formal
+structures and the rules of composition.
+They discovered, too, that the machine
+could help with practical, as well as
+theoretical tasks and that it was capable not
+only of writing scores for performance by
+traditional instruments, but also of
+reproducing the sounds written into a tradi¬
+tionally prepared score.
+It is worth noting here that a considerable
+number of performing musicians are now
+taking an interest in the relationship bet¬
+ween computers and music (and not merely
+with the aim of arming themselves against
+future developments). They set great store
+by the principle of real-time working since
+they feel that use of the computer to bring
+an element of instant transformation of
+sound into a performance helps to preserve
+the factor of uncertainty without which they
+find true communication with their public
+impossible. A piece of music, like a work
+written for the theatre, constitutes an "ab-
+CONTINUED PAGE 32
+Photo © Editions Rencontre, Lausanne. Engraving from Histoire de la Musique vol. 14, Bibliothèque des Arts Décoratifs, Paris
+Photo opposite page, researchers operate a digital synthesizer, an apparatus for creating
+electronic music which, when coupled to a computer, can provide taped recordings of an
+almost limitless range of pitch, timbre and volume. Small synthesizers can also be used
+for the production of "live" electronic music. Above, thematic graph for an orchestral
+composition. Based on an initial analysis by a computer, it guides the composer as to the
+options open to him in the development of a composition for orchestra. Top photo, the
+"Song of Songs", a Flemish engraving of the 17th century.
+29
+
+loudspeaker sound wave
+computer
+digital-to-analogue
+converter
+Music by numbers
+By making available to the
+composer a new gamut of
+sounds, ranging from
+random noise to pure tones,
+and by allowing him, if he
+wishes, to dispense with
+instrumentalists and address
+his audience directly, the
+computer has revolutionized
+musical composition. In
+addition, the computer has
+opened up new fields of
+acoustical, theoretical and
+musicological research and
+analysis and can be used to
+process musical notation and
+to print music. Top right, a
+three-dimensional computer-
+generated display of two
+seconds of playing time of a
+melody played on an oboe.
+The composer can feed
+information into the
+computer in the form of
+numbers or by writing with a
+light-pen on an input screen,
+left. Top left, the computer
+processes this information
+which is then passed
+through a digital-to-analogue
+converter, an apparatus that
+transforms data from the
+computer into electrical
+impulses that cause a
+loudspeaker to vibrate and
+produce sound. Right,
+computer-produced graphs
+of half a second of sound
+synthetized by a computer to
+simulate the sound of a
+trumpet and the same sound
+analysed and broken down
+by the computer into six of
+the most important
+harmonics of which the
+sound is constituted.
+30
+
+31
+
+CONTINUED FROM PAGE 29
+^solute" which, by last-minute adjustments
+at the moment of interpretation, becomes
+"relative"; what creates the musical or
+dramatic event is the passage of the per¬
+formers along this tightrope between cer¬
+tainty on the one hand and uncertainty on
+the other. Any future application of com¬
+puter technology to music will have to take
+account of this need for uncertainty, and of
+the question whether machine-made music
+should be a finished product or, on the con¬
+trary, merely a framework to be filled in at
+the moment of performance.
+In order to understand what is involved
+more clearly, let us look at some of the ways
+in which electronic techniques are, or might
+be applied in the field of music, beginning
+with the reproduction of sound. In a con-,
+ventional sound reproduction system, vibra¬
+tions picked up by a microphone are
+transformed, or "transduced" into an elec¬
+tric current, and then converted back into
+vibrations by means of a loudspeaker. But
+while they are in the form of an electric cur¬
+rent, the sounds can be subjected to various
+kinds of treatment; they can, for example,
+be amplified or recorded.
+Suppose now that we connect to the out¬
+put of the microphone a device which
+measures the current induced by various
+sounds and which converts these
+measurements into another scale of
+values into a set of numbers, for example.
+If we feed these numbers into a second
+device, which is capable of carrying out the
+operation in reverse, we shall obtain a fresh
+current; this in turn can be converted into
+vibrations, and hence sound, by a
+loudspeaker.
+But will the current leaving the
+microphone be identical with that entering
+the loudspeaker? Not exactly, because dur¬
+ing the process of measuring the former and
+transforming it into a numbered code, the
+first device (called by computer scientists an
+"analogue-to-digital converter") will have
+"dropped" the fragments of current which
+passed during the intervals between
+measurements, thus failing to encode those
+fragments for the second device (the
+"digital-to-analogue converter"). In other
+words, the output from the microphone is
+continuous, while the input into the
+loudspeaker is discontinuous. In practical
+terms, however, that is to say as far as the
+perception of sounds by the human ear is
+concerned, and provided that the current is
+measured at sufficiently close intervals, the
+listener will be unable to distinguish bet¬
+ween what goes into the microphone and
+what emerges from the loudspeaker.
+Suppose now that we eliminate the direct
+source of sound, dispense with the
+microphone, and replace the analogue-to-
+digital converter by a computer, which we
+instruct to produce a set of numbers based
+on the same sort of values as those
+measured earlier, the information provided
+by the computer will result in synthetic
+sound in other words in sound whose
+origins lie nowhere in the natural world, and
+which the natural world may well be in¬
+capable of producing.
+Let us take a specific example to make
+this notion of the synthesis of sound more
+clear. Percussive sounds, such as those ob¬
+tained by striking the surface of a wooden or
+hide-covered instrument, are very rich and
+complex, but they are of short duration and
+not self-sustained. They may be considered
+as being similar to "noise" and it may be dif¬
+ficult to fit them into any logical arrange¬
+ment or pattern because they often depend
+on chance and on the varied nature of the
+materials with which they are made. With
+the use of electronic devices, their distinc¬
+tive quality, or timbre, can be produced ar¬
+tificially and at precisely the required mo¬
+ment, for the length of time required and
+with the desired gradations of loudness or
+softness; what is more, whole families of
+sounds of the same tone-colour, linked by a
+scale or an imposed system of values, can
+be synthesized in this way.
+Thus, solutions can be found to problems
+which nature itself pronounced intractable,
+the potential of existing sound-making
+materials can be extended, and all the condi¬
+tions are realized for a leap into the
+unknown; although the latter exercise re¬
+quires at least as much enthusiasm as scep¬
+ticism, because we are still too attached to
+"nature" (whether in the domesticated form
+beloved of European and other civilizations,
+or in its untamed state) to be able to imagine
+or perceive without difficulty what is, quite
+literally, "unheard of". It is certainly true,
+nevertheless, that as far as the synthesis of
+sound is concerned, the only limits are those
+imposed by the imagination of the
+"technician-performer" who operates the
+equipment.
+In this new context, the musician can no
+longer content himself with knowledge bas¬
+ed on the heritage of sound transmitted by
+his own or other civilizations; he can no
+longer rely on the amalgam of musical and
+aesthetic notions which has, up to now and
+notwithstanding certain developments in
+language and signification, prescribed a
+priori which sounds are "permissible" in ac¬
+cordance with historically-determined
+criteria. Moving like an astronaut into the
+outer space of aesthetics, exploring and
+familiarizing himself with the unknown, the
+modern musician must in order to carry
+out certain specific tasks have the groun¬
+ding in mathematics and physics which will
+enable him to determine the relationship
+between "physical" and "musical" sound.
+This requirement is not as extravagant as
+it may appear. For example, when a com¬
+poser learns to compose and arrange music
+for a particular instrument, he is not ex¬
+pected to be able to play the instrument in
+question with outstanding virtuosity; nor is
+he expected to be able to construct it, or to
+analyse scientifically its acoustic potential.
+He is expected, on the other hand, to know
+the tones the instrument is capable of pro¬
+ducing in a particular register, according to
+the manner in which it is played, and the
+practical applications as well as the limita¬
+tions imposed by its construction. He is also
+expected to understand, through extensive
+background reading, its aesthetic signi¬
+ficance within the overall context of musical
+expression.
+In the field of electronic, or "machine-
+made" music, the need to determine the
+relationship between physical and musical
+sound, and to integrate this relationship in
+the creative process, entails the develop¬
+ment of new skills. Rare are the composers
+who are sufficiently versed in the new
+techniques to apply them unhesitatingly, or
+who have developed an adequate intuitive
+feeling for the unknown. What is required,
+in fact, is a judicious blend of knowledge
+and intuition, making it possible to look
+ahead, and to extrapolate on the basis of
+established data. But these same data,
+derived from the familiar, instrumental
+world, can themselves serve as raw material
+which, analysed and then transformed, can
+be used to produce results so far removed
+from the initial source that the latter is well-
+nigh unidentifiable.
+Analogue-to-digital conversion which, as
+we saw above, involves the transformation
+of some physical quantity (in this case,
+sound) into a numerical coding, in fact pro¬
+vides data which the computer can process
+in two different directions. In the first place,
+relatively simple operations such as filtering,
+the inclusion of echo effects, or various
+types of modulation can alter the initial
+sound, and lead to substantial transforma¬
+tion of the original tone-colour. Although
+the results obtained are sometimes very in¬
+teresting, they are not easily controllable,
+and their use soon leads to tiresome
+monotony. Instead of being highly in¬
+dividualized, particular and selective, the
+timbre imparted by the instrument loses its
+character and emerges after processing as
+anonymous and banal.
+It may prove more interesting and worth¬
+while, therefore, to explore the second
+possibility offered by the computer that of
+analysing and extracting from the data the
+parameters which constitute a given sound
+or timbre. A whole series of techniques is
+available in this connexion, the most impor¬
+tant of which at the present time involves
+identification, at a given moment, of the ex¬
+act note produced by the instrument con¬
+cerned. Once this "fundamental sound" has
+been extracted, a process of synthesis can
+be initiated, following with a very high
+degree of precision the sequence of inter¬
+vals monodic, naturally produced by the
+instrument.
+However, a certain number of scientific
+and technical difficulties remain to be over¬
+come. The richer the sound produced by the
+instrument, the harder it is for the detecting
+device (on which the analogue-to-digital
+conversion depends) to cope with the dif¬
+ferent characteristics, some of them of an
+extremely fleeting nature, of the sound
+received. The risk of inaccuracy is con¬
+sequently increased, especially if it is intend¬
+ed to extract these characteristics in a real¬
+time operation; when this is the case, what
+would normally be considered as a perfectly
+acceptable margin of error becomes quite in¬
+admissible and the whole system is called in
+question as a result.
+The notion of real-time operation is one to
+which musicians are firmly attached, since it
+allows for the inclusion, in the act of inter¬
+pretation, of an element of chance, or rather
+of opportunity in the most positive sense of
+the term. This being so, it would appear
+logical, if not indispensable, to consider the
+computer, in its musical role, as an instru¬
+ment just like all the other instruments
+which depend on different techniques.
+It should be noted, however, that bet¬
+ween the emission of two sound signals the
+computer must carry out about 100 opera¬
+tions (additions, multiplications and other
+calculations); but the time interval between
+two signals is about 30 millionths of a
+second. This means that, in real-time work¬
+ing, no more than 300 thousand millionths
+of a second are available for each of these
+calculations.
+No computer at present on the market is
+capable of working at this speed, and it is
+32
+
+thus necessary to separate the operation in¬
+to two parts. In the first stage, the computer
+makes the required calculations at its own
+speed, and commits the resultant data to
+memory. In the second stage, it transforms
+these data into sound signals, transmits
+them at the required speed, and records
+them on a conventional magnetic tape.
+When the time comes for the concert, the
+tape is available and all that is then required
+is a tape recorder on which to play it.
+The undoubted advantage of such a pro¬
+cedure is that it involves relatively inexpen¬
+sive equipment, which can be transported
+without difficulty to the concert hall. On the
+other hand, pre-recorded music is definitive;
+it excludes all possibility of different inter¬
+pretations and leaves no room for "chance"
+during performance.
+It should be possible, however, in the not
+too distant future, to introduce micro¬
+processors into the system, by means of
+which pre-recorded music can, to some
+small extent, be modulated during perfor¬
+mance. Furthermore, it is possible to con¬
+struct specialized machines which, linked to
+an appropriate computer, can modify the
+functioning of the latter to the extent that
+real-time processing and the synthesis of
+sound become attainable objectives. In this
+case, the computer becomes a musical in¬
+strument, in its own right, and can be
+"played" by means of appropriate at¬
+tachments such as keyboards, poten¬
+tiometers or contacts. Since they can be
+used both to produce sounds of their own
+making, and to modify the sounds produced
+by other instruments, these specialized
+assemblages allow for individual "interpreta¬
+tions"; the operator can combine these two
+modes at the moment of performance.
+Like the composer of electronic music,
+the "technician-performer" must now cope
+with new problems; he must have the basic
+knowledge which enables him to under¬
+stand the instantaneous phenomena pro¬
+voked by manipulation of the machine, and
+this poses the question of his training. The
+rules for "playing" a computer differ from
+those which govern the use of traditional in¬
+struments, since the former picks up signals
+other than those sensed by the human ear
+or, at least, reacts to them differently. For
+example, variations in the attack of a sound
+which pass unnoticed by the ear, can be
+detected by the machine, as can fine
+nuances of range or pitch. On the other
+hand, the ear can notice aesthetic subtleties
+which leave the computer unmoved.
+The computer can do more than create or
+transform sounds. It can also schematize
+and analyse the mechanics of musical
+language, and convert music itself into
+visual displays. This is probably the field of
+application in which least has been achieved
+so far, and the results of research, con¬
+ducted in perhaps too rudimentary or too
+academic a fashion, are somewhat disap¬
+pointing. Following the example of the
+linguists, who have used the computer for
+highly specific purposes, certain musicians
+have indeed attempted to analyse the
+classical techniques of counterpoint and
+harmony, but the results achieved are in no
+way comparable with those obtainable by
+any competent student of music who ap¬
+plies his imagination and aesthetic sense to
+good effect.
+Why, in a contrapuntal composition, and
+despite the fact that it obeys exactly the
+same laws and interdictions, is one melodic
+CONTINUED PAGE 38
+Photo All Rights Reserved
+
+
+MAESTRO COMPUTER ¡continued from page 33)
+line more pleasing than another? This is an
+aesthetic question which seems difficult to
+answer in quantitative terms. Nor do I
+believe that the precise reasons will ever be
+found. For centuries past, analysts and
+musicologists have done all that they can to
+prove to us that masterpieces are master¬
+pieces, that the melodic inflections of one
+composer are extraordinary and that the har¬
+monic sequences of another are unique.
+Despite literal analysis and an abundance of
+grammatical explanation, no convincing
+theory has ever been produced to answer
+the question of what constitutes excellence
+and I fear that the computer will be of no
+help at all in this connexion.
+But let us turn once again to the much
+more immediate problem of training. The
+entry of computer technology into the world
+of music means that new disciplines will
+have to be learned. Mathematics, computer
+programming and the physics of sound
+must henceforward form part of the cur¬
+riculum of the apprentice musician. At the
+same time, the new technology should en¬
+courage the practitioner to perfect his skills,
+and to enhance his own sensitivity to sound;
+it should help him to listen more analytically,
+to distinguish the components of a harmony
+and to modify their relative importance, and
+to perceive immediately the effect of this
+modification to tone-colour; his under¬
+standing of the role and function of timbre
+will be facilitated accordingly.
+Before concluding, I must refer to one of
+the most urgent issues faced by non-
+instrumental music, the question of its
+storage and diffusion. The past sixty years
+have seen revolutionary developments as far
+as the conservation and dissemination of
+recorded works is concerned; it may be sup¬
+posed that the computer and the techniques
+of digital computing will bring further im¬
+mense changes in this field.
+First and foremost, the possibility of
+stocking digitally coded sound permits con¬
+servation over longer . periods, since the
+method of encoding excludes all possibility
+of sound interference or degradation. As far
+as synthetic sound is concerned all that
+need be stored are the parameters required
+for its reconstitution by the computer; this
+will inevitably lead to a profound transfor¬
+mation in the concept of musical scores,
+and the characters and symbols employed in
+their transcription. With regard to diffusion,
+it may be hoped that the incorporation of
+digital devices in electro-acoustic equipment
+will enable music-lovers everywhere to
+become more active listeners, and allow
+them to express their individuality by
+transforming and to a certain extent
+manipulating recorded sounds.
+From all the above, it may be seen that
+music has nothing to lose from contact with
+the computer. For my part, I believe that it
+has much to gain, provided that the meeting
+takes place on fertile ground. Far from
+crushing or annihilating individuality, the
+new techniques present a challenge, no
+greater and no less than that issued by their
+predecessors, to those qualities of inven¬
+tiveness, ingenuity and outstanding per¬
+sonality which have at all times been
+necessary for the creation of new works of
+art.
+Pierre Boulez
+Letters
+to
+the editor
+SOLIDARITY AND
+SELF-HELP FOR THE SAHEL
+Sir,
+International Year of the Child 1979 made us more
+aware than ever before of the critical problems
+facing the developing countries and especially the
+problems of the Sahel region of Africa. We learn¬
+ed about the Sahel in geography lessons and from
+essays by children in our class who know about
+the situation there.
+One of our classmates suggested that we
+should create a group to help the children of the
+Sahel, each of us making a regular contribution of
+two francs a week. The idea was Immediately
+accepted.
+We hope that our project will help to bring a
+little more food, technical, scientific and educa¬
+tional assistance, and above all moral support, to
+the people of the Sahel. To encourage other peo¬
+ple in the quest for solutions to the grave pro¬
+blems of our time we organized a special exhibi- .
+tion in our school's documentation centre.
+Would you tell us where we should address our
+1,270 francs?
+The children in our class would very much like
+to make contact with other children in a school in
+one of the countries of the Sahel.
+Children of class 4A
+Yvon Delbos mixed secondary school
+Montignac sur Vezere
+France
+This letter was sent to Unesco's Co-operative
+Action (CO-ACTION) Programme, which offers
+individuals, groups and institutions the opportu¬
+nity to participate in self-help community projects
+throughout the world. The contributions from the
+children of Montignac sur Vezere will go towards
+a Co-Action development project to improve edu¬
+cational and nutritional facilities in the Sahelian
+region of eastern Senegal. Donations to the Co-
+Action Programme, in the form of cheques, inter¬
+national money orders or bank transfers, as well
+as requests for further information, should be
+addressed to: Unesco Co-operative Action Pro¬
+gramme, OPI, 7 Place de Fontenoy, 75700 Paris,
+France. EDITOR.
+YOUTH AND
+TOMORROW'S WORLD
+Sir,
+An ardent reader of the Courier, I admire the
+objectivity with which you cover the problems of
+this tempestuous world. Your coverages of the
+problems of pollution and the arms race were
+unique. Children are the hope for the future. Why
+should their future be threatened by adult myo¬
+pia, insensitivity, greed and conceit? I should like
+you to highlight the problems uncontrolled pollu¬
+tion and the arms race pose for young people who
+are a light in the darkness of this vainglorious and
+bewitched era.
+Chris Agugdesi
+University of Lagos
+Nigeria
+We regret that owing to a technical
+error during the printing of the
+colour pages, Wassily Kandinsky's
+painting Yellow-Red-Blue (page 21)
+is reproduced upside down.
+BOOKSHELF
+RECENT UNESCO
+BOOKS
+Time and the Sciences, edited by
+Frank Greenaway. Based on papers pre¬
+sented at a specialist meeting on "Time
+and the Sciences: the Impact of Scientific
+Expressions of Time on Differing Cul¬
+tures" held at the Royal Institution in
+London. The third publication in
+Unesco's "At the Crossroads of
+Cultures" series, which seeks to establish
+communication between contemporary
+cultures through studies of concepts that
+are fundamental to everyday life and cen¬
+tral to any systematic and comprehensive
+view of the world. 182 pp. (32 F)
+Red Thread Riddles, by Virginia Allen
+Jensen and Polly Edman. A fun booklet
+for sightless children of six to ten. It has
+embossed illustrations in colour, and its
+text is in Braille and ink-print, so that
+both visually handicapped and non-
+handicapped children may use it.
+(Requests for copies of this booklet
+should should be sent to Mr. F. H. Pot¬
+ter, Unesco Courier Division, Unesco,
+Place de Fontenoy 75700 Paris, France.
+Conservation Standards for Works
+of Art in Transit and Exhibition, by
+Nathan Stolow. 129 pp. (44 F).
+New Values and Principles of
+Cross-cultural Communication, by
+Alcino Louis da Costa, Yehia Aboubakr,
+Pran Chopra and Fernando Reyes Matta.
+(No. 85 in Unesco's "Reports and Papers
+on Mass Communication" series). 51 pp.
+(10 F).
+Cultural Policy in the Byelorussian
+Soviet Socialist Republic, prepared by
+the Institute of Art Criticism, Ethno¬
+graphy and Folklore of the Academy of
+Sciences of the Byelorussian SSR. ("Stu¬
+dies and Documents on Cultural Policies"
+series). 53 pp. (10 F).
+Review of Research on Salt-
+affected Soils, by I. Szabolcs, with a
+bibliography compiled by G. Varallyay.
+(No. 15 In Unesco's "Natural Resources
+Research" series). 137 pp. (38 F).
+Impact of Urbanization and Indus¬
+trialization on Water Resources Plan¬
+ning and Management. Report of the
+Unesco/International Hydrological Pro¬
+gramme Workshop on impact of urbani¬
+zation and industrialization on regional
+and national water planning, held at
+Sandvoort (Netherlands) in 1977. Based
+on a draft prepared by Floris C. Zuidema.
+(No. 26 in Unesco's "Studies and Reports
+in Hydrology" series). 111 pp. (30 F).
+School Furniture Handbook, Vol. I:
+General and Specific Aspects, Vol. 2:
+Practical Examples and Illustrations.
+Information and guidance on all aspects
+of furniture for educational buildings,
+with particular emphasis on conditions in
+developing countries. (The two-volume
+set: 90 F).
+38

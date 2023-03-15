@@ -1,0 +1,241 @@
+Yang Qiang, interviewed by Wang Chao
+After the internet and mobile internet triggered the Third Industrial 
+Revolution, artificial intelligence (AI) technologies, driven by 
+big data, are fuelling a Fourth Industrial Revolution.
+Reflection#2, installation by 
+Brazilian artist Raquel Kogan. 
+Computer-generated numbers are 
+projected in a darkened room, so that 
+the bodies of spectators are directly 
+integrated into the work.
+The FourthRevolution
+Could you define big data thinking? How 
+could companies adapt to this way of 
+thinking and what changes would they 
+need to make?
+The first point of big data thinking is to 
+consciously collect data. In other words, 
+before doing any business, you have to 
+think about how to collect data.
+Second, data collection and core 
+algorithms are closely related. You need 
+to know what is missing according to the 
+algorithms, and then collect data with 
+a specific purpose, including data from 
+different sources. 
+The third requirement is to form a closed 
+loop. The services provided by a software 
+system should be able to stimulate the 
+source to generate more data that can 
+be fed back into the system, forming a 
+closed loop. This allows for a continuous 
+process of self-improvement and self-
+refinement of the system. A special 
+design is required for the closed loop, 
+which is very different from the previous 
+design used for business.
+Could you elaborate further on a closed 
+loop design for AI and big data?
+The first thing to consider are data 
+providers – for example, users. All user 
+behaviours need to be recorded in the 
+form of data. Then service providers 
+– such as WeChat Pay, the Chinese 
+mobile wallet and Taobao, the Chinese 
+e-commerce website – have to be 
+taken into account. Intelligent feedback 
+is generated based on the data to 
+understand the needs of users. Users 
+provide feedback data to the service 
+providers, and service providers in turn 
+provide the service data to the users. 
+This forms a closed loop.
+How did the convergence between AI and 
+big data occur? 
+The rise of AI and big data started in the 
+early 2000s. When Google and Baidu – 
+the emerging search engines at the time 
+– used AI-powered recommendation 
+systems for advertising, they found 
+that the results were much better than 
+expected. The more data they collected, 
+the better the results would be. But at the 
+time, no one realized that this would be 
+the case in other fields as well.
+A real turning point occurred with the 
+emerging of ImageNet, the largest 
+image recognition database in the 
+world, designed for use in visual 
+object recognition software research. 
+Established by computer scientists at 
+Stanford and Princeton universities in 
+the United States, it is considered to 
+be the beginning of the deep learning 
+revolution. The large amount of image 
+data on ImageNet resulted in a ten per 
+cent drop in the rate of mis-recognition. 
+This showed that the convergence of 
+deep learning and big data could help 
+master extremely complex calculations. 
+How would you define the relationship 
+between deep learning and big data?
+If an AI system is designed well, the 
+product will be more convenient to 
+use, more accurate, and therefore, 
+more useful. There will be more users, 
+and hence more data – which in turn, 
+makes the AI system better. A mutually 
+strengthening relationship exists 
+between AI systems and data.
+Big data and AI could be merged into a 
+new kind of AI, called data intelligence.
+
+For the closed loop to evolve rapidly, 
+it should be short enough. And it is 
+better not to have people involved in 
+it, because the loop cannot be fully 
+automated with human participation. 
+Second, the update process in the loop 
+should happen frequently – it is best if 
+this happens several times a day, because 
+it keeps updating the system. Third, the 
+process must be continuous, so users are 
+prompted to provide constant feedback. 
+To sum up the process in three words, it 
+should be short, frequent, fast.
+In your opinion, how long will it take for 
+this closed loop to actually be achieved?
+I think the future development of AI will 
+be divided into two stages. The first stage 
+is that all industries will attempt to use 
+the technology. For example, security 
+and protection services will use facial 
+recognition technology; the banking 
+sector will use AI in risk control, and so 
+on. These are single technologies and 
+solutions serving existing industries.
+The second phase will be the emergence 
+of entirely new industries, with artificial 
+intelligence at the core. For example, a 
+bank that uses AI as the core technology 
+can be completely driven by AI in terms 
+of investment, service and credit. Bank 
+clerks would only be required to make 
+small adjustments. Building entirely new 
+kinds of customer service systems would 
+also be possible.
+I think the second phase of AI will truly 
+reshape human society, giving it its 
+future form. Just as at the time when 
+the internet was emerging, in the first 
+stage, a traditional bookstore made a 
+web page and considered itself an online 
+bookstore, which was not the case. In 
+the second phase, websites like Amazon 
+were established, that were completely 
+different from the traditional bookstore.
+The combination of big data and AI could 
+also threaten the information flow and 
+social equity. How could the normal flow 
+of large-scale data be ensured, without 
+the infringement of personal privacy?
+Products that are created by using big 
+data and AI technologies will provide 
+excellent new business models. However, 
+the precondition for these business 
+models to be implemented on a large 
+scale would be to ensure the privacy of 
+their users. Here are three concerns:
+First, we need a set of legal and social 
+rules to protect the ownership of data 
+and to make it clear where the data can 
+or cannot be used. In my opinion, the 
+user data should be divided into different 
+divisions. For example, data in the red 
+zone cannot be touched, data in the 
+yellow zone is accessible only to some 
+people, whereas everyone has access to 
+data in the green zone. There is currently 
+no consensus on the division of data. 
+Besides, there is no law that specifies the 
+definition of the person in charge and the 
+penalties for violating these legal rules.
+The second phase of AI 
+will truly reshape human society, 
+giving it its future form
+
+Yang Qiang (China) is an international 
+expert in AI and data mining. He is 
+the first Chinese chairman of the 
+International Joint Conferences on 
+Artificial Intelligence (IJCAI), a fellow of 
+the Association for the Advancement 
+of Artificial Intelligence (AAAI), the head 
+of Department of Computer Science 
+and Engineering at the Hong Kong 
+University of Science and Technology, 
+and the co-founder and chief scientist 
+of 4Paradigm. 
+Wang Chao (China) is a journalist and 
+team leader at the AI Studio of NetEase 
+News, which covers the AI industry. 
+
+The second concern is to protect 
+data privacy technically. For example, 
+4Paradigm (a Beijing-based AI technology 
+and service provider) is currently studying 
+the use of “migration learning” to protect 
+privacy, which is a relatively new field. 
+This could help different companies 
+exchange data. For example, A makes a 
+model, and the model is moved to scene 
+B. Instead of exchanging data directly 
+between A and B, it is included in the 
+model. This is better for the protection of 
+user privacy.
+Third, we need to conduct more research 
+on user privacy and data pricing. 
+For example, when users click on an 
+online advertisement through an AI 
+recommendation system, should this 
+system get some of the profits? If a search 
+engine earns revenue, should some of it 
+be distributed to users? These issues are 
+worth exploring.
+In the next few years, everyone will realize 
+the importance of the “landing” of AI. We’ll 
+need to pay more attention to how to 
+“land” AI, and to find out which areas are 
+suitable for its application. Today, finance, 
+the internet, and automated vehicles are 
+suitable areas for the “landing” of AI.
+From a global perspective, what impact 
+will the combination of big data and 
+AI have on developing countries?
+I think big data and AI technologies 
+would enable some emerging countries 
+to catch up, or even surpass, traditional 
+developed countries. Because in the 
+future, economic competition will not 
+be only about financial and economic 
+scale, but more importantly, about the 
+size of data and the speed of embracing 
+the data economy. For example, the 
+rapid development of China's internet 
+and mobile internet has allowed for the 
+collection of a large amount of data. This 
+will also accelerate the development of 
+China's AI industry, which may change 
+the world balance.
+On the other hand, if a country already 
+has a good infrastructure and high-
+quality education, it could benefit from AI 
+to achieve more efficient production. Just 
+as the use of steam engines allowed some 
+countries to develop more rapidly during 
+the Industrial Revolution.
+Songs of Anagura, an interactive 
+exhibition introducing a field of 
+research studying the collection, 
+processing and use of data on position 
+and human behaviour.

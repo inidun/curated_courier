@@ -1,0 +1,204 @@
+WHAT IS IT?
+It has become virtually impossible
+to open a newspaper, a news¬
+magazine or a professional journal
+without finding something about the
+Internet. This super-telematic net¬
+work, the world's largest, is being
+seen as a phenomenon unequalled
+since the invention of the printing
+press and a revolution in the pro¬
+duction, circulation and exchange of
+information. It consists of more than
+13,000 interconnected computer net¬
+works, and the number of its users
+(high-school and university students,
+researchers, engineers), already esti¬
+mated to be some 30 million in 150
+countries, is increasing every day.
+Forerunner of the "information
+superhighways" of the twenty-first
+century, to use the expression coined
+during the American presidential cam¬
+paign of 1992 by vice-presidential
+candidate AI Gore, the Internet was
+set up in the United States in the
+1960s. Originally intended only to
+link up a few computers belonging to
+research centres and universities
+working on a defence project, the
+network is today growing at the rate
+of 20 per cent per month, and its
+management is completely decen¬
+tralized. Internet is not owned by
+anyone. Each network pays for the
+installation and operating costs as
+well as its being connected up to the
+other networks.
+In short the Internet is both an
+electronic village and an international
+campus where all information is grad¬
+ually organized into an immense vir¬
+tual library. It is also a gigantic test
+bench for developing open networks
+covering the entire planet.
+WHAT ARE ITS USES?
+First of all it is used for communi¬
+cating via electronic mail (e-mail).
+This abolishes the notion of distance.
+Users from the world over can chat
+back and forth or take part in round-
+table discussions at low cost. For
+example, high-school students in San
+Diego (U.S.A.) send and receive let¬
+ters from students in a school in
+Israel. During the attempted coup
+d'état in Russia in August 1991,
+
+
+
+THE INTERNET
+JOURNEY INTO CYBERSPACE
+by Denise Pelissier
+People all over the world are taking their first steps on the information
+superhighway by joining the Internet. Chatting about science,
+sport or politics with someone on the other side of the globe; con¬
+sulting the catalogue of the Library of Congress in Washington;
+admiring the masterpieces in Florence's Uffizi Gallery; delving into
+Unesco's data base in Paristhese are just a few of the myriad pos¬
+sibilities open to Internet users.
+RELCOM, a small network linked to
+the Internet through Finland, was the
+only means of communication
+between Moscow and the outside
+world.
+The Internet mailbox hosts
+debates and forums, serious and light-
+hearted, on all kinds of subjects,
+from science and politics to leisure,
+sports and games. In order to receive
+messages in your electronic mailbox
+from other subscribers and to send
+out replies all you have to do is sub¬
+scribe. It is an unparalleled device for
+finding the solution to a problem.
+There is always someone along the
+highway who knows the answer.
+Images and sounds, as well as
+computer data, travel around the
+Internet, which makes it possible to
+consult from a distance the cata¬
+logues of the world's great libraries,
+that of the Library of Congress, for
+example, in the United States, visu¬
+alize satellite photos taken by the
+American national meteorological
+service, admire the masterpieces on
+display in Madrid's Prado, the Orsay
+Museum in Paris or the Uffizi in Flo¬
+rence. It is also possible to procure
+softwarefree-of-charge if it is in
+the public domain [freeware) and for
+a nominal charge if it is shareware.
+Books and newspapers can be pub¬
+lished electronically on the Internet,
+and international conferences can
+even be organized through it.
+WHO'S INTERESTED?
+Most universities and a growing
+number of research bodies are
+already hooked up to the Internet.
+Many United Nations agencies are
+also on itthe United Nations itself,
+the International Atomic Energy
+Agency, the International Telecom¬
+munication Union, the United Nations
+Development Programme, the World
+Health Organization, the World Bank,
+the Food and Agriculture Organiza¬
+tion, UNICEF (the United Nations
+Children's Fund) and Unesco. It is
+thereby possible to find out about
+each agency's goals, activities, pro¬
+grammes and publications, consult
+each agency's data base and hop
+from one server to another.
+It is also possible for individuals
+to hook up to the network through pri¬
+vate companies such as CompuServe
+and Delphi. All that's needed is a
+computer, a modem (telephone con¬
+verter) and communications soft¬
+ware.
+Benefit from the Internet explo¬
+sion is not confined to the developed
+countries; it is also a particularly
+interesting tool for the developing
+countries, although the situation
+varies widely from region to region.
+The Internet has great potential for
+promoting exchanges and strength¬
+ening North-South and South-South
+co-operation, for it facilitates direct
+contact between researchers and
+helps those who feel cut off to get
+into the mainstream.
+GROWING PAINS
+Originally free of charge and intended
+to provide mutual help among
+researchers from around the world,
+the Internet is changing. In the United
+States 60 per cent of the institutions
+presently connected to it are private
+companies, as against 40 per cent in
+France. A number of pay-per-service
+networks are appearing. Problems
+are arising about security, information
+reliability and copyright.
+Anyone with a personal computer
+can disseminate information. And it
+is very easy to copy the electronic
+version of a document or a data base
+and rebroadcast it, with or without
+modifications, under a different name.
+To provide security on the net¬
+work and prevent undesirable intru¬
+sions, devices known as firewalls-
+barriers that shut off parts of
+computer systems have been devel¬
+oped. Confidential information must
+be encrypted before being sent.
+The Internet is also a victim of its
+success. Traffic jams are not
+unknown. At certain times of the day
+the networks are so crowded that it
+is practically impossible to connect
+with certain servers. In France, for
+example, it is a good idea to take
+advantage of the time difference by
+working with American servers in the
+morning.
+Despite its growing pains,
+Internet is already an exceptional
+means of communication. Cross-
+border transfers of Information have
+become a daily reality for millions of
+users the world over.
+DENISE PELISSIER
+is chief of the Clearing House of
+Unesco's Bureau of Documentation,
+Informatics Services and
+Telecommunications.
+FURTHER INFORMATION:
+John R. Levine, Internet for Dummies, San Mateo, Ca., IDG Books,
+1993, 352 pp.
+Ed Krol, The Whole Internet: User's Guide and Catalogue, Sebastopol,
+Ca., O'Reilly cop., 1994, 534 pp.
+Recent Literature on Internet, Electronic Mail and Electronic Net¬
+working, bibliography available from the Institute for the Development
+of Research of the University of Tilburg, Holland. E.mail: ewoldt@kub.nl;
+fax (31) 13 663 015.
+Anne Sanouillet, L'Internet pour nous autres, Centre du 20e siècle.
+Université de Nice/Sophia Antipolis, 81, rue de France, 06000 Nice,
+France, ISBN 2-902311-86-9, 20 pp.
+19

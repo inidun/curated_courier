@@ -1,0 +1,157 @@
+
+The top twenty
+The table at right ranks countries in terms of their
+share of world scientific output as measured by the
+production of articles that appear in scientific publi-
+c at i o n s1.There is remarkable continuity between the
+t wo periods considered, with the same 20 countri e s
+a p p e a ring on both lists.The United States accounts
+for the lion’s share of scientific activity, p r o d u c i n g
+more than one-third of all publications recorded by the
+SCI dat a b a s e .There is howe ve r , strong competition
+for the runner-up position.Although this is still held
+by the UK, Japan inched up its share by 1.3% and Ger-
+m a ny by 1.2%. In the lat t e r ’s case, u n i fic ation playe d
+a part ,e ven though the GDR never accounted for 1%
+of total output.
+Taken as an entity, the European Union has
+i m p r oved its position and has gained a competitive
+e d g e : it succeeded in ove rtaking the U. S . ,with 35.9%
+of all papers signed by an author with a European
+address between 1990 and 1995, against 35.1% by
+a U. S .a u t h o r. I n d i a ’s decrease is cause for concern
+and could reflect an unfort u n ate draining of scientists
+t owards the bu r e a u c r atic and political arena.
+
+
+Data on the output of scientific publications show that the world’s
+s c i e n t i fic hiera rchy has remained remarkably stable over the past decade,
+with the continued domination of the U. S. - Ja p a n - E u rope triad
+A global snapshot of scientific
+Highs and lows
+The table at right indicates those countries
+which have shown the highest and the lowest
+gr owth rate in terms of publication output.
+Foreseeably, Asian countries come out in the top
+p o s i t i o n s , s h owing impressive gr ow t h . S p a i n ’s
+advance over the past decade is partly linked to its
+i n t e gr ation into the programmes of va ri o u s
+European organizat i o n s. The same holds for
+Portugal and Greece. These three countries are
+the only ones in Europe that posted significant
+growth rates. In contrast, countries in transition
+such as the Czech Republic and Russia show a
+marked decline in output, as does India.
+The 20 most productive 
+countries and their share
+in the world science total 
+(1984-1989 
+and 1990-1995)
+Country 1984-1989 1990-1995
+Rank % share Rank % share
+U.S. 1 36.52 1 35.82
+UK 2 9.21 2 9.24
+Japan 3 7.37 3 8.67
+Germany 5 6.22 4 7.42
+France 6 5.17 5 5.88
+USSR/Russia 4 6.85 6 4.97
+Canada 7 4.66 7 4.77
+Italy 8 2.69 8 3.49
+Australia 9 2.27 9 2.40
+Netherlands 11 2.01 10 2.40
+Spain 14 1.21 11 2.08
+India 10 2.22 12 1.94
+Sweden 12 1.84 13 1.90
+Switzerland 13 1.44 14 1.67
+China 19 0.81 15 1.38
+Israel 15 1.18 16 1.17
+Belgium 17 0.96 17 1.10
+Poland 16 0.97 18 0.97
+Denmark 18 0.89 19 0.96
+Finland 20 0.67 20 0.78
+High and low 
+annual average publication 
+growth rates 
+(1980-1995)
+Countries or territories % growth rate of publication output
+South Korea 24.49
+China 17.46
+Taiwan 15.96
+Singapore 15.80
+Turkey 11.16
+Portugal 10.80
+Hong Kong 10.80
+Spain 9.95
+Mexico 6.02
+Greece 5.72
+Bulgaria -1.58
+Hungary -2.39
+India -3.55
+Czechoslovakia/Czech Rep. -4.32
+USSR/Russia -4.42
+1.This overview of trends and patterns in world science is
+based on the Scientific Citation Index (SCI) database
+established for bibliographic purposes by the Institute for
+Scientific Information (ISI) in Philadelphia, USA.
+Regarded as one of the most accurate reflections of where
+countries stand in terms of research activity, the SCI
+measures scientific output by the number of articles
+published in scientific journals.The database provides
+systematic coverage of the articles from the 2,500 most
+cited scientific journals. It should also be stressed that data
+tend to focus on basic rather than applied research or
+technology. These data are used by other institutions,such
+as the European Commission, which produces the
+European Report on Science and Technology Indicators.
+* Tibor Braun and Wolfgang Glänzel are respectively with the
+Information Science and Scientometrics Research Unit (ISSRU)
+and the  Bibliometric Service of the Library of the Hungarian
+Academy of Sciences, Budapest,Hungary;
+András Schubert is a member of the Research Association of
+Science Communication and Information (RASCI),Berlin,
+Germany
+
+t re n d s Tibor Braun, Wolfgang Glänzel, András Schubert*
+International collaboration
+Figure at left shows the instances of co-
+authorship between the three major producers of
+scientific articles, namely the United States, the
+European Union and Japan. It is worth noting
+that output is practically equal in the U.S.and the
+EU. Japan more often co-operates with the U.S.,
+although other data indicate an increase in co-
+authorships with the EU. Less than 20% of
+papers in the U.S. and Japan are internationally
+co-authored,a figure that reaches between 30 and
+40% in the EU because of the links between
+scientists from different European countries.
+Data can also provide a more detailed insight
+into how international collaboration evolves over
+time. In one analysis, links between 14 countries2
+were studied between 1985 and 1995 using the
+Salton measure, which distinguishes we a k ,
+medium and strong links. The change is striking:
+whereas in 1985, only 7 countries, all developed
+ones, had international co-operation links, all of
+which were weak, in 1995, the picture was signi-
+ficantly different.All 14 countries had internatio-
+nal co-operation links with one or more coun-
+tries, and in 7 cases, they were strong ones.
+Although weak, the two developing countries in
+the selection—Argentina and Mexico—both for-
+ged links over this period.
+I n t e rn ational co-authorship reflects more than
+c o l l a b o r ation between individual scientists. I t
+points to emerging part n e rships between the insti-
+tutions behind the scientists, namely academia,
+g ove rnment and industry. In developed countri e s ,
+these are becoming the norm . In less deve l o p e d
+o n e s , i n d u s t ry ’s part i c i p ation in the funding of
+science is often extemely weak or non-existent,
+h i n d e ring intern ational collaborat i o n . S o m e t i m e s ,
+this is counterbalanced by the stat e , when public
+science is recognized as an important engine of
+economic progress in the global economy. n
+2.Argentina,Australia, Canada,Denmark, France, Italy,
+Japan,Mexico, Netherlands, Spain, Switzerland, Sweden,
+United Kingdom, United States.

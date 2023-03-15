@@ -1,0 +1,459 @@
+I
+r
+B <%&
+In nuclear magnetic resonance (NMR) scanning,
+one of the most refined techniques of medical
+investigation, the patient is placed in a powerful
+magnetic field that has a profound effect on the
+protons (nuclei of hydrogen atoms) in the body.
+These protons normally point in random direc¬
+tions, but inside the scanner's magnetic field
+they align themselves in the direction of the
+field's poles. When the scanner excites them
+with a radio pulse, it knocks them out of align¬
+ment. Within milliseconds they spiral back into
+place, emitting a "signal" which varies accord¬
+ing to the composition ol the tissues under
+observation. A computer translates the signal
+into an image on a video screen. NMR gives an
+extremely precise anatomical picture, as in the
+high definition image of the brain, above.
+IN his laboratory at the Hôtel Dieu, a
+leading Montreal hospital, a young
+Canadian cancer specialist is experi¬
+menting with a technique which may be in
+everyday use before the year 2000: the loca¬
+tion, on a video screen, of the metastases
+(secondary or mini-tumours) of a patient
+suffering from breast cancer.
+The technique owes as much to biology as
+it does to video equipment and informatics,
+since it uses antibodies specially designed to
+identify cancerous cells in a very specific
+manner. These "monoclonal" antibodies,
+as they are called, are "tagged" with a
+radioactive substance. Injected into the
+patient, they home in and lock on to the
+metastases, however small they may be,
+which can then be pin-pointed with the aid
+of a special, radioactivity-sensitive camera.
+"It is our hope," the Canadian doctor
+explains, "that with the help of this tech¬
+nique we will one day be able to detect
+metastases wherever they may be within the
+body. Our dream is that we will then be able
+to attach a few molecules of an appropriate
+medicament to these monoclonal anti¬
+bodies which will deposit them directly at
+the site of the tumour ..."
+In a laboratory at Mama Yémo Hospital,
+8,000 kilometres away in Kinshasa, a team
+of doctors and researchers working on the
+Zaire AIDS Research Project (Projet
+SIDA) have taken up another challenge:
+they are attempting to perfect a cheap but
+reliable test to detect the presence of AIDS
+virus antibodies.
+The test currently in use costs a minimum
+of $3 a time, a "luxury" which no poor
+country can afford for a comprehensive
+screening programme. The researchers in
+Zaire are seeking to develop a test which
+would be one hundred times cheaper. This
+would make it possible to test all blood
+received from blood-donors and thus
+ensure the safety of the blood transfusion
+service, an essential weapon in the medical
+28
+
+Tomorrow's medicine by Yanick Villedieu
+armoury, but which, today, is still impli¬
+cated in the spread of the AIDS virus in
+Africa.
+Montreal and Kinshasa. Two snapshots
+of the medicine of today and two facets of
+the medicine of tomorrow one sophisti¬
+cated, at the leading edge of progress; the
+other, equally fascinating, the medicine of
+daily life. Two worlds with but a single pur¬
+pose to help the sick to the best of the
+capabilities of science and technology ...
+subject to the constraints of time and place.
+Molecular medicine
+The monoclonal antibodies of Montreal
+and the AIDS virus test of Kinshasa are but
+two of the amazing possibilities within the
+range of modern medicine. From the 1950s
+on, following breakthroughs in biology and
+molecular genetics, researchers have con¬
+centrated on unravelling the mysteries of
+the functioning of the human organism in
+ever more minute detail.
+From observation of a particular organ
+and its function, they have gone on to seek
+to understand its internal mechanisms.
+They have penetrated deep into the heart of
+the cell, analysing the subtle chemistry of
+life and decoding the score that governs the
+fabulous orchestration of the genes. In so
+doing they have discovered dozens of genes
+that control the manufacture of the hor¬
+mones, peptides and proteins that are
+essential to the proper functioning of the
+human organism . . . and at times are respon¬
+sible for its malfunctioning. They have
+found out how a molecule enters a cell to
+feed it , to deliver a message , or to destroy it .
+And since the genetic code is universal, as
+applicable to a bacterium as to an elephant,
+they have also uncovered the secrets of
+multitudes of microbes, viruses and other
+parasites.
+The biology of today will be an important
+constituent of the medical science of tomor¬
+row. Progress in one leads to advances in
+the other. A few years ago, for example,
+Canadian researchers discovered a hor¬
+mone secreted by the heart which plays an
+important role in the control of blood pres¬
+sure. Since then, teams of Japanese, Amer¬
+ican, Canadian and European researchers
+have been battling fiercely to find applica¬
+tions for this discovery, since the heart hor¬
+mone, it would seem, may well turn out to
+be the model on which all future treatment
+of hypertension will be based.
+Progress in molecular medicine, as scien¬
+tists like to call it, is beginning to make its
+influence felt in the field of hereditary
+health problems. In some cases, pre-natal
+diagnosis can detect an anomaly in the
+foetus which would indicate the advisability
+of therapeutic abortion. In other cases,
+early diagnosis of a problem makes it possi¬
+ble, a few days after a birth, to start treat
+ment which would be too late if it were left
+until symptoms appeared. Finally, a great
+leap forward has been achieved with the
+arrival of "molecular probes", which will
+become widely available during the coming
+decade. Using these probes it is now possi¬
+ble to detect the presence of defective genes
+in parents who, unknown to themselves, are
+carriers of the defect. Applied where there
+is an exceptionally high risk of hereditary
+problems, such probe tests will enable
+improved genetic counselling to be given.
+This is not all. Genetic medicine has
+applications beyond the field of hereditary
+illness in the conventional meaning of the
+term. The gene involved in cancer of the
+retina has recently been identified and
+genes thought to be implicated in
+Alzheimer's disease and depression have
+also been discovered. Many research work¬
+ers believe that, in the not too distant
+future, the genes involved in such common
+illnesses as atherosclerosis, diabetes, some
+cancers and certain neurological problems
+may also be found.
+One day, perhaps, we shall learn how to
+heal or replace defective genes. What is
+envisaged in the more immediate future is
+the emergence of a form of predictive, indi¬
+vidualized medicine which will make it pos¬
+sible to adapt general health advice to meet
+the specific needs of each individual , having
+regard to his or her susceptibility to, for
+example, lung cancer, heart attack, obesity
+or depression a kind of preventive medi¬
+cine à la carte.
+Mapping the human brain
+The next decade will witness a surge of
+research interest in the brain, which has
+already displaced the gene as the new fron¬
+tier of medical science. The stock of scien¬
+tists with specialist knowledge of the noble
+organ is rising on the world "grey matter"
+market. Founded in 1971 by 500 North
+American researchers, the Society for Neu¬
+rosciences now has 10,000 members.
+Another sign of the times is that the greatest
+research institutions in the United States,
+from New York to San Diego, have recently
+established centres specializing in brain
+research, endowed, moreover, with consid¬
+erable resources.
+The boom in neuroscience is neither for¬
+tuitous nor the expression of a sudden fad.
+For several years now researchers in this
+field have achieved prodigies of pioneering
+work. They have discovered the functions
+of the different regions of the brain,
+described the complex tangle of the neurons
+and observed anomalous conditions so as to
+learn more about the normal functioning of
+the most inaccessible of human organs.
+They have discovered substances that regul¬
+ate the waking and the sleeping states, man¬
+age the emotions, control pain, govern sex
+ual desire or the will to power, and cause
+anomalies of behaviour, temperament and
+memory.
+Acquiring mastery of the amazing chem¬
+istry of the brain has been, and will continue
+even more intensely to be, the priority
+objective of the neurosciences. One exam¬
+ple, by no means the most recent, was the
+discovery that Parkinson's disease was due
+to a lack of one of these chemical sub¬
+stances, dopamine. Later it was found that
+the condition of sufferers could be allevi¬
+ated by the administration of L-dopa (a sub¬
+stitute for dopamine which has the capacity
+to penetrate the barrier which envelops and
+carefully guards the brain).
+The brain is an electronic as well as a
+chemical machine, a super-computer whose
+circuitry we are now able to study. A
+researcher in Denmark is studying the cere¬
+bral activity of individuals undertaking
+mental operations. Using apparatus that
+can detect the consumption of oxygen
+within his subject's brain, he can have the
+curious experience of "seeing a brain think"
+on a video screen (see back cover).
+We are still very far from having pene¬
+trated all the secrets of the brain. But things
+are already happening. In Sweden, a few
+years ago, and more recently in Mexico,
+surgeons attempted to restore full function
+to the brains of sufferers from Parkinson's
+disease. They took cells that produce
+dopamine from glands situated in the kid¬
+neys of their patients and transplanted them
+into their brains. While the results achieved
+in Sweden were disappointing, those
+obtained in Mexico were very positive. It is
+said that the brain, with all its dizzying com¬
+plexity, will never be able fully to compre¬
+hend itself. It will soon, however, be able to
+"repair" itself.
+"Pseudo-hormones" and high-tech vaccines
+Two other branches of biology, endocrinol¬
+ogy (the science of hormones) and immu¬
+nology (the science of the immune system),
+are experiencing an unprecedented boom.
+Stimulated by genetic techniques, aided by
+new instruments for the exploration of the
+infinitely small, and with the backing of the
+pharmaceutical industry which has recog¬
+nized their enormous potential, they are
+beginning to "deliver the goods".
+In universities and private laboratories,
+thousands of men and women in white coats
+are concocting a profusion of products with
+exotic names prostaglandins, neuropep¬
+tides, immuno-regulators, anti-car¬
+cinogens, monoclonal antibodies. ... Some
+of the products, such as interleucines
+(regulators of the immune system) and,
+above all, interferon, have achieved star
+status before even having become medi¬
+cines in the strict sense of the word. Sooner
+or later, several of these products will be |>
+29
+
+? reinforcing the armoury of hospital medi¬
+cines and may even be available at the local
+pharmacy.
+Prostaglandins, for example, are
+"pseudo-hormones" derived from fatty
+acids. They are to be found almost every¬
+where in the body. They constitute an
+already large family including, for exam¬
+ple, leucotrienes, thromboxane and pros-
+tacycline some members of which may
+soon become as well known as aspirin.
+Their role as medicines is seen as being in
+the prevention of heart attacks and the for¬
+mation of ulcers, and in the treatment of
+inflammation and of asthma.
+Interferon, interleucines, prostaglan¬
+dins, hormones of the brain and of the heart
+are all natural substances that can now be
+synthesized in large quantities after gene
+cloning. They can even be produced by bac¬
+teria that have been genetically re-pro¬
+grammed. Insulin, interferon and the
+growth hormone are already produced
+commercially in this way.
+The good old vaccines of long standing
+will also benefit from the latest genetic tech¬
+niques. Once its structure is known, an anti¬
+gen (the part of a microbe that stimulates
+the formation of antibodies) can be pro¬
+duced artificially by chemical synthesis or
+by re-programmed bacteria. Some vac¬
+cines, which are manufactured in a rather
+crude, empirical fashion, will soon be pro
+duced using the most modern techniques,
+just as will new vaccines. American
+researchers are relying on genetic engineer¬
+ing to provide a vaccine against malaria
+which they see as the next important break¬
+through in preventive medicine the next,
+that is, unless the eagerly awaited vaccine
+against AIDS overtakes it to become the
+very first great high-technology vaccine in
+medical history.
+A revolution in medical imaging
+The medical science of tomorrow will not,
+however, stem solely from biology. Elec¬
+tronics, informatics, the science of mate¬
+rials and nuclear physics will also have a
+large part to play.
+Lasers are already making their contribu¬
+tion to delicate surgical procedures such as
+eye operations, and tomorrow a laser
+attached to the end of a flexible wire will be
+used to unblock clogged arteries.
+Computers, with their artificial intel¬
+ligence, are helping doctors to make their
+diagnoses and chemists to design molecules
+to achieve specific pharmacological effects.
+Used in conjunction with video cameras,
+axial tomography, magnetic nuclear reso¬
+nance and echography, they are making
+their contribution to the revolution in medi¬
+cal imaging which is making it feasible for
+30
+
+Understanding of immunological mechanisms
+and a breakthrough in the development of
+immunosuppressive drugs have given a signifi¬
+cant boost to organ transplantation and opened
+up new horizons in treating many formerly
+incurable autoimmune diseases. (1) spores of
+the fungus Tolypocladium inflatum, from which
+the powerful immunosuppressive agent
+cyclosporine is produced. (2) crystal of synthetic
+cyclosporine. (3) computer-generated view of
+natural cyclosporine and a synthetic derivative
+(below).
+doctors to explore the brain of a schizo¬
+phrenic, the heart of a cardiac sufferer or
+the belly of a pregnant woman in a way
+never possible before. These "non-invas¬
+ive" techniques are destined to have
+a major effect on medical practice in coming
+years, particularly in the field of
+diagnosis.
+When it is too late to prevent or to heal,
+then it is a matter of replacing the affected
+part. Already artificial hearts are plugged
+in, admittedly without great success. Tiny
+miracles of electronic wizardry are
+implanted in the inner ear to make the deaf
+hear. Knees, ankles, fingers and skull-cases
+are rebuilt. Artificial skin and blood,
+hydraulically operated walking machines,
+motorized arms which respond to the
+wearer's nerve impulses, electronic hands
+covered with sensitive artificial skin, all
+these are already on the test-bench. Tomor¬
+row, this "spare-part surgery" will be able
+to offer artificial replacement muscles,
+larynxes, sphincters, nerves, pancreas and
+intestines at least to those who can afford
+them.
+- &
+mot a
+Social and preventive medicine
+New medicines and vaccines, decisive pro¬
+gress on cancer and cardio-vascular dis¬
+eases, access to genes and to the brain,
+31
+
+i
+*?
+.i&à
+0
+v-
+grafting made commonplace, more effec¬
+tive artificial organs, all these will be the
+stuff of the medical science of tomorrow.
+We must not, however, aliow ourselves
+to be dazzled by the promise of advanced
+technology. Even more than today, medi¬
+cal science will have to come to terms with
+a new phenomenon the intervention of
+ethical considerations. New techniques to
+assist human reproduction have already
+aroused passionate debate and will confront
+society with difficult choices. Science alone
+cannot answer the questions raised about
+the new techniques for prolonging life and
+the counter problem of the right to a digni¬
+fied death. The field of action of genetic
+engineering will have to be clearly marked
+out if we are to avoid , for example , the false
+trails of eugenics. The immense cost of such
+innovations as the artificial heart will also
+pose delicate problems of social justice and
+the allocation of medical resources, not
+only in those countries where experiments
+in this field are being carried out, but
+throughout the world.
+It is not enough for the medical science of
+the future to be merely futurist. It must also
+always be concerned with education, pre¬
+vention, hygiene, the cleansing of the
+environment, proper supply of drinking
+water and food, adequate housing, the
+immunization and schooling of children.
+On both sides of the North/South divide,
+the primary concern of medical science will
+always remain those tasks which, because
+they are not spectacular, we tend to think
+of as simple or humdrum and yet which
+are more difficult by far to carry out than
+the cloning of a gene or transplanting of a
+heart.
+YAN1CK VILLEDIEU, Canadian scientific jour¬
+nalist and broadcaster, has written many articles
+and reports on different subjects, notably medi¬
+cine and health. He has also been involved in
+professional and academic meetings and semi¬
+nars in the field of public health and medicine.
+Among his published works are Demain la santé
+(1976; "Health Tomorrow").
+It has recently been discovered that the heart is
+more than a pump: it is also an endocrine gland
+that secretes a hormone which regulates blood
+pressure and blood volume. Synthesis of this
+hormone, which in the body is stored in granules
+around the nuclei of cardiocytes (heart-muscle
+cells), could lead to new treatments for hyper¬
+tension and other blood-pressure diseases.
+Above, an electron micrograph showing the hor¬
+mone-storage granules (enlarged 12,000 times)
+in a cardiocyte of a rat.
+There is continual feedback between the cells of
+the nervous system (above right, neurons) and
+those of the immunological system (below
+right, lymphocytes) in which neuropeptides,
+endorphins, hormones, lymphocines and inter-
+leucines act as chemical messengers. These
+interactions have been extensively studied by
+molecular biology, a field in which Unesco has
+for many years encouraged international
+co-operation. The International Brain Research
+Organization (IBRO), which promotes neuro-
+scientific research, was founded under Unesco
+auspices in 1960, and in 1962 Unesco was
+instrumental in founding the International Cell
+Research Organization (ICRO), which helps to
+train young scientists worldwide.
+©
+32

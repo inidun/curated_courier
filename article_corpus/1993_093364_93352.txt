@@ -1,0 +1,417 @@
+nie safeffífe era
+Over 4,000 sofe/f/fes hove been ¡üunthed sime
+Spufm'k I ivenf info orbit in 1957
+10
+THE space age began on 4 October 1957,
+when the Soviet Union launched Sputnik 1 ,
+the first artificial object to orbit the Earth.
+This pioneering satellite did little more than
+broadcast "bleep-bleep" signals, but it blazed
+the trail to Earth-orbit. Since then, over 4,000
+satellites have been launched. They carry out an
+enormous range of tasks. Some survey the
+Earth, for prospecting, weather-forecasting, or
+military surveillance, others look into space
+with specialized telescopes. Many satellites
+transmit telephone and television signals
+around the world, while a smaller number pro¬
+vide precise signals for navigation. Among the
+largest are the satellites that carry people: the
+space stations and the craft that ferry astronauts
+up to space and back.
+These satellites are put into a variety of dif¬
+ferent orbits, to suit their various functions.
+The easiest orbit to reach is one that is closest
+to the Earth, and takes the satellite more or less
+around the equator in a direction from west to
+east. The lower the orbit, the less energy is
+required to reach it. And, when a satellite is
+launched towards the east, it has the advantage
+of starting off with some extra speed, due to the
+Earth's west-east rotation.
+LOW EARTH ORBIT
+SATELLITES
+Because they are so massive, crewed spacecraft
+are almost always put into a "low Earth orbit"
+of this kind. The American Space Shuttle flies
+at an altitude of about 250 kilometres, while the
+Soviet Mir space station is 100 kilometres
+higher. Very massive uncrewed spacecraft
+follow similar orbits. Among them is the
+Hubble Space Telescope, which studies light
+from the most distant objects in the universe
+free from the blurring effect of the Earth's
+atmosphere. Although its main mirror is unfor¬
+tunately defective, the space telescope is indeed
+returning pictures much sharper than any
+ground-based telescope can achieve.
+Although it is easy to reach low Earth orbit,
+there is one serious problem. The Earth's
+atmosphere does not stop abruptly at an alti¬
+tude of 200 kilometres, where we loosely say
+"space begins". Tenuous gases extend to much
+greater altitudes, becoming more and more
+rarefied with height. So the Shuttle and Mir are
+by Nigel Henbest
+both ploughing through the outer vestiges of
+the Earth's atmosphere. In the process, they
+lose orbital energy, and gradually spiral down
+towards the Earth.
+In the case of the Space Shuttle, this does
+not really matter because it is only up for a few
+days. The cosmonauts on Mir must, however,
+fare boosters from time to time to counter the
+orbital decay. A spectacular casualty of atmos¬
+pheric drag was the American space station
+Skylab. It was launched into an orbit 435 kilo¬
+metres high in 1973. Despite this relatively high
+"low Earth orbit", only six years later Skylab
+at that time without a crew had spiralled so
+near to the Earth that it burnt up in the lower
+atmosphere, scattering pieces of hot debris over
+Western Australia.
+One type of satellite regularly dices with
+death by flying very low orbits. These are on
+"military reconnaissance missions": m other
+words, they are spy satellites. They typically fly
+in elliptical orbits with a low point 200 kilo¬
+metres or less above the ground, and only last
+for a few months. From this comparatively low
+altitude, the film or television cameras on board
+can make out details onlv a couple of metres
+across: good enough to distinguish the type of
+plane on an enemy airfield. Spy satellites arc
+launched into orbits that go north-south,
+almost over the poles of the Earth. From such a
+"polar orbit", a satellite can survey the whole
+of the world as it rotates below.
+Polar orbits are also useful for other satel¬
+lites that survey the Earth in particular, Earth
+resources satellites. The pioneer in this field
+was the American Landsat 1, launched in 1972.
+Its cameras and infrared sensors immediately
+proved their worth in monitoring crops,
+forests, natural disasters (such as locust
+plagues) and areas of pollution. They also let
+geologists prospect in remote areas, by show¬
+ing up geological structures that might contain
+useful resources, such as oil, minerals or, in a
+desert area, that most valuable of commodities,
+water.
+The continuing Landsat scries has been
+joined by the French SPOT satellites, which
+can see even finer details. To avoid atmospheric
+drag, they orbit respectively 700 and 800 kilo¬
+metres above the Earth. SPOT's advanced
+cameras can show up individual houses below.
+
+as they scan a strip 117 kilometres wide. In
+twenty-six days, these narrow strips cover the
+whole Earth.
+Earth-observation satellites can use two
+types of sensor. The simpler are passive sen¬
+sors, which simply pick up radiation coming
+from the Earth. Light is one of these radiations,
+but more useful is infrared. Different kinds of
+vegetation and rocks reflect infrared in differ¬
+ent proportions, and as a result Landsat has
+achieved great success in, for example, picking
+out regions of diseased crops in otherwise
+healthy farmland, and distinguishing rocks that
+are likely to contain different kinds of minerals.
+Some satellites carry active sensors. These
+emit radio waves, generally at short wave¬
+lengths, and study the way in which they arc
+reflected by the Earth's surface. Simple radar
+Above, the European
+Retrievable Carrier (Eureca)
+is launched on its first
+mission from the hold of
+the Space Shuttle Atlantis
+on 2 August 1992.
+Above right,
+Sputnil< 1, the first artificial
+Earth satellite. Launched
+by the Soviet Union on
+4 October 1957, it weighed
+84.6kg and orbited the Earth
+in just over
+96 minutes.
+can reveal the shape of the ground below, and
+even structures hidden below desert sand. In
+1978, the American sateUite Seasat used active
+sensors to study the surface of the ocean: they
+revealed not only waves, but also ocean cur¬
+rents and ripples that revealed the direction of
+the wind blowing over the oceans. The Euro¬
+pean ERS 1 satellite is now following up obser¬
+vations of the land and sea in unprecedented
+detail, using both passive and active sensors.
+Also following polar orbits are satellites
+designed to survey the sky: they simply point
+in the opposite direction, always away from the
+Earth. These satellites look at radiation from
+space that cannot penetrate the atmosphere to
+reach telescopes at sea-level. Amongst the most
+successful were the Infrared Astronomical
+Satellite, which found half a million new stars 11
+
+12
+and galaxies in 1983, and the Cosmic Back¬
+ground Explorer (COBE), which in 1992
+located ripples in gases expanding from the ori¬
+ginal Big Bang.
+THE HIGH-FLYERS
+Satellites used for navigation have to be seen
+over wide areas of the Earth, so they are put
+into rather high orbits. The twenty-four
+Navstar satellites that make up the Global Posi¬
+tioning System are in circular orbits at an alti¬
+tude of 20,200 kilometres, tilted at 55 degrees to
+the Earth's equator. From any place on the
+Earth's surface, at any time, three or more of
+the satellites are above the horizon. Using
+signals from the satellites, a receiver can auto¬
+matically work out its location to 30 metres or
+better. This system is intended for both civilian
+and military use: it has been an invaluable aid to
+everyone from solitary yachtsmen to the troops
+involved in the featureless deserts where the
+Gulf War was fought in 1991.
+In the 1960s, the Soviet Union started a pro¬
+gramme of communications satellites that also
+moved in large, inclined orbits. Instead of follow¬
+ing circular paths, however, the Molniya
+satellites pursue long thin oval orbits. At its
+closest (perigee), a Molniya skims just 500 kilo¬
+metres above the Earth's surface. But it then
+travels out to a high point (.apogee) some 40,000
+kilometres above the Soviet Union. Here, the
+satellite moves so slowly that ground stations
+can keep it in view for several hours.
+The time that it takes for a satellite to com¬
+plete one orbit depends on just one factor: its
+average distance from the Earth. The more dis¬
+tant the satellite, the longer its orbital period.
+The Space Shuttle and Mir and everything
+else in low Earth orbit have an orbital period
+of 90 minutes. The Navstars and Molniyas arc
+both at an average distance of 20,200 kilometres
+from the Earth, and both types have an orbital
+period of twelve hours.
+A Soviet Soyuz spacecraft is
+joined to its launcher at the
+Baikonur Space Centre.
+A view of Mexico City taken
+in December 1989 by a
+French SPOT satellite.
+AN AERIAL MAST
+36,000 KILOMETRES HIGH
+For a satellite at a height of 35,880 kilometres,
+the period is twenty-four hours. If it is follow¬
+ing a circular orbit above the equator, the
+satellite is moving at exactly the same rate as
+the globe below is turning. As a result, the
+
+
+
+satellite appears to hover exactly above the
+same point on the equator.
+The science fiction writer Arthur C. Clarke
+pointed out, as early as 1945, that a satellite in
+this "geostationary orbit" would be in an ideal
+position to relay radio signals around the
+world. It is effectively on top of a mast 36,000
+kilometres high, and is visible from almost half
+the Earth. Clarke realized that three satellites,
+at equally spaced intervals around this orbit,
+could send signals from any point on Earth to
+any other.
+Routing of intercontinental phone calls and
+television broadcasts by satellites is now rou¬
+tine. In fact, there is so much demand that the
+geostationary orbit contains not three but
+several dozen communications satellites. These
+pick up a signal from a transmitter on one
+continent, amplify it, and then transmit it down
+to a large receiving aerial somewhere else in the
+world.
+Recent years have seen another kind of
+transmission from satellites in geostationary
+orbit colloquially known as "satellite televi¬
+sion". A direct-broadcasting satellite also
+receives a signal from the ground, and sends it
+
+m^
+An Australian space tracking
+station at Tidbinllla, New
+South Wales.
+back to Earth. In this case, however, the satel¬
+lite transmits the signal at such a high power
+that it can be picked up by a small "satellite
+dish" connected to a television set. The trans¬
+mitters on the satellite are designed so that they
+cover just a limited part of the Earth's surface;
+only receivers within this "footprint" can
+receive the television programmes.
+Also strung around this imaginary circle
+high above the equator are satellites that need
+to view the Earth as a whole. These include
+military satellites that eavesdrop on electronic
+communications in other countries and look
+for spots of infrared (heat) radiation from the
+launch of missiles. Half a dozen meteorology
+satellites in geostationary orbit, such as the
+European Meteosat, keep an eye on the weath¬
+er all over the FJ,arth. The continuous global
+coverage from these satellites complements the
+close-up views from weather satellites in low
+polar orbits, like the American Tiros series.
+Geostationary satellites are too high to feel
+any drag from the Earth's atmosphere, so their
+orbits do not decay. This could become a
+serious problem. Once a satellite has reached
+the end of its active life and stops working,
+because of something like an electrical fault, it
+clogs up some of the limited space around the
+geostationary orbit. To prevent this, satellite
+controllers use a small rocket engine that
+boosts an ageing satellite out of the geostatio¬
+nary orbit.
+Some spacecraft are sent even further from
+our planet. The Apollo flights took crews as far
+as the Moon: between 1969 and 1972, twelve
+Apollo astronauts actually landed on the lunar
+surface. Their missions took them on a figure-
+of-eight path around the Earth and the Moon,
+but they never left the Earth's gravitational pull
+entirely.
+PROBING 'DEEP SPACE'
+Automatic spacecraft have travelled well
+beyond the Moon, exploring what NASA calls
+"deep space". Once it breaks free of the Earth's
+gravity, a spacecraft is no longer a satellite of
+our planet. It is usually termed a space probe.
+Once away from our planet, the dominant
+force is the Sun's gravity. Space probes are
+effectively miniature planets, orbiting the Sun
+just like the Earth or Jupiter. The main differ¬
+ence IS that they follow very elongated paths
+that allow them to travel from the Earth to
+another planet, or in the case of the Giotto
+probe in 1986 to intercept Flalley's comet.
+Spacecraft have now flown past all the planets,
+except Pluto, and they have even landed on
+Venus and Mars. Four spacecraft are travelling
+outwards at such a speed that they will even¬
+tually break free of the Sun's gravity. Then, 13
+
+The U.S. Space Shuttle
+Enterprise flies piggyback on
+a specially adapted carrier
+aircraft before carrying out
+an air drop test. The third
+aircraft is an observation
+plane flying nearby.
+14
+NIGEL HENBEST
+is a British freelance science
+writer and astronomy
+consultant to the magazine
+New Scientist Before
+becoming a fuli-time science
+writer he was a radio
+astronomer at the Cavendish
+Laboratory, Cambridge
+University. Among his recent
+published worlds are Tlie
+Universe (Weidenfeld and
+Nicolson, 1992) and The
+Planets (Viking, 1992). He is
+the presenter of Seeing
+Stars, a monthly programme
+on astronomy broadcast by
+the BCC World Service.
+Pioneers 10 and 11 and Voyagers 1 and 2 will
+roam among the stars far beyond.
+All spacecraft whether satellites or space
+probes need certain basic systems. The first is
+stabilization. Left to itself, a spacecraft will
+naturally tumble over and over in an erratic
+way. The simplest way to stabilize a spacecraft
+is to make it in the shape of a cyHnder, and set
+it spinning around the axis of the cylinder. Like
+a spinning gyroscope, the axis will always point
+in the same direction.
+Most of these spinning satellites carry a
+camera or communications antenna that must
+point in one direction, usually towards the
+Earth or even a particular ground station. To
+prevent those instruments from whirling
+around with the spacecraft, they are put on a
+platform that is driven by a motor to rotate at
+exactly the opposite rate to the spacecraft as a
+whole; as a result, the "despun" platform keeps
+a constant attitude in space.
+More complex spacecraft generally do not
+spin. They keep in the correct orientation by a
+system of "three-axis stabilization", which cor¬
+rects for unwanted satellite motions in various
+ways.
+Most satellites use a combination of small
+rocket thrusters, spinning reaction wheels
+within the spacecraft and large electromagnets
+that push against the Earth's magnetic field.
+These devices can also turn the spacecraft to
+point in different directions when required as,
+for example, in the case of the Hubble Space
+Telescope which has to turn to look at different
+objects in the universe.
+Also very basic is the power supply. Almost
+all spacecraft derive their power from sunhght,
+converted into electricity by an array of solar
+cells. In the case of spin-stabilized satellites, the
+solar cells cover the surface of the cylinder.
+Three-axis stabilized spacecraft usually have
+the solar cells on large flat panels extending
+outwards from its body: these panels are folded
+and rolled up when the satellite is launched,
+and opened up when it reaches orbit.
+Spacecraft carrying a crew need more power,
+and they often carry fuel cells. Here, oxygen and
+hydrogen gases are combined in such a way that
+they release the energy of the reaction as electri¬
+city and the resulting water is useful, too.
+Small nuclear reactors are used for spy satelhtes
+carrying power-hungry radar systems. This is a
+dangerous practice, as satellites of this kind have
+fallen back to Earth and scattered radioactive
+debris. Space probes travelling to Jupiter and
+beyond also carry small nuclear reactors,
+because the sunlight there is too weak to
+produce enough electricity from solar cells.
+Satellite designers also have to bear in mind
+that it costs money to send extra weight into
+space: about $20,000 for every kilogram launch¬
+ed to geostationary orbit. So they must keep
+a satellite's mass low by using strong but light¬
+weight materials, such as carbon fibre and tita¬
+nium. The design must also keep the satellite's
+systems at the correct temperature, even
+though one side is baked by the Sun and the
+other exposed to the cold of space.
+THE NEXT TEN YEARS
+The pattern now established in space is Hkely to
+continue for at least the next decade. Communi¬
+cations satellites and direct-broadcast satellites
+will continue to grow in number and in power,
+while the Earth-observation programme will
+mushroom during the 1990s. Satellites from the
+United States, Europe, Russia and Japan will
+survey our planet and its atmosphere in detail, in
+an ambitious international programme called
+Mission to Planet Earth. As well as measuring
+the Earth's natural state, they will check how
+human activities are causing the greenhouse
+effect and the holes in the ozone layer, and other
+types of pollution.

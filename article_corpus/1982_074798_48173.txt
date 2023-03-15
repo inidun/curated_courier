@@ -1,0 +1,168 @@
+Knots as
+by Georges Ifrah
+Fig. 1 - A Peruvian quipu.
+Fig. 2 - The unit numbers one to
+nine as represented in
+the Inca quipu system.
+THOUSANDS
+HUNDREDS
+TENS
+UNITS
+3000
+600
+40
+3643
+Fig. 3 - Representation of the
+number 3,643 in the
+Peruvian quipu system.
+WHAT possible link could there be between a German miller
+delivering flour to the village baker at the turn of the cen¬
+tury and a Tibetan monk performing his prescribed ritual
+today? The answer ¡s... a length of knotted cord or string. Both
+monk and miller belong to the groups of people which, in different
+parts of the world, from ancient times until the present day, have
+used knotted plant fibres to help count objects, to measure the
+passage of time, or to record numerical data.
+The practice achieved a particularly sophisticated form in the Inca
+civilization. The Incas, who were in all likelihood ignorant of writing,
+devised a highly ingenious system which allowed them to depict all
+the numerical operations they had to carry out in everyday life, gave
+them access to accurate and up-to-date information about the
+resources of their empire, and enabled them to keep a tangible
+record of all the calculations involved. This system, known as quipu
+(from the word in the Quechua language meaning "knot"), con¬
+sisted of a length of string or cord, held horizontally, to which more
+slender, different-coloured strings were attached, brought together
+in several groups and joined at regular intervals by various kinds of
+knots (fig. 1).
+Quipus were nothing if not versatile. They were useful for
+representing liturgical or chronological information, they served as
+calendars, and they could be used for transmitting messages, since
+the colours of the strings corresponded according to convention to
+different objects or abstract ideas. But first and foremost they were
+used for keeping accounts: the colour of the strings, the number
+and relative position of the knots, the thickness and spacing of the
+groups each had a precise numerical significance (figs. 2, 3 and 4).
+They were carefully preserved when the results of computations
+(carried out in this case according to a decimal system) had to be
+recorded. In other words they constituted an extremely valuable
+statistical tool in every area of the life of the empire, from military
+surveys to the evaluation of crop-yields, from recording the number
+of animals killed in hunting to census-taking, establishing statistics
+of births and deaths, tax receipts, and surveys of human and
+material resources.
+The Incas had a highly organized administrative system. In every
+. town, village and district officials named quipucamayocs ("keepers
+of the knots") were responsible for making the quipus, interpreting
+them at any given moment and providing the government with such
+information as it desired. Each year they made an inventory of the
+various products collected in the region or carried out a census of
+the population, recording the results on the knotted cords. These
+"registers" were then forwarded to the central government which
+thus disposed of stocks of statistical information comparable to the
+national archives of modern times.
+The Inca quipu was so simple and so useful that it long continued
+to be used in Bolivia and Ecuador. It seems that in the mid-
+nineteenth century, notably on the high Peruvian plateaux, herds¬
+men always used knotted cord to keep a record of the size of their
+GEORGES IFRAH, of Morocco, is a specialist in the history of writing and
+numeration. Formerly a professor of mathematics, he gave up teaching to
+devote himself entirely to historical research. His comprehensive Histoire
+Universelle des Chiffres (A Universal History of Numbers), Editions Seghers,
+Paris, 1981, is the fruit of many years of study of museums and archives
+throughout the world.
+24
+
+numbers
+flocks and herds, with white strings being used for sheep and goats,
+and green strings for cattle (fig. 5).
+Even today the Indians of Bolivia and Peru use a similar system
+which is known as the chlmpu and is a direct but more sophisticated
+descendant of the quipu. A single string is used for the units (with
+the user tying as many knots as he needs, up to nine); the tens are
+indicated by knots on two adjacent strings; the hundreds by knots
+on a group of three strings, and so on. Six knots, for example, on a
+chimpu represent 6, 60, 600 or 6,000, depending on whether they
+are tied on one, two, three of four cords at once (see fig. 6).
+The knotted cord method of computation is not exclusive to the
+Incas and the peoples of South America; it has been used in a varie¬
+ty of times and places.
+The Greek historian Herodotus (485-425 BC) tells how King Darius
+I of Persia (522-486 BC) once entrusted his Greek allies with the task
+of guarding a bridge of vital strategic importance. He gave them a
+strap tied with sixty knots and ordered them to untie one knot each
+day. "If I am not back by the time you have unfastened the last
+knot," he told them, "go back to your ships and return home".
+In second-century-AD Palestine, then under Roman domination,
+the publicans (tax-collectors) kept their records using a long cable,
+probably formed from several lengths of string. Each tax-payer was
+given a receipt consisting of a length of cord knotted in a specific
+way.
+Similar systems of doing calculations connected with census-
+taking, keeping accounts and archives seem to have been used in
+ancient China when writing was in its infancy. Tradition has it that
+the semi-legendary Emperor Shen Nong had a part in developing the
+knotted cord system for accountancy and helped to promote its use.
+This method is also mentioned in the l-Ching ("Book of Transforma¬
+tions"), a classic work which may have been written in the first half
+of the last millennium before Christ.
+In the Far East this use of knotted cord has still not completely
+disappeared. J. G. Février notes in his "History of Writing" that it is
+still extant notably in the Riu-Kiu islands: "Workmen in certain
+mountainous areas of Okinawa island use such a system of knotted
+straw to record their days of work, note what money is due to them,
+and so on. [...] In the town of Shuri pawnbrokers keep account of
+their transactions by using a long rush or bark string divided into two
+parts by another string which is tied to it halfway along. Knots on
+the upper half denote the month in which the loan was granted;
+knots in the lower part indicate the amount of the loan."
+The same practice is still to be found in the Caroline Islands (near
+Tahiti), in the Hawaii Islands, and in West Africa, notably among a
+Nigerian tribe. Similar methods have also been observed among
+North American Indians such as the Yakima (Washington State),
+the Walapi and Havasupai (Arizona), and the Miwok and Maidu
+(California).
+Present-day examples of this use of knotted string and cord are
+survivals of an ancient system, curiosities in a world in which the
+positional decimal system has prevailed. Yet, with other phenomena
+from the past, they bear witness to the universality of human in¬
+telligence and recreate a step in the history of figures and numerical
+systems which, with the history of writing, holds a central place in
+the evolution of human thought.
+658 89 258 273 38
+E D C B A
+Fig. 4 - Interpretation of a group of knotted strings in the Inca
+quipu system representing the number 658. String E gives the
+total of the four strings A, B, C, D. The drawing shows the first
+group of strings of a Peruvian quipu preserved in the American
+Museum of Natural History, New York.
+. t , . <
+> » + > >
+u» » w m
+Fig. 5 - How shepherds of the Peruvian altiplano used the quipu
+to keep track of their sheep and cattle.
+Group B (green strings)
+B, = 203 bulls
+B2 = 350 milking cows
+B3 = 235 barren cows
+B4 = total 788
+Group A (white strings)
+A, =254 sheep
+A2 = 36 lambs
+A3 = 300 goats
+A4 = 40 kids
+Aj = 244 ewes
+As = total 874
+5 KNOTS ON FOUR STRINGS -
+4 KNOTS ON THREE STRINGS -
+-* 5000
+7 KNOTS ON TWO STRINGS
+-»- 400
+70
+7 KNOTS ON ONE STRING
+5477
+Fig. 6 - Part of a chimpu, a more
+recent version of the quipu,
+used by the Indians of Peru and
+Bolivia.
+25

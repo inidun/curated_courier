@@ -1,0 +1,226 @@
+W hen Linus To rvalds created a “ f r e e ”
+o p e rating system called Linux in
+1 9 9 1 , little did the young Finnish
+student imagine he would become the stan-
+dard-bearer of a crusade to preserve the open-
+ness and co-operat i ve spirit that have been the
+basis of the Intern e t ’s and the World W i d e
+We b ’s success, in the face of “ b i g, bad Bill
+G at e s ’s ” schemes to make them part of his
+e m p i r e .
+D e f e n d e rs of the spirit of the netwo r k s ,
+which grew out of public research, s ay
+i n f o rm ation technology can and must be at
+A beacon in the world of free software, Linux is used by
+an estimated seven million people worldwide. Enthusiasts
+say this operating system is a refreshing alternative to
+commercial software.
+least partly protected from market forces.
+At stake are the free movement of ideas
+and the dynamism of research. “Free soft-
+ware is an area of technical wo r k , bu t
+a b ove all, it is a matter of ethical philoso-
+p hy,” s ays Richard Stallman, an A m e ri c a n
+computer pioneer and head of the Free
+S o f t ware Fo u n d at i o n .
+“Computer pro-
+grammes can be nat u-
+rally duplicated to infi-
+n i t y, like theorems,”
+s ays Bernard Lang of
+the French Institute
+for Computer and
+A u t o m ation Research
+( I N R I A ) . “But nowa d ays the rules of the
+m at e rial world are being imposed on the
+i m m at e ri a l . Research is controlled by a few
+s o f t ware companies. They use propri e t a ry
+s t a n d a r d s and fo rm at s, which nobody
+u n d e rs t a n d s , to cling to their monopoly. A s
+a result, they are forced to constantly chan-
+ge their products before other companies
+figure out how they’re made. This control
+over standards kills competition and fetters
+c r e at i v i t y, whereas freeware is a source of
+constant innovat i o n .”
+Linux proves the point. Available free
+of charge on the Intern e t , it is part of cy b e-
+r h u m a n i t y ’s shared heri t a g e .The progr a m-
+me uses public stan-
+d a r d s , is close to the
+Unix operating system
+and works equally we l l
+on a Mac or a PC and
+e ven on slower compu-
+t e rs. Linux meets three
+f r e e ware cri t e ri a . I t s
+source code is ava i l a b l e ,
+so anyone can take part in developing it or
+can modify it to suit their needs; it can be
+freely copied and redistri bu t e d ; and anyo-
+ne can improve it, as long as they make the
+source code for the changes available to
+e ve ryo n e .
+“Linux isn’t just one big entity,” s ay s
+R o b e rt Yo u n g, president of Redhat
+S o f t wa r e , an A m e rican firm that distri-
+butes the product. “ I t ’s a collection of lots
+of little part s. Each has its own team of
+p r o gr a m m e rs on the Internet and a team
+leader who approves or rejects the altera-
+tions suggested. And the ultimate boss is
+To rva l d s.”
+Linux enthusiasts, most of them engi-
+n e e rs and science students, u n a n i m o u s l y
+laud the product. “ I t ’s quick, compact and
+ve ry secure—a huge asset if you want to
+c r e ate a patent data base or a secure pay-
+ment system. It’s a far cry from the
+Microsoft equiva l e n t ,W i n d ows NT, w h i c h
+has security gaps,” s ays Jean Roure of
+A c t i c i e l , a French company that designs
+we b s i t e s. “ Pe rs o n a l l y, I’m not wa ging wa r
+on Microsoft,” he adds. “I just want to gi ve
+my customers the best of the Internet and
+Linux lets me do that . If a pri vate firm came
+up with a better offer, I ’d pay the pri c e .”
+“ We ’re fighting Microsoft, the most
+a g gr e s s i ve firm and the one best at marke-
+ting its products,” s ays Yo u n g . “So why are
+
+
+
+Fiat Linux
+
+companies turning to Linux? Because it
+d o e s n ’t crash and it works ve ry we l l . A n d
+w hy is it so good? Because it has the wo r l-
+d ’s biggest team of software engi n e e rs who
+are constantly improving it, just for the
+l ove of it.” T h at ’s the spirit of the cy b e r-
+c o m m u n i t y. “Free software is a communi-
+ty project and eve ryone who depends on it
+ought to look for ways to contri bute to
+building the community,” s ays Stallman.
+People who work on it don’t make money
+but they do earn a reputation—not such a
+bad deal. To rvalds was an unknown stu-
+dent in Helsinki. Because of Linux, e ve ry
+firm in Silicon Valley wanted to hire him
+when he gr a d u at e d .To d ay he is working at
+Tr a n s m e t a , a new A m e rican high-tech
+c o m p a ny.
+Another big advantage Linux offers is
+efficient “ a f t e r - gi ve away serv i c e .” “If yo u
+h ave a problem,” s ays Roure, “ you log on
+to a discussion group and even at two in
+the morning you’ll always find someone
+who knows someone who has an answe r.
+I t ’s free and takes 20 minutes. If there’s a
+hacker at t a c k , for example, the group will
+tell you ‘ h e r e ’s how to defend yo u rs e l f.’ I t ’s
+i nva l u a b l e . With commercial softwa r e ,
+yo u ’re completely at
+the company ’s mercy
+and it may be we e k s
+before you get an ans-
+we r.”
+Another fan is
+L e c t r a - S y s t è m e s , t h e
+wo r l d ’s leading com-
+puter-assisted textile
+m a n u fa c t u r e r , which recently started using
+L i n u x . “The system is generally popular
+with our customers ,” s ays Pierre Ficheux,
+a senior exe c u t i ve with the company,
+“especially the ones who don’t know any-
+thing about computers and think it’s
+W i n d ow s ! ” With no head office, no stock
+exchange quotation and no adve rt i s i n g
+v i s i b i l i t y, Linux makes some people feel
+u n e a s y. “ We don’t use Microsoft much,
+but we ’ ve kept it to reassu-
+re our customers ,” s ay s
+R o u r e . “ People think any-
+thing that ’s free must be
+i rr e s p o n s i b l e .”
+L i n u x ’s main draw-
+back is its complexity.
+“Most computer-illiterat e
+people don’t know how to
+use it, although installa-
+tion is getting easier and
+the number of simple,
+a u t o m ated office-type
+a p p l i c ations is on the ri s e ,”
+
+according to Roure. “ I t ’s still pri m a ri l y
+used for complex applications like setting
+up network serve rs or for simulat i o n . B y
+the way, it was used to create most of the
+special effects in Ti t a n i c.”
+Young explains, “Most companies
+want a specific application—for example a
+firm of architects wants a drawing pro-
+gramme—and only afterwards bother
+about what operating system it uses. L i n u x
+has far fewer applications than W i n d ow s
+and that ’s the main problem. But it’s only
+been in professional use since 1995 and
+things are changing ve ry quickly.”
+The outlook for Linux is bri g h t . A
+number of pri vate firms are starting to live
+off it. They are prospering and creat i n g
+jobs by offering Linux users services for a
+f e e . A case in point is Redhat Softwa r e ,
+with 40 employees and a $6 million turn o-
+ve r in 1997, a figure expected to rise to $10
+million this ye a r. Founded in 1995, R e d h at
+specializes in custom-made systems and
+sells Linux on a CD-ROM updated eve ry
+six months. “ We ’re playing with 450 pro-
+gr a m m e s ,” s ays Yo u n g, “including com-
+mercial software compatible with Linux.
+We put it together according to our custo-
+m e rs ’ needs and set an
+overall framewo r k . I n
+1997 we had 150,000
+c u s t o m e rs , 80,000 of
+them in the U. S . a n d
+50,000 in Europe. O u r
+C D - ROM costs $50, o r
+nothing if you dow n-
+load it from the
+I n t e rn e t , which is what most of our two
+million or so users do.”
+So why pay? “ I t ’s like asking people
+who buy bottled water why they don’t
+d rink it out of the tap. The answer is that
+they don’t trust it.We ’re also selling simple
+i n s t a l l ation as well as trouble-shooting in
+case of a problem.”
+Young is keeping a cool head under his
+red hat . The battle against the Microsoft
+empire has not been wo n
+ye t . “So far they have n ’t
+caused us any trouble,”
+he say s. “ T h at ’s a bad
+s i g n . They see us as an
+i n t e r e s t i n g, but not ve ry
+t h r e atening experi m e n t .
+We get far more new cus-
+t o m e rs from Unix than
+from Microsoft. We ’r e
+also expanding the soft-
+ware market by cutting
+the cost of technology.”■
+Sophie Boukhari
+
+
+
+Linux’s major 
+selling point:
+efficient 
+‘after-givea way’
+service
+C O N N E X I O N S

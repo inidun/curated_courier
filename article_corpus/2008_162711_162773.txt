@@ -1,0 +1,419 @@
+outset, to certain novel and 
+daring forms of mathematical 
+thought. […] 
+The criticism to which the 
+experimental psychologists of the 
+beginning of this century, and the 
+traditional economists and demo-
+graphers, are open is certainly not 
+that they have paid too much 
+attention to mathematics, but 
+rather that they have not paid 
+enough; that they have simply 
+borrowed quantitative methods 
+which, even in mathematics itself, 
+are regarded as traditional and 
+largely outmoded, and have not 
+realized that a new school of 
+mathematics is coming into being 
+and is indeed expanding enor-
+mously at the present time – a 
+school of what might almost be 
+called qualitative mathematics, 
+paradoxical as the term may seem 
+because a rigorous treatment no 
+longer necessarily means recourse 
+to measurement. This new mathe-
+matics (which incidentally simply 
+gives backing to, and  …
+In the last ten years or so 
+these ideas, which were of such 
+interest to the ancient world, 
+have once more become matters 
+of immediate practical concern; 
+for it should be noted immediately 
+that the developments to which 
+this number of the International 
+Social Science Bulletin hopes to 
+make a modest contribution are 
+by no means confined to the 
+social sciences. They are also to 
+be seen in the so-called sciences 
+of man (if a distinction can in fact 
+be made between the two groups). 
+I would go even further, and say 
+that the most sensational develo-
+pments were perhaps first seen in 
+the  sciences of man – possibly 
+because, at first sight, those 
+ sciences seem the most remote 
+from any idea of exactitude and 
+measurement, but also, in all pro-
+bability, because the  essentially 
+qualitative object of their study 
+made it impossible for them to 
+‘tag along’ behind traditional 
+mathematics, as the social 
+ sciences have done for so long, 
+and forced them to turn, from the 
+When we consider the history 
+of science, it looks as if man 
+realized, at a very early stage, 
+what his programme of research 
+was to be and then, once having 
+decided on it, took hundreds of 
+years to acquire the means of 
+ carrying it out. In the earliest 
+days of scientific thought, the 
+Greek philosophers stated the 
+problems of physics in terms of 
+the atom, and now, two thousand 
+five hundred years later – in a 
+way that they probably never 
+guessed – we are just beginning 
+to fill in the framework which 
+they outlined so long ago. The 
+same might be said of the appli-
+cation of mathematics to the pro-
+blems of mankind, for the 
+speculations of the earliest geo-
+meters and arithmeticians were 
+concerned with man far more than 
+with the physical world. Pythago-
+ras was deeply interested in the 
+anthropological significance of 
+numbers and figures, and Plato 
+was much taken up with similar 
+considerations. 
+human mathematiCS
+Human mathematics will escape the 
+despair of “great numbers” – the raft 
+to which the social sciences, lost in an 
+ocean of figures, have been helplessly 
+clinging, says Lévi-Strauss in an article 
+published in the Social Science Bulletin in 
+1954, which recommends co-ordinating 
+methods of thought. Excerpts 
+Claude Lévi-Strauss
+Excerpts from the “Introduction” to the International Social 
+Science Bulletin, Vol. VI, n° 4, 1954
+© Claude Lévi-Strauss
+Claude Lévi-Strauss and the monkey Lucinda, his travel companion  
+in Brazil (1935-1939).
+
+… expands on, earlier specu-
+lative thought) teaches us that 
+the domain of necessity is not 
+necessarily the same as that of 
+quantity.
+Neither addition, 
+nor multiplication, 
+marriage can be 
+expressed  
+as equations
+This distinction became clear to 
+the present writer in circumstan-
+ces which it may perhaps be per-
+missible to recall in this context. 
+When, about 1944, he gradually 
+became convinced that the rules 
+of marriage and descent were not 
+fundamentally different, as rules 
+of communication, from those 
+prevailing in linguistics, and that 
+it should therefore be possible to 
+give a rigorous treatment of them, 
+the established mathematicians 
+whom he first approached treated 
+him with scorn. Marriage, they 
+told him, could not be assi-
+milated either to addition 
+or to multiplication (still 
+less to subtraction or divi-
+sion), and it was therefore 
+impossible to express it in 
+mathematical terms. 
+This went until the day 
+when one of the young lea-
+ders of the new school, 
+having considered the pro-
+blem, explained that, in 
+order to develop a theory 
+of the rules of marriage, 
+the mathematician had 
+absolutely no need to 
+reduce marriage to quanti-
+tative terms; in fact, he did 
+not even need to know 
+what marriage was. All he 
+asked was, firstly, that it should 
+be possible to reduce the marria-
+ges observed in any particular 
+society to a finite number of cate-
+gories and, secondly, that there 
+should be definite relationships 
+between the various categories 
+(e.g. that there should always be 
+the same relationship between 
+the “category” of the parents’ 
+marriage and “category” of the 
+children’s). From then on, all the 
+rules of marriage in a given 
+society can be expressed as equa-
+tions and these equations can be 
+treated by tested and reliable 
+methods of reasoning, while the 
+intrinsic nature of the phenome-
+non studied –  marriage – has 
+nothing to do with the problem 
+and can indeed remain completely 
+unknown.
+Small numbers,  
+big changes
+Brief and simple as this example 
+is, it is a good illustration of the 
+direction now likely to be fol-
+lowed in collaboration between 
+mathematics and the sciences of 
+man. In the past, the great diffi-
+culty has arisen from the qualita-
+tive nature of our studies. If they 
+were to be treated quantitatively, 
+it was either necessary to do a 
+certain amount of juggling with 
+them or to simplify to an exces-
+sive degree. Today, however, there 
+are many branches of mathema-
+tics – set theory, group theory, 
+topology, etc. – which are concer-
+ned with establishing exact rela-
+tionships between classes of 
+individuals distinguished from 
+one another by discontinuous 
+values, and this very disconti-
+nuity is one of the essential cha-
+racteristics of qualitative sets in 
+relation to one another and was 
+the feature, in which their alleged 
+“incommensurability”, “inexpres-
+sibility”, etc., consisted. 
+This mathematics of man – to 
+be discovered along lines that 
+neither mathematicians nor 
+sociologists have as yet 
+been able to determine 
+exactly, and which is, no 
+doubt, still to be elabora-
+ted to a very large extent 
+– will, in any event, be very 
+different from the mathe-
+matics which the social 
+sciences once sought to use 
+in order to express their 
+observations in precise 
+terms.
+It is resolutely determi-
+ned to break away from the 
+hopelessness of the “great 
+numbers” – the raft to 
+which the social sciences, 
+lost in an ocean of figures,  …
+© Claude Lévi-Strauss
+Drawing from Claude Lévi-Strauss’s travel notebook  
+(Brazil, 1935-1939).
+
+each) no doubt carries on a very 
+old tradition, for the earliest 
+Greek philosophers, the sages of 
+China and India, and the thinkers 
+of the peoples who lived in Africa 
+and America before colonial times 
+and before Columbus were all 
+much concerned with the signifi-
+cance and peculiar properties of 
+numbers. The Indo-European civi-
+lization, for instance, had a predi-
+lection for the figure “three”, 
+while the African and definite 
+logical and mathematical implica-
+tions.[…]
+Think both 
+mathematically and 
+sociologically
+The enormous majority of social 
+scientists have, even now, had a 
+classical or empirical training. 
+Very few of them have mathema-
+tical background and, even if they 
+have, it is often very elementary 
+and very conservative. The new 
+… have been helplessly clin-
+ging; its ultimate object is no 
+longer to plot progressive and 
+continuous movements in mono-
+tonous graphs. The field with 
+which it is concerned is not that 
+of the infinitesimal variations 
+revealed by the analysis of vast 
+accumulations of data. The pictu-
+res it gives is, rather, that resul-
+ting from the study of small 
+numbers and of the great changes 
+brought about by the transition 
+from one number to another. If 
+the example is permissible, I 
+would say that we are less concer-
+ned with the theoretical conse-
+quences of a 10 percent increase 
+in the population in a country 
+having 50 million inhabitants 
+than with the changes in struc-
+ture occurring when a “two- 
+person household” becomes a 
+“three-person household”. 
+Study of the possibilities and 
+limitations connected with the 
+number of members of very small 
+groups (which, from this point of 
+view, remain “very small” even if 
+the members themselves are 
+groups of millions of individuals 
+openings offered to the social 
+sciences by certain aspects of 
+contemporary mathematical thin-
+king will therefore call for a 
+considerable effort of adaptation 
+on the part of the social scien-
+tists. A good example of what can 
+be done in this direction was 
+recently set by Social Science 
+Research Council of the United 
+States of America, which, during 
+the summer of 1953, organized a 
+mathematics seminar for social 
+scientists at Darmouth College in 
+New Hampshire. Six mathemati-
+cians gave an eight-weeks course 
+for 42 persons on the principles 
+of the set theory, the group 
+theory and the calculus of 
+probabilities. 
+It is to be hoped that experi-
+ments of this sort will be made 
+more often and more generally.
+[…] From this point of view, 
+UNESCO has a very important duty 
+to perform. The need for a revi-
+sion of syllabuses   …
+© Claude Lévi-Strauss
+Nambikwara family (Brazil, 1935-1939).
+
+and the revolutionary new offe-
+rings of mathematical research 
+and culture. 
+It would, however, be wrong to 
+suppose that the whole problem 
+consists simply in reorganizing 
+instruction, so as to enable social 
+scientists to take advantage of 
+the latest advances in mathe-
+matical thought. It is not 
+simply, nor indeed mainly a 
+question of taking over methods 
+and results from the mathema-
+tics wholesale. The special 
+needs of the social sciences, 
+and the distinctive features of 
+the subject of their study 
+necessitate a special effort of 
+adaptation and invention on 
+the part of mathematicians.
+Co-ordination of 
+methods of thought
+One-way collaboration is not 
+enough. On the one hand, 
+mathematics will help the 
+advance of the social sciences 
+but, on the other, the special 
+… is felt in all 
+countries; but the tea-
+chers and administra-
+tors, most of whom 
+have had a traditional 
+training, are intellec-
+tually ill-equipped to 
+plan and carry out such 
+a revision. International 
+action by the very few 
+specialists throughout 
+the world who are now 
+able to think both 
+mathematically and 
+sociologically, in terms 
+of the new situation, 
+therefore seems parti-
+cu l a r ly  de s i r ab l e . 
+UNESCO would render 
+the social sciences an incalculable 
+service if it concentrated on wor-
+king out a sort of theoretical 
+model course in social science 
+(which could subsequently be 
+adapted to suit local circumstan-
+ces), that would strike a proper 
+balance between the traditional 
+contribution of those sciences 
+requirements of those 
+sciences will open up new 
+possibilities for mathema-
+tics. Viewed in this light, a 
+new form of mathematics 
+therefore has to be develo-
+ped. This cross-fertilization 
+has, for the past two years, 
+been the main object of the 
+Seminar on the Use of 
+Mathematics in the Human 
+and Social Sciences, organi-
+zed at UNESCO House in 
+1953 and 1954 under the 
+auspices of the Internatio-
+nal Social Science Council, 
+in which mathematicians, 
+physicists and biologists 
+(on the natural science 
+side) and economists, sociolo-
+gist s, histor ians, linguist s, 
+anthropologists and psycho-ana-
+lysis (on the human and social 
+science side) have taken part. It 
+is still to early to assess the 
+results of this daring experiment; 
+but whatever shortcomings it may 
+have had – which are only to be 
+expected in this period of trial 
+and error – all involved in it are 
+unanimous in stating that they 
+gained much from the seminar. 
+For man suffers quite as much, 
+in his inner life, from “intellectual 
+watertight compartments” as he 
+does, in his community life, from 
+the distrust and hostility between 
+different groups. By working for 
+the co-ordination of methods of 
+thought, which cannot for ever 
+remain entirely unrelated in the 
+various spheres of knowledge, we 
+are helping in the quest for an 
+inner harmony which may be, on a 
+different level from that with 
+which UNESCO is concerned but 
+no less truly, the real condition 
+for wisdom and peace. 
+© UNESCO/Dominique Roger
+Vasarely lithograph.
+© UNESCO
+Cover of Greek translation of Race  
+and History and Race and Culture  
+by Claude Lévi-Strauss.

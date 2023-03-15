@@ -1,0 +1,454 @@
+Technology and the marine
+archaeologist by Charles Mazel
+/ "pyAVY Jones meets the com-
+* I I puter." "High Tech Treasure
+M-J Hunt." These headlines from
+articles on recent finds of important ship¬
+wrecks are signs of the growing role of
+sophisticated equipment in the location and
+excavation of historic underwater sites. The
+privateer De Braak, lost in 1798 with a
+fortune in treasure reported aboard, was
+found just off the shore of Lewes, De¬
+laware, USA, by side-scan sonar. The site
+of what is probably the pirate vessel
+Whidah, sunk on the outer shore of Cape
+Cod in 1717, was located by magnetometer.
+In both cases, precision navigation played a
+vital role.
+The applications of technology go far
+beyond the search phase of any project.
+Sites must be excavated carefully, with pre¬
+cise mapping and recording of the locations
+of all objects found. Underwater work
+raises difficulties unlike those encountered
+on land. Besides the obvious problem of
+breathing, there are limitations in com¬
+munications, visibility, and movement, to
+name a few. One of the early tasks of mod¬
+ern marine archaeology was to develop
+tools whose performance would match or
+exceed those being used at land sites. That
+goal generally has been achieved.
+Just because a search or site mapping
+operation uses all the latest electronic giz¬
+mos and computer-controlled whatsits does
+not mean that it is going about the project in
+the right way. Proper technology should not
+be confused with proper technique. Tech¬
+nology is just the hardware, electronic or
+otherwise, that is used for the job. Tech-
+©
+nique is the way in which that equipment is
+used.
+The question of technique should come
+into play as soon as a project is conceived.
+One factor in the initial planning of a job is
+the selection of the appropriate technology.
+And, even if the proper equipment is selec¬
+ted, all efforts may fail if it is not used
+properly. For example, running a sonar
+search with inadequate navigational control
+is poor technique and could lead to failure.
+The right way to go about a project is to a)
+succeed, and b) spend as little money and
+time as possible in doing so. Both too much
+and too little technology can be a problem.
+Without proper technique, success be¬
+comes a matter of luck. Proper selection of
+tools and methods is playing an increasingly
+important role in finding shipwrecks and
+other sites and in carrying out the excava¬
+tion and providing documentation.
+The role of research as the first phase in
+any search project cannot be overempha¬
+sized. The inexpensive hours spent in librar¬
+ies and archives can save many expensive
+and difficult hours searching on the water.
+A survivor's report that "the wreck is lo¬
+cated in two fathoms of water, two leagues
+south of the river mouth" may sound like a
+good lead until the researcher learns that a
+"league" has meant different things in diffe¬
+rent times and places, and the river mouth,
+not to mention the position of the beach
+itself, may have moved a great distance in
+the time since the original disaster. A se¬
+rious student of the art will learn much
+about the history of how one measures
+time, distance, and position.
+The most commonly used instruments for
+searching in the oceans are the side-scan
+sonar, the sub-bottom profiler, and the
+magnetometer. These generally can be
+called high tech. Other methods, just as
+good, fall under the categories low tech, no
+The manned deep-water submersible
+Alvin, of the Woods Hole Océanographie
+Institution (USA), with its mother ship,
+Atlantis II. In 1986 Alvin explored the
+wreck of the Titanic 4,000 metres beneath
+the North Atlantic. Much advanced tech¬
+nology is available for marine archaeology
+but its use on a routine basis is often
+limited because of prohibitive costs.
+m
+i
+.émr	,
+alia
+**>
+15
+
+ï
+CO
+o
+16
+tech, and plumb luck. The great majority of
+finds have resulted from methods as simple
+as talking to local sponge divers, or spend¬
+ing long hours in a small boat with a hand-
+operated coring device.
+Side-scan sonars and sub-bottom profil¬
+ers are acoustic devices that use sound
+waves to produce a hard-copy, graphic re¬
+cord of the sea floor and underlying
+sediments. Both instruments are portable
+and utilize battery power. They can be
+operated from small boats, thus making it
+possible to mount search operations in diffi¬
+cult or remote locations.
+In the side-scan sonar, a torpedo-shaped
+"towfish" transmits pulses of high-frequen¬
+cy sound (50 to 500 kilohertz) out to both
+sides. The pulses are transmitted in a nar¬
+row beam in the horizontal plane, giving
+good resolution, and a broad beam in the
+vertical plane, providing wide coverage.
+Sound is returned to the sonar from the
+texture of the sea floor and by reflections
+from targets. The returns from successive
+pulses are printed side by side on the paper
+record, producing a very detailed view of
+the sea floor, similar to an aerial photo¬
+graph. A side-scan can produce an image of
+the sea floor more than 300 metres out on
+both sides of the tow path.
+Side-scan sonar produces a detailed
+graphic image of the surface of the sea floor.
+Areas of rock, sand, mud, or other material
+can be distinguished. If an archaeological
+site leaves some visible trace on the sea
+floor, it can be found by side-scan sonar. If a
+wreck is relatively intact, the sonar image
+may be clear enough to allow identification
+from the sonar record alone. In some cases,
+indirect indications, such as a difference in
+material type, may be enough to point to a
+site location even if no portion of the wreck
+itself is exposed. A side-scan sonar unit
+cannot detect sites that are completely
+buried beneath the sea floor. Extremely
+rocky or irregular bottoms can make it hard
+to interpret sonar returns.
+The sub-bottom profiler utilizes low-fre¬
+quency sound (3.5 to 12 kilohertz) to pene¬
+trate bottom sediments. A pulse of sound is
+directed vertically down into the bottom.
+At each interface between different types of
+sediment layers some of the sound energy
+continues on and some is reflected. As the
+device is towed along, a cross-sectional view
+of the sea floor is generated, showing the
+different layers and the underlying bed¬
+rock. If there are buried hull remains, they
+can show up as a localized reflection below
+the bottom.
+A sub-bottom profiler can be used to
+locate sites that are completely buried.
+Drawing shows 4 methods of geophysical
+surveying under water. (1) The proton
+magnetometer detects variations in the
+earth's magnetic field, which is distorted
+by objects of a ferrous nature such as
+cannon, iron shot or steel hulls. (2) Side-
+scan sonar detects variations of projec¬
+tions above the sea-bed. A "fish" towed
+behind the boat transmits a fan-shaped
+beam of acoustic energy perpendicular to
+its path, and rock outcrops, sandwaves,
+wrecks and other projections are recorded
+on a continuous graph (see front cover).
+(3) The sub-bottom profiler is an acoustic
+transmitter which sends out into the sea¬
+bed sound pulses which bounce back
+from underlying strata or buried objects.
+All 3 devices, when used simultaneously,
+can detect objects lying on or below the
+sea-bed and distinguish ferrous and non-
+ferrous anomalies, thus helping
+archaeologists to distinguish early timber
+structures from later metal wrecks. (4)
+Another system is the Remotely Operated
+Vehicle (ROV). Equipped with low-light
+videos and cameras, such highly man¬
+oeuvrable unmanned submersibles are
+connected to a mother vessel by a cable
+through which they receive electricity and
+commands from their human pilot and
+transmit pictures and data.
+
+A mosaic of X-ray photos of a concretion
+helps to guide a technician in the process
+of chipping off the overlay from iron arte¬
+facts recovered from a 16th-century ship¬
+wreck off the coast of Texas, USA.
+Since it looks directly down, it covers only a
+narrow path underneath the search vessel.
+This makes it an inefficient tool for general
+searching. The sub-bottom profiler can be
+used effectively to help define the site limits
+and geology once the primary location is
+found by other means.
+In some cases, a magnetometer should be
+used either instead of or along with a side-
+scan sonar or sub-bottom profiler. The
+magnetometer is a passive device that mea¬
+sures the strength of the local magnetic
+field. It has been the primary search tool for
+treasure hunters and others looking for
+Spanish vessels in the New World, where
+most wrecks are broken up and buried in
+sand or coral.
+The spinning Earth behaves much like a
+bar magnet, with a north and south magne¬
+tic pole. At any point on the Earth there will
+be some natural magnetic field strength,
+influenced by the local geology. Concentra¬
+tions of ferrous material such as iron
+anchors, cannon, or ships' fittings will al¬
+ter that field, producing what is termed a
+magnetic anomaly (or variation). It does
+not matter whether the iron material is
+buried or exposed. The shape and size of
+the anomaly give clues to the mass of iron
+producing it and the depth of burial.
+The unit of measurement of magnetic
+field strength is the gamma. The Earth's
+natural magnetic field ranges from 30,000
+to 60,000 gammas, depending on the loca¬
+tion. Modern magnetometers can detect
+anomalies in the local field of less than 1
+gamma. Although there are several types of
+magnetometer available (cesium, rubi
+dium, flux-gate), the one most commonly
+used for marine search applications is the
+proton precession magnetometer. These
+units are relatively small, simple and
+robust, and are well suited to field oper¬
+ations.
+A magnetometer consists of a sensor, a
+chart recorder, an interconnecting cable,
+and a power supply. The units are portable
+and are easily adapted to virtually any
+search vessel. The sensor is generally towed
+behind the search vessel, although for some
+shallow-water operations magnetometer
+sensors have been mounted on a boom on
+the bow of a small boat or even suspended
+from a helicopter. A boat that is not made
+out of steel is preferred, but any vessel can
+be used if there is enough cable to get the
+magnetometer out of the of the
+vessel's own magnetic field.
+The strength of an object's magnetic field
+decreases with the cube of the distance from
+the object. This means that the magneto¬
+meter sensor must be towed relatively close
+to the object in order to detect it, depending
+of course on the amount of metal involved.
+As a rough guide, a large steel wreck can be
+detected at a range of 120 to 180 metres, a
+site with scattered iron anchors and cannon
+at 80 to 100 metres, an isolated iron cannon
+at 30 metres, and an individual small iron
+object at 3 to 5 metres. Skilled operators are
+able to use magnetometer readings to put a
+marker buoy directly on top of the source of
+an anomaly.
+Magnetometers are useful for finding any
+site that has iron structures, artefacts, or
+associated minerals. Since it does not mat¬
+ter whether or how deeply the material is
+covered, magnetometers are particularly
+appropriate for locating vessels that are
+buried or located in areas that are unfavour¬
+able for sonar searching.
+Magnetometers are not able to detect
+non-ferrous materials, so it is necessary as
+part of the research process to determine
+whether and how much of such material
+may be on a site. Bronze cannon, for exam¬
+ple, cannot be detected.
+With all these search tools, it is vital to
+have precision navigation. That is the only
+way one can know that the entire search
+area has been covered with a reasonable
+degree of accuracy. It is also needed to
+return to any contacts found with the search
+instruments.
+The future is already here in terms of
+available technology. Computers, sub¬
+mersible vehicles, satellite mapping systems
+and the like, are in widespread use. It is
+their application to marine archaeology that
+is somewhat lagging. In large measure, this
+can be attributed to the prohibitive cost of
+using these systems on a routine basis.
+The major change in search technology is
+likely to be an increasing success rate for
+site location. The basic technology is in a
+relatively advanced state of development.
+Continued advances will be made in select¬
+ing the best equipment for a job and car¬
+rying out the search properly. As the equip¬
+ment and techniques are refined, they will
+play an important role in site identification,
+as opposed to simply site location.
+Aerial and satellite imaging, whether by
+photography or multi-spectral imaging, will
+be more widely used. Satellite images have
+already disclosed previously unknown reef
+structures and sandbars that might contain
+shipwreck sites. Shipwrecks can sometimes
+be seen in high-altitude photographs.
+Photography using optimized film/filter
+combinations could maximize water
+penetration and bottom contrast.
+Pulsed lasers are being used ex¬
+perimentally, to make hydrographie
+measurements from aircraft. As the tech¬
+nology advances, it will become possible to
+survey large areas of the bottom at pre¬
+viously unheard-of rates. Anomalies will be
+found that are caused by shipwreck sites.
+The possibility of finding shipwrecks in
+deep water has been recognized since the
+1960s. Under the right conditions, wood
+and other organic materials suffer little de¬
+terioration at great depths.
+The future will see continued progress in
+the ability to locate such sites. More impor¬
+tantly, technology will provide the means to
+investigate such sites more efficiently. Un¬
+manned, remotely operated vehicles have
+
+18
+already performed television and photo¬
+graphic inspections of several sites. One-
+atmosphere diving "suits" now commonly
+used in the offshore oil industry provide the
+archaeologist with direct access to sites at
+ever-increasing depths, with no danger of
+decompression sickness.
+Improvements also continue to be made
+in the ability to document sites rapidly and
+accurately. New film and camera technolo¬
+gies make it easier to obtain high-quality
+photographs for documentation.
+A new mapping system is currently
+undergoing field trials. It promises to great¬
+ly reduce, the time needed to make,
+measurements. The system uses acoustic
+signals to replace measuring tapes. The
+diver holds a wand-like device wherever he
+wants a measurement. When he pulls a
+trigger, acoustic pulses travel out to receiv¬
+ers at carefully surveyed locations. The
+travel time of the pulses is converted into a
+distance measurement by a computer on the
+surface, which then calculates the location
+of the point in space. To achieve the neces¬
+sary accuracy of less than a centimetre, the
+system must continually measure and adjust
+for the speed of sound in the water. The
+equipment is compact and portable. The
+system is so fast and accurate that the diver
+can sign his name on the computer screen
+simply by holding down the trigger and
+"writing" with the wand.
+As computers become smaller, cheaper,
+and more powerful, they are increasingly
+being used in the field of underwater
+archaeology. This is not to say that
+archaeologists have not been using com¬
+puters. University mainframe computers
+have been used for a number of years for
+archaeological database management
+storing, sorting, analysing and displaying
+information on artefacts and sites. The data
+are brought in from the field on standard
+reporting forms. Recently, however, more
+and more archaeologists have been taking
+either terminals or small computers into the
+field so that data can be sent back to the
+mainframe computer over telephone lines
+on a daily basis.
+With the advent of portable, battery-
+powered microcomputers, field uses are
+starting to go far beyond simple cataloguing
+tasks. Underwater measurements can be
+entered into the computer on site to be
+converted into useful co-ordinates for im¬
+mediate plotting or display on a graphics
+screen. This provides both on-the-spot
+error checking and a tool for site planning.
+The role of computers as an integral part of
+archaeological fieldwork is one that should
+show rapid development in the next few
+years.
+CHARLES MAZEL, of the USA, is an ocean
+engineer who is technical director of the non¬
+profit Maritime Archaeological and Historical Re¬
+search Unit, based in Maine. He is presently a
+consultant on ocean survey and electronics pro¬
+jects and is developing new equipment for under¬
+water photography. This article was first pub¬
+lished in Oceanus magazine (vol. 28, no. 1,
+Spring 1985) published by the Woods Hole
+Océanographie Institution, Massachusetts.
+Colour page opposite
+A sunken ship is a "time capsule" of life at
+sea, frozen at a moment in the past.
+These 3 photos show a silver pocket watch
+recovered by Australian archaeologists
+from the remains of HMS Pandora, which "
+foundered on Australia's Great Barrier
+Reef on 29 August 1791 with the loss of 35
+men. Pandora had been sent to Tahiti in
+1790 by the British Admiralty to capture
+the mutineers who had seized HMS Bounty
+the previous year and "bring them to con¬
+dign punishment". She went down on her
+return voyage to England with 14
+mutineers manacled inside a deckhouse
+cell.
+The watch, thought to have belonged to
+the ship's surgeon because it had a
+second hand useful for taking a patient's
+pulse, was brought up in a wet container.
+An X-ray showed that most of its works
+were still intact. It had stopped at 12 min¬
+utes and 20 seconds past 11. Pandora
+sank at 6:30 A.M. and so the watch may
+have been stopped by the shock of impact
+when the ship hit the reef the night before
+or by rising waters when she began to fill.
+Remarkably preserved, the watch was
+conserved and restored by Jon Carpenter,
+conservator of the Pandora expedition,
+and rebuilt nearly to working condition
+(below right) by an antiquarian watch¬
+maker, Hugh Whitwell.
+Photo © Patrick Baker/Western Australian Maritime Museum
+Photo © Jon Carpenter/Western Australian Maritime Museum
+Photo © Jim Brandenburg, Minneapolis

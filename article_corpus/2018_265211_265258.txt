@@ -1,0 +1,59 @@
+The ethical risks of AI
+Marc-Antoine Dilhac, interviewed by Régis Meyran
+Artificial intelligence (AI) can be used to increase the 
+effectiveness of existing discriminatory measures, such as racial 
+profiling, behavioural prediction, and even the identification of 
+someone’s sexual orientation. The ethical questions raised by 
+AI call for legislation to ensure that it is developed responsibly.
+What are the issues raised by behaviour analysis software based on 
+filmed images?
+AI helps to improve the preventive use of video surveillance systems in public 
+places. Images are now being continuously analysed by software that detects acts 
+of aggression and can quickly raise the alarm. This new system is being tested, for 
+example, in the corridors of the Châtelet station in the Paris metro system. If we 
+accept the principle of video surveillance, the only problem with the use of AI is 
+the risk of error. And this risk is not very high, since it is humans who must take 
+the final decision whether or not to intervene. 
+Nevertheless, facial recognition errors are very common. All it takes is one 
+small glitch in the image for the AI to see a toaster instead of a face! The 
+feeling of excessive surveillance and the multiplication of errors can be 
+particularly worrying. 
+There is also cause for concern that these intelligent systems and the racial and 
+social profiling techniques they might use, could lead to abuses.
+What kinds of abuse are you referring to?
+I’m thinking in particular of the programmes, already being used in several 
+countries, to identify “terrorist behaviour” or “criminal character”, using facial 
+recognition. Their facial features would therefore be used to indicate their intrinsic 
+criminal tendencies! 
+Alarmed by this resurgence of physiognomy, Michal Kosinski and Yilun Wang of 
+Stanford University in the United States, wanted to expose the dangers of this 
+pseudo-scientific theory – thought to have been relegated to history – which 
+claims to study a person’s character, using facial recognition. To draw attention to 
+the risks of invasion of privacy, they created an “AI gaydar” in 2017 – a programme 
+to identify whether someone is homosexual or not, only by analysing their 
+photograph! According to the authors, the margin of error for the programme 
+is only twenty per cent. In addition to its stigmatizing effect, the application of 
+this technology would violate the right of everyone not to disclose their sexual 
+orientation. 
+Any scientific research that is carried out without philosophical guidelines or a 
+sociological or legal compass is likely to raise ethical problems. The few examples 
+I have mentioned show the urgent need to establish an ethical framework for 
+AI research.
+What about eugenistic abuses?
+In my opinion, AI is not a priori a factor of eugenics. Some people prophecy a 
+world in which humans can be improved through the use of AI – chips to expand 
+memory or improve facial recognition, etc. While intelligent robotics might be 
+able to offer medical solutions for some forms of disability (such as providing 
+mobility through sophisticated prosthetics), the transhumanist hypothesis of 
+the augmented man remains in the realm of science fiction. 
+Assistant professor in ethics and political philosophy at the University of Montreal, 
+Marc-Antoine Dilhac (France) holds the Canada Research Chair in Public Ethics and 
+is co-director of ethical and political research at the Centre for Research on Ethics (CRE).
+Could data also 
+be co-opted by 
+the State to control 
+its population, 
+perhaps to 
+the detriment 
+of the individual’s 
+human rights?

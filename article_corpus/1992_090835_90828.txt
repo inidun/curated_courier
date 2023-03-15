@@ -1,0 +1,359 @@
+" ;^TÇtrtrr<v_
+The numbers crunch
+Kby Harold Brookfield
+Is it possible to measure the population 'carrying capacity' of our planet?
+"Continents as crammed as
+the Raft of the Medusa", a
+drawing by the French artist
+A. Robida (1883).
+wHEN we speak of "overpopulation" or of
+"underpopulation" the implication is that there
+must be some level of population in any region
+or country, or in the world as a whole, at which
+neither of these conditions exists and at which
+population is "optimal". When we say that the
+condition of either land or people is worse than it
+would be if there were fewer inhabitants, then
+there must be some "maximum" population,
+probably higher than the "optimal", beyond
+which stress becomes palpable. Underlying all this
+is the notion that our planet has a certain unde¬
+fined, sustainable population "carrying capacity".
+Most modern thinking relies on the different
+formulations of the problem by Malthus
+(1766-1834) and Ricardo (1772-1823). Malthus
+propounded the "law", or hypothesis, that popu¬
+lation tends to increase to the level which just per¬
+mits subsistence for the great majority. Ricardo
+modified the Malthusian theory by a more
+thorough development of the empirical law of
+diminishing returns as applied to successive units 25
+
+of labour input, implying that limits are attained
+through rising scarcities.
+Historically, it is certainly possible to find in¬
+stances of something like the Malthusian law. In
+overwhelmingly rural early fourteenth-century
+Europe, every poor harvest resulted in an increase
+of deaths. In Ireland, in the 1840s, the ease of sub¬
+sisting on potatoes led to rapid population growth
+among a peasantry constantly pressing on the
+limits of famine, across which they were thrust
+by crop failure in 1845.
+In the mid-1960s, a group of researchers, con¬
+cerned by demographic upsurge and evidence of
+stress in either society or resource management,
+or both, began to seek ways to quantify the crit¬
+ical population densities which mark the onset
+of stress conditions. All dealt with mainly self-
+sufficient agrarian societies using pre-industrial
+technology and with land-rotation farming in
+which the fallow period was a critical element.
+The pioneer work was carried out in Africa
+where a system first developed in 1949 in Zam¬
+bia by W. Allan, with the object of determining
+the need for land reallocation and rehabilitation,
+was later extended to societies in other tropical
+parts of the continent. Anthropologists and
+geographers used and elaborated formulae, similar
+to those Allan used to calculate critical popula¬
+tion density, to quantify the productive capacity
+of an environment, the number of people it could
+support at given per capita requirements, and
+hence the degree of pressure on resources.
+Criticism of the
+"carrying capacity" concept
+Substantial criticism of the whole group of con¬
+cepts embraced under the notions of "carrying
+capacity", "critical population levels" and "popu¬
+lation pressure on resources" was, however, al¬
+ready building up. Increasingly it came to be un¬
+derstood that a static population-resource equa¬
+tion concealed more than it revealed.
+Technical problems with early attempts to
+make carrying capacity an effective, applicable in¬
+dicator were summarized in 1986 by P.M. Fearn-
+side. They addressed only one class of agriculture
+and an essentially subsistence economy. Although
+some authors introduced caveats, they neverthe¬
+less calculated on the tacit assumption that pat¬
+terns of consumption, income and employment,
+crop and livestock mix and agrotechnology were
+fixed. Few considered natural resource degrada¬
+tion or took account of year to year variability
+in the biophysical conditions of production. Most
+studies were based on limited periods of field
+research and there were deficiencies in the data
+used on yields, the fallow period and the quali-
+¿O ties of land and its resilience under human use.
+Unfortunately, some of these deficiencies have
+been carried forward into more recent work.
+The UNESCO/MAB Eastern Fiji project of
+1974-1976, which the writer headed, was assigned
+the task of improving carrying capacity estima¬
+tion. It was felt, not unreasonably, that islands
+would provide the best laboratory. Within the
+project, T.P. Bayliss-Smith took an important
+step away from the old approaches, including his
+own, by recognizing that the output obtained by
+people from any resource-area is not a fixed quan¬
+tity, but is relative to the intensity of input. The
+Bayliss-Smith model is not specific to any partic¬
+ular cultivation system and is applicable to open
+as well as closed economies. It abandons the de¬
+terministic approach of the 1960s and creates the
+potential to take account of both natural and eco¬
+nomic variability.
+The price of progress towards realism was a
+greater need for data, more complex calculations
+and a result made up of choices rather than a sin¬
+gle figure. The stage was set for a new computer-
+based methodological step forward. This was
+taken by P.M. Fearnside, who tackled the
+problem of carrying capacity in a very different
+environment from islandsthat of clearings made
+by settlers in lowland rain forest along the trans-
+Amazon highway in Brazil.
+In this rather specific case Fearnside used as
+his indicator the statistical probability of colonist
+failure under specific population densities. He de¬
+termined this probability through a complex
+computer model which simulated the whole agro-
+system of the settlers, employing data collected
+over more than ten years to examine the causal
+relationships between over sixty variables rather
+than an independent condition of the environ¬
+ment. This was a far remove from the work of
+twenty years before.
+Fearnside's method is very demanding of
+data, research time and computer time, but it
+approaches realism by turning the question away
+from the simple numbers that can be supported
+under a given and static set of conditions. Instead,
+it focuses on issues such as levels of support ob¬
+tainable from environmental sources under vary¬
+ing conditions, or density limits on success among
+poor settlers in a new environment. It shifts away
+from determinism towards questions of sustaina-
+bility, but in very specific contexts.
+It would not, however, be reasonable to wait
+on such intensive enquiries in all situations and
+certainly not in the face of the large population,
+development and environmental problems that
+now confront much of the world. There is a
+need for answers to questions posed by another
+doubling of the global population and a desire
+to know the sustainable carrying capacity of
+HAROLD BROOKFIELD,
+of Australia, is professor
+emeritus in the Research
+School of Pacific Studies, the
+Australian National University
+(Canberra), where he was until
+recently professor of Human
+Geography and convenor of
+the Division of Society and
+Environment. His principal
+research has been in problems
+of cultural ecology and rural
+change in Melanesia and
+Southeast Asia. He has served
+as chief technical adviser of
+projects in UNESCO's Man and
+the Biosphere Programme and
+is the sole or joint author of
+11 books and some 150
+papers.
+
+environments and regions for use as a develop¬
+ment planning tool.
+How many people
+can the world sustain?
+A very fair first approximation to a global esti¬
+mate of carrying capacity was made by E.G.
+Ravenstein in 1891. He made reasonable estimates
+of the world's cultivable area, its capabilities and
+capacities and of yield improvements, to arrive
+at a global capacity of close to six billion people
+which he thought might be reached about the
+year 2070, at the then current rates of growth,
+A United Nations Population
+Fund poster for World
+Population Day, 11 July 1991.
+without much loss or gain in living standards.
+Since Ravenstein made his estimation, the
+global situation has been transformed, not least
+by the "green revolution". This and other fac¬
+tors for change were taken into account in what
+was probably the most ambitious attempt at
+large-area measurement of carrying capacity ever
+made. This major task, carried out in the early
+1980s by the Food and Agriculture Organization
+(FAO), in collaboration with the International
+Institute for Applied Systems Analysis (IIASA),
+covered the whole developing world apart from
+east Asia and sought to determine the physical 27
+
+28
+potential population-supporting capacities of all
+these countries and of soil and climate regions
+within them. Soil associations derived from the
+FAO/UNESCO soil map of the world were used
+together with a climatic inventory created to
+classify lands by mean length of growing period.
+Potential yields for a range of crops were cal¬
+culated on three bases: of "low inputs" assum¬
+ing only manual labour, no fertilizer and no pes¬
+ticides; of "intermediate inputs", with draught
+animals, some chemical inputs and simple soil
+conservation measures; and of "high inputs", as¬
+suming complete mechanization, full use of op¬
+timal genetic material and all necessary farm
+chemicals and soil conservation measures. Con¬
+sideration was also given to fallow periods and
+to' the effects of both irrigation and land degra¬
+dation on productivity. Two time periods were
+used to determine the relation of actual popula¬
+tion to carrying capacity1975, to represent "the
+present", and 2000, using United Nations "medi¬
+um" projected populations.
+Results from each soil/climate zone, aggregat¬
+ed by country, suggest that by 2000 most develop¬
+ing countries could support their populations
+from their own resources only if high levels of
+input were employed, but also that a number of
+countries would face inevitable shortage of food;
+to reach these projections, trade within countries
+was assumed. Evaluation of the method is best
+based on the accompanying maps of major
+regions, which show carrying capacity as persons
+per hectare for each soil/climate zone, at each
+level of input. The sheets for a "Southeast Asian"
+region that extends west as far as Pakistan provide
+a good basis for analysis; this area exhibits great
+internal contrasts.
+In the entire region, the map for low levels
+of inputs shows virtually only the north coast of
+Java as capable of supporting as many as five peo¬
+ple per hectare. Almost the whole of Java, Bhu¬
+tan and Bangladesh, most of Nepal, India and
+lowland Viet Nam, large parts of the Philippines
+and several upland areas throughout Southeast
+Asia have calculated capacities less than their 1975
+populations. On the basis of high levels of inputs,
+only a few small, mainly upland areas are in the
+latter category, though it is a different story with
+projected 2000 populations.
+More remarkably, however, on the high in¬
+put assumption most of Sumatra, peninsular
+Malaysia and the Philippines and the whole south
+of Kalimantan (Borneo) are shown as having
+higher capacity (ten or more persons per hectare)
+than all but limited areas of eastern Java and the
+north coast of that island. Similarly, most of
+Kampuchea is shown as having greater capacity
+to support population at high levels of input than
+any part of Viet Nam. This information flies in
+the face not only of present population distribu¬
+tion, but also of a great deal of additional infor¬
+mation on the quality of soils and water in cer¬
+tain of these regions, particularly eastern Sumatra
+and southern Kalimantan, where serious
+problems have been encountered by transmigrant
+schemes.
+Despite the great body of data handled and
+the vast resources employed, the methodology
+differs little from that of the early carrying-
+capacity calculations of the 1960s. On the basis
+of incomplete environmental data and a uniform
+set of assumptions about agricultural technolo¬
+gy and basic consumption requirements, a deter¬
+ministic result is produced. Only food supply is
+taken into account and industrial and trading ca¬
+pacities are virtually ignored. Moreover, the
+necessary assumption of the high input levels case,
+that the best agrotechnology can be applied every¬
+where and by everyone, displays remarkable lack
+of realism. As a statement about carrying capacity,
+this onebased on a one-sector, closed-economy
+modelmerely reveals the impossibility of deter¬
+mining or even conceptualizing what it is in a
+real, interdependent world.
+An empirical notion
+that should be discarded
+Although there have been several further esti¬
+mates, nothing like the FAO/IIASA project has
+ever been attempted again. Discussion of carry¬
+ing capacity, however, goes on and has taken on
+a new lease of life in the modern context of sus-
+tainability. In the new wave of environmental
+concern it is often argued that population pres¬
+sure contributes causally to degradation and
+depletion. It has also been shown that degrada¬
+tion can arise under both high and low popula¬
+tion densities and under both poverty and af¬
+fluence, while restorative management can also
+occur in these circumstances.
+Part of the damage now being done to more
+and more of the environment is due not simply
+to increased numbers, but to the greater mobili¬
+ty of people and their activities and the enhanced
+means they have of dealing damage through such
+simple innovations as the chain-saw, as well as
+the tools of modern industry. Growing numbers
+are certainly a major element, but are not them¬
+selves a sufficient explanation.
+Setting aside speculation about future global
+warming, there are already ways in which the en¬
+vironment of the whole planet is changed by hu¬
+man activity, with growing population pressure
+as a major element. Even the advances of the
+green revolution have reached something of a
+plateau, though worldwide there is still vast scope
+
+for improvement in both production and conser¬
+vation.
+To focus only on one element, however, is
+to ignore questions of access to resources and cap¬
+ital as causes of poverty and also to disregard the
+scope for adaptation provided by the rapidly
+growing division of labour, with its potential for
+a more intelligent use of technology. Environ¬
+mental variability is increasingly shown to have
+major effects on human welfare and we must al¬
+low for the possibility that it will increase with
+global change. To rely for decision-making on
+carrying capacity determined on the basis of
+present conditions is a recipe for disaster.
+Except for very specific purposes in very
+small areas, no attempt to determine a popula¬
+tion carrying capacity has attained credence.
+Repeated predictions have been made concern¬
+ing the population capacity limits of country af¬
+ter country for at least half of this century. In
+almost every significant case these limits have
+been exceeded, while in most cases the present
+people are now better off than their less numer¬
+ous predecessors.
+Carrying capacity is an empirical notion and
+it has been empirically faulted so many times that
+it should already have been discarded, at least as
+a planning tool for local application. It is an im¬
+pediment to rational planning for a more sus¬
+tainable future. Carrying capacity for the whole
+world may be another matter and on this the last
+word still seems to be with Ravenstein and the
+system he employed in 1891. His limits need ex¬
+pansion in the light of what has transpired since,
+but his very simple methods, using quantities that
+can readily be changed and updated according to
+circumstances, are all that so transparently sim¬
+plistic and conditional a notion deserves. The real
+problem is much larger; population pressure is
+as much result as cause, and population numbers,
+though important, are only one part of the
+whole.
+Crowd 2,
+a watercolour by the
+American artist Diana Ong.
+29

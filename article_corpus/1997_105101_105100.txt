@@ -1,0 +1,350 @@
+GREENWATCH
+a rthwatching Satellites
+by France Bequette
+Landsat, Spot, Topex-Posei-
+don, ERS, Polder, Argos,
+NOAA, Cosmos, Sarsat, Meteosat,
+Himawari, GOES, Tiros, Nim¬
+bus mysterious words that often
+appear in news reports are the
+names of artificial satellites.
+The satellite era began on 4
+October 1957, when the Soviet
+Union successfully launched Sput¬
+nik ("fellow traveller" in Russian)
+into orbit around the earth. An
+observation tool weighing almost
+84 kg, Sputnik circled the earth
+for three months at altitudes rang¬
+ing from 228 to 947 km.
+Roistered by progress in infor¬
+mation technology, satellite tech¬
+nology has come a long way since
+then. Today we rely heavily on
+these eyes in the sky to tell us
+about the environment and help us
+to manage the earth's resources.
+Eyes in the sky
+Artificial satellites today observe
+the atmosphere, the oceans, and
+the earth's land surface from
+space. They provide information
+using two different techniques,
+data collection and remote sens¬
+ing. With the first technique, they
+receive data from various points on
+the earth's surface and then beam
+it back to earth. With the second,
+they use their instruments to
+analyse information contained in
+electromagnetic radiation emitted
+by the earth.
+The choice of orbit is extremely
+important. A satellite in geosta¬
+tionary orbit some 36,000 kilo¬
+metres above the earth appears
+immobile since it moves at the
+same speed as the revolving globe.
+Geostationary satellites continu¬
+ously observe a wide area but are
+hampered by their distance from
+the earth. A satellite in polar orbit,
+on the other hand, covers the
+entire planet without remaining
+permanently above a single region.
+Geostationary satellites and
+satellites in polar orbit do not have
+the same uses, and their capaci¬
+ties complement each other. Roth
+kinds are used in meteorology, for
+example, a field where satellites
+have proven to be of vital impor¬
+tance. Five geostationary satellites
+The SPOT-1
+satellite under
+construction in
+Toulouse (France)
+in 1984. This
+family of earth-
+observation
+satellites provides
+black and white
+photos of the
+earth within an
+accuracy of about
+10 metres and
+reconstitutes
+relief.
+The ERS-1 satellite
+on its Ariane 4
+launcher (total
+height 58.4
+metres) at the
+Kourou space
+centre (French
+Guyana) shortly
+before lift-off on 16
+July 1991.
+46 ) (ouiTHE UNESCO lOURIER» FEBRUARY 1097
+
+enable weather watchers to keep a
+constant eye on the earth's weather
+system in toto, while polar orbital
+satellites provide more precise
+measurements at different points
+on the earth's surface.
+Satellites, whose weight ranges
+from a few kg to several tons, are
+launched by extremely powerful
+rockets. The United States, Rus¬
+sia, France, Japan, China, India
+and Rrazil are among the countries
+that possess such launchers, and in
+some cases launch satellites for
+other countries. Canada and the
+Arab states, for example, have had
+satellites launched by the United
+States and France respectively.
+Once in orbit, satellites record
+images by means of still photogra¬
+phy, TV cameras, scanners or
+radar. Film from manned satellites
+is returned to earth for process¬
+ing. Unmanned satellites either
+process the images themselves or
+transmit them to terrestrial receiv¬
+ing stations in different parts of
+the world. Each image is ordered
+in advance from the satellite by
+computer and identified in detail.
+This battery of observational
+technology has great potential for
+environmental monitoring. In July
+1991, the European Space Agency
+launched ERS-1 (an acronym for
+European Remote-Sensing Satel¬
+lite), Europe's first environmental
+satellite, whose work was later car¬
+ried on by its sister craft ERS-2.
+The European
+Remote Sensing
+Satellite (ERS-1),
+Europe's first
+earth-observation
+satellite.
+Radar sensors enable the satellites
+to "see" at night and through
+cloud cover. One system generates
+100-km x 100-km scenes of regions
+over which the satellite flies and
+measures wind speed and direc¬
+tion and wave energy. Another mea¬
+sures wave height to within 2 cm.
+A third system is an infra-red
+detector that measures sea sur¬
+face temperature to an accuracy of
+0.3°C.
+High resolution images
+"Our only way to obtain an overall
+vision of the state of ocean biology
+at any moment is satellite obser¬
+vation of the ocean's colours,"
+explains John Withrow, a member
+of the Intergovernmental Océano¬
+graphie Commission (IOC). "Data
+on the colour of the ocean will
+enable us to monitor such impor¬
+tant fields as biogeochemical
+cycles, the direct effects of biology
+on the physics of oceans, coastal
+resources and sustainable fishing."
+It is only by observing colour that
+we can also study carbon dioxide
+absorption by the oceans, a phe¬
+nomenon which has repercussions
+on the abundance of marine algae.
+Remote sensing is an efficient
+tool for monitoring ice, especially
+in the Raltic Sea. In the northern
+reaches of the Raltic, the ice sea¬
+son lasts on average more than six
+months of the year and obstructs
+shipping. Since 1989, ice-break
+ers of the Finnish Shipping Office
+have been equipped with a work¬
+station for processing images sent
+by the NOAA and ERS satellites.
+If the image arrives quickly and
+has a resolution of at least 100
+metres, the captain of the ice¬
+breaker can choose his optimum
+route and transmit to other ships
+information that will help them
+through the ice without any need
+for his ship to intervene.
+In July 1991, fin; raged through
+some 140,000 hectares on Spain's
+east coast. Using their high-reso¬
+lution imaging systems and trans¬
+mitting four times a day, the Tiros
+and Landsat polar orbiting satel¬
+lites monitored the advance of the
+fire, identified at-risk zones and
+assessed the damage. Even at night
+they were able to warn of new out¬
+breaks of fire and smoke, enabling
+the fire services to use their
+resources to maximum effect.
+A map-making tool
+Satellites can also help us to take
+stock of the natural environment.
+They have, for example, been used
+to map old growth forests in Ore¬
+gon and Washington State in the
+United States which have suffered
+from over-logging. They identified
+three levels the oldest trees (400
+years old), 160-year-old trees, and
+a lower level, and used three para¬
+meters: rate of coverage, diameter,
+and structure and nature of species.
+THE UNESCO lOURIER FEBIRUARY 1997
+47
+
+' 'VA--"-
+£"%&
+¿s f}..-
+\ ?a¡% ~.d...
+The American yew (Taxus bre-
+vifolia) lives in the lowest level of
+these forests. When taxol, an anti¬
+cancer drug, was extracted from
+its bark, large numbers of the trees
+were felled. Later, a synthetic mol¬
+ecule for the drug was created,
+and logging was halted. If it had
+continued, however, satellite map¬
+ping would have helped mobilize
+the authorities and improve forest
+management. Another unexpected
+beneficiary of satellite mapping is
+the northern spotted owl (Strix
+occidentalis), which lives only in
+these old growth forests and would
+disappear if too many of their trees
+were felled. Its survival has
+become a priority target of nature
+conservation in the United States.
+Rrazil and Thailand have high-
+powered data-receiving stations
+and use ERS, Landsat and Spot
+satellites to monitor their plant
+resources. In Amazonia, defor¬
+estation is assessed every three
+years by satellite and its conse¬
+quences are measured regional
+warming and declining rainfall.
+Agriculture is one of Egypt's
+main resources, and satellite data
+are extremely valuable tools for
+agricultural resource management
+Above, a photo of
+northern
+California taken by
+the Landsat 2
+satellite from an
+altitude of 914
+kilometres. It
+shows the San
+Francisco Bay
+area, the great
+valley of central
+California and the
+coast south of San
+Francisco. The
+white patch over
+the Bay is
+industrial smoke.
+Crops, trees and
+other plantlife
+appear in bright
+red, and the built-
+up and industrial
+areas in green and
+dark grey. The
+broad white
+diagonal band at
+right of the image
+is a thick blanket
+of fog covering the
+valley.
+<*V.. ¿ / '- ¡1
+and forecasting. The Agricultural
+Land Information System (ALIS) is
+designed to measure and follow the
+evolution over time of areas where
+the main crops are grown, to con¬
+trol urban sprawl in these areas
+and to develop new areas. This pro¬
+ject, devised by Spot Image, which
+distributes imagery provided by
+Spot remote-sensing satellites,
+began in France, where twelve
+Egyptian specialists were trained.
+As a result of outside funding, the
+specialists are now continuing their
+The northern
+spotted owl {Strix
+occidentalis).
+work in Egypt with the most
+advanced equipment.
+Using maps made by this process
+it has been possible to study 4 mil¬
+lion hectares, to identify 6,240 plots
+of land and obtain accurate statis¬
+tics on Egypt's ten main crops. This
+inventory of land use has also helped
+to map urban development with a
+view to preserving the agricultural
+potential which is vitally important
+to Egypt.
+A non-stop
+observation system
+Will it be possible to increase and
+improve the use of environmental
+satellites? Manned flights bring
+back plenty of experimental
+results, and virtually the whole
+planet reaps the benefits of
+progress made in weather and com¬
+munication satellites and is ready
+to help fund them. But natural dis¬
+asters continue to happen without
+being predicted, and it is no longer
+enough simply to note increasing
+desert encroachment, soil erosion
+and deforestation. Is the fate of the
+earth too general and too long-term
+a problem to motivate governments,
+groups of nations and private com¬
+panies to act?
+André Lebeau, a former offi¬
+cial with French and European
+space programmes, believes that
+if we are to fully understand the
+global environment, we must devise
+and implement a permanent sys¬
+tem for observing the earth in
+which satellite observations would
+be supplemented by other
+notably aerial observation at a
+much lower cost. "The need for a
+system of this kind," he notes, "is
+not directly perceived either at
+the individual or institutional level,
+or even by nations. It only becomes
+really obvious when we consider
+the future of humanity as a
+whole and since that is every¬
+body's business, it tends to be
+nobody's business." M

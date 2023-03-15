@@ -1,0 +1,245 @@
+Understanding oceans 
+"We know more about the topography of Mars than we do 
+about the earth’s sea floor," Shin Tani says, even though oceans 
+"have a much bigger direct impact on our everyday lives than 
+the surface of Mars." But today, we have the ability to map the 
+world’s sea floor in more detail than ever, and this is crucial for 
+managing fish stocks and environmental change, understanding 
+sediment transport, tsunami forecasting, mineral extraction and 
+many more areas.
+by Shin Tani 
+The gap in our understanding of 
+Earth is largely because resources 
+have been more readily allocated to 
+exploring the surface of other planets, 
+as well as the fact that mapping 
+beneath water is a complex business, 
+especially at great depths.
+Water absorbs, reflects and refracts 
+light to such an extent that it is difficult 
+to “see” through it with visual media 
+for more than a few dozen metres. 
+Huge swathes of the oceans, especially 
+those far removed from coastal and 
+national areas, are still inadequately 
+mapped. Environments such as those 
+beneath the polar ice shelves and pack 
+ice-covered oceans are as unfamiliar 
+to us today as the deep ocean was for 
+pioneering ocean-floor mappers over a 
+hundred years ago.
+But today, with the advent of satellite 
+mapping, multibeam sonar and other 
+advances in remote sensing, we have 
+access to an increasingly broad suite of 
+technologies which make it possible to 
+map the world’s seafloor in more detail 
+than ever. 
+Multibeam mapping
+Recent developments in multibeam 
+sonar mapping — pinging sound pulses 
+off the seabed using instruments 
+based on vessels — have increased 
+mapping resolution so significantly 
+that previously obtained data has been 
+made virtually obsolete. 
+Scientific conclusions based on sparse 
+bathymetric information need to be 
+re-examined and refined. Only around 
+11% of the Arctic has been mapped 
+with multibeam, leaving a vast swathe 
+of the region that needs to be mapped 
+in this way, to ensure that all marine 
+activities in the region benefit fully. The 
+cost of using multibeam technology has 
+fallen sharply since it was first used in 
+the 1960s and 1970s, making it a more 
+economical proposition.
+Meanwhile, other techniques, such as 
+geodesy — or gravity mapping — from 
+satellites are also coming into their own. 
+By calculating anomalies in gravitational 
+fields, this process can highlight peaks 
+and troughs on the seabed. 
+
+Shallow-water bathymetry in  
+the Lagoon of Venice, Italy, one of  
+the largest lagoons in Europe.
+
+
+
+However, this needs time, investment 
+and co-ordination. In particular, the 
+onus falls on the scientific community 
+to explain to the public and funding 
+bodies just why bathymetry — the study 
+of ocean-floor depth and topography — 
+merits more attention.
+There has been progress in this area. 
+In June 2016 at the Forum for Future 
+Ocean Floor Mapping in Monaco, 
+Mr Yohei Sasakawa, Chairman of The 
+Nippon Foundation, Japan’s largest 
+private foundation with a long history 
+of supporting key maritime issues, used 
+his conference address to announce a 
+plan to map the entire ocean floor by 
+2030. This will be done in partnership 
+with the General Bathymetric Chart 
+of the Oceans (GEBCO), which The 
+Nippon Foundation has supported for 
+many years. GEBCO is a joint project 
+of the International Hydrographic 
+Organization (IHO) and the 
+Intergovernmental Oceanographic 
+Commission (IOC) of UNESCO.
+Reasons to focus more resources on 
+ocean mapping are not hard to find. 
+The oceans are regions that are at 
+least as fascinating and challenging for 
+humans as other environments on this 
+or any other planet. Judging by past 
+experience, they hold plenty of surprises 
+for us, with a myriad of beneficial 
+discoveries made during oceanic 
+exploration. Moreover, they have a much 
+bigger direct impact on our everyday 
+lives than the surface of Mars.
+Bathymetry is of vital importance for 
+navigation and coastal management, 
+but also for a growing number of other 
+uses. It is fundamental for the study of 
+deep-water circulation, tides, tsunami 
+forecasting, the upwelling of cold water 
+from lower depths, fishing resources, 
+wave action, sediment transport, 
+environmental change, slope stability, 
+palaeo-oceanography, site selection for 
+platforms, cables, pipelines and offshore 
+wind turbines, waste disposal, mineral 
+extraction, and many more areas.
+Perhaps the easiest case to make from 
+a commercial perspective is that the 
+better our knowledge of the ocean floor, 
+the more effectively we will be able to 
+manage marine environments to ensure 
+we carry out fishing in a sustainable 
+and productive manner. Bathymetry 
+is crucial to our understanding of the 
+deep-water habitats of sea life. Better 
+knowledge of the oceans also helps 
+make the extractive industries safer and 
+more efficient.
+Tsunami impact
+The utility of ocean-floor mapping 
+goes far beyond purely commercial 
+concerns. Take the example of the 
+study of tsunamis. If scientists know 
+more about the contours of the 
+sea floor and ocean depths, then 
+predicting how the vast bodies of water 
+disrupted by sub-sea earthquakes will 
+behave will become more accurate. 
+The modelling of tsunami propagation 
+requires both deep-ocean bathymetry 
+and high-resolution mapping near the 
+shore to provide a complete picture 
+of how water will move from deep to 
+shallow depths, and how it will impact 
+the coast.
+
+© Marzia Rovere
+
+While better ocean-floor mapping will 
+not improve our ability to predict when 
+tsunamis happen, as they are triggered 
+by seismological events, it will give 
+us more accurate predictions of their 
+direction of travel and likely severity 
+once they have formed.
+Ocean-floor mapping is also a vital tool 
+in the effort to track and predict longer-
+term environmental changes, which will 
+have a major impact on our lives. We 
+know that climate change is occurring, 
+that the oceans have become warmer 
+and that ocean currents have changed. 
+How these events are interlinked is 
+subject to debate, but we do know they 
+are happening and we need to address 
+their impact. 
+A good example of how an improved 
+knowledge of bathymetry can help 
+us is the work being carried out 
+in the fjords of Greenland and in 
+Antarctica, where most of the world’s 
+ice is located. We have measured, and 
+begun to see, the effect of the inflow 
+of warmer ocean water towards the 
+outlet glaciers of the Greenland and 
+Antarctic ice sheets. The results are 
+thinning glaciers, large calving events 
+(where part of the ice sheet becomes 
+detached), massive ice break-ups and 
+glacial retreats. This process can be 
+seen in action at locations such as 
+Jakobshavn in west Greenland and 
+Pine Island Bay in west Antarctica.
+These events lead to increased 
+acceleration of the ice streams draining 
+the glaciers and ice sheets, which in 
+turn contributes to a rise in sea levels. 
+The scale and rate of rising sea levels is 
+hard to predict, which is why we need 
+to look at as many factors as possible, 
+including the rate of ice melt, to make 
+forecasting more accurate.
+It is bathymetry that can help us 
+gauge the sill depths of the fjords 
+and the access points where warmer 
+sub-surface water can get in and flow 
+towards the glacier, or, in the case of an 
+ice shelf, underneath it. These areas are 
+currently extremely poorly mapped.
+For some fjords we have virtually no 
+bathymetry at all, and for regions 
+underneath ice shelves, data is mainly 
+obtained from sporadic experimental 
+forays by autonomous underwater 
+vehicles. Improved ocean-floor 
+mapping in these areas will allow for 
+a greater understanding of extremely 
+complex processes.
+While the rewards of improved 
+bathymetric data are significant, it is 
+clear that mapping vast ocean areas can 
+only be achieved through international 
+coordination and collaboration 
+involving the scientific community, 
+naval institutions, and industry.
+Vice Admiral (retired) Shin Tani is the 
+Chairman of the joint IHO-IOC GEBCO 
+Guiding Committee, a post he has held 
+since October 2013. Before that, he made 
+a major contribution to GEBCO’s work 
+and activities for more than twenty-four 
+years. He has been Cabinet Counsellor 
+for the Cabinet Secretariat of the 
+Government of Japan in charge of ocean 
+policy, renewable energy, ocean survey 
+and monitoring, data management, 
+marine land register, and the UNCLOS 
+Extended Continental Shelf. 
+Mounted high-resolution multibeam sonar on the 
+ship Explorer of Sweden during the VEGA 2013 
+Expedition to Greenland.
+
+The United Nations Conference to 
+Support the Implementation of SDG 
+14, “Sustainable Conservation and 
+Exploitation of Oceans, Seas and 
+Marine Resources for Sustainable 
+Development”, is held at the UN 
+Headquarters in New York from
+5 to 9 June 2017, in parallel with
+World Ocean Day (8 June).

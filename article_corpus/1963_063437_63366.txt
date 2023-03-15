@@ -1,0 +1,416 @@
+300,000 EARTH
+by E. M. Fournier d'Albe
+Carl Mydans, Courtesy Life Magazine © 1963. Time Inc.
+26
+fisiTORS to a famous selsmological observatory
+in Australia are sometimes told a strange and
+sad story:
+Some years after the end of the First World War, an
+eminent Japanese scientist was visiting Australia and
+was taken to see this observatory. The director received
+him with due ceremony, and then led him down to the
+underground vaults where, in the darkness, the seismo¬
+graphs were keeping their constant watch. The director
+switched on the light in the vault. In those days, the
+recordings were made mechanically, by thin steel pens
+on smoked paper; (now It is more common to record on
+photographic paper by means of a light beam reflected
+from a galvanometer, and the vault has to be kept in
+permanent darkness).
+The visitor from Japan could see three instruments,
+each one standing on a concrete pillar about a metre
+high. In a corner, a large clock was ticking in a compli¬
+cated manner. The director showed him that in each
+Instrument there was a heavy weight suspended on
+strong springs; this weight, by its inertia, would set the
+pen of the instrument moving whenever the slight tre¬
+mors from a distant earthquake reached the observatory.
+In one of the seismographs, the weight was suspended
+in such a way that it could move vertically up and down;
+in the other two, it could only move horizontally, in the
+East-West direction in one instrument and in the North-
+South direction in the other.
+The visitor was examining the latter, when quite
+suddenly the pen began to swing slowly from side to side,
+leaving a wavy trace on the black surface of the record¬
+ing paper, where before there had been only a series of
+straight lines.
+"That's a bit of luck," said the director, "It's working
+specially for you. It Isn't often one sees an earthquake
+actually being recorded."
+The pens of all three instruments were now moving,
+but the movement on the North-South instrument was
+slightly greater than that on the East-West one.
+"These are the compression waves, or P-waves for
+short," said the director. "If you would like to wait a
+few minutes, we shall perhaps see the arrival of the
+S-waves the transverse, or shear, waves. Then we shall
+have an idea of how far away this earthquake has
+occurred."
+A few minutes later, the director exclaimed "Here
+they come!" The visitor could hardly see any difference
+in the movement of the pens, but the director pointed
+out to him that now the movement on the East-West
+instrument was greater than that on the North-South
+one.
+"It's quite a long way off, probably to the north of us,"
+said the director. "But it's a big one! Let's go up to
+the office. I'll look up the travel-time tables and give you
+a rough estimate of the distance. You see, the P-waves
+travel faster than the S-waves, so that the time-lag in
+the arrival of the latter gives an indication of how far
+away the earthquake is. But I can only give you a rough
+estimate, of course. To locate an earthquake accurately,
+one has to combine the readings of a large number of
+observatories."
+It did not take the director long to work out the dis¬
+tance: "About 10,000 kilometres, I should think. That
+probably means Japan or the Aleutians."
+In fact, It was Japan, for this tremor was recorded on
+September 1, 1923, the date of the Great Kanto Earth-
+CONT'D ON PAGE 28
+
+QUAKES A YEAR
+LAST INSTANTS. This remarkable photograph of a swaying building only seconds before it
+collapsed was taken when an earthquake struck the Japaneso city of Fukui in 1948. Earthquakes
+are known to be concentrated in two chief belts. Some 80% occur along the rim of tho Pacific
+Ocean; another 15% take place in a band extending from North Africa through Southern Europe,
+the Alps and Asia Minor to India and Burma, then joining the Circum-Pacific belt in Indonesia.
+27
+
+300.000 EARTHQUAKES (Cont'd)
+Mapping the
+danger zones
+quake which ravaged Tokio. It was not until later that
+the director learned that five members of his visitor's
+family had been killed in this earthquake.
+It has been estimated that over 300,000 earthquakes
+occur each year, but relatively few are strong enough to
+be felt by the population in general. Nevertheless, since
+the beginning of this century earthquakes have, on an
+average, killed over 15,000 persons and caused hundreds
+of millions of dollars worth of damage each year. Some
+countries such as China and Japan, Chile and Peru, Italy,
+Greece, Turkey and Iran, have suffered far more heavily
+than others.
+In fact, earthquakes tend to occur repeatedly in certain
+well-defined zones stretching around the world. The
+first of these Is the Circum-Pacific zone, which extends
+all round the shores of the Pacific Ocean from Chile to
+New Zealand. The second is the Mediterranean-Alpine
+zone, which stretches from Morocco in the West, through
+the Mediterranean and along the mountain chains of the
+Caucasus, the Hindu Kush, the Karakoram and the
+Himalaya into China, Burma and Indonesia.
+In order to see how the geography of earthquakes has
+been discovered, we must go back to the seismological
+observatories and find out what happens to the data
+recorded by the instruments there.
+There are now over four hundred observatories
+installed in different parts of the world, many with
+instruments far exceeding in sensitivity those which the
+visitor from Japan saw in 1923. But, however sensitive
+the instruments employed, it is still impossible for one
+single observatory to locate an earthquake. In order to
+do this, the data from many observatories have to be
+collected and analyzed together. This is done at two
+national and two International centres.
+When an earthquake occurs, observatories which
+have recorded it send immediately, by telegram
+or airmail, their readings of the P and S-wave arrival times
+to the United States Coast and Geodetic Survey in Wash¬
+ington, or to the Institute of Earth Sciences in Moscow,
+or to both. These centres then make what is called a preli¬
+minary determination of the earthquake epicentre (that
+is to say, the point on the earth's surface vertically above
+the focus of the earthquake, which may have occurred
+tens or even hundreds of kilometres below the surface.)
+With this preliminary determination to help them, the
+staff at each observatory examine their records again
+and make a more complete analysis of them for inclu¬
+sion in the observatory bulletin which is usually published
+once a month. This bulletin is sent to other observa¬
+tories, in exchange for theirs, but It also goes to two
+International centres: the Bureau Central International
+de Séismologie in Strasbourg (France) ; and the office
+of the "International Seismological Summary" in -Kew
+(England).
+The first of these centres makes an accurate determi¬
+nation of the earthquake epicentre and depth, using the
+data from as many observatories as possible. Nowadays,
+this Bureau's Annual Bulletin runs to over 2,000 pages
+and may contain data on over 60,000 earthquakes
+recorded each year (of course, only a few of these are
+strong enough to be felt or to cause damage.) The
+International Seismological- Summary makes a more
+detailed analysis of certain selected earthquakes, and the
+results of its work are used mainly in research on the
+interior of the earth.
+From the study of this immense volume of data, the
+pattern of distribution of earthquakes over the earth has
+now emerged quite clearly, and some insight has been
+gained into their causes which are probably linked with
+28 the slow convective movement of material in the earth's
+mantle. From the practical point of view, even more
+interesting results come from the study of the distri-
+WORLD'S
+m
+SEISMOGRAPH
+bution of earthquakes within certain limited regions,
+such as Southern Europe, Central Asia or California.
+When the selsmicity and the geology of a region are
+studied together, there sometimes emerges a detailed
+pattern of earthquake activity which is not only of scien¬
+tific interest, because of the Üght it sheds on the mecha¬
+nisms involved, but is also of great practical value,
+because it permits a delimitation of the zones in which
+earthquakes are liable to occur. Sometimes, a few kilo¬
+metres or tens of kilometres will make an appreciable
+difference to the maximum intensity of earthquakes that
+can be expected.
+This knowledge ls extremely useful, and it may even
+in some cases determine the choice of site for a dam, a
+power station, a factory, or a new town. More often,
+however, . other factors have overriding importance and
+building must go ahead in certain places regardless of
+the earthquake danger. This is where the specialist in
+earthquake engineering comes in.
+The 1923 earthquake in Tokyo, with which we began
+this article, is famous for the fact that a number of large
+buildings, which by rights should surely have been des¬
+troyed, actually withstood the shock and suffered very
+little damage. They survived because they had in fact
+been designed to do so, but this was the first time that
+a public demonstration had been given so clearly that-
+
+awA*(5>Jí>j»¿
+B»;î
+To a brilliant Chinese mathema¬
+tician, astronomer and geogra¬
+pher, named Chang Heng (A.D.
+78 to A.D. 139) goes the credit
+for producing the ancestor of
+all seismographs. His "earth¬
+quake weathercock" (left) was
+fitted in an ornamented bronze
+vessel. Inside (reconstruction,
+top right) was a kind of pendu¬
+lum connected to eight mobile
+arms. At the end of each arm a
+crank operated the jaws of a
+dragon head. Earthquake shocks
+vibrated the mechanism and caus¬
+ed the dragon's jaws facing the
+direction of the shock to open,
+dropping a ball into the mouth
+of one of eight toads placed
+around the instrument. Other
+seismographic instruments were
+used in China in the 6th century
+and in Persia in the 13th, but the
+first modern seismograph, was
+only set up in 1703 by the French
+scientist, Jean de Hautefeuille.
+From Volume III "Science end Civilization In
+China" by Prof. Joseph Needham, ' Cam¬
+bridge University Press.
+buildings, if properly designed and constructed, need not
+necessarily collapse and kill their occupants during a
+severe earthquake.
+Since 1923, research in the design of earthquake-resis¬
+tant construction has made further progress, particu¬
+larly in Japan and the United States. The general prin¬
+ciples behind successful design appear to be firstly, to
+hold the building together as a single structural unit, and
+secondly, to design it in such a way that its natural
+frequency of vibration does not correspond to the fre¬
+quencies of the earthquake waves. Different building
+materials demand different techniques, but it is probably
+now true to say, in general, that if people are killed in
+earthquakes it ls not by the earthquakes themselves but
+rather by inadequate building.
+"Everybody talks about the weather," said Mark Twain,
+"but nobody does anything about it." In one sense,
+there is not much one can do about earthquakes: there
+is certainly no means of stopping them. However, a lot
+ls being done to make them less dangerous. Although we
+are still very far from being able to forecast when
+earthquakes will occur, the patient accumulation of
+observations is making it possible to define more accura¬
+tely the zones where the danger exists. Within these
+zones, the risk to human life and property can be greatly
+reduced by the proper application to the design and
+construction of buildings of principles which are already
+well established.
+So long as people still die in earthquakes, research and
+education in seismology and earthquake engineering must
+continue with all speed. The network of seismological
+observatories must be Improved, the accurate mapping of
+earthquake danger zones must be extended to cover the
+whole world, adequate design and construction of build¬
+ings must be ensured and young scientists and engineers
+must be trained to become specialists In these subjects.
+Seismology ls, par excellence, an international science,
+for earthquakes are no respecters of national boundaries.
+The saving of human life ls everyone's concern. These
+are two reasons why Unesco has become Involved In seis¬
+mology. Its Job is not only to make easier the collabo¬
+ration of scientists and engineers from different coun¬
+tries, but also to speed the flow of knowledge and skills
+from the great research centres to those people, In all
+countries, who have the responsibility for putting this
+knowledge to good effect.
+dr. E. M. FOURMER d'albe is programme specialist in seismo¬
+logy and geophysics for Unesco's Department of Natural Sciences.
+He has carried out long-term missions for Unesco in Mexico and oq
+in Pakistan, where he helped to set up a geophysical observatory
+in the earthquake-prone region of Quetta.
+
+EMERGENCY QUAKE SERVICE
+Unesco plans to set up a 24-hour seven-day-a-week earthquake service at
+its headquarters in Paris which will be able to call upon experienced seismo¬
+logists and earthquake engineers to arrive on the site of major earthquakes as
+quickly as feasible anywhere in the world and wherever possible at least within
+72 hours of their occurence. Special arrangements are being made with the
+leading seismological centres in the U.S.S.R., U.S.A. and other countries to
+inform the Unesco Earthquake Service of all major quakes.
+Is is important that seismologists and earthquake engineers arrive on the
+spot as soon as possible after a big shock. At the request of the respective
+Governments, Unesco sent experts to Iran, Libia and Yugoslavia very soon
+after the recent earthquakes in those countries to make on-the-spot studies
+and to advise local authorities on protection measures to be taken against
+possible future earth tremors.
+^*>
+30
+Years of disaster
+During the first quarter of the 20th
+century, half a million people were
+killed by five major earthquakes San
+Francisco (1906),' Messina (1908),
+Arezzano (1915), Kansu (1920) and
+Tokyo (1923). In the next twenty-five
+years, records kept by the Interna¬
+tional Bureau of Seismology at Stras¬
+bourg showed that on an average
+14,000 people were killed annually.
+Peak years were 1927 (76,615 deaths),
+1932 (78,202) and 1939 (61,082).
+China is the country which has suffer¬
+ed most from earthquakes. It expe¬
+riences shocks of great intensity in
+areas especially prone to landslides.
+World-wide survey
+The study of earthquakes a field
+in which progress depends on interna¬
+tional co-operation is a major feature
+of Unesco's science programme today.
+A broad picture of the present
+status of seismology in different coun¬
+tries has been obtained through a
+series of Seismological Survey Mis¬
+sions sent out between June 1961 and
+May 1963 by Unesco in consultation
+with the International Union of Geo¬
+desy and Geophysics, and personally
+led by the president of the Interna¬
+tional Union, Professor V.V. Beloussov
+or by Prof. J. P. Rothé, Secretary-
+General of The International Seis¬
+mological Association. The first of
+the missions visited 15 countries
+in South-East Asia, the second
+toured seismic regions of Latin
+America, the third went to countries
+of the Mediterranean and Middle East
+regions and the fourth made stud¬
+ies in Africa. The aim of these
+missions was to examine the state of
+seismological and geophysical obser¬
+vatory networks, the progress made
+in locating and mapping seismic zones,
+the application of special regulations
+concerning earthquake-resistant de¬
+sign for buildings and, finally, the
+resources available for training specia¬
+lists in seismology, seismo-geology
+and earthquake engineering. Next
+year Unesco will convene an intergov¬
+ernmental meeting to study the gene¬
+ral ' development of seismology and
+earthquake engineering.
+Volcanoes to watch
+Following a series of eruptions by
+Mount Agung on the island of Bali
+early this year, when 1 ,460 people
+were killed and 53,700 hectares of
+paddy fields devastated, Unesco sent
+a team of experts to the island. These
+experts have recommended that a per¬
+manent vulcanological observatory be
+set up on Mount Agung and ultra¬
+sensitive seismic recording instru
+ments installed to keep watch over
+this earthquake-prone area. Similar
+observatories are needed to keep an
+eye (and an ear) on the rest of Indo¬
+nesia's 127 active volcanoes.
+More seismologists
+A map of the epicentres of the
+main earthquakes shows that the most
+severely-stricken regions are very
+often in territories now in the throes
+of economic development. Large
+scale engineering works are being
+undertaken, factories are being built
+and cities. are expanding. All this
+progress may be wiped out in a few
+minutes if construction sites are badly
+chosen or if proper measures of pro¬
+tection are not taken in advance. Yet
+these are the countries with the few¬
+est specialists in seismic matters.
+The United Nations Special Fund,
+acting through Unesco, has offered
+67 fellowships for study at the Inter¬
+national Institute of Seismology and
+Earthquake Engineering set up with
+Unesco's help last year in Tokyo.
+The right materials
+Certain building materials lend
+themselves better than others for
+earthquake-resisting construction. It
+has been shown that masonry walls
+reinforced with concrete slabs, rein¬
+forced concrete frames and steel
+frames are most likely to resist earth¬
+quakes. However more research is
+needed into possible uses of local
+materials (wood, bricks, mud walls,
+etc.). Poor construction (excessively
+heavy roofs, facades not anchored to
+the foundations, weak timbers) is often
+the real reason a building collapses.
+Price of security
+Contrary to popular belief, the
+design and construction of earthquake-
+resisting buildings (except very tall
+ones) are easily met at relatively little
+extra cost. But it is wiser to eliminate
+parapets, cornices, balconies and
+similar decorative elements which are
+often responsible for casualties. To
+make the tall buildings in business
+sections of large cities earthquake
+resistant does involve additional cost,
+but this is relatively small in relation
+of the total cost of construction, and
+the protection and security obtained.
+Measuring from space
+Earth satellites in orbit, already
+used to study the shape of the planet,
+make it possible to measure great
+distances with a hitherto unattain¬
+able accuracy. Scientists now hope
+that it will thus be possible to obtain
+confirmation or invalidation of the
+theory of continental drift (see page 7).

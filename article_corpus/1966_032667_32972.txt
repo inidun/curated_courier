@@ -1,0 +1,745 @@
+The latest kinds
+of teaching
+techniques
+put mathematics
+in the form of a
+language which
+describes
+the relations
+and interrelations
+among objects
+and sets of objects.
+One of the first
+steps is an exercise
+in reasoning.
+Here children learn
+to identify
+and to group
+objects on the
+basis of shape,
+volume and
+colour, and learn
+to recognize how
+they are related
+to one another.
+
+New approaches to mathematics teaching
+WHY 1101 13
+Mathematics teaching is ceasing to be a series of formal and complicated
+drills through which children acquire the skills needed in solving exam¬
+ination problems. Increasingly, teachers and educational researchers are
+evolving and testing a kind of teaching that eschews learning by rote.
+Experience with these new techniques shows that not only arithmetical
+operations, but also fundamental concepts of mathematics can be learned
+intelligently by young children of primary school age. Last January an
+international group of specialists met in the Unesco Institute for Education
+in Hamburg, Federal Republic of Germany, to examine the results of
+recent research into the learning of mathematics by children aged six to 12.
+Below, a member of this group, Nicole Picard, describes some of the class¬
+room and curriculum innovations of this new approach to mathematics.
+by Nicole Picard
+HE urgent need for a new
+approach to the teaching
+of mathematics has gradually become
+evident over the past ten years to
+those responsible for education.
+The advent of a scientific and tech¬
+nical civilization and its gradual exten¬
+sion throughout the world has brought
+far-reaching social changes, and in
+particular compulsory schooling. In
+the 1880s, education concerned chil¬
+dren of six to ten years of age only;
+nowadays, in many countries that have
+reached a high degree of industrial
+development, it is compulsory for chil¬
+dren of six to 14 or even 16. The basic
+objectives . of education have also
+changed and urgent educational prob¬
+lems have arisen which now confront
+industrially-developed and developing
+countries alike.
+As long ago as 1912 the distinguish¬
+ed British mathematician and philo¬
+sopher Alfred North Whitehead wrote:
+"Before long science will be making
+spectacular new progress and for
+those who have not received an ade¬
+quate education there will be no re¬
+dress."
+It is just as important to solve the
+problem of intellectual undernourish¬
+ment as that of bodily undernourish¬
+ment; indeed, it is only by solving the
+first problem that solutions will be
+found for the second.
+NICOLE PICARD is a specialist in research
+on mathematics teaching at the National
+Pedagogical Institute in Pans. She has
+written many studies on the introduction to
+mathematics In primary education.
+When the idea of compulsory school¬
+ing began to develop and spread about
+1880, it was put into practice with great
+haste; everyone was to be taught to
+read, to write and spell correctly and
+to count, and the programmes were
+drawn up on that basis. In primary
+education mathematics was confined
+to the use of numbers. The pupil
+learned to do sums and solve arithmet¬
+ical problems, but he was hardly ever
+called upon to use his judgment. Few
+children reached the stage where
+reflective thought is required, and
+those who did mostly came from the
+socially privileged classes.
+Gradually, advances were made in
+technology. The horse-drawn vehicle
+was replaced by the railway, the car
+and the aeroplane. Distances dimin¬
+ished and contacts between different
+countries became easier. Nowadays
+networks for rapid communications
+cover the surface of the globe and
+even space itself has become a sphere
+of activity for man. Similarly, inform¬
+ation is transmitted by more and
+more powerful means. The volume
+of knowledge within reach of each of
+us increases continuously; but in order
+to assimilate it, we need to develop
+faculties of reflective reasoning and
+critical appraisal.
+Today technological development
+and increasing automation are gra¬
+dually eliminating the employment of
+unskilled labour. By 1970 nearly half
+the working population of the indus¬
+trialized countries will be composed of
+middle-ranking technicians and super
+visory staffs. At the same time the
+need for more higher-level tech¬
+nicians and administrators is increas¬
+ing.
+Reading, writing and arithmetic are a
+far from adequate stock-in-trade for
+making one's way in our twentieth-
+century world. A person who has not
+received more than that has been
+intellectually starved.
+The new patterns of economic
+growth and employment revealed the
+need to prolong compulsory schooling.
+The advantages of an educated com¬
+munity, in terms of national economic
+progress, became apparent, and high¬
+er education was therefore made
+accessible to an ever-larger number
+of students, especially those studying
+science and technology.
+At the same time the content of
+teaching and teaching methods and
+aids have been changed. In mathe¬
+matics in particular, the reform be¬
+gan at the top, in higher education.
+This was brought about by the vast
+accumulation of new scientific know¬
+ledge which revised many basic scien¬
+tific concepts. Mathematical res'earch
+became the main instrument for this
+revision.
+In fact there should not be one kind
+of mathematics for school teaching and
+another for practical use. The basic
+core of mathematical reasoning and
+structures, together with their symbols,
+should be known to all. Detailed stud- n n
+ies should follow in mathematical re- ¿v
+search and in other scientific fields
+physics and chemistry obviously, as
+CONTINUED ON NEXT PAGE
+
+WHY 1101 = 13 (Continued)
+Replacing symbols, jargon and routine
+24
+well as medicine and psychology.
+Mathematics is also being increasingly
+used for research in sociology and
+history.
+In the introductory teaching of
+mathematics, it is not just a matter of
+using the formulae of numerical calcu¬
+lation or the spatial ideas of Euclid¬
+ean geometry. What is applied now
+in any field of learning, when we are
+attempting to organize new facts, is
+the mathematical language of structure,
+relations, functions and symbols.
+This is sometimes called, "modern"
+mathematics. The new branch of math¬
+ematics, concerned with theories of
+sets and relations, which 20 years ago
+was reserved for a small number of re¬
+search specialists, has become, in the
+last ten years or so, a subject for
+higher mathematical education. This
+evolution in mathematical studies has
+forced a reform in the mathematics
+curriculum at various levels.
+However the introduction of the new
+mathematics created serious problems.
+Teachers noted that because what they
+were explaining was so completely
+new, their students were not able to
+take it in and benefit from it unless
+their minds were first "de-condition
+ed." They needed to acquire a new
+way of thinking; the old mathematical
+frame was much too compartmentaliz¬
+ed. It was obvious that training along
+the new lines must begin at the secon¬
+dary level (12 to 16 years of age).
+Several groups were therefore set
+up to study the reform of mathematics
+teaching at this level. An interesting
+fact was that the groups included
+educational psychologists, logicians
+and specialists on problems of learn¬
+ing.
+One of the many working groups of
+this kind is the International Commis¬
+sion for the Study and Improvement
+of Mathematics Teaching, which began
+its work in 1950. This group has used
+the method of international seminars:
+it has co-ordinated the work done in
+various places and has drawn up
+guidelines for further research.
+It was observed, in the first place,
+that the reform of mathematics teach¬
+ing could not be achieved unless It
+took root in the nursery school and
+extended to the university; secondly,
+that there was a very close connexion
+between initiation into mathematics and ,
+the development of the faculty of rea¬
+soning and intelligence; and lastly, that
+the revised subject matter demanded
+new teaching methods.
+In countries where school attendance
+is compulsory up to at least 14, prim¬
+ary education is designed to lay solid
+foundations on which to build second¬
+ary education. Primary mathematical
+education should aim to provide a
+variety of experience. Concrete exam¬
+ples should serve as the basis from
+which it will be possible effectively to
+abstract (in the etymological sense, to
+"draw from") and generalize math¬
+ematical concepts. This should be pos¬
+sible from the ages of 12 to 16.
+In this way children will have had five
+years of experience in formulating
+ideas about mathematical structures.
+This learning will build the foundations
+of their mathematical knowledge.
+Many programmes have been drawn
+up for this purpose. They differ in
+their approaches and also in the
+volume of their content. It seems clear
+now as a result of the work of child
+psychologists that from the age of
+seven, and not only from the age of 12
+as was formerly thought, children are
+in fact capable of something more than
+merely memorizing calculation drills
+and acquiring routine skills.
+
+Right, the meaning
+of symbols. Exercises lead
+children from everyday
+things with which
+they are familiar to
+the abstract idea
+of numbers.
+They work first with elements
+that compose sets, then
+learn to recognize when
+sets have the same kind
+and number of elements.
+Association of equivalent
+sets then leads to the use
+of numerals to identify them.
+Left, fingers still come
+in handy for this boy
+to show the teacher
+that he has the right answer
+to the problem.
+In fact experience shows that from
+the age of seven children are capable
+of understanding mathematical shapes
+and sizes (provided they are suffi¬
+ciently simple), and while playing with
+these concrete objects are able to
+deduce from the experience many
+mathematical relations. They can also
+solve practical problems, provided, of
+course, that the methods used are di¬
+rectly related to their sense of manipu¬
+lation and tactile skill. They should be
+given a variety of materials to enable
+them to manipulate various forms of
+mathematical structures.
+Of the methods used for the reform
+of mathematics education, those for
+arithmetic employ the most traditional
+approach. They consist in utilizing
+materials for manipulation that have
+the same structure as the ordinary
+numerical system. Instead of learning
+addition and multiplication tables by
+heart, children study addition and multi¬
+plication by an ordered arrangement
+of concrete elements.
+Notable examples are the Cuisenaire
+rods and the blocks used by Catherine
+Stern. These were devised on the
+basis of the pioneering research of
+Maria Montessori. Arithmetical opera-
+Photos © Institut Pédagogique National - Jean Suquet, Paris
+tions are represented by material
+arrangements to be performed by the
+children. Playing is, in itself, perform¬
+ing an operation: the action of putting
+bars together in line with the ends
+touching one another corresponds to
+the operation of "addition." Two bars
+a and b are equivalent to one bar c
+which has the same length as that
+obtained by putting the bars a and b
+together end to end:
+O^
+If we symbolize the placing end to
+end by +, we have a + b = c; b +
+a = c; in the same way that 2 + 3 =
+5; 3 + 2 = 5.
+A similar procedure can be used for
+discovering the properties of the mul¬
+tiplication of numbers. As a corollary,
+the fact that addition and subtraction
+are inverse operations can also be
+seen, as well as the relation between
+multiplication and division. These
+methods are in use in Belgium, Canada,
+the United Kingdom and Switzerland,
+and to some extent in France.
+Let us take a look at numeration by
+position. According to one of the
+known principles of the psychology of
+intelligence, a concept is assimilated
+better when all the possible compon¬
+ents are made to vary. In the case
+of numeration by position, this means
+in particular that we must vary the
+bases. When we write a number, we
+make use of a sign-position. Thus,
+in order to write 1966, we use
+the numbers 1, 9 and 6-, however, in the
+"word" 1966 the first and the second
+"6" do not have the same significance.
+Our sign - positions constitute an
+"alphabet," the meaning of each sign
+depending upon its place in the word.
+If our alphabet has ten signs we are
+using a system of numbers "with the
+base ten," if it has three signs, a
+system of numbers with the base three
+and so on. Electronic computers use
+the base two, the Babylonians used
+the base twelve, certain primitive peop¬
+les use the base five. In teaching
+this implies that instead of speaking
+only of units, tens, hundreds, thou¬
+sands, etc., we shall speak of suc¬
+cessive groups, based on a certain
+method (a numeration with the base
+2, 3, or 5 for example, or of 10, as
+CONTINUED ON PAGE 27
+25
+
+CONCRETE
+STEPS
+TO
+ABSTRACT
+CONCEPTS
+As more purposeful mathematics
+teaching is introduced, children learn
+to count on other bases than that of
+the decimal system. Here a class
+learns how to calculate with a numbers
+system based on four. (1) The teach¬
+er gives each child a cube and
+divides the class into groups of four.
+(2) She calls each group in turn, takes
+their four cubes and gives in exchange
+to the group leader a rod which is
+four times bigger than a cube. (3) Call¬
+ing out four group leaders at a time,
+she exchanges their rods for a single
+block that is four times bigger than
+a rod (or sixteen times bigger than
+a cube). All the children participate
+in these successive collections and
+exchanges of objects whose relative
+sizes correspond to the number base
+being used. Experience shows that
+by their second year in primary school,
+children are able to add, subtract,
+multiply and divide on any number
+base. They have not been taught
+these operations by rote but have
+discovered them experimentally.
+Photos Unesco - Dominique Roger
+26
+
+Children make their own discoveries
+WHY 1101 = 13 (Continued)
+in the case of the decimal system).
+From the time they begin to study
+numeration, children learn to count in
+terms of different bases: for this they
+use what are called Multibase Arith¬
+metic Blocks.
+If we say that we have 13 2 1
+objects, that will mean that,
+H with the base four we have 1. 43 +
+3.42 + 2.41 + 1.4° objects;
+with the base ten we have 1.103 +
+3.102 + 2.101 + 1.10° objects,
+and with the base n (n > 4 as we
+have at least, the signs 0, 1, 2, 3),
+1.n3 + 3.n2 + 2-n1 + 1.n° objects.
+In this equipment of blocks with
+base n, the power zero is represented
+by small cubes, the power one by a bar
+of n cubes, the power two by a plate of
+n bars of n cubes, the power three by
+a cube of n plates, the power four
+by a bar of n cubes of n plates, etc . . .
+so that our number 13 2 1 will be
+represented by the objects as follows:
+In this way children are led to make
+successive groupings and exchanges,
+following a model which varies accord¬
+ing to the base used, the exchanges
+being imposed by the fact that, for
+example with four as the base, four
+plates must always be put together
+to make a cube.
+From their second year of primary
+school, children are capable of per¬
+forming the four arithmetical operations
+on any base. An interesting point is
+that the operational techniques are not
+learned, but discovered experimentally.
+As regards methods based on the
+notion of sets, these necessitate much
+more extensive changes in the pro¬
+grammes than the previous method.
+They are based in particular on: (1)
+work involving the introduction of math¬
+ematical logic; (2) work in the sphere
+of psychology, concerning the evolu¬
+tion of the child's mental structure and
+his grasp of mathematical concepts.
+The methods have in fact a much
+wider and more ambitious aim than
+giving an understanding of mathema¬
+tics. Experiments made in the past
+few years indicate that where these
+methods have been used there are no
+longer any pupils good at literary sub¬
+jects who are bad at mathematics.
+These same methods, which are based
+on notions of sets, operations with
+sets, and the logic of sets, do indeed
+help to develop a child's intelligence,
+by helping to organize his reasoning
+abilities. Experiments In the use of
+such methods were started this year
+with mentally retarded children but the
+results have not yet been assessed.
+In these methods, an integral number
+is considered as a property of a set.
+The notions of set and property are
+thus fundamental ones, and the notion
+of number is built upon them.
+Two sets, A and B, have the same
+cardinal number (that is, the same num¬
+ber of elements) when their elements
+can be put into one-to-one correspond¬
+ence with each other.
+The two sets A and B have a com¬
+mon property, namely that they each
+have four elements.
+As we have said, before even talk¬
+ing of number the children "manipu¬
+late" the notions of set and property.
+A set can be defined either in terms
+of its extension by enumerating all
+its elements once and once only; or
+in terms of what it comprises by
+defining the elements of the set by a
+common property characteristic of
+them (all the children in the class
+wearing a blue pullover for example).
+Two sets are equal if and only if they
+are composed of the same elements:
+thus, if A is the set of even numbers
+above 1 and below 10 and if B = (2,
+4, 6, 8), then A = B.
+Notions of the property of an object
+gradually lead to the notion .of the
+property of a set. Operations with
+sets provide the introduction to opera¬
+tions with numbers. In addition, the
+intuitive study of sets does not merely
+have the utilitarian purpose of introduc¬
+ing the child to numbers, but gives
+him, at a very early age, an initiation
+into the logic essential to organized
+thought.
+Studies of the mental development
+of the child have shown that children
+of the same age differ vastly according
+to their social origin. Many children
+have not been able to get from their
+family background the cultural comple¬
+ment necessary to the full flowering of
+their intelligence. The new teaching
+methods involve notions of sets, opera
+tions with sets and also the fundamen¬
+tal notions of relatians that are
+indissolubly associated with them.
+They thus give children, from their
+nursery school days, habits of classific¬
+ation, order and comparison. This
+offers each child the possibility of
+developing his own faculties to the
+maximum.
+In fact these methods are meant
+to be introduced at the nursery school
+stage in the form of games and mani¬
+pulations. This has been done mainly
+in England, France, Belgium, Northern
+Europe and the U.S.A.
+CONTINUED ON NEXT PAGE
+To keep their records of trade and gov¬
+ernment administration the Egyptians need¬
+ed large numbers 5,000 or more years ago.
+So they made up a set of numerals by
+which they could express numbers of dif¬
+ferent values from units up to hundreds of
+thousands. Above, the number 27,529 as
+written by the early Egyptians.
+Among the oldest systems of numerals are
+those used by the Chinese, and later
+adopted by the Japanese. These have
+naturally changed somewhat in the course
+of the centuries. One type (shown above)
+is based on the use of sticks laid upon a
+table and used for calculating. It was also
+used in written documents.
+VVVV=2I966I
+The Sumerians of the Mesopotamian valley,
+over 3,000 years ago, had one system of
+calculating for everyday use and another
+which was taught in special schools and
+used exclusively in texts on mathematics
+and astronomy. Cuneiform, or wedge-shap¬
+ed, numerals were adopted for both sys¬
+tems. In the "scientific" system, the value __
+of each numeral, starting from the left, is ¿J
+sixty times that of its neighbour on the right.
+Thus the cuneiform numerals above signify
+216,000 + 3,600 + 60 + 1 = 219,661.
+
+(7x23)+(1x22) + (Ox2') + (1x2°) = 13
+Notation on the decimal scale, which originated in the
+number of fingers on the hands, is by far the most widely
+used system. Certain peoples have made use of other
+notations, including one based on 20 (the Mayas) and
+the binary (using the base 2). Reference is made to the
+base 2 in a Chinese book believed to have been written
+about 3000 B.C. Paradoxically it is the system used
+by ultra-modern electronic computers. The binary scale
+employs only two symbols: 0 and 1 and the digits re¬
+present powers of 2. Its importance is in relation to the
+use of perforated cards in computers. Since it has only
+two digits any number can be represented by a series
+of switches which are either "on" for. one or "off" for
+nought. The use of perforated cards dates back well
+over a century and a half when the French engineer,
+Joseph Jacquard, perfected an attachment for the power
+loom in which a chain of punched cards passed before
+the needles of the loom (left). Only the needles facing
+the holes are able to carry out the process of weaving.
+© IBM
+28
+WHY 1101 = 13 (Continued)
+In mathematics, the notion of "rela¬
+tions" cannot be dissociated from that
+of sets. A relation can be represented
+by a "diagram". Thus, if we repre¬
+sent by>	 the relation "having the
+same shape as" between cut-outs
+stuck onto a sheet of paper, we get the
+following "diagram":
+Experience shows that from the age
+of six, children are capable of repre
+senting non-oriented relations (a dash
+instead of an arrow). Reflexivity (each
+element is of the same form as itself)
+as a concept is still too subtle for them,
+but at the age of eight it can be un¬
+derstood without difficulty.
+The importance of "representations"
+(graphs, plans, diagrams, tables) is that
+they enable the child to express in
+pictures what he would be completely
+incapable of expressing in words. In
+schools where teaching methods based
+on representations of this kind have
+been tried out, it has been found that
+not only are the children capable from
+the age of six of making their own dia¬
+grams; they also draw conclusions
+from them and thus make a first attempt
+at reasoning. This is interesting not
+only in pedagogy but also from the
+viewpoint of studying a child's way of
+thinking and powers of reasoning.
+The study of relations from earliest
+schooldays has been tried out in Bel¬
+gium and France with very interesting
+results.
+A situation can easily be mathematic-
+ized if it can be expressed in a form
+directly accessible to logical reason¬
+ing. This procedure has been tried
+out in the countries mentioned above
+and also in the U.S.S.R., where some
+interesting research has been done.
+Experience has shown that algebra
+can be introduced into the curriculum
+from the age of eight provided that
+concrete materials which can be manip¬
+ulated are used. In fact it makes
+possible a great saving of mental
+recapitulation. For the solution of
+problems traditionally set in the prim¬
+ary school, children find It much easier
+
+DÜRER'S MAGIC
+SQUARE
+In Albrecht Dürer's famous engraving "Melancholia" (detail
+left), there appears a device about which more has been
+written than any other form of mathematical amusement:
+the "magic square". This consists of an array of numbers
+in a square which, when added up by rows, diagonals or
+columns, yield the same total. In Dürer's square the numbers
+are: 16, 3, 2, 13, 5, 10, 11, 8, 9, 6, 7, 12, 4, 15, 14, 1, and
+their sum is 34 in all directions. As a final refinement, the
+celebrated German artist has included the date of his work,
+1514, in the bottom row.
+TOWER
+OF HANOI
+ME
+The Tower of Hanoi was invented by the French
+mathematician Edouard Lucas and sold as a toy
+in 1883. The problem is to transfer the tower
+of eight disks to either of the two vacant pegs in
+the fewest possible moves, moving one disk at a
+time and never placing a disk on top of a smaller
+one. The minimum number of moves required is
+expressed by the formula 2B_1 (n being the
+number of disks). Thus three, disks can be
+transferred in seven moves, four in 15, five in
+31 and so on. To transfer the eight disks and
+rebuild the tower 255 moves are required.
+Proving that n disks in the Tower of Hanoi can be
+moved to another peg in 2"_1 steps is an excel¬
+lent exercise in mathematical induction.
+Glraudon, Paris
+to use simple forms of algebra than
+the complicated arithmetic they are
+normally taught.
+It would obviously take too long to
+review all the research that is being
+done. Some relates to the introduc¬
+tion of geometry (this is being studied
+especially in Belgium, Canada, Italy
+and the U.S.A.); another branch deals
+mainly with simple experiments in
+mechanics and physics. Research, in
+fact, is going on in a great many
+countries including Denmark, Norway,
+Poland, Hungary, to name only four.
+In the developing countries the
+problem of establishing a suitable sys¬
+tem of education takes a different form,
+and is perhaps even more acute than
+in the industrialized countries.
+The most urgent question facing
+educational authorities in developing
+countries is the definition of the role
+of education. Many of these countries
+now need to train a large number of
+teachers in the next few years. Un¬
+doubtedly this will involve great diffi¬
+culties, but paradoxically, these coun¬
+tries have an advantage over the in¬
+dustrialized countries. They have to
+train, not to re-train their teachers.
+They do not have to face the problem
+of "deconditioning" hundreds of thou¬
+sands of teachers who have become
+used to rigid and stereotyped methods.
+The people responsible for education
+in these countries are generally very
+enthusiastic. They need to be given
+as much information as possible about
+the educational reforms we have been
+describing. This will ensure that from
+the outset the teaching of mathematics,
+which is also a factor in the develop¬
+ment of intelligence, will become, not
+a conditioning to out-of-date techni¬
+ques, but an opening of the mind and
+a development of aptitudes.
+Moreover, as this new teaching
+proceeds on the experience of experi¬
+ments with children, it can very well
+be adapted to different cultural back¬
+grounds and related to the social
+context in which children and adults
+grow up.
+Similarly, the study of science can
+also be made relevant to the actual
+living conditions of a particular com¬
+munity. In fact one can form math¬
+ematical structures and relations by
+deriving them from the study of other
+ordinary elements of concrete objects.
+Source material for this can be select-
+from a number of simple, everyday
+experiences.
+When sociologists and ethnologists
+make their contribution to the already
+promising research of the mathema¬
+ticians, logicians and educational psy¬
+chologists, even more fruitful results
+can be expected.
+29

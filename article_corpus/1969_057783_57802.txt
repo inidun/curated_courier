@@ -1,0 +1,485 @@
+Photo © Andreas Feininger
+
+How will radio communication be
+established between the hidden
+face of the moon and the earth?
+How will research stations
+established on the moon
+communicate with each other?
+T.
+by Georges Phélizon
+26
+GEORGES PHELIZON Is director of long-term
+planning of the new applications of electro¬
+nics at the Central Telecommunications Lab¬
+oratory in Paris. From 7965 to 1968, he direct¬
+ed the development and construction of the
+European scientific satellite, ESRO I, launch¬
+ed into orbit on October 3, 1968, for the
+European Space Research Organization.
+Mr. Phelizon made a special study of the
+problem of communication on the moon for
+the conference of the International Academy
+of Astronautics, In New York in October 1968.
+HE recent success of
+Apollo 8, which circled the moon with
+three U.S. astronauts on board, was
+largely due to the power and quality of
+the remarkable telecommunications
+system planned and built by the U.S.
+civilian space agency, NASA.
+The most spectacular feature of the
+service provided by the system was
+undoubtedly the direct transmission to
+the world's television networks of live
+shots showing life in the astronauts'
+cabin, the low altitude flight across the
+face of the moon, and the earth as
+seen from its natural satellite.
+All this seems little short of miracu¬
+lous when it is realized that the trans¬
+mitter on board the spacecraft was no
+more powerful than that of a radio-taxi-;
+at under 20 watts, it consumed hardly
+more power than an ordinary electric
+razor.
+Just as the reflector in a car head¬
+lamp beams the light forward, the
+
+reflector of Apollo's transmitting aerial
+beamed the radiated energy to the
+earth, and thus magnified its intensity
+about 500-fold.
+But the moon ¡s a long way off
+(240,000 miles, or nearly 10 times the
+earth's circumference) and over that
+distance radio waves are dispersed; so
+that they are so weak at the receiving
+end that they cannot be captured with
+an ordinary aerial.
+With the aid of a parabolic dish
+85 feet in diameter at the NASA
+station, at Goldstone, California
+their intensity was multiplied about
+100,000 times. This dish is mounted
+on a swivelling base, and can be
+aimed with great accuracy. Two iden¬
+tical ground stations were set up at
+Madrid in Spain and at Canberra in
+Australia.
+Because of the rotation of the earth,
+the moon appears to be revolving
+around every point of our planet, and
+the geographical location of the listen¬
+ing posts was therefore chosen to
+ensure that at all times at least one of
+these posts would be able to pick up
+Below, a spectacle never before seen
+by man: the "rising earth" viewed over
+the sharply curved lunar horizon,
+photograph taken on Christmas Eve,
+1968 by Apollo 8 astronauts. Left, radio
+telescope trained on the night sky.
+the signals. The three stations were
+linked by a high-reliability network to
+the Mission Control Centre at Houston,
+Texas, which was thus in constant
+touch with the spacecraft as it moved
+across the moon.
+Apart from the transmission of TV
+images and cross-talk between the
+astronauts and the flight controllers
+at the Houston mission direction
+centre, the telecommunications system
+played a vital part in ensuring the safe
+and successful accomplishment of the
+mission by keeping track of the space¬
+craft's position and speed with a high
+degree of accuracy.
+The data it provided was fed to a
+battery of computers which, by compar¬
+ing the spaceship's actual flight path
+with the flight plan, could immediately
+signal any correction needed to keep
+Apollo 8 on correct course. And
+indeed, one aspect of the success of
+this intricate earth-moon mission, i.e.,
+the precision with which the whole
+operation was executed, is a triumph of
+the computer; credit is due to the
+scientists and technicians who built
+and programmed the computer units.
+Thus, with the vital part played by
+radiocommunications in a reconnais¬
+sance mission such as that of Apollo 8
+in mind, let us now look a few years
+ahead when man has established him¬
+self on the moon.
+The short trips of 1969-1970 have
+been succeeded by longer and more
+sophisticated scientific expeditions.
+Lunar tourism, of course, is still a thing
+of the future.
+The lunar environment is hostile to
+man; there is no atmosphere, and man
+can move about only ¡f garbed in a
+space-suit. During the lunar day, which
+lasts a fortnight, the temperature rises
+to something like 150° C; by night it
+falls to about minus 150° C. From the
+moon, the "full earth" appears four
+times as large as the "full moon" fami¬
+liar to us all.
+L UNAR bases will probably
+be built in greater part underground,
+partly to offset the changes in tempera¬
+ture and partly to give protection
+against radiation or falling meteorites.
+Exploring parties of scientists will
+travel about in curious, highly func¬
+tional vehicles.
+For adequate scientific coverage, a
+number of bases will be needed on
+both the visible and the hidden sides
+of the moon.
+Here again, the role of telecommuni¬
+cations in linking up the various bases
+and exploring parties as well as in
+connecting these lunar outposts with
+stations on earth will be of vital import¬
+ance.
+Radiocommunication conditions un¬
+fortunately are rather different from
+CONTINUED ON NEXT PAGE
+
+COMMUNICATION ON THE MOON (Continued)
+The moon's fickle gravitational field
+those we are used to; while it is easy
+on earth to arrange for a caller in Paris
+or New York to talk by short wave
+radio-telephone to a passenger on a
+liner crossing the Atlantic, the same
+equipment would have a range of only
+a few score miles on the moon.
+The chief reason is the absence of
+atmosphere on the moon; the earth's
+atmosphere plays an important part in
+using radio waves for communication
+purposes; the lower density of the air
+at higher altitudes acts somewhat like
+a prism, curving radio waves back to
+earth, and extending their range
+beyond the horizon. (There may well
+be planets where the atmospheric
+pressure is much higher than on the
+earth, in which case the prism effect
+would be so marked that radio or light
+waves would go right round the globe;
+this seems to be the case for Venus,
+in particular.)
+However, the most important factor
+for long distance communication on the
+earth ¡s undoubtedly ionospheric
+reflection; under constant bombard¬
+ment by various particles and radia¬
+tions (especially ultra violet rays)
+emanating from the sun, gas atoms in
+the upper atmosphere are robbed of
+some of their electrons.
+When released, the electrons form
+conductive layers known as the iono¬
+spheric layers. These were deduced
+as early as 1910 and experimentally
+confirmed in 1925; they reflect back
+towards the earth the radio waves
+which would otherwise escape.
+Fortunately for space communi¬
+cations, the ionospheric barrier is not
+insuperable, and chiefly affects wave¬
+lengths of roughly over six metres,
+that is, frequencies under 50 mega¬
+hertz per second.
+It can thus be understood why the
+radio-telephone which makes it pos¬
+sible to reach a liner in mid Atlantic
+\
+t
+m
+Ï
+s
+5j
+
+s/S
+i L1
+^ea°
+This diagram shows how two communication satellites, S-1 and S-2, could enable stations on the hidden
+face of the moon to communicate with the earth, and provide a radio link between research stations
+anywhere on the moon. These relay satellites could be established at certain points where the earth and
+moon cancel out each other's gravitational attraction (known as libration points), requiring only minimum
+corrections from time to time to keep them in position. The relay satellites would be placed in orbit
+at about 60,000 kilometres from the moon. At L-1, the lunar attraction LA combined with the centrifugal
+force of the satellite CF would balance the terrestial attraction TA. At L-2, the lunar attraction LA and
+the terrestial attraction TA offset the centrifugal force CF and would maintain the satellite in position.
+(Diagram is not drawn to true scale).
+would be useless on the moon, where
+there is neither atmosphere nor iono¬
+sphere, so that all radio waves on the
+moon would escape freely into space.
+This is precisely one of the reasons
+why scientists are interested in install¬
+ing radio-astronomy laboratories on the
+moon, as the "radio sky" would be
+clear for all frequency ranges.
+Does this mean that lunar explorers,
+will be completely cut off from the
+earth ? The answer, fortunately, is no,
+since communications satellites provide
+a solution. Waves reflected by the
+Scientific expeditions travelling across the
+moon's surface will need specially-designed
+vehicles. Conventional lubrication would be
+useless since oil evaporates in. the prevailing
+vacuum. Rubber tyres would crack or fry in
+temperature extremes. Above all, mobile
+machines will have to negotiate difficult terrain.
+Photo left, two British designs by Peter
+A. E. Stewart for lunar surface vehicles. Top,
+mobile lunar laboratory moves on tracks and
+has observation domes and living quarters for
+crew. Below it, a mobile radio station with
+disc antenna. Photo right shows model of an
+American lunar scientific station: the large
+metal roof protects it from meteorites which
+hit the moon at extremely high speeds. In fore¬
+ground, observatory under transparent dome.
+ionosphere cannot ensure the regular
+transmission of high quality TV images
+whereas satellites can do so even for
+intercontinental programmes.
+It will thus suffice to put a number of
+satellites in orbit round the moon to
+link up the scattered bases; but here
+again, conditions are not the same as
+on earth. The first TV relay satellites,
+placed in terrestrial orbit a few thous¬
+and miles up, girdled the earth in a
+few hours; they could therefore
+connect only two stations at certain
+times and for very short periods. It
+was then decided to "increase the
+height of the orbit and with it the orbit¬
+al period, i.e. the time taken to make
+one complete revolution.
+The Molnlya satellites developed by
+the Soviet Union, for example, follow a
+pronounced elliptical orbit thus consid¬
+erably extending the time available
+for transmissions, which in the case of
+a link via satellite between Paris and
+Moscow can be maintained for up to
+six hours.
+If the orbit chosen is a circular one
+at an altitude of 22,500 miles the orbital
+CONTINUED ON NEXT PAGE
+
+COMMUNICATION ON THE MOON (Continued)
+Sail-powered satellites operating on solar radiation
+period will be 24 hours; such a satel¬
+lite, launched on an east-bound equa¬
+torial orbit, will take just as long to go
+round the earth as the earth takes to
+spin on its axis: it will thus appear
+stationary. This is the case for "Early
+Bird" stationed above the Atlantic at
+27 degrees West. A stationary satellite
+will thus permit permanent connexions
+to be established, and it is very tempt¬
+ing to transpose this solution to the
+moon.
+But, as everyone knows, the moon
+takes 28 days, not 24 hours, to rotate
+on its axis, which is why it always
+turns the same face towards us, the
+other side remaining invisible from the
+earth; for a satellite to revolve round
+the moon ¡n 28 days, it would theoreti¬
+cally have to be placed in orbit nearly
+62,500 miles up. In actual fact, this
+would be possible only ¡f the moon
+were isolated in space, as the attrac¬
+tion of the earth completely alters the
+situation. A satellite placed in such an
+orbit would rapidly escape from the
+moon's gravitational field.
+0,
+30
+I NE possibility would be to
+place our lunar communications satel¬
+lite near enough to the moon for its
+attraction to exert a greater pull than
+the earth's; a suitable height would be
+something over 3,000 miles, giving the
+satellite a revolution of about 12 hours.
+The satellites would then revolve much
+faster than the lunar stations, and for
+quasi-permanent liaison, a dozen satel¬
+lites would be needed.
+Another conceivable solution which
+has great appeal, as it leads back to
+almost stationary satellites, utilizes a
+relatively simple phenomenon of celes¬
+tial mechanics known as libratlon
+points. If a body is close to earth it
+feels the gravitational pull of our planet
+(this is what we call weight). If the
+same body finds itself in the proximity
+of the moon, ¡t is similarly attracted by
+the force of the moon.
+It is not difficult to imagine, there¬
+fore, that there is some intermediary
+point where the force of. attraction of
+the earth and the moon are equal in
+both directions, and therefore cancel
+each other out. In determining this
+point, actual calculations made also
+take into account an additional factor:
+centrifugal force which tends to pull an
+object away from the earth, since the
+body together with the moon rotates
+around the earth in 28 days.
+Diagram on page 29 shows the first
+libration point L-1, at about 34,000
+miles from the moon in the direction
+of the earth. It also shows a second
+point L-2, off the hidden side of the
+moon, where the centrifugal force
+counteracts the combined attraction of
+the moon and the earth. If a satellite
+S-2 is placed at L-2, it will thus be
+able to serve nearly all the bases
+established on the hidden face of the
+moon, but will not allow communication
+with the earth which ¡s not visible
+from this point, since it is hidden by
+the moon.
+Man's creative genius has overcome
+this difficulty: satellite S-2 will not be
+placed exactly at L-2; it will be shifted
+a few thousands miles sideways, so as
+to be in sight of the earth; and even
+perhaps of L-1, where a second
+satellite S-1 will relay communications
+to the stations on the visible face of
+the moon.
+For both S-1 and S-2 to remain sta¬
+tioned near the selected positions will
+require the use of an extremely low-
+powered position-correcting device
+
+(less than 1 milligramme force per kilo¬
+gramme of satellite).
+Such a low thrust can be produced
+by ion engines, but another possibility
+is to stabilize the satellites with sails.
+In "The Planet of the Apes," by
+Pierre Boulle, the two chief characters
+roam across interplanetary space, pro¬
+pelled by the pressure of the sun's
+rays on the sails of their spacecraft.
+Some American scientists have seri¬
+ously considered equipping satellites
+placed near the libration points with
+sails which would maintain them in
+position thanks to the pressure of solar
+radiation.
+The satellites would in fact describe
+a small individual orbit around the
+libration points to allow for the changes
+in the moon's and earth's position in
+relation to the sun in the course of the
+year. Calculations have shown that a
+sail area of one-third of a square metre
+per kilogramme of satellite would be
+sufficient to produce the force needed.
+To install on and around the moon
+all the components of the communic¬
+ations networks briefly described here
+will demand many years, but this does
+not mean that the first scientific
+missions will be deprived of the means
+of communication. The powerful
+AWAY FROM
+THE EARTH
+"Away from the
+Earth II", kinetic
+painting by Frank
+J. Malina, showing the
+trajectory of a
+satellite leaving the
+earth and orbiting
+the moon (right).
+Left, boosted aloft
+by the tremendous
+power of its rocket
+engines, a spacecraft
+blasts off from a
+Soviet cosmodrome.
+communications system installed on the
+earth to keep in touch with spacecraft
+could provide similar services to moon
+stations on the visible face of the
+moon, and could also be used even
+to interconnect them. In that case,
+since the velocity of radio waves is
+187,500 miles per second, a lapse of
+about five seconds between question
+and answer would have to be allowed
+for in telephone conversations between
+two points on the moon via the earth.
+Of course, other means of commun¬
+ication used on earth before the
+satellite era began could also be used
+on the moon. But it appears unlikely
+that they will be used to link points
+more than a few dozen kilometres
+apart.
+T,HE most simple idea would
+be to lay a telephone cable on the
+lunar surface, but the operation would
+be far from easy.
+Another possibility would be to use
+pylons brought from earth, or the
+mountains of the moon to install radio
+relays similar to those first used around
+1950 as boosters for long distance TV
+transmissions through microwave radio
+links. But as the moon's radius is
+only a fourth that of the earth, the
+transmission range would be only half
+that on earth, and a larger number
+of relays would be needed. Each relay
+would also have to contain its own
+long-duration unattended electric power
+supply. This of course will be rather
+difficult in the lunar environment.
+Finally, we must not forget that every
+piece of equipment used on the moon
+will have to come "from the sky." As
+the moon has no atmosphere, the only
+way to slow down a lunar-bound
+spaceship is to brake it by firing a
+rocket engine. So it may be more
+economical to use equipment placed in
+lunar orbit rather than land it on the
+moon. Another consideration is that
+climatic conditions in lunar orbit may
+well be far more temperate than those
+on the moon's surface.
+Both these factors point to satellites
+as the best solution, and in our opinion
+the full scale use of lunar bases, parti¬
+cularly on the hidden side of the moon,
+will not be feasible until such time as
+communication satellites have been set
+up in the vicinity of the moon.
+31

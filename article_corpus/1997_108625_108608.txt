@@ -1,0 +1,368 @@
+Cyberspace a planetary network
+of people and ideas
+BYJ.C.NYÍRI
+Mbove, a computer-generated
+¡mage illustrating the
+information superhighway, the
+communication network
+capable of channelling an
+ultra high-speed global flow of
+text, sounds and images.
+Ideas travelled in the same way, and with
+the same speed, as people until the 1840s,
+when magnetic telegraphy was introduced.
+By 1860 there were 51,500 km of telegraph
+lines in the United States alone. A permanent
+transatlantic telegraph line was installed in
+1866, and by 1872 most of the major cities of
+the globe were linked.
+With the advent of telegraphy, the trans¬
+mission of information became practically
+instantaneous, but it also acquired a peculiarly
+fragmented character. If information is to
+count as knowledge, it has to relate to a con
+text. For face-to-face communication such a
+context is provided by the situation in which
+it is embedded. With a written text, especially
+with a printed book, the context for each par¬
+ticular passage is given by the wider textual
+environment, indeed by the entire book, or
+often even by the library in which the book is
+found. The mere physical characteristics of a
+book, and of stacks of books in a library, cre¬
+ate a context of temporality convey a sense of
+the past. Modern historical consciousness
+emerged from the printed text.
+Lacking a wider written context, and
+
+employing characteristically short sentences,
+telegraphic style comes close to the style of spo¬
+ken language. However, telegraphic messages are
+not embedded in concrete speech situations.
+With the telephone, the experience of a living
+conversation is partly restored. Facial expres¬
+sions, gestures and the impressions of physical
+surroundings are not transmitted; but tone,
+mood and pace certainly are. Questions can be
+asked, a dialogue maintained. Knowledge gained
+from a telephone conversation might be about
+events far away, yet it is up to date, and can be
+rather complete; but of course it lacks the log¬
+ical coherence of written communication.
+^Electronic broadcasting
+In the 1920s radio broadcasting rapidly became
+the dominant mode of news dissemination
+and propaganda. This was a decisive transition
+towards a new era of non-written communi¬
+cation, a transition not without effect upon
+twentieth-century philosophy, in particular
+upon Heidegger's and Wittgenstein's views on I oung women listen to the
+radio in a sanatorium near
+Moscow, around 1930.
+the nature of linguistic meaning and the cog¬
+nitive role of the community.
+Radio broadcasting might enhance a sense
+of global connectedness; but it also fosters
+randomness and evanescence, lessening the lis¬
+teners' ability to form an ordered picture fro m
+out of what they have heard. Similarly with
+television, where even the apparently all-
+encompassing diversity of information pro¬
+vided by satellite broadcasting, information
+both verbal and visual, from local gossip to
+international news, results in a motley of views
+and messages entirely disconnected.
+Television, of course, relies fundamentally
+on images. Now it is possible to conceive of a
+logic of images as complementing verbal logic,
+and indeed it is to be expected that the former
+is going to play an increasingly important role
+in interactive multimedia communication, the
+great promise of computer networking. How¬
+ever, it is fair to say that in television broad¬
+casting, as we know it today, the employment
+of images often subverts rather than ampli¬
+fies rational thinking.
+I The networked computer
+Just a few years ago it would have still been
+possible to make an analysis of the cognitive and
+social effects of the spread of the personal com¬
+puter without specifically referring to the role
+of computer networking. Today such an analy¬
+sis would seem unnatural. Computers are, char¬
+acteristically, enmeshed in networks. As such
+they are not just number-crunchers and word
+processors, but also, perhaps even primarily,
+nodes of communication. The networked com¬
+puter is a tremendously powerful instrument
+for bringing together scattered information
+data, texts, images, increasingly also sound
+from all over the world, and indeed for build¬
+ing up out of that information new edifices of
+knowledge. The computer enables one to study
+reference material in a breadth hitherto incon¬
+ceivable, and in a depth not practicable in the
+conventional printed medium.
+However, both the isolated computer and
+the networked one possess features which
+appear to amplify, rather than alleviate, the dif¬
+ficulties of finding one's way around labyrinths
+of information. The knowledge stored in com¬
+puters is physically never present, except for
+the tiny segments momentarily on the screen.
+When reading or browsing through a book,
+when walking along the shelves of a library, or
+even when flipping catalogue cards, one gains a
+sense of orientation the electronic medium docs
+not provide. For your knowledge to be coher¬
+ent, you somehow have to know what you
+know, have a survey, an overview, a memorized
+
+pattern of your knowledge. We have memory
+images of certain important passages, recall the
+pattern of text on a printed page, or the location
+of a volume in a library. When texts are read or
+scanned on the screen, such an overview will
+hardly emerge.
+MFrom e-mail to WWW
+The basic form of networking is e-mail the
+exchange of written messages via telephone
+lines (and/or broad-width cables) and pow¬
+erful intermediate computers (called servers),
+between any two individual computer areas.
+Travelling through a net of interconnected
+networks, e-mail messages normally take just
+a few seconds to reach their destinations, and
+within minutes a reply might arrive. As a con¬
+sequence e-mail messages are frequently quite
+similar to exchanges in spoken languages: rich
+in emotions, poor in grammar and typically
+without the logical discipline of reflective writ¬
+ing. E-mail messages might be sent to more
+than one person, even to lists containing hun¬
+dreds or thousands of addresses. In any case
+they are easily forwarded to third parties.
+E-mail messages are regularly seen by eyes
+they were not intended for. They are, so to
+i period engraving showing
+a telegraph room in Paris in
+1889.
+"M Journey through Digital
+Space", an exhibition held at
+the abbey of Montmajour, near
+Aries (France).
+speak, overheard, just as written messages
+often were in the age of reading aloud, the
+kind of reading characteristic of manuscript
+cultures. Another feature of manuscript cul¬
+tures brought back by e-mail and by all
+forms of working with electronic docu¬
+ments is intcrtcxtuality: the free re-use and
+mixing of passages, taken from any text, in
+the process of producing a new one.
+
+E-mail gives rise to innumerable discus¬
+sion lists, news groups and computer bulletin
+boards, which have been described as the con¬
+temporary equivalent of the ancient forum.
+And while the overwhelming part of com¬
+munication in the electronic market-place is
+entirely fleeting and uninformed, the con¬
+certed actions discussion groups frequently
+initiate do have an immense democratic poten¬
+tial, and the exchanges they pursue can indeed
+provide information of high quality.
+Such quality is of course more or less main¬
+tained in the networked exchanges of the sci¬
+entific community. There is today a growing
+number of electronic scholarly journals; indeed
+in some fields traditional periodicals have
+already become obsolete. Even more signifi¬
+cant are, as Stevan Harnad pointed out in Psy¬
+chological Science in 1990, the changes per¬
+taining to the so-called pre-publication
+phase the phase of scientific inquiry "in
+which ideas and findings are discussed infor¬
+mally with colleagues, presented more for¬
+mally in seminars, conferences and symposia,
+and distributed still more widely in the form
+of pre-prints. It has now become possible",
+Harnad emphasized, "to do all this in a
+remarkable new way that is not only incom¬
+parably more thorough and systematic in its
+distribution, potentially global in scale and
+almost instantaneous in speed, but . . . unprece-
+dentedly interactive." Scholarly skywriting is
+the telling name Harnad gives to interactive
+scientific inquiry in the medium of e-mail.
+MTbe World Wide Web
+The world of e-mail documents is unstable and
+chaotic, difficult to navigate and impossible to
+survey. By contrast, the World Wide Web
+(WWW), today's ultimate computer network
+achievement, is relatively stable and transparent.
+The emergence of the Web amounts to a revo¬
+lution in its own right. So-called Web pages
+are self-published multimedia documents, each
+having an address, and each connected throu gh
+so-called hypertext links specifically conspic¬
+uous words or symbols to a number of other
+Web pages. Web pages form a m ore or less fixed
+constellation of documents easy to scan and
+study. We may know our way around in the
+World Wide Web.
+Multimedia documents may also convey
+knowledge that mere texts cannot. The logic of í
+images, as noted above, might come to fruit- I
+fully complement the logic of texts. In the age î
+of manual copying, and even in the age of the j
+printing press, illustrations could only play a 1
+subordinate role; and pictures as vehicles of I
+thinking played almost no role at all. This is |
+^ THE UNESCO |Q>URIER JUNE 1097
+now changing with the possibility of manip¬
+ulating images on the screen. Let us add that
+knowledge is not just a matter of thinking; it
+is also a matter of practices and skills. And
+illustrations can show how things arc done. It
+might be very difficult to give a verbal descrip¬
+tion of, say, how a particular instrument is
+handled, whereas a picture or a set of illustra¬
+tions will easily explain it. Knowledge accessi¬
+ble on the Web is not just global; it also tends
+to be truly operational.
+¡The virtual library
+\s hildren in a computer class
+(U.S.A.).
+Quite a few of the great public and research
+libraries of the world plan, or have already
+begun, to digitize their materials first the
+catalogues, and subsequently the holdings
+themselves. Once digitized, these materials
+(assuming that copyright problems and other
+related issues have been solved) will be (and
+many of them already are) accessible on the
+net, thereby forming the joint stock of a huge
+library that has no physical existence a virtual
+library. This stock is, of course, continuously
+enriched by scientific publications now issued
+as electronic documents.
+The advantages of the virtual library arc
+obvious. Users of the net, whether living in
+poor or rich regions of the world, may in prin¬
+ciple have unlimited access to any library item.
+Once they reach the documents they seek, they
+can copy them electronically or make print¬
+outs; and they can work with them in many
+subtle ways, such as electronically searching
+through them, and constructing concordances
+and indexes. At the same time the original hard
+copy items can be safely stored in buildings
+that will gradually become book museums
+rather than remain traditional libraries.
+
+I he library of St. Catherine's
+monastery, built in the 6th
+century at the foot of Mt. Sinai
+(Egypt), houses some 3,500
+manuscripts, the world's
+second largest collection after
+that in the Vatican Library.
+However, there are disadvantages too. Even
+if multimedia technologies are fully employed,
+bringing about a stronger illusion of physical
+presence (e.g., pages of old books appearing
+not just as a uniform text, but, if required,
+as facsimile) electronic documents are poor at
+creating a sense of place and time. That the ten¬
+sions between the virtual and the physical are
+not, in principle, impossible to resolve, is
+shown by the programme of the new Biblio¬
+thèque Nationale dc France. The BNF, which
+is to be fully operational by 1998, is meant
+to be both a giant physical library and a dig¬
+ital on-line library. It is meant, as two of its
+spiritual architects put it, to "consummate
+the marriage of the universe of Gutenberg
+with that of McLuhan. ... It will be open,
+democratic, innovative, but all of those things
+within a perspective ensuring the greatest
+respect for the past." The BNF will no doubt
+be a lighthouse in the torrents of the coming
+global virtual library.
+I Virtual universities
+In an environment increasingly dominated by
+multimedia computer networks, conventional
+secondary and tertiary education is becoming
+obsolete. Young people growing up with com¬
+puters, introduced to the marvels of the net at
+an early age, will experience traditional school
+settings as simply unnatural. They become
+used to finding their information not by ask¬
+ing their elders or by going to a library, but by
+surfing the Web.
+On the tertiary level, lifelong learning is
+expected, in the form of broad interdiscipli¬
+nary education in the first place, and periods
+of specialized training in new directions ever
+after while being employed, or between jobs.
+Tertiary education based on the net seems to
+be the obvious solution. The virtual univer¬
+sity is an institution of higher education with¬
+out walls with no definite physical location,
+no classrooms, no conventional library.
+Although a minimum of face-to-face encoun¬
+ters among registered students and their teach¬
+ers and examiners seems to be inevitable, and
+indeed called for, the learning process most of
+the time takes the form of computer net¬
+working.
+The virtual university can be conceived of
+as the twenty-first-century variety of distance
+education. It needs to be stressed, however,
+that the virtual university eliminates, rather
+than bridges distance. The virtual university
+preserves, or recreates, the personal community
+of teacher and students, the audible and visi¬
+ble character of lectures, the live interaction
+of seminars. It is heir to the traditional uni¬
+versity. But it is different both from the tra¬
+ditional university and from distance educa¬
+tion in the sense that, utilizing the possibilities
+of interactive multimedia, it radically goes
+beyond the inspirations of the printed book
+of the fixed linear text. The creation of a virtual
+university is a task of philosophical dimen¬
+sions. It amounts to overcoming text-centred
+modern European thought.
+The working language of the Great Euro¬
+pean universities of the Middle Ages was Latin.
+From the sixteenth century on Latin was grad¬
+ually complemented by the new literary
+"national" languages emerging in close con¬
+nection with the spread of printed books.
+These new languages in turn became instru¬
+mental in the creation of modern nation
+states in building up centralized bureaucra¬
+cies and national job markets. The university
+henceforth served as the apex of a national edu¬
+cation pyramid. It appears that in the case of
+small nations the practical importance of
+national universities is diminishing.
+With the rise of a global economy and the
+resulting need of a global education, the pres¬
+sures to uphold a nation-wide cultural homo¬
+geneity are weakening. A new interest is emerg¬
+ing in local community life, local culture and
+local dialect, an interest adequately reflected
+by the popularity of local regional radio and
+television broadcasts. Local activities are gain¬
+ing a new significance by the fact that they can
+be directly connected, through the net, to
+activities on a global scale, without interven¬
+tion or interference from national institu¬
+tions. Computer networking is global, but it
+is eminently suited also for the local and the
+particular. Global knowledge and local cul¬
+tures might happily coexist and exert mutually
+creative influences.

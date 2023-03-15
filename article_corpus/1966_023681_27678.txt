@@ -1,0 +1,96 @@
+SATELLITES AND COMPUTERS
+MAY MEASURE WORLD'S WATER
+by Daniel Behrman
+OMMUNICATIONS satellites querying rain and
+river gauges all over the earth and then flashing
+the answers into computerized data centres may finally
+provide the picture of the world's hydrological cycle needed
+for rational management of large-scale water resources and
+for research.
+A proposal to consider the feasibility of such a global
+water information system (known from its initial letters as
+GWIS) was discussed recently by the Scientific Committee
+on Water Research of the International Council of Scientific
+Unions. The committee, which met at Unesco H.Q. in
+Paris, decided to study the idea further as more information
+is developed.
+The proposal for the study had been prepared by the
+United States National Committee for the International
+Hydrological Decade. It was presented by Dr. Paul Bock,
+a member of the U.S. National Committee and director of
+the hydrology and water resources division of the Travelers
+Research Center in Hartford, Connecticut.
+The idea is based on recent progress in communications
+satellites which could make classical methods of gathering,
+transmitting and processing data in such fields as hydrol¬
+ogy and meteorology as obsolete as a stage-coach com¬
+peting against a jet airliner.
+In a country like the United States, for example, gauges
+measuring the flow and levels of rivers punch their data
+onto paper tape for a thirty-day period. These tapes are
+then collected, mailed to a data centre in Washington, trans¬
+ferred to magnetic tape and processed by computers.
+WHEN and if GWIS becomes reality, the satellite
+could simply Interrogate the river gauge while
+passing overhead and retransmit its data. The gauge
+could be programmed to report every twenty-four hours and
+then, once the river reached a certain level, every six hours.
+With existing computer techniques, such data can be
+printed out by the machine to produce maps of many types,
+charting river flows and levels by latitude and longitude.
+With more development the same technique could be
+used, of course, for the other components of the world's
+water cycle that the hydrologlst is interested in measuring:
+groundwater levels, soil moisture, snow cover, water qual¬
+ity, atmospheric water vapour, temperature, lake levels
+or salinity in estuaries.
+These phenomena, Dr. Bock believes, could be observed,
+analysed and disseminated to national services all over the
+world as required. They would not only provide day-to-day
+data needed for such operations as the regulation of reser¬
+voirs and flood warning systems, but would offer a planetary
+portrait that is essential for scientific understanding of the
+global water cycle.
+The cost of such a system would naturally be extremely
+high, but Dr. Bock is convinced that it would prove eco¬
+nomical in the long run. He suggested, for example, that
+it could be integrated with the World Weather Watch which
+has a target date in the 1970s.
+This date would coincide with the end of the International
+Hydrological Decade which began under Unesco spon¬
+sorship on January 1, 1965. The cost of this satellite and
+computer network needed for the World Weather Watch
+might be increased by only 10 to 20 per cent if it were
+programmed to cover hydrological information as well,
+Dr. Bock estimates.
+HEN there is the breakthrough in communica¬
+tions represented by the satellite. An automatic
+station recording rainfall or stream flow would need a
+powerful transmitter to radio its results to a data station.
+But only a minimum of power would be needed for it to
+transmit to a satellite.
+If existing conventional systems of collecting water infor¬
+mation were enlarged to meet only minimum standards,
+"mountains of data" no less than 70,000,000 items a year
+on the basis of daily recordings would be produced. It
+would be impossible to assimilate this mass of information
+unless modern data processing systems were used on a
+large scale.
+Dr. Bock feels that developing countries could stand
+to benefit in particular by the technological revolution in
+communications. Often, the heart of their water problems
+is to be found in tropical jungles or great deserts where
+making the rounds of the instruments to take their readings
+can be time-consuming and costly, if not impossible.
+In the United States, the establishment of such a water
+information system of the most advanced type is already
+under preliminary study and, if adopted, it could become a
+component of a global system.
+Dr. Bock stressed that none of this is likely to happen
+tomorrow or the day after. But . he feels certain that,
+sooner or later, this image of satellites in outer space trans¬
+mitting and even recording at a distance the data needed
+to understand what is happening to the world's water
+supply will become a reality through international scientific
+co-operation.
+31

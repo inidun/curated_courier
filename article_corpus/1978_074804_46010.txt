@@ -1,0 +1,228 @@
+The fast breeder
+A nuclear reactor that produces
+more fuel than it consumes
+by Wolf Häfele
+IN principle, and to a large extent also in
+practice, the fast breeder reactor can
+provide virtually unlimited amounts of
+energy. Energy from fast breeders there¬
+fore is not just an extension of existing
+energy resources; it changes our whole
+conception of the energy problem.
+The fundamental difference between
+fast breeder reactors and today's nuclear
+power stations is that the former "breed"
+more fuel than they consume. Current
+nuclear reactors, the predominant type
+being the light water reactor, obtain most
+Wolf Häfele of the Federal Republic of Ger¬
+many is deputy director of the International Insti¬
+tute for Applied Systems Analysis (IlASA) at
+Laxenburg (Austria), where he leads IIASA's
+research on energy systems and problems of
+energy demand. While attached to the Karlsruhe
+Nuclear Research Centre he participated in the
+design of the first German-built nuclear reactor
+(FR2) and later established and led the Centre's
+Fast Breeder Project. He is a member of the
+Scientific Advisory Committee of the Inter¬
+national Atomic Energy Agency (IAEA).
+of their energy from slow-neutron fission of
+the scarce isotope of uranium known as
+uranium-235. Natural uranium consists of
+only 0.7 per cent of uranium-235; the rest is
+uranium-238 which cannot readily be used
+by the light water reactor.
+A thousand-megawatt light water reac¬
+tor consumes some 5,000 tonnes of natural
+uranium during its lifetime. A world total of
+a thousand such power stations would
+thus consume five million tonnes of natural
+uranium, a figure approximating to current
+estimates of world uranium reserves.
+The fast breeder is fuelled with a mixture
+of uranium-238 and plutonium. It makes
+use of a fast-neutron fission process during
+which there is a net gain of about half an
+atom of plutonium for every one and a half
+atoms of uranium-238 consumed. Since all
+the abundant uranium-238 in natural ura¬
+nium can be used as fuel, the fast breeder
+reactor produces sixty to seventy times
+more energy from a given quantity of ura¬
+nium than any other reactor now in use.
+Consequently, it will be possible to tap eco¬
+nomically uranium resources which today
+are too costly to exploit.
+At the present time, the fast breeder is
+the only technology at hand which offers
+the possibility of resolving the problems of
+energy resource limitations which will have
+to be faced in the coming decades.
+In the short term, however, if fast
+breeders are to be introduced soon they
+will be part of energy systems which are
+closely integrated into the present world
+economy and will have to show that they
+can compete with the available alternative
+energy sources. It seems reasonably likely
+that they will achieve this goal by the end
+of the 1990s.
+All new technologies have to establish
+themselves through hard economic compe¬
+tition, a process which ultimately saves
+investment in terms of labour, capital and
+ingenuity. Light water reactors have
+already been through this process and have
+proved to be commercially viable. The elec¬
+tricity they produce is usually from three to
+six dollars per megawatt hour cheaper than
+that produced by fossil fuels. During the
+recent cold winters in New England, for
+instance, light water reactors assumed the
+baseload of electricity production. There
+are today some 200 of them in operation
+throughout the world, and by the year 2000
+it is expected that their installed capacity
+will be 1,500,000 megawatts.
+All fission reactors produce plutonium or
+a uranium isotope, U-233, neither of which
+occur in nature. Both isotopes permit
+breeding and must be handled with very
+great care. Both emit alpha-rays and it is
+dangerous for the organism to bear traces
+of them.
+~>
+A light water reactor produces about 170
+kilogrammes of plutonium per thousand
+megawatt year. The safest way of handling
+this plutonium is to put it back into a reac¬
+tor after separating it chemically from the
+rest of the irradiated fuel.
+The fast breeder thus has a role to play in
+dealing with the "hot end" of the light
+water reactor fuel cycle, and a wide variety
+of strategies for combining light water
+reactors and fast breeders have been
+studied and assessed. From these studies it
+appears that the principal role of the fast
+breeder in the next few decades will be as a
+depository for plutonium. Only later will the
+multiplying effect on plutonium stocks
+become of prime importance.
+The second, or present, generation of
+fast breeder reactors uses the mixed oxides
+Pu02/U02. The inherent negative Doppler
+coefficient thus installed acts like a tran¬
+quillizer upon the reactor. In the final analy¬
+sis, this leads to a situation where the con¬
+trol devices of a fast breeder reactor are vir¬
+tually identical to those of a light water
+reactor, and the safety features of the fast
+breeder reactor can be designed to meet
+the same predetermined safety standards
+as are applied to light water reactors or any
+other reactor.
+Today's energy systems will not be ade¬
+quate to meet tomorrow's needs, and we
+must face the fact that a changeover to
+new systems is inevitable. Some studies
+seem to indicate that the crucial moment
+will come shortly after the year 2000. By
+that time, if adequate preparations have
+not been made, it will be too late to develop
+and deploy the technologies capable of
+satisfying such a massive demand. The
+problem is one of time: several decades will
+be needed and there seems to be no quick
+solution.
+A new technology must meet three
+demands before it can be used on a large
+scale: it must be scientifically feasible; it
+must be feasible from an engineering point
+of view; and it must be commercially .
+viable. f
+8
+
+Nuclear power is one answer to dwindling fossil fuel supplies. Nuclear
+reactors create heat by fission splitting apart uranium atoms. The heat
+boils water to steam which propels turbines that generate electricity.
+The first generation of reactors could only use a minute proportion of
+natural uranium as fuel. Today, however, a new generation of "Fast
+Breeder Reactors", fuelled by a mixture of natural uranium and
+plutonium, create more plutonium than they consume, thus offering the
+promise of virtually limitless energy. Below, the gleaming heart of the
+U.K.'s 250 megawatt prototype fast reactor, which began to generate
+electricity in 1975.
+9
+'rmtJSx
+1**
+!SS
+;. ïifixrf
+*
+m +
+©
+
+7
+Ï-'AV»» »*_
+> » _» « é « » «r» * «r
+i,««,«»
+	,! C -
+	
+»ii i
+IM -
+i
+I
+Public debate on nuclear energy has focussed largely on the environmental and safety
+problems involved in operating reactors, handling nuclear fuel and particularly in the
+disposal of radioactive wastes. The proponents of nuclear energy point to the excellent
+safety record of nuclear power and maintain that reactors are essential in a time of
+dwindling fossil-fuel supplies. Others argue that the risks outweigh the benefits and that
+no long-range techniques have yet been perfected for the transportation and storage
+of nuclear wastes. Above, lead column for transporting wastes from a French reactor.
+, The fast breeder has been scientifically
+feasible for 30 years. To meet the second
+condition, power plants of a scale big
+enough to provide electricity for a grid
+must be designed, constructed and
+brought into operation. In Europe this has
+been accomplished during the 1970s. The
+prototype French Phénix breeder, with a
+capacity of 250 megawatts, went into suc¬
+cessful operation in 1974. Shortly after¬
+wards, the U.K. 's 250 megawatt prototype
+PFR reactor gradually came into operation
+and is now at full power. The USSR's 1 ,000
+megawatt BN 350 has been used since the
+early 1970s, partly for generating electricity
+and partly for desalinating sea water. In the
+Federal Republic of Germany, the 300
+megawatt prototype SNR 300 reactor will
+be completed by 1981 or 1982, while con¬
+struction work on Japan's Monju pro¬
+totype is expected to begin next year.
+France has taken the lead in this movement
+by starting construction of its second big
+reactor. Superphénix, a 1,200 megawatt
+power station.
+The fast breeder reactor has thus
+crossed the threshold of scientific and
+engineering feasibility. Other new
+technologies solar power, fusion, and
+new, large-scale uses of coal will go
+through these phases, but the world eco¬
+nomy into which they will have to be inte¬
+grated will probably be different from that
+of today. Because the fast breeder already
+exists, there is a great temptation to
+evaluate it exclusively in the context of
+today's world energy systems. However,
+we must look further ahead and not limit
+our long-range technological options by
+taking only short-term considerations into
+acount. This means going ahead with the
+development and deployment of the fast
+breeder reactor, together with our other
+long-range energy options.
+Wolf Häfele
+10

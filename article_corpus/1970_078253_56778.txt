@@ -1,0 +1,730 @@
+BEYOND
+BABEL
+Today, whether we like it or not, we are
+laying the foundation of the first global society
+T
+by Arthur C. Clarke
+HERE is no longer any
+need to argue that the communications
+satellite Is ultimately going to have a
+profound effect upon society; the
+events of the last ten years have
+established this beyond question.
+Nevertheless, it is possible that even
+now we have only the faintest under¬
+standing of its ultimate impact upon
+our world.
+There are those who have argued
+that communications satellites (here¬
+after referred to as "comsats")
+represent only an extension of existing
+communications devices, and that
+society can therefore absorb them
+without too great an upheaval.
+I am reminded rather strongly of the
+frequent assertions, by elderly generals
+immediately after August 1945, that
+nothing had really changed in warfare
+because the device which destroyed
+Hiroshima was "just another bomb".
+Some inventions represent a kind
+of technological quantum jump which
+causes a major restructuring of society.
+In our century, the automobile is
+perhaps the most notable example of
+this. It is characteristic of such
+inventions that even when they are
+already in existence, it is a considerable
+time before anyone appreciates the
+changes they will bring. To demon¬
+strate this, I would like to quote two
+examples one genuine, one slightly
+fictitious.
+For the first I am indebted to the
+Honorable Anthony Wedgewood Benn,
+now U.K. Minister of Technology, who
+passed it on to me when he was
+Postmaster General.
+Soon after Mr. Edison had invented
+the electric light, there was an alarming
+decline In the Stock Exchange quota-
+32
+ARTHUR C. CLARKE, British science
+writer and former chairman of the British
+Interplanetary Society, was awarded the
+Unesco Kalinga Prize for the Populariz¬
+ation of Science in 1962. He has been
+a regular contributor in the past to the
+"Unesco Courier". This article is taken
+from an address he delivered to an
+international space communications confe¬
+rence at Unesco, Paris, last December.
+tions for the gas companies. A
+Parliamentary Commission was there¬
+fore called in England, which heard
+expert witnesses on the subject; I feel
+confident that many of these assured
+the gas manufacturers that nothing
+further would be heard of this impracti¬
+cal device.
+One of the witnesses called was the
+chief engineer of the Post Office,
+Sir William Preece an able man who
+in later years was to back Marconi
+in his early wireless experiments.
+Somebody asked Sir William if he had
+any comments to make on the latest
+American invention the telephone.
+To this, the chief engineer of the Post
+Office made the remarkable reply:
+"No Sir. The Americans have need
+of the telephone but we do not. We
+have plenty of messenger boys."
+The second exemple is due to my
+friend, Jean d'Arcy, Director of Radio
+and Visual Information Services Divi¬
+sion of the United Nations. He
+has reported to me the delibera¬
+tions of a slightly earlier scientific
+committee, set up in the Middle Ages
+to discuss whether it was worth
+developing Mr. Gutenberg's printing
+press. After lengthy deliberations,
+this committee decided not to allocate
+further funds. The printing press,
+it was agreed, was a clever idea, but
+it could have no large-scale applica¬
+tion. There would never be any big
+demand for books for the simple
+reason that only a microscopic fraction
+of the population could read.
+If any one thinks that I am labouring
+the obvious, I would like him to ask
+himself, in all honesty, whether he
+would have dared to predict the
+ultimate impact of the printing press
+and the telephone when they were
+invented. I believe that in the long
+run the impact of the communication
+satellite will be even more spectacular.
+Moreover, the run may not be as long
+as we think.
+The human mind tends to extrapo¬
+late in a linear manner, whereas pro¬
+gress is exponential. The exponential
+curve rises slowly at first and then
+climbs rapidly, until eventually it cuts
+across the straight-line slope and goes
+soaring beyond it. Unfortunately, it
+Is never possible to predict whether
+the crossover point will be five, ten
+or twenty years ahead.
+" However, I believe that everything
+I am about to discuss will be tech¬
+nically possible well before the end
+of this century. The rate of progress
+will be limited by economic and
+political factors, not technological
+ones. When a new invention has a
+sufficiently great public appeal, the
+world insists on having it. Look at the
+speed with which the ' transistor
+revolution occurred. Yet what we
+now see on the technological horizon
+are devices with far greater potential,
+and human appeal, even than the
+ubiquitous transistor radio.
+It must also be remembered that our
+ideas concerning the future of space
+technology are still limited by the
+present primitive state of the art.
+All of today's launch vehicles are
+expendable, single-shot devices which
+can perform only one mission and
+are then discarded. It has been
+"recognized for many years that space
+exploration, and space exploitation,
+will be practical only when the same
+launch vehicle can be flown over and
+over again, like conventional aircraft.
+The development of the reusable
+launch vehicle the so-called "space
+shuttle" will be the most urgent
+problem of the space engineers in
+the 1970s.
+It is confidently believed that such
+vehicles will be operating by the end
+of the decade, the end of the 1970s.
+When they do, their impact upon
+astronautics will be comparable to that
+of the famous DC-3 upon aeronautics.
+The cost of putting payloads and
+men into space will decrease from
+thousands, to hundreds, and then to
+tens of dollars per pound. This will
+make possible the development of
+multipurpose manned space-stations,
+as well as the deployment of
+very large and complex unmanned
+satellites which it would be quite
+impractical to launch (from Earth) in
+a single vehicle.
+It must also be remembered that
+comsats are only one of a very large
+CONTINUED PAGE 34
+
+o
+DIME-SIZED ATOMIC BATTERY. Two sizes of a miniature atomic battery are compared above to a pair
+of tweezers. Batteries may be smaller than an old English farthing or U.S. dime to produce microwatts
+of power or the size of several stacked coins to produce milliwatts of power (a microwatt is one-millionth
+of a watt). An electric watch can be powered by 10 microwatts, a hearing aid by 1,000 microwatts.
+Batteries produce electric current directly from low-level nuclear radiation and have a lifetime of up to
+five years. Other batteries of similar size exist which convert heat from radioactive isotopes directly
+into electricity, providing 100 times as much energy as chemical batteries of equal weight Developed
+for use in space, all these batteries are finding application as power sources for biomedical telemetry,
+cardiac pacemakers and undersea uses. Below, a tiny sensor and radio transmitter developed for space
+missions but now used to monitor electrocardiograms and the condition of patients with respiratory
+ailments. Radio starts buzzing loudly if complications occur. A TV camera, used to film the separation
+of Saturn V rocket stages, and no bigger than a packet of cigarettes, is now on sale in a commercial
+version for monitoring industrial processes.
+33
+
+BEYOND BABEL (Continued)
+The wise King Canute and the rising tide
+range of applications satellites; they
+may not even be the most important.
+The Earth Resources satellites will
+enormously advance our knowledge of
+this planet's capabilities, and the ways
+in which we may exploit them. The
+time Is going to come when farmers,
+fishermen, public utility companies,
+departments of agriculture and for¬
+estry, etc. will find it impossible to
+Imagine how they ever operated in
+the days before they had space-borne
+sensors continually scanning the
+planet.
+The economic value of meteorolo¬
+gical satellites and their potential for
+the saving of life has already been
+demonstrated. Another most impor¬
+tant use of satellites, which has not
+yet begun, but which will have an
+economic value of thousands of mil¬
+lions of dollars a year, Is their use for
+air-traffic control. It appears possible,
+that the only real solution to the
+problem of air congestion, and the
+mounting risk of collisions, may be
+through navigational satellites which
+can track every aircraft In the sky.
+I
+34
+N dealing with telecommu¬
+nications problems it is convenient
+and often indeed essential to divide
+the subject according to the type of
+transmission and equipment used.
+Thus we talk about radios, telephones,
+television sets, data networks, fac¬
+simile systems, etc., as though they
+were all quite separate things.
+But this of course is a completely
+artificial distinction; to the communica¬
+tions satellite which simply handles
+trains of electric impulses they are
+all the same. For the purposes of
+this discussion I am therefore looking
+at the subject from a different point
+of view, which may give a better
+overall picture. I am lumping all tele¬
+communications devices together and
+am considering their total impact upon
+four basic units in turn. Those units
+are the Home, the City, the State, and
+the World.
+Note that I start with the home, not
+the family, as the basic human unit.
+Many people do not live in family
+groups, but everybody lives in a home.
+Indeed, in certain societies today the
+family itself is becoming somewhat
+nebulous around the edges, and among
+some younger groups Is being replaced
+by the tribe of which more anon.
+But the home will always be with us.
+There was once a time when homes
+did not have windows. It is difficult
+for those of us who do not live in
+caves or tents to Imagine such a state
+of affairs. Yet within a single genera¬
+tion the home in the more developed
+countries has acquired a new window
+of incredible magical power the TV
+set. What once seemed one of the
+most expensive luxuries became, in
+what Is historically a twinkling of an
+eye, one of the basic necessities of
+life.
+The television antenna swaying
+precariously above the slum-dweller's
+shack ¡s a true sign of our times.
+What the book was to a tiny minority
+in earlier ages, the television set has
+now come to be for all the world.
+It is true that, all too often, it Is no
+more than a drug like its poorer
+relative, the transistor radio seen
+pressed to the ears of the blank-
+faced noise-addicts one sees walking
+entranced through the city streets.
+But, of course, it is infinitely more than
+this, as was so well-expressed by
+Professor Buckminster Fuller when he
+remarked that ours Is the first genera¬
+tion to be reared by three parents.
+All future generations will be reared
+by three parents. As René Maheu, Di¬
+rector-General of Unesco, remarked
+recently, this may be one of the real
+reasons for the generation gap. We
+now have a discontinuity in human
+history. For the first time there is a
+generation that knows more than its
+parents, and television is at least partly
+responsible for this state of affairs.
+Anything we can imagine In the way
+of educational TV and radio can be
+done. As I have already remarked,
+the limitations are not technical, but
+economic and political. As for
+economic limitations, the cost of a
+truly global satellite educational
+system, broadcasting into all countries,
+would be quite trivial compared with
+the long-term benefits It could bring.
+Let me indulge In a little fantasy.
+Some of the studies of educational
+comsat broadcasts let us call them
+EDSATS to developing countries
+indicate that the cost of the hardware
+may be of the order of $1 per pupil
+per year.
+I suppose there are about a thousand
+million children of school age on this
+planet, but the number of people, who
+require education must be much higher
+than this, perhaps two thousand mil¬
+lion. As I am only concerned with
+establishing orders of magnitude, the
+precise figures don't matter. But the
+point is that, for the cost of a few
+thousand million dollars a year a
+few per cent of the monies spent on
+armaments one could provide a
+global EDSAT system which could drag
+this whole planet out of ignorance.
+Such a project would seem ideally
+suited for Unesco supervision, because
+there are great areas of basic educa¬
+tion In which there are po serious
+disagreements.
+The beauty of television, of course,
+is that to a considerable extent it
+transcends the language problem. I
+would like to see the development, by
+the Walt Disney studios or some
+similar organization, of visual edu¬
+cational programmes which do not
+depend on language, but only upon
+sight, plus sound effects. I feel
+certain that a great deal can be done
+in this direction, and it is essential
+that such research be initiated as soon
+as possible, because it may take much
+longer to develop appropriate pro¬
+grammes than the equipment to trans¬
+mit and receive them.
+Even the addition of language, of
+course, does not pose too great a
+problem, since this requires only a
+fraction of the band-width of the vision
+signal. And sooner or later we must
+achieve a world in which every human
+being can communicate directly with
+every other, because all men will
+speak, or at least understand, a hand¬
+ful of basic languages. The children
+of the future are going to learn several
+languages from that third parent in the
+corner of the living-room.
+Perhaps looking further ahead, a
+time is going to come when any
+student or scholar anywhere on earth
+will be able to tune in to a
+course in any subject that interests
+him, at any level of difficulty he
+desires. Thousands of educational
+programmes will be broadcast simul¬
+taneously on different frequencies, so
+that any individual will be able to
+proceed at his own rate, and at his
+own convenience, through the subject
+of his choice.
+T,
+HIS could result in an
+enormous increase in the efficiency of
+the educational process. Today, every
+student is geared to a relatively
+inflexible curriculum. He has to attend
+classes at fixed times, which very often
+may not be convenient. The opening
+up of the electromagnetic spectrum
+made possible by comsats will
+represent as great a boon to scholars
+and students as did the advent of the
+printing press itself.
+The great challenge of the decade
+to come is freedom from hunger. Yet
+starvation of the mind will one day be
+regarded as an evil no less great
+than starvation of the body. All men
+deserve to be educated to the limit
+of their capabilities. If this opportunity
+is denied them, basic human rights
+are violated.
+This is why the forthcoming experi¬
+mental use of direct broadcast EDSATS
+in India in 1972 is of such interest and
+importance. We should wish it every
+success, for even if it is only a
+primitive prototype, it may herald the
+global educational system of the future.
+It is obvious that one of the results
+of the developments we have been
+discussing will be a breakdown of the
+
+barrier between home and school, or
+home and university for in a sense
+the whole world may become one
+academy of learning. But this is only
+one aspect of an even wider revolution
+because results of the new communica¬
+tions devices will also break down
+the barrier between home and place
+of work.
+During the next decade we will
+see coming into the home a gener¬
+al purpose communications console
+comprising TV screen, camera, micro¬
+phone, computer keyboard and hard-
+copy readout device. Through this,
+anyone will be able to be in touch
+with any other person similarly
+equipped. As a result, for an ever-
+increasing number of people in fact,
+virtually everyone of the executive
+level and above almost all travel for
+business will become unnecessary.
+Recently, a limited number of the
+executives of the Westinghouse
+Corporation In the United States who
+were provided with primitive forerun¬
+ners of this device, promptly found that
+their traveling decreased by 20 per
+cent.
+This,' I am convinced, Is how we are
+going to solve the traffic problem
+and thus, indirectly, the problem of air
+pollution. More and more, the slogan
+of the future will be, "Don't Commute
+Communicate." Moreover, this de¬
+velopment will make possible and
+even accelerate another fundamental
+trend of the future.
+It usually takes a genius to see the
+obvious, and once again I am indebted
+to Professor Buckminster Fuller for
+the following ideas. One of the most
+important consequences of today's
+space research will be the develop¬
+ment of life-support, and above all,
+food1 regeneration systems for long-
+duration voyages and for the establish¬
+ment of bases on the Moon and
+planets. It is going to cost thousands
+of millions of dollars to develop these
+techniques, but when they are per¬
+fected they will be available to
+everyone.
+This means that we will be able to
+establish self-contained communities
+quite independent of agriculture, any¬
+where on this planet that we wish;
+perhaps one day even individual homes
+may become autonomous closed
+ecological systems producing all their
+food and other basic requirements
+indefinitely.
+This development, coupled with the
+communications explosion, means a
+total change in the structure of society.
+But because of the inertia of human
+institutions, and the gigantic capital
+investments involved, it may take a
+century or more for the trend to come
+to its inevitable conclusion. That
+conclusion is the death of the city.
+We all know that our cities are
+obsolete, and much effort is now
+going into patching them up so that
+they work after some fashion, like
+thirty-year-old automobiles held toge¬
+ther with string and wire. But we
+CONTINUED NEXT PAGE
+WORLD
+TV CLASSES
+FROM
+SPACE
+The cost of the equipment for a truly global satellite
+educational system broadcasting radio and TV
+programmes to all countries has been estimated at
+about $1 per pupil per year. Such a system could
+eventually be developed to allow thousands of
+programmes to be broadcast simultaneously on different
+frequencies so that any individual could select the
+subject and level of his choice. T.V. educational
+broadcasts via communications satellite are to begin
+in India in 1972, and the results may show whether
+this method offers a real solution to the educational
+problems of the developing countries. A global
+communications satellite system may also open up
+vast possibilities for the new idea of "lifelong
+education". Photo shows two Malagasy technicians
+at work on the antenna of a satellite tracking station
+in Tananarive (Madagascar). Built by a Madagascar
+firm for NASA, the station is manned by 120 Malagasy
+technicians with U.S. help. In addition to tracking
+satellites in orbit, it picks up data recorded by
+weather and astronomical observation satellites.
+35
+
+World weather watch
+around the clock
+The development of a morning's weather hour
+by hour (left) recorded by a satellite passing over
+the Pacific on January 24, 1967. Right, photo
+sequence of day-to-day weather changes over
+the Pacific. Satellite meteorological observations
+have sparked a revolution in the art of weather
+forecasting. More accurate predictions have
+brought incalculable benefits, from the saving
+of lives and property to the protection of
+food crops. Even more fantastic prospects
+will be opened up once reliable long-range global
+forecasts of two weeks or more become a
+reality. The potential saving of such forecasts
+to India's agriculture, for example, would be
+at least $1,600 million a year and to U.S.
+agriculture $2,500 million. In 1961, timely warning
+of the approach of Hurricane "Carla" in the
+U.S. by the weather satellite Tiros 3 enabled
+over 350,000 persons to flee from the path
+of the storm. Warnings have had similar
+beneficial effects in many countries. Space
+observations now bring greater navigational safety
+to ships and aircraft. Pilots on transoceanic
+flights leaving New York now receive weather
+photos of their route transmitted automatically
+from weather satellites. Today, U.S.S.R. and
+U.S.A. weather satellite systems are combined
+in a worldwide meteorological network under the
+auspices of the World Meteorological Organization.
+Photos NASA
+1057 AM 11 43 AM
+Pacific weather, hour by hour
+36
+BEYOND BABEL (Continued)
+must recognize that in the age that is
+coming the city except for certain
+limited applications is no longer
+necessary.
+The nightmare of overcrowding and
+traffic jams which we now endure is
+going to get worse, perhaps for our
+lifetimes. But beyond that ¡s a vision
+of a world in which man is once again
+what he should be a fairly rare ani¬
+mal, though in instant communication
+with all other members of his species.
+Marshall McLuhan has coined the
+evocative phrase "the global village"
+to describe the coming society. I hope
+"the global village" does not really
+mean a global suburb, covering the
+planet from pole to pole.
+Luckily, there will be far more space
+in the world of the future, because the
+land liberated at the end of the
+agricultural age now coming to a
+close after ten thousand years will
+become available for living purposes.
+I trust that much of it will be allowed
+to revert to wilderness, and that
+through this new wilderness will
+wander the electronic nomads of the
+centuries ahead.
+It Is perfectly obvious that the
+communications revolution will have
+the most profound influence upon that
+fairly recent invention, the nation-state.
+I am fond of reminding American
+audiences that their country was
+created only a century ago by two
+inventions. Before those inventions
+existed it was impossible to have a
+United States of America. Afterwards,
+it was impossible not to have it.
+Those inventions, of course, were
+the railroad and the electric telegraph.
+U.S.S.R., China in fact all modern
+states could not possibly exist
+without them. Whether we like it or
+not and certainly many people won't
+like it we are seeing the next step
+in this process. History is repeating
+itself one turn higher on the spiral.
+What the railroad and the telegraph
+did to continental areas a hundred
+years ago, the jet plane and the
+communications satellite will soon be
+doing to the whole world.
+Despite the rise of nationalism and
+the surprising resurgence of minority
+political and linguistic groups, this
+process may already have gone further
+than Is generally imagined. We see,
+particularly among the young, cults
+and movements which transcend all
+geographical borders. The so-called
+"jet set" is perhaps the most obvious
+example of this transnational culture,
+but that involves only a small minority.
+In Europe at least, the Volkswagen
+and Vespa sets are far more numerous
+and perhaps far more significant.
+The young Germans, Frenchmen, and
+Italians are already linked together by
+a common communications network,
+and are impatient with the naive and
+simple-minded nationalism of their
+parents which has brought so much
+misery to the world.
+What we are now doing whether
+we like it or not indeed whether we
+wish to or not is laying the foundation
+of the first global society. Whether
+the final planetary authority will be an
+analogue of the federal systems now
+existing in the U.S. or the U.S.S.R.
+I do not know. I suspect that, without
+any deliberate planning, such organiza¬
+tions as the world meteorological and
+earth resources satellite system, and
+the world communications satellite
+system (of which INTELSAT is the
+precursor) will eventually transcend
+
+13 January 1967 14 January 1967 15 January 1967
+Pacific weather, day by day
+their individual components. At some
+time during the next century they will
+discover, to their great surprise, that
+they are really running the world.
+There are many who will regard
+these possibilities with alarm or
+distaste, and may even attempt to
+prevent their fulfilment. I would
+remind them of the story of the wise
+English king, Canute, who had his
+throne set upon the sea-shore so he
+could demonstrate to his foolish
+courtiers that even the king could not
+command the incoming tide.
+The wave of the future Is now rising
+before us. Let us not attempt to hold
+it back. Wisdom lies in recognizing
+the inevitable and co-operating with
+it. In the world that Is coming, the
+great powers are not great enough.
+Let us look at our whole world as
+we have already done through the
+eyes of our moon-bound cameras.
+I have made it obvious that it will be
+essentially one world though I am not
+foolish or optimistic enough to imagine
+that it will be free from violence and
+even war. But more and more it will
+be recognized that all terrestrial vio
+lence is the concern of the police and
+of no one else.
+And there is another factor which
+will accelerate the unification of the
+world. Within another lifetime, this
+will not be the only world, and that
+fact will have profound psychological
+impact upon all humanity. We have
+seen in the annus mirabilis of 1969
+the imprint of man's first footstep on
+the Moon. Before the end of this
+century, we will experience the only
+other event of comparable significance
+in the foreseeable future.
+Before I tell you what it is, ask
+yourselves what you would have
+thought of the Moon landing, thirty
+years ago. Well, before another
+thirty have passed, we will see its
+inevitable successor the birth of the
+first human child on another world, and
+the beginning of the real colonization
+of space. When there are men who
+do not look on Earth as home, then
+the men of Earth will find themselves
+drawing closer together.
+In countless ways this process has
+already begun. The vast outpouring
+of pride, transcending all frontiers,
+during the flight of Apollo 11 was an
+outstanding indication of this process.
+Whether or not one takes it literally,
+the myth of the Tower of Babel has an
+extraordinary relevance for our age.
+Before that time, according to the book
+of Genesis (and indeed according to
+some anthropologists) the human race
+spoke with a single tongue.
+That time may never come again, but
+the time will come, and through the
+impact of comsats, when there will be
+two or three world languages which all
+men will share. Far higher than the
+misguided architects of the Tower of
+Babel ever could have imagined
+36,000 kilometres above the equator
+the rocket and communications
+engineers are about to undo the curse
+that was then inflicted upon our
+ancestors.
+So let me end by quoting the
+relevant passage from the 11th chapter
+of Genesis, which I think could be a
+motto for our hopes of the future:
+And the Lord said: Behold they are
+one people and they have all one
+language, and this is only the beginn¬
+ing of what they will do, and nothing
+that they propose to do now will be
+impossible for them.
+37

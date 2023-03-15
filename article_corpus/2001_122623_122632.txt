@@ -1,0 +1,236 @@
+JEAN-PIERRE LUMINET
+DIRECTOR OF ASTROPHYSICS AT THE PARIS-MEUDON OBSERVATORY,
+AUTHOR OF L’UNIVERS CHIFFONNÉ (FAYARD, 2001)
+
+
+
+M i r ro r,
+mirror up above
+Could we be living deep in a cosmic mirage, where rays of light multiply
+and distort our perceptions of space? Instead of being flat and infinite,
+might space not in fact be folded up—and our sense of the universe’s
+vastness just an illusion?
+I
+t is extremely difficult for most of us to give a
+shape to something as intangible as space. Fo r
+the physicist, the question only has meaning if
+couched in the language of geometry. So then
+the question becomes: how can geometry best
+represent physical space—the space we inhabit?
+The problem is much more complex than it
+first appears. There is no doubt that the space we
+live in and which we are
+familiar with is
+correctly described by
+what is known as
+Euclidean geometry, a
+set of laws devised by
+the Greek geometer
+Euclid in the third
+century BC.1 But space
+at the tiny microscopic
+l e v e l , according to
+quantum mechanics, is
+a chaotic, f l u c t u a t i n g
+domain somewhat like
+the foam on the surface
+of an ocean, while at
+the very large
+cosmological level we
+learn that space is in
+truth “ c u r v e d .” Wh e n
+we ask what shape or
+form space has,
+t h e r e f o r e, modern physics actually gives us a
+variety of answers depending on the level at which
+we are looking.
+Yet what exactly do we mean when we say
+that space is “curved”? The modern science of
+cosmology stems largely from the equations of
+general relativity formulated by Albert Einstein in
+the first two decades of the 20th century.A c c o r d i n g
+to these equations, all space is deformed, or rather
+c u r v e d , by the distribution of matter such as
+galaxies inside it.This curvature manifests itself as
+one of the universe’s most fundamental forces:
+gravity.
+Now if we turn to the universe as a whole—by
+which we mean huge scales of over 102 5 m e t r e s — i t
+appears that the virtually uniform distribution of
+galaxies throughout the cosmos must curve space in
+a likewise uniform fashion.Aside from this constant
+c u r v a t u r e, the universe should also have an
+underlying dynamic: in other words, it can either be
+expanding or contracting.
+On the basis of Einstein’s equations,A l e x a n d e r
+Friedmann and Georges
+Lemaître discovered in
+the 1920s a set of
+models for such curved
+space.The most simple
+version points to so-
+called positive
+c u r v a t u r e, resembling a
+simple sphere that
+dilates from the big
+bang onwards to reach
+a maximum size before
+contracting back into a
+final “big crunch.”
+Space could also have
+no curvature or a
+negative curvature
+(forming a
+“ h y p e r b o l i c ” shape that
+resembles a saddle).In
+both of these cases, the
+universe expands
+forever, though the rate of expansion slows over
+time.
+Recent observations have suggested that cosmic
+space is in fact close to the “no curvature” m o d e l —
+in other words it is flat and almost Euclidean,like
+our normal understanding of space. But the data also
+indicates that the universe is expanding at an
+increasing rate, suggesting that some kind of
+“cosmological constant” is accelerating the
+expansion rate.This constant may be understood as
+the energy of empty space.
+But important questions remain. Can general
+relativity really give us a satisfactory description of
+the shape of space at the largest scales? It is, after all,
+1 . SCIENCE AT THE LIMITS
+Four images of the same quasar, bent around
+a central galaxy:a common astronomical mirage.
+1. Based on five axioms
+(including his most
+famous one, n a m e l y
+t h a t parallel lines do
+n o t m e e t ) , E u c l i d ’s 13-
+volume text E l e m e n t s
+includes commonsense
+geometric theorems such
+as that the angles in a
+triangle add to 180º.N o n -
+Euclidean geometry was
+created in the 19th
+century.
+
+still unclear whether space is finite or infin i t e : a
+spherical universe would certainly be finite, but a
+Euclidean or negatively curved universe could be
+either finite or infinite.
+At this stage we need a new approach: that of
+t o p o l o g y,a branch of geometry devoted to exploring
+the properties that define particular spatial objects.
+Where the science of curvature falls shorts, t o p o l o g y
+can step in to tell us about the overall structure of
+space.
+Euclidean space can certainly be a lot more
+complicated than imagined. A surface with no
+c u r v a t u r e, for example, is not necessarily fla t .All one
+has to do to prove this is take a rectangular piece of
+paper and stick it together at the edges to make a
+cy l i n d e r. Just as with the original flat piece of paper,
+the surface of the cylinder is still Euclidean. The
+cy l i n d e r ’s surface thus still has no curvature, b u t
+unlike the flat paper, it is finite in one direction.
+This is the sort of property that topology, n o t
+curvature, can reveal.Cutting and sticking the flat
+piece of paper into various new shapes does not alter
+the curvature of the paper itself, but radically
+changes it overall shape—its topology.
+The dawn of
+ruffled space
+In space which is fla t , any two points can be
+joined only by a single line, or geodesic—meaning
+simply a line in curved space. In what we call multi-
+connected space, on the other hand, an infin i t e
+number of geodesics join two points together,as can
+be seen in the diagram.It is this very property which
+gives such spaces extraordinary cosmological
+relevance.
+When we look at a faraway galaxy, we normally
+think that we are seeing just one unique object,in
+one particular direction and at one distance. But if
+cosmic space is multi-connected,rays of lights will
+replicate to produce multiple images of the observed
+galaxy. Since our entire perception of space comes
+from analysis of the trajectories of light rays, such a
+multi-connected space would mean we are plunged
+in a massive optical illusion that makes the universe
+appear much larger than it really is. Distant galaxies
+that we believe to be “original” would in fact be
+repeated images of a single galaxy.
+A “ruffled”space would be just such a cosmos:
+a multi-connected domain of finite volume, whose
+size would be smaller than the observed universe
+(whose radius is around 15 billion light-years).Th i s
+space would create a topological mirage t h a t
+constantly repeated the images from shining
+sources—akin to standing in a hall of mirrors.
+Similar optical illusions are already well known
+by astronomers,and go under the name g r a v i t a t i o n a l
+m i r a g e s. These occur when light from a distant
+object such as a quasar is bent by the effect of a
+massive body situated on its sightline. As a result,
+light rays from the star follow the curvature of
+space and are scattered (see photo). What the
+observer sees is a group of phantom images
+surrounding the intervening heavy object (known by
+astronomers as a “ l e n t i l ” ) .This sort of mirage can be
+directly ascribed to the l o c a l curvature of space
+around the lentil.
+In the event of a topological mirage, however,
+there is no single heavy body like a galaxy deforming
+s p a c e. I n s t e a d ,space itself plays the role of a lentil:
+phantom images are distributed in all directions
+and for all their points in history across the entirety
+of space.Such a global mirage allows us to examine
+objects not only from every possible angle,but also
+from every possible phase in their evolution.
+For space to have this ruffled shape, it would
+have to be highly subtle and constructed over very
+large scales. If not,we would have already identifie d
+phantom images of our own galaxy and other well-
+known structures—a feat we have not yet achieved.
+So how can we then establish the true topology
+of the universe? One method, c o s m i c
+c r y s t a l l o g r a p h y, attempts to pinpoint repetitions in
+the distribution of distant objects. Studies of
+fluctuations in the cosmic background radiation—
+a fossil from the big bang—might also indicate that
+space is ruffled by uncovering specific recurrences.
+Experimental projects in both fields are under-
+w a y, though neither the depth nor the resolution of
+observations are yet good enough to draw
+conclusions about space’s overall topology. Th e
+next few years, h o w e v e r,promise great things: d e e p
+surveys of distant galaxies and quasars, along with
+new satellites probing background radiation.
+Perhaps we will soon be able to give a form to
+space. ■
+A very simple two-
+dimensional universe
+illustrates how an observer
+in galaxy A (red) can see
+multiple images of galaxy B
+(yellow).This model of the
+universe, called a tore (a
+doughnut shape),is
+constructed from a square
+stuck together on two sides.
+Instead of one line linking
+the galaxies, light from
+galaxy B can now reach
+galaxy A by various routes;
+as a result, the observer in
+galaxy A sees images of
+galaxy B from various
+directions.Though the tore is
+finite, the observer is under
+the illusion that space is
+much larger than it really
+it—his or her image of
+space is similar to a grid of
+repeated cells.

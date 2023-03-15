@@ -1,0 +1,548 @@
+THE TRANSLATING MACHINE
+helping to solve some of the language problems of science
+ONE major obstacle to the inter-
+nationality of science is the
+diversity of languages, as a result
+of which half or more of what is
+published is useless to half or more of
+thé world's scientists, technologists and
+medical men.
+The actual proportions so lost are very
+difficult to estimate statistically, but a
+rough idea, for science as a whole, can be
+gained from the unshaded areas in the
+diagram published with this article.
+The proportion varies, however, from
+one branch of science to another and
+changes in the course of time. In
+chemistry, for instance, German was the
+leading language until shortly after the
+First World War, when English took its
+place. French at one time came second,
+but after 1914 it ranked only fourth and
+now Japanese competes with it for fifth
+place. Nearly seventy years ago Russian
+reached fifth place among forty lan¬
+guages, but it is now competing with
+German for second place.
+All that part of scientific literature
+which is represented by the < areas left
+unblackened in the diagram is un-
+exploitable, unless either, it is translated,
+or the ability of scientists to read the
+appropriate foreign languages is in-
+by Edwin Holmstrom
+creased above the level here assumed, or
+scientific authors and publishers can be
+persuaded to make use of languages more
+widely understood than their own. Let
+us briefly consider each of these alter¬
+natives in turn.
+Technical translating is slow, difficult
+and uncertain. Since nobody can trans¬
+late what he does not understand, it
+follows that the translator must be
+himself a scientist as well as acquainted
+with the language he is translating from,
+and competent as an author in the
+language he is translating into. Especially
+where the less common languages and
+the more recondite specialities of science
+are concerned these qualities are rarely
+found in perfect combination.
+But, from the consumer's point of view,
+translating is necessarily expensive.
+Where an original journal can be bought
+for the equivalent of perhaps 50 U.S.
+cents, a translation of a scientific article
+in it, made by a specialist, will cost
+perhaps $50. In other words it is not
+worth paying to have done unless there
+are grounds for supposing it will be worth
+a hundred times as much to the scientist
+who wants it as something on the same
+topic in his own language. In some
+countries, to spread the cost of trans¬
+lating, bureaux exist in which manu¬
+scripts of unpublished translations are
+filed and from which copies are supplied
+on payment.
+The more technical a translation, the
+less the part that the linguist as such
+and the greater the part that the subject
+specialist can play in making it a good
+one. This being so, quite promising
+experiments have been made in replacing
+the linguist by electronic machines, built
+on the lines of mathematical computers.
+Such machines are able permanently
+. to register sequences of code patterns of
+electrical impulses corresponding to the
+different letters of the alphabet, fed into
+them by operating a typewriter keyboard. .
+If two equivalent words in different
+- languages have been so registered at the
+same time, the "typing" of one of these
+at any future time will cause the
+machine automatically and instantane¬
+ously to type out the other.
+If that were all, we should have a
+mechanical dictionary. It is possible,
+however, to go considerably further. The
+machine can be made to type, out code
+letters which indicate how the words fed
+povitunitr
+Ml». »IUI
+II
+KHfHr E-STYC
+DO
+i
+I III
+III!
+3]]]
+(HI
+>||.
+JSSS
+BitS
+ill.
+1171
+III
+IDO
+lili
+lili
+1311
+4*44
+lili
+SSSS
+(its
+lili
+7111
+IUI
+iiii
+9191
+D00O
+nu
+7!
+Uli
+1444
+S9SS
+ii
+7777
+III
+999
+0IO|
+¡m
+IV,'
+m
+1444
+ssss
+II
+7777
+nu
+999
+l'IlMH
+i'ii'n
+IJJ!
+3311
+4441
+9999
+lit!
+1777
+III!
+9999
+Mil
+727)
+1119
+4444
+5SS5
+IUI
+7117
+II
+9999
+00|0
+Mil
+7277
+1333
+1114
+îsïs
+t|ti
+¡77 ;
+a g s a
+999|
+IJJI
+"¡I
+Mil
+1311
+1444
+n m ii u
+SSSS
+Uli
+un
+°MIII|û
+Mil
+2277
+3133
+1444
+Mil
+227
+3333
+4444
+Í3SS
+EIII6EII
+1171
+l|l|llll
+1177
+IUI
+9999
+«I
+II"
+7722
+¡¡¡33
+4444
+SSSS
+HIE
+1111
+Mil
+7722
+3331
+H|||0|||||0
+Mil
+27|7
+îîîi
+4444
+îî's'i
+ÍSSS
+1111
+Hill!
+9)99
+Mil
+2777
+mi
+4444
+sss
+| E E
+Will.
+7717
+IIII
+9999
+l>o|||o|H||||||HHlH||
+MM
+7722
+4 4 4 4
+sis'3v-
+III
+7771
+IUI
+999]
+Mil
+2727
+]33|B133
+1444
+sí: s
+Ei|l
+7117
+lit!
+9999
+1444
+S555
+un
+uun
+7171
+III
+19 9
+I I I I
+2277
+3331
+4414
+9ÍSS
+USE
+7711
+Uli
+9999
+I I I I
+2212
+1313
+1444
+55S5
+sut
+777!
+Ill
+9999
+I I I I
+7777
+3213
+4444
+SSS5
+USE
+7711
+IUI
+9999
+Mil
+1111
+1111
+1144
+Í9IS
+Sill
+imn*
+1777
+IUI
+9919
+KftChyçsrvc
+III I
+UCLYfl
+I I
+*-a!.!:çiii"'Cirjv.'
+II I
+I I II lllllll
+CFÇfTErTl.Y nïEnro
+I I I I I
+I I I III I I III
+i ni nun i mu i i ii ni mum
+I I llll
+This card is punched with a sample Russian_language sentence (as
+interpreted at the top) in standard IBM puncned-card code. It is
+then accepted by the 701, converted into its own binary language and _
+translated by means of stored dicticrnary and operational syntactical
+programs into the English language equivalent which is then printed.
+I I
+II I I I I I I III
+I II
+THE JUAL1TY
+CALORY CONTINT
+CF COhL lb DETERMINED BY
+FROM RUSSIAN INTO ENGLISH IN TEN SECONDS
+On January 7 the International Business Machine Corporation,
+producers of the world's largest electronic calculators, gave the
+first public demonstration of a new type of translating machine
+at work (Photo left). At the demonstration, held in New York,
+the machine was given various sentences in Russian for translation
+into English One of the sentences was: "Myezhdunarodnoye
+ponyimanyiye yavlyayetsya vazhnim faktorom v ryeshyenyiyi polyi-
+tyichyeskyix voprosov. " Ten seconds later the machine translated
+in English "International understanding constitutes an important
+factor in the decision of political questions. Above, the punch card
+which translated "The quality of coal is determined by calory con¬
+tent " from the Russian. Below left, card showing Russian sentence
+"Obrabotka poyishayet kachyestvo Nyeftyi. ". Machine trans¬
+lated this as "Processing improves the quality of crude oil."
+The translating arrangement is mostly the work of Dr. Leon
+Dostert, chairman of Georgetown University's Institute of. Lan¬
+guages and Linguistics, and Dr. Cuthbert Hurd, Director of IBM's
+Applied Science Division. Dr. Dostert, an American of French
+origin first achieved prominence in the field of language translation
+at the time of the Nuremberg trials. He was one of the experts
+particularly responsible for setting up the simultaneous translation
+system now currently used by international organizations. The
+language-teaching methods used under his direction at the School
+of Foreign Service of Georgetown University are among the most
+modern to be found anywhere in the world. (Photos A. P.)
+22
+
+UNESCO COURIER -N" 1-1954
+the shaded areas re¬
+present the relative
+amounts of literature
+that can be under¬
+stood without trans¬
+lation. Unshaded,
+areas over two-
+thirds of the whole
+represent litera¬
+ture which cannot be
+read unless translat¬
+ed. The widths of
+the rectangles are
+proportional to the
+volume of scientific li¬
+terature published in
+each language, and
+their heights are pro¬
+portional to the num¬
+bers of scientists able
+to read each langua¬
+ge. English, for in¬
+stance, is the medium
+of publication for mo¬
+re than half the litera¬
+ture, but as the dia¬
+gram shows can be
+read directly by less
+than half the world's
+scientists.
+Current scientific literature is published mainly in six languages and is distrib¬
+uted between them very roughly in proportion to the widths of these columns-
+/
+GERMAN
+SPANISH
+ENGLISH
+FRENCH
+JAPANESE
+RUSSIAN
+1
+-
+- 1
+The chief
+by scientis
+six languages of science are understood
+ts of all nationalities very roughly In the
+proportions shown here.
+into it in the language of origin are
+grammatically modified or inflected.- It
+need not be limited to single words but
+may be "taught to recognize" a whole
+unit phrase in one language and type out
+the corresponding, syntactically quite
+different, phrase in the other language.
+Though the machine cannot produce -
+by itself an intelligible translation let
+alone one in good literary style when a
+text in one language is "fed" into it, it
+types out a string of words, alternative
+meanings of homonyms, symbolic letters
+and odd looking phrases which a
+specialist in the subject of the text will
+have no difficulty in editing and turning
+into an acceptable rendering, even
+though he may know nothing at all of
+the original language. .
+Though it is more likely to be in hand¬
+ling very out-of-the-way languages that
+such machines might find a possible use,
+the following example so rendered from
+French into English may be of interest.
+Here A is the original text.'B is what the
+machine typed out, and C is what the
+subject specialist, not knowing French,
+turned it into, (v means "'vacuous" or
+meaningless; m means multiple, plural or
+dual; z means "unspecific"; the sign
+/ denotes the point of separation of
+semantic elements.)
+A. Il n'est pas étonn/ant de constat/er
+que les hormone/ s de croissance ag/is-
+sent sur certain/es espèce/s, alors qu'elles
+sont in/opér/antes sur d'autre/s, si l'on
+song/e à la grand/e spécificité de ces
+substance/s.
+B. v not is not/step astonish v of estab¬
+lish ^v_ that/which? _v hormone ni of
+growth act m on certain m species m,
+then that/which ? v not operate m on
+of other m if v one~äream/consider z to
+v great v specificity of those substance m.
+C. It is not surprising to learn that
+growth hormones may act on certain
+species while having no effect on others,
+when one remembers the narrow speci¬
+ficity of these substances.
+Clearly it is better, if possible, for a
+scientist to be able to read foreign arti
+cles himself than to have to depend on
+translations. In the Scandinavian coun¬
+tries, the Netherlands, Switzerland and
+some others, almost everyone has had to
+learn to do this, but even in these
+countries few know Russian or Japanese,
+and elsewhere ability to read English,
+German or French is far from universal.
+In theory at least, proposals to encou¬
+rage the use of one particular language,
+whether natural or artificial, as the
+medium of scientific communication in
+all countries have much to commend
+them. Science, however, is a branch of
+culture and it is natural for each coun¬
+try to feel that an efflorescence of its
+own culture may best be encouraged
+through the use of its own language.
+The problem is a difficult one and too
+large to be discussejd here.
+All these questions, and many others,
+are being studied in the Report on Scien¬
+tific and Technical Translating and
+Related Problems which Unesco is pre¬
+paring for publication in 1955, utilizing
+the valuable comments, suggestions and
+information which are now being receiv¬
+ed from some 250 experts in 29 countries
+to whom a draft of the Report was sent.
+Its final chapter, "Terminology and dic¬
+tionaries", deals with a problem to which
+the Department of Natural Sciences has
+for some years past been devoting much
+attention, a problem whose importance
+deserves to be stressed here.
+It is ideas, not individual concepts,
+that have to be translated, and it is the
+phrase, not the individual word, that is
+the unit of language. In point of fact it
+very seldom happens that an expression
+in one language has its exact equivalent
+in another. Their central meanings may
+or may not be the same, but nearly
+always the penumbra of meaning is dif¬
+ferent. In English usage "welding" is
+differentiated from "soldering", whereas
+the French word "soudage" covers both.
+"Concrete" in English and "béton" in
+French, both mean a mixture of large
+and small stones and sand stuck together
+with cement or "ciment". But in French
+the word "ciment", is also commonly
+used as a synonym for "béton".
+These are rather superficial examples,
+but others like them which may have
+serious consequences, even financially
+occur in every branch of technicality.
+Ideally, to eliminate such misunderstand¬
+ings, the translator should be so accus¬
+tomed not only to reading but to himself
+reasoning about the technical subject-
+matter in both languages, that the nuan¬
+ces of the special terms are second
+nature to him. In very specialized fields,
+and for the less common languages, that,
+however, is a counsel of perfection.
+This means that dictionaries, although
+dangerous, are a necessity. To make
+them safe it is essential that they should
+indicate not only the nearest equivalents
+of the technical terms, but just how
+inexact the equivalences are, enabling
+the translator to introduce some quali¬
+fying word or turn of phrase to correct
+the inexactitude of meaning that would
+otherwise be conveyed.
+The ultimate remedy is standardization
+of the meanings of technical terms on
+the basis of definitions agreed upon by
+the specialists concerned in each lan¬
+guage. Unesco is about to publish a clas¬
+sified bibliography of existing authorita¬
+tive glossaries of this kind in single lan¬
+guages complementary to its Bibliogra¬
+phy of Interlingual Scientific and Tech¬
+nical Dictionaries, a .third edition of
+which is now being printed. The latter
+contains references to about 1,630 such
+works under nearly 400 subject heads,
+interconnecting 72 languages.
+Standardization in the full sense men¬
+tioned above must inevitably be a slow
+process. Meanwhile the production of
+more and better special dictionaries is a
+matter of urgent international impor¬
+tance. This being so, the policy which
+Unesco is pursuing is that of helping and
+encouraging the international organiza¬
+tions concerned with each field of science
+and technology to produce dictionaries
+which shall contain a mixture, typogra¬
+phically distinguished, of terms and defi¬
+nitions which are fully standardized,
+terms which are recommended by those
+organizations, and terms including
+regional variations which fall into
+neither of these categories but are liable
+to occur in the technical literature.
+23

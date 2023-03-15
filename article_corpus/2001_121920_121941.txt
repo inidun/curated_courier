@@ -1,0 +1,308 @@
+T
+SALLY WYATT
+LECTURER IN COMMUNICATIONS STUDIES AT THE UNIVERSITY OF AMSTERDAMAND MEMBEROF THE BRITISH “VIRTUAL SOCIETY?”
+PROGRAMME ANDAN EDITOR OF “TECHNOLOGY AND IN/EQUALITY, QUESTIONING THE INFORMATION SOCIETY” (ROUTLEDGE, 2000)
+
+
+
+Fleeing the dot.com era
+The Internet has been proclaimed as the supreme network, the place where one
+day all human beings will communicate. So who are these strange people
+switching off in droves?
+wo years ago,one of the scientists behind
+the original computer language that
+gave birth to the Internet announced a
+daring new plan. Work would begin,
+Vinton Cerf declared, to spread the
+network beyond the boundaries of Earth:
+the InterPlaNet, as it has been baptized,
+would bring online computing to outer
+space.
+Outlandish as it may at first seem, t h e
+plan is consistent with the hype and breezy
+forecasting all too often surrounding
+discussion of the Internet.Even though
+mounting evidence points to a stubborn
+“digital divide”separating not just poor
+and rich countries but also groups within
+n a t i o n s, p o l i cy m a k e r s, business and
+computer scientists downplay the fig u r e s
+as brief blips in the unstoppable onward
+advance of the network.
+“A figure of a hundred computers per
+human is not entirely unreasonable,
+leading to a thousand billion computers
+in the Internet in 2020,”argued Christian
+H u i t e m a , a scientist involved in the
+creation of the latest Internet protocol,
+IPv6.“Some have observed that such a
+target was a bit narrow.”
+This technological optimism has come
+under increasing scrutiny over the past
+y e a r. The “Digital Divide,” a UN
+Development Programme report from
+1 9 9 9 , revealed that less than 15 percent of
+the world’s population accounted for
+more than 88 percent of the Internet’s
+u s e r s. The financial failure of multiple
+dot.com firms and a sense that the
+technology is still too slow and unreliable
+have dented some grander hopes for an
+An uprising against the digital age? No, a protest in Munich to promote the recycling of old PCs.
+
+“information superhighway.” Yet it is a
+little known and barely noticed trend that
+may perhaps prove the most troubling: f o r
+the first time, evidence has emerged of a
+widespread tendency to abandon the
+Internet.
+No forecasting has yet taken account
+of this. A cast-iron premise in all
+extrapolations of the Internet’s future is
+that once the network is available,
+prolonged use necessarily follows.
+Recent empirical work has suggested
+otherwise. Cyber Dialogue, an Internet
+research consultancy based in the U.S.,
+has uncovered evidence of a slowdown in
+Internet growth based on interviews with
+1,000 users and 1,000 non-users. Th e y
+argue that the rate of growth is
+decelerating overall, and that an absolute
+decline in the number of users aged 18 to
+29 is underway. An interesting claim is
+that approximately one third of U. S.
+adults simply do not believe they need the
+Internet and what it offers.
+The first signs of a rebellion
+against commercialization?
+Similarly, a 2000 survey in the U.K.
+found that 40 percent of the adult
+population had no intention of going
+o n l i n e, while most of them put their
+reluctance down either to cost or to the
+belief that the Internet was irrelevant to
+their lives.Only a third of those who had
+stopped using the Internet expected to
+reconnect in the future. In early 1997,
+Cyber Dialogue estimated there were
+9.4 million former users in the U. S. , a
+figure that had jumped to 27.7 m i l l i o n
+by September 1999.
+According to U. S. researchers Ja m e s
+Katz and Philip Apsden,the number of
+ex-users jumped in the 1990s, albeit by a
+smaller margin. Their national,random
+telephone surveys sketch some features
+of this apparent anomaly. People who
+stop using the Internet, they argue, are
+poorer and less well-educated. Th o s e
+who are introduced to it via family and
+friends are more likely to drop out than
+those who are self-taught or receive
+formal training. Most surprisingly,
+teenagers are more likely to give up than
+people over 20.
+These results must be treated with
+considerable caution,since former users
+can easily become active ones at a later
+date. But the sheer existence of Internet
+malcontents—and in such numbers if
+Cyber Dialogue is to believed—raises
+critical challenges to the entire online
+i n d u s t r y. Why the decision to abandon
+use just at the time of giant Internet
+expansion prompted by the introduction
+of the World Wide Web?
+Possibly the most salient feature in
+the trend is how it has coincided with a
+revolution in the network’s character.
+Though there is as yet no concrete
+evidence of a link between the two, the
+suspicion is that the Internet’s first users
+have been alienated by the rampant
+commercialization of the network over
+the past five years. Perhaps these figures
+point to the first signs of rebellion against
+the transformation of a computer- l i n k e d
+community into a marketplace.
+During its first 20 years, the network
+was the preserve of computer science
+p r o f e s s i o n a l s, students and academics
+resourceful enough to negotiate its
+complicated protocols (see box). But in
+1 9 9 1 , the U. S. National Science
+Foundation decided to allow commercial
+t r a f fic, heralding the Internet’s switch
+from academic forum to virtual bazaar.
+The foundation’s decision was followed
+by the creation of the Commercial
+Internet Exchange, designed to regulate
+the exchange of traffic between newly
+emerging and profit-oriented Internet
+service providers (ISPs).
+From four computers connected in
+1969, the number grew to 188 by 1979,
+159,000 by 1989, and over 56 million
+worldwide by mid-1999.But the decisions
+of the early 1990s and the emergence of
+the Web—allowing user- f r i e n d l y
+multimedia features and full integration
+of the Internet’s previously dispersed
+elements (e-mail, file transfer and
+information access)—also marked a
+change in style. The temptations of
+advertising on and profiting from this
+unique interface soon proved
+o v e r w h e l m i n g.The proportion of Internet
+computer addresses ending with .com or
+.net, and thus in the private sector, has
+risen steeply as a result. By 1999, these
+addresses formed 79 percent of the
+Internet, up from 47 percent four years
+earlier.Over the same period,the public
+sector share, represented by addresses
+ending with .edu, .mil, .gov and .int, fell
+from 48 to 17 p e r c e n t . N o n - p r o f i t
+organizations also dropped in their share,
+from five to two percent.From their very
+low base at the end of the 1980s, b u s i n e s s
+shot to a position of dominance within a
+decade.
+There is no doubting that the Internet
+remains an incredibly diverse collection
+of resources. Much of the original public
+sector ethos has also remained:most sites
+are free, and a slew of databases or
+archives held by companies (particularly
+the press) are open to whoever wishes
+to access them.
+But it does seem highly probable, if
+a s yet empirically unproven, that the
+Internet’s mutation has driven away its
+first zealots. Back in the 1980s, there was
+
+relatively little distinction between the
+producers of what was on offer on the
+network and the consumers. If you had
+the skills and resources needed to access
+the Internet,it was more than likely that
+you would be able to produce content
+and even services for it. The ethos was
+“give some, take some.”
+A string of mergers
+in the scramble
+for supremacy
+In the first few years of the web, this
+interactive culture continued, a l l o w i n g
+anyone with a small amount of technical
+knowledge to become an “ I n t e r n e t
+p u b l i s h e r.” The change since then has
+been profound. Increased emphasis on
+scripting languages,multimedia and links
+from the web to databases held by
+organizations has handed power to
+skilled,professional programmers. Now,
+the medium that was initially conceived as
+an opportunity for smaller organizations
+and individuals to create and prosper on
+a “level playing fie l d ” has bifurcated into
+an industry of producers and a mass of
+consumers.
+This trend was reinforced by the
+spread of search engines such as Yahoo!
+and A l t a Vi s t a , both of which aimed to
+help the user navigate through the surfeit
+of Internet resources. C o m m e r c i a l
+extension of this concept has given rise to
+the “portal”—one of most important
+elements in the current web industry.
+While offering traditional search features,
+these portals also try to maximize revenue
+by “click-through”advertising and deals
+with electronic commerce firms. Th e
+result of the scramble for portal
+supremacy has been a string of mergers
+and takeovers aimed at securing a top
+spot in Internet rankings, with leading
+contenders like AO L , Yahoo! and
+Microsoft acquiring other fir m s,b o o s t i n g
+c o n t e n t , and linking up to media
+companies such as Disney and A B C
+network.As the era of digital television
+d a w n s, this convergence of access and
+content is certain to accelerate.
+There are definitely many users who
+would not object.Even in its mid-1990s
+i n c a r n a t i o n , use of the Internet was
+plagued by problems of connection, s l o w
+movement of data, excesses of
+information and the off-loading of “ j u n k
+mail.” It seems likely that some of those
+who abandoned the Internet did so out of
+disappointment with the sluggish and
+haphazard service they received once
+they had signed up for the promised
+information revolution.
+Such former users could well be
+tempted back by the latest Internet
+d e v e l o p m e n t s.A stress on “ p u s h i n g ”p r e -
+defined content through portals,
+sophisticated encryption schemes, secure
+payment systems and faster connections all
+promise to make the network easier to
+use and navigate, while simultaneously
+reducing variety. Add to this the
+fragmentation of the Internet through its
+introduction in mobile phones, i n t e r a c t i v e
+television and palmtops, and it is clear that
+the marriage between access and
+content—between the device that leads
+the user into the network and what the
+user sees—may well become much tighter.
+The result could be absolute
+commercialization.
+The symbolic value of joining
+the information highway
+This goes to show that the
+requirements of different groups of users,
+and particularly groups of former users,
+are not necessarily the same. The more
+commercial the network becomes, t h e
+more it strays from its free and interactive
+origins, the more likely certain users will
+be turned off.A different group of users,
+on the other hand, might switch off were
+it to remain chaotic and technical.
+Certain trends may help to bridge this
+g a p.The number and breadth of Internet
+resources is still growing,as is the quantity
+of local content made outside the United
+S t a t e s.Simple text message services sent
+via low-speed telecoms—the so-called
+“information dirt track”—could also
+speed the take-up of the Internet
+throughout the developing world,e v a d i n g
+the costly trap of commercial,h i g h - s p e e d
+service providers.
+But a whole set of premises about the
+exponential increase in use of the Internet
+and the loyalty of Internet users are under
+threat.At present,the symbolic value of
+having Internet access is mainly perceived
+as a sign of inclusion in an unspecified,
+high-technology future. Its rejection can
+be seen to imply a refusal of the
+i n t i m i d a t i n g, exhausting pace of
+technological and social innovation.The
+Internet may travel to space,but it still has
+convincing to do on Earth. ■
+Internet users in the world (millions), 1990-2000
+1990 1991 1992 1993 1994 1995 1996 1997 1998 1999 2000
+2.6 4.4 6.9 9.4 16 34
+56
+92
+145
+257
+385
+Some may be switching off, but the Internet is attracting steadily growing numbers.

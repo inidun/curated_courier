@@ -1,0 +1,351 @@
+THE most important feature of the
+physical world around us the
+Universe is its structure.
+Rather than being scattered haphazard¬
+ly, the matter that surrounds us is, to a
+large degree, assembled in various for¬
+mations or structures. Structures of
+one type constitute the building blocks
+from which are formed structures of a
+second level that are considerably
+larger in spatial dimension. These
+second-level structures are in turn
+assembled into third-level structures
+and so on, but, as we shall see later, not
+ad infinitum. In other words, there is a
+hierarchy of structural levels.
+If we confine ourselves to
+astronomical scales, any enumeration
+of these structures must necessarily
+start with the Earth and the other
+planets of the solar system whose cen¬
+tre is the star we call the Sun. Hundreds
+or thousands of millions of stars are
+grouped in galaxies like our Galaxy, the
+Milky Way, or the nebula in An¬
+dromeda. This is the second astro¬
+nomical structural level. Galaxies,
+however, are unevenly distributed in
+space and form huge clusters or
+superclusters. It is these structures that
+are of interest in cosmology the study
+of the Universe itself.
+For the non-expert in astronomy the
+unit of distance of which he can most
+easily form a mental picture is the light-
+year the distance travelled by light in
+one year. A light-year is approximately
+equivalent to ten million million (1013)
+kilometres. For comparison let us
+YACOV BORISSOVICH ZELDOVICH,
+Soviet physicist, is a member of the USSR
+Academy of Sciences. In the field of
+astrophysics and cosmology he has been In¬
+volved in the development of theories con¬
+cerning the evolution of stars and stellar
+systems, and of processes in an expanding
+"hot" universe. He has been awarded the
+Lenin Prize and four State Prizes in recognition
+of his scientific achievements.
+
+by Yacov Borissovich Zeldovich
+>*3S?5fc
+W$k *; f*¿.
+recall that it takes light eight minutes to
+reach the Earth from the Sun, but ap¬
+proximately four years from Próxima
+Centauri, the nearest star. Próxima is
+therefore four light-years away.
+The diameter of a typical galaxy may
+be as little as ten thousand or as much
+as one hundred thousand light-years,
+and the distance from the Earth to the
+nearest giant galaxy, Andromeda's
+nebula, exceeds two million light-years.
+Galaxies are grouped together in
+clusters, and the diameters of the big
+clusters of galaxies are of the order of
+ten million light-years. Clusters
+themselves group together in
+superclusters that are between one
+hundred million and three hundred
+million ,;ght-years across.
+Big clusters of galaxies, containing
+thousands of galaxies and more, have
+been known for a long time because
+they stand out clearly in the sky. Figure
+(1) overleaf, for instance, shows the
+great cluster of galaxies in the direction
+of (but far beyond) the constellation
+Coma. But superclusters have only
+been unambiguously identified as a
+result of progress achieved in observa¬
+tional astronomy in the past decade.
+The structure of the superclusters
+could not be determined as long as the
+photographs studied in stellar atlases
+showed only a projection of a galaxy's
+position on the celestial sphere. If
+galaxies seem to be alongside each
+other in photographs, it does not
+follow that they are actually near one
+another. It is quite possible that such
+galaxies are at different distances from
+the Earth and that it is only by accident
+that they lie almost along the same line
+of sight as viewed from the Earth. The
+true position of galaxies in space can be
+ascertained only by constructing a
+three-dimensional picture. To do this a
+third co-ordinatethe distance to the
+galaxymust be added to the two
+angle co-ordinates which give the posi¬
+tion of the galaxy on the celestial sphere
+(these are analogous to geographical
+latitude and longitude).
+The distances to the distant galaxies
+are found using Hubble's Law, which
+tells us that the velocity at which a dis¬
+tant galaxy is receding from us is pro¬
+portional to its distance from us. The
+coefficient of proportionality is called
+Hubble's constant (see page 16). The
+velocity of a galaxy can be determined
+from the Doppler effect on the light
+coming from that galaxy, that is to say
+by measuring its "red shift" (see page
+16).
+Red shifts have now been measured
+for more than ten thousand galaxies.
+Using the distances to the galaxies thus
+obtained, three-dimensional pictures
+of the distribution of the galaxies in
+space have been constructed with the
+aid of computers. The results were
+unexpected.
+Why unexpected, and what distribu¬
+tion of galaxies would we have ex¬
+pected a priori? If all structural levels
+of matter are qualitatively similar to
+each other and differ only in spatial
+dimensions, then something not unlike
+the structure depicted in Figure (2),
+where every dot represents a galaxy,
+should have been obtained.
+In other words, on the basis of our
+previous knowledge it was quite
+natural to suppose that galaxies are
+grouped in clusters in exactly the same
+way that stars are grouped in galaxies.
+The existence of such clusters, as in
+Coma (see Figure 1), would furnish an
+additional argument in support of such
+an hypothesis.
+The reality, however, proved to be
+quite different. An overwhelming pro¬
+portion (80 to 90 per cent) of the galax¬
+ies proved to be concentrated in greatly
+extended, thread-like (filamentary)
+patterns with a thickness of less than
+thirty million light-years and a length
+of up to three hundred million light-
+years. Adjacent threads intersect each
+other forming a combined, three-
+dimensional structure like a network of
+cells, or a honeycomb. This structure is
+usually called a supercluster system, a
+boundary being conventionally drawn
+between separate superclusters where
+the threads become finer and more
+distinct. The large clusters of galaxies,
+of the type depicted in Figure (1), con¬
+tain an extremely small proportion (less
+than ten per cent) of all the galaxies,
+and as a rule they are situated near the
+points of intersection of the filamen¬
+tary structures.
+A schematic, very simplified picture
+of the distribution of the galaxies is
+given in Figure (3). Superclusters oc¬
+cupy a very small portion (about ten
+per cent) of the volume of the Universe
+as a whole. The remaining space con¬
+tains hardly any galaxies. In a projec¬
+tion of the visible celestial sphere these
+huge voids disappear completely
+because the superclusters lying behind
+these voids are seen through the gaps.
+The same thing happens with the
+filamentary structures. Only the big
+clusters, having a very marked concen¬
+tration towards the centre, still stand
+out (as in Figure 1). This is why it was
+necessary to construct a three-
+dimensional picture.
+The structures as represented in
+Figures (2) and (3) are clearly visible to
+the eye and it is impossible to confuse
+them. But how can they be distinguish¬
+ed from each other mathematically and
+quantitatively? The problem is rather
+like one we encounter in everyday life.
+We instantly recognize someone we
+know in a photograph or on meeting
+him, but how can we describe him in
+words so that others can recognize
+him? (It is even more difficult to teach
+a computer to recognize someone from
+his or her external appearance).
+25
+
+Figures (2) and (3) have been drawn
+so that the average density of the galaxy
+dots and the density contrast (defined
+as that portion of the volume of space
+in which most of the galaxies are. con¬
+tained) are identical. We can easily tell
+them apart. At the same time a strict
+mathematical criterion is essential in
+order to discern the structures because
+the human eye is capable of seeing
+structures where none exists. The story
+of the "canals" on Mars, seen by
+observers with poor telescopes only to
+vanish from view when more powerful
+instruments were used, is a good exam¬
+ple (see opposite page).
+Our Moscow team recently succeed¬
+ed in establishing such a criterion.
+Leaving aside the mathematical details,
+this criterion can be explained as
+follows. Suppose your problem is to
+cross from one end of Figure (2) or
+Figure (3) to the other, but the Figure
+represents the whole of the infinite
+Universe. You are entitled to touch on¬
+ly upon those places where there are
+galaxy dots. Moreover, your physical
+possibilities are limited you cannot
+make steps or leaps of more than a cer¬
+tain length. The question is: what is the
+maximum length of step you must be
+capable of in order to perform the task
+of completing a voyage through the
+whole of the Universe?
+The answer depends on the ratio of
+this maximum length of step to the
+average distance between the galaxy
+dots, which we may call the critical
+parameter.
+If we look at Figures (2) and (3), we
+see that when crossing the structure
+shown in Figure (2), it is necessary to
+take big leaps between the clusters (so a
+maximum length of step of the order of
+the distance between the clusters is
+necessary) whereas it is possible to
+cross the structure in Figure (3) in small
+steps, and the maximum length of step
+in this case does not exceed the distance
+between the galaxies within the fila¬
+ment. Consequently, the critical
+parameter in the first case turns out to
+be considerably greater than in the
+second. For the purposes of com¬
+parison we can consider a third case,
+where the galaxy dots are disposed
+quite haphazardly and independently
+of each other. In this case the
+parameter acquires an intermediate
+value close to three.
+So which structure does the real
+Universe resemble? When we in¬
+vestigate a real three-dimensional
+distribution of galaxies we find that the
+parameter is significantly less than
+three and close to that obtained for the
+filamentary structure in Figure (3).
+This tells us, in rigorous mathematical
+terms, that the honeycomb structure of
+the superclusters that we perceive with
+our own eyes is real.
+Observations also prove that on a
+scale of the order of a thousand million
+light-years, which is twice as much as
+the maximum scale of a supercluster,
+the distribution of matter in the
+Universe is, to a high degree of preci¬
+sion, homogeneous (the same every¬
+where), isotropic (it looks the same in
+all directions) and unstructured. Devia¬
+tions from the average density on this
+scale do not exceed ten to twenty per
+cent. On still larger scales the degree of
+homogeneity and isotropicality is even
+greater. Therefore, non-homogeneous
+structures of a higher level than
+superclusters do not exist. Super-
+clusters are the biggest structures in the
+universe, at the top of the hierarchy.
+On bigger scales, the Universe is
+uniform.
+How can we explain this observed
+structure? The general characteristics
+of the Universe, such as its overall
+homogeneity, isotropy and its expan¬
+sion are vividly described by means of
+the "hot Big Bang" model. To explain
+the origin of the galaxies, their
+assembly into clusters and super-
+clusters, we must assume that at the
+time of the Big Bang there were very
+slight inhomogeneities (unevennesses
+or "lumpiness") in the distribution of
+matter. In recent years some very at¬
+tractive and exciting theories have been
+proposed to explain these initial in
+homogeneities (see article page 8). But
+here we shall consider only how those
+inhomogeneities grew as the Universe
+got older.
+It is easy to investigate the evolution
+of inhomogeneities (lumps in the
+universe) as long as they are small. The
+lumps grow because because gravity
+pulls more matter onto them and,
+although they start small, ultimately
+they become more pronounced. As
+they grow, the equations needed to
+describe their behaviour become more
+complex, but I have succeeded in show¬
+ing that the first solid structures to ap¬
+pear must have had the form of a flat
+thin cake with sharp edges. Because of
+this the theory became known as the
+"pancake" theory of galaxy form¬
+ation. In the course of time the pan¬
+cakes grew until they intersected each
+other. The density of the matter on the.
+lines of intersection increases further as
+gravity does its work and it is precisely
+these lines that form the cellular net¬
+work structure during further evolu¬
+tion. Numerical calculations made on
+computers in Moscow and by other
+teams of experts give a picture of a
+large-scale honeycomb structure on the
+whole similar to the one observed,
+although there is not yet complete
+agreement on all the details.
+Great advances are being made in
+cosmology as a whole and in the theory
+of the structure of the Universe.. Fur¬
+ther work remains to be done but the
+rate of progress is such that we can ex¬
+pect real advances towards finding the
+answers to these profound questions
+within the lifespan of this generation.
+Yacov Borissovich Zeldovich
+Figure 1
+26
+Figure 2 Figure 3

@@ -1,0 +1,502 @@
+FROM MOVABLE TYPE TO THE MICROCHIP
+
+
+
+LANDMARKS IN PRINTING
+BY WERNER MERKLI
+WERNER MERKLI, of Switzerland, is editor of the German-language
+edition of the Unesco Courier. A specialist in printing technology, he was for
+many years a director ofa leading Swiss publishing andprinting company, and
+served as president ofthe Association ofSwiss Printing Industriesfrom 1976 to
+1981. He was for 25 years president of the friends of the Swiss Gutenberg
+Museum, Berne. Among his published works are "Vademécum. An introduc¬
+tion to the graphic arts", published by Hallwag, Berne (2nd ed. 1967).
+FOR more than 400 years after Johannes Gutenberg's
+invention of a process of printing from movable
+metal type in the fifteenth century, all type was cast
+in a hand mould, the text was composed by hand, and
+printing was carried out on hand presses. It was not until
+the nineteenth century that typesetting and printing pro¬
+cesses were mechanized. Since the mid-twentieth century,
+electronics and the microcomputer have revolutionized
+text composition, reproduction of illustrations and print¬
+ing techniques.
+Papermaking
+1 . The earliest picture of papermaking
+in Europe is this woodcut made byjost
+Amann for Hans Sach's "Book of
+Trades", printed in Frankfurt in 1568.
+Although almost all steps in
+papermaking are now highly
+mechanized, the basic process remains
+unchanged. Plant fibres are separated
+and wetted to produce pulp, which is
+filtered on a screen, leaving a sheet
+from which the water is pressed out.
+The dry sheet is further compressed
+and treated, depending on the use for
+which it is intended.
+2. Detail from a late 15th-century
+woodcut from Nuremberg shows
+Ulman Stromer's paper mill, the
+first in Germany.
+3. Side view and plan of
+Nicolas-Louis Robert's
+papermaking machine, 1798
+The art of papermaking (1) was invented by the Chinese as
+long ago as the second century BC (see article page 32), and
+travelled westward when Chinese papermakers, taken prison¬
+er by the Arabs near Samarkand in AD 751, were forced to
+disclose their manufacturing secrets. In 1150 the art reached
+Spain, and by the time of Gutenberg, paper mills had been
+established in several European cities (2). Gutenberg thus had
+at his disposal a perfect printing material that was much
+cheaper than the parchment on which manuscripts were
+produced in the monasteries.
+Papermaking was not mechanized until around 1800, when
+the first papermaking machine was invented by a Frenchman,
+Nicolas-Louis Robert, in the Didot paper mills near Paris. It
+used a moving belt, and paper was made one sheet at a time (3).
+In 1805 the English engineer Joseph Bramah devised a paper-
+moulding machine which used a rotating cylinder. This de¬
+velopment later led to the production of continuous reels or
+"webs" of paper (4). The manufacture of paper is now almost
+entirely automated and quality control can be carried out by
+computer.
+4. Machine for producing reels of paper, c. 1 820
+
+The art of printing
+Letterpress
+impression
+cylinder
+«y.
+Letterpress is the oldest method ofprinting, and theonly
+process which can use type directly. Printing is done from cast
+metal type or from blocks on which the image or printing areas
+are raised (in relief) above the non-printing areas. Ink rollers
+touch only the top surface of the raised areas, and the inked
+image is transferred directly to the paper. Above, operating
+principles of a type of letterpress machine with a flat bed and an
+impression cylinder.
+Monastic libraries contain printed sheets dating from the
+ninth and tenth centuries which were produced from relief
+engraving on wooden blocks (5). Between 1041 and 1048, the
+Chinese smith Bi Sheng used a technique of printing texts on
+paper with movable characters made of earthenware, and
+printing was also carried out with characters cast in copper in
+a Korean printing works in 1403. Between 1436 and 1444,
+
+
+
+Johannes Gensfleisch zum Gutenberg, of Mainz, Germany
+(6), developed the type mould or matrix and originated a
+method of printing from movable metal type that was used
+without important change until the twentieth century.
+Gutenberg cut a punch in hard metal for every letter, accent
+and punctuation mark and struck it into a softer metal to make
+the mould for casting identical pieces of type. The type was
+made from an alloy of lead, antimony and tin. The finished
+characters were kept in compartmentalized typecases (7) from
+which the text was assembled. For printing, Gutenberg built a
+wooden worm-screw hand press (8), similar to a wine press.
+His printing ink consisted of a mixture of pinewood soot and
+linseed oil, which was spread on the printing surface with
+leather pads. To ensure better absorption of the ink, the paper
+was dampened before printing.
+It is not surprising that the first book Gutenberg chose to
+print was the Bible, for at that time it was the work most in
+demand. His "forty-two-line Bible" (see back cover), so
+named because of the number of lines in each column, was
+printed in Mainz between 1452 and 1455, in an edition of 200
+copies. The coloured initial letters to chapters and the decora¬
+tions were added afterwards by hand, because so far as the
+design of the type (9) and the layout was concerned Guten¬
+berg followed closely the model set by fine book manuscripts
+in the monasteries.
+The art of printing spread rapidly all over Europe. Many
+efforts were made to improve the efficiency of the wooden
+press, and Wilhelm Haas, a typefounder of Basel, Switzer¬
+land, followed the basic design of the wooden press when in
+1787 he developed the first all-metal hand press, which pro¬
+duced a better quality impression.
+6. The oldest known portrait of
+Gutenberg. Copper engraving
+from Vrais portraits et vies des
+hommes illustres, Paris, 1584.
+5. A modern woodblock-engraver
+A
+DIaar.mi3D aaacinaa
+§1 1UL IUI JU DDDI iodo
+SI iai iai IE3 anac lana
+m im IDI JU DDEJt man
+m IUI im 1U tiaac laajB
+mtac IUI JU uaatia:*:u
+ddqquuu EiDnaana 1
+naaonHi aauauuuu 1
+m inn nnn nrnaa
+Ol IBU UUU JUaa
+gl D BDO
+.jlju;;
+aale
+BIIDD g DBBOB
+- R G
+V 1
+7. Illustration of typecases from
+Diderot's Encyclopédie
+8. Gutenberg's press reconstituted
+at Leipzig in the 1 9th century. The
+press has a fixed, level lower
+surface, the "bed", and a movable,
+level upper surface, the "platen".
+The composed type, after being
+locked into a metal frame to make
+the printing block or "forme", was
+inked, covered with a sheet of
+paper, and pressed between the two
+surfaces.
+9. Examples of letters Q /* % X r> r>
+cut by Gutenberg
+to to to to c c
+te ta £ bi Ir tt
+t C t f f f
+10. Diagram of Koenig's press
+(1 8 1 1), in which the platen is
+replaced by an "impression
+cylinder"
+
+The idea that a rolling cylinder might be used in printing to
+overcome excessive manual strain was put forward in the early
+seventeenth century, but it was not until 1811 that the first
+steam-driven cylinder printing machine was patented by the
+German compositor and inventor Friedrich Koenig (10).
+Further progress was achieved in 1818 with the double rotary
+press designed by Koenig and his associate Andreas Bauer, in
+which paper printed on one side under one of the cylinders
+passed to the other cylinder to be printed on the other side.
+In 1844 Richard Hoe in the USA patented the first rotary
+press in which the type was carried on a metal cylinder instead
+of a flat plate. In 1866 the proprietor of the London Times,
+John Walter, had the first rotary press fed by a continuous roll
+of paper constructed according to the American model in¬
+vented by Jeptha Wilkinson (11), making it possible to print
+14,000 copies of the newspaper per hour.
+Revolving at a rate of 35,000 revolutions
+per hour, modern rotaries can print 500 m
+ofpaper per minute.
+Above, preparing to print a
+newspaper on a rotary press.
+impression
+cylinder paper doctor
+blade
+12. A copperplate
+engraver at work
+Gravureprinting, like letterpress printing, is based on a height
+differential between the ¡mage and non-image areas. In this
+process the image areas are recessed (intaglio) below the level of
+the non-printing areas. The surface of the printing plate is
+broken up into small cells holding different ink volumes, which
+constitute the image. The plate is flooded with ink and the
+surplus removed by a "doctor blade", leaving ink only in the
+recessed cells.
+THE PRIZE
+Gravure
+This technique developed from the art of copperplate en¬
+graving, in which the design is cut with a gouge, or chemically
+etched, into a polished copper plate (12). The earliest known
+etching was made by the Basel goldsmith, painter and graphic
+artist, Urs Graf, in the fifteenth century. Printing from the
+engraved plates was done by hand. Later an engraved cylinder
+was used instead of a flat plate, and reels of the material to be
+printed were fed between it and the pressing cylinder. This
+idea proved attractive to printers of cloth in the eighteenth
+century, and in 1783 a multi-colour gravure press for making
+cotton prints was constructed in England by a copperplate
+printer, Thomas Bell. In 1860 Auguste Godchaux, a Paris
+publisher, obtained a patent for a gravure rotary press which
+would print on each side of the sheet.
+A key invention in modern gravure printing was a photo¬
+graphic etching process using carbon tissue, developed by the
+Czech painter and graphic artist, Karl Klic, or Klietsch, in
+1878. Since then, millions of illustrated publications have been
+produced by gravure printing (13).
+In 1908, two Germans with experience in cotton printing,
+Ernst Rolffs and Eduard Mertens, developed a flexible steel
+"doctor blade" to wipe excess ink from the printing plate.
+Later, the process of etching the printing cylinder was greatly
+improved by the introduction of automated, electronic
+engraving.
+13. Early example of a children's
+magazine illustration printed by
+gravure
+
+Lithography and offset
+The lithographic technique was discovered by chance in
+1 796, when the Munich dramatist Aloys Senefelder, searching
+for a economical method of printing his own work, tried
+writing on a finely-ground stone surface and discovered the
+water-repellent properties of his greasy, oil-based ink.
+Initially, the images to be reproduced were hand-drawn on
+a litho stone (14) and printed on a manual press (15). The
+impression was taken by pressing the paper against the inked
+stone with a scraper. Thanks to the mechanization of this
+technique with Georg Sigl's flat-bed litho press, introduced in
+Berlin in 1851, single and multi-colour lithographic printing
+(16) became very important, especially for printing packaging
+material.
+As early as 1805 Senefelder had tried to find an alternative
+to the heavy litho stone, but it was not until 1904 that Ira W.
+Rubel and Caspar Hermann of New Jersey, USA, devised a
+thin metal plate to carry the image to be printed. After this had
+been inked, and the surplus ink repelled with moisture, the
+image was transferred to a rubber-coated cylinder and then to
+the paper (17). This form of indirect printing is known as
+offset. The fact that the printing plate, the rubber blanket and
+paper all ran on cylinders enabled higher printing speeds to be
+achieved from the start.
+In the early offset litho presses, the need for dampening
+often caused serious problems and the impressions obtained
+were dull and blurred. After the Second World War, technical
+improvements combined with better inks and more thickly-
+coated paper, resulted in sharper impressions and higher ink
+saturation.
+Today, large electronically-controlled offset rotary presses,
+with several printing units in sequence, can print both sides of
+the paper, in sheets or as a continuous web, at the rate of
+30,000 impressions per hour (18).
+impression^
+Cylinder/ paper
+1 7. Offset lithography. Basically the offset printing
+press consists of 3 revolving cylinders. The first
+cylinder carries the printing plate, the second carries a
+rubber blanket, and the third (the impression cylinder)
+presses the paper against the offset blanket. Other
+rollers feed the paper through the press.
+dampening
+rollers
+paper
+inking
+system dampening
+, ^ system
+kwater
+In lithography, the printing and
+non-printing areas are on the same
+plane of the surface of a thin metal
+plate, and the definition between
+them is maintained chemically.
+The printing parts of the surface
+repel water when moistened but
+absorb the ink with which they are
+coated, whereas the non-printing
+parts absorb the water and repel
+the ink.
+15. Wooden lithographic hand
+press from the time of Senefelder
+16. Colour illustration by the
+Finnish lithographer Emilie
+Topelius was reproduced in a
+children's book, Sagor, published in
+1847
+. ¡ » i: i V
+impression
+cylinder
+plate
+cylinder
+blanket
+cylinder
+printed
+mage
+1 8. An offset rotary press
+
+Revolutions in typesetting
+In the nineteenth century attempts were made to mechanize
+text composition, which was still carried out line by line with
+individual metal characters assembled in a composing stick
+(19), following a process that had not changed greatly since
+Gutenberg's time. The first patent for a typesetting machine
+was taken out in 1822 by William Church of Boston; others
+soon followed (20).
+
+
+
+But the real breakthrough in the mechanical setting and
+casting of type was achieved in 1884 by the German-born
+watchmaker Ottmar Mergenthaler in Cincinnati, USA, when
+he invented the Linotype machine, which could set 6,000
+characters per hour as compared with 1,400 by hand. In the
+Linotype system (21), the brass matrices in which the charac¬
+ters are engraved in negative form are released from the
+storage magazine by typing on a keyboard, assembled into a
+line and moved into the casting mechanism. After casting, the
+entire lead line or "slug" is ejected and the matrices carried
+back to their position in the storage magazine where they
+remain on call for another line.
+In 1897, also in the USA, the English engineer Tolbert
+Lanston separated the operations of setting and casting the
+type in his Monotype machine. In the Monotype system (22),
+again by typing on a keyboard, a paper tape on the setting-
+machine was punched with a different combination of per¬
+forations for each character. This punched tape mechanically
+controlled the typecasting mechanism, which cast each char¬
+acter individually. Because of the high quality of the type
+produced by the Monotype system, it came to occupy a
+predominant position in book printing.
+Developments in photographic techniques led to many
+attempts to replace metal type by photographing the images
+of the characters (23). A successful early application of photo-
+typesetting was the Lumitype system developed by two
+Frenchmen, René Higonnet and Louis Moyroud, in the
+1940s. Production speeds exceeded 28,000 characters per hour
+on later models. In the Monophoto, introduced in England in
+1950 as a development of the Monotype system, the charac¬
+ters could also be enlarged and reduced in size when projected
+onto film.
+In 1955 sensational developments in electronics sounded
+the deathknell of Gutenberg's lead type. Instead of being
+controlled by perforated tapes, typesetting machines could
+now be driven by a computer programmed to expose the
+characters onto film, permitting an output of 30,000 to
+100,000 characters per hour. A considerable acceleration in
+output up to 600,000 characters per hour was achieved in
+the 1960s with the development of faster computers and the
+use of a cathode ray tube (CRT).
+Another significant development at this time was the intro¬
+duction of the Optical Character Recognition (OCR) reading
+machine, which scans typewritten or printed text at the rate of
+300,000 characters per hour to produce input to a computer-
+driven typesetter.
+Considerable improvements in text input speeds were
+achieved with the introduction of integrated circuits and
+microprocessors into computer systems, as well as by the
+introduction of a visual display unit on which the selected
+characters appear as they are typed. The text can be read and
+corrected on the screen (24), before being stored in the
+computer's memory. However, there is a limit to the typeset¬
+ting speed of machines using CRT technology, as each charac¬
+ter has to be picked out individually from the image matrix.
+8
+Another approach was adopted in 1 965 by Dr. Rudolf Hell,
+of Kiel, Federal Republic of Germany. In his Digiset system, a
+scanning device analyses each character electronically and
+breaks it down into tiny squares, which are stored in the
+computer's magnetic memory in digital form. When inputting
+text, these squares are recombined on film, again using a
+cathode ray tube, into characters of the required size and
+typeface. With a initial production speed of over 1 million
+characters per hour, this was another important breakthrough
+in typesetting.
+In 1976, the laser beam began to be used to replace the CRT
+beam for digital recording of the characters (25). The intense
+light beam from photons projects a sharper, clearer typeface.
+Digital storage of text opens up revolutionary possibilities for
+its high-speed transmission throughout the world, via satellite
+or fibre-optic cable.
+19. The composing stick holds
+pieces of type. The compositor sets
+the type upside down.
+20. Hattersley's typesetting
+machine, London, c.1870
+21. Diagram of
+Linotype machine
+22. Early monotype
+keyboard (left) and
+caster (right)
+
+The printed image
+Throughout the Middle Ages, beautiful copperplate engra¬
+vings, etchings, woodcuts (26) and lithographic prints were
+produced by draughtsmen and painters by carving or drawing
+on printing blocks of wood or stone, or by engraving on metal
+plates. Discoveries regarding light and the theory of colour,
+together with the invention of photography in the nineteenth
+century, brought the potential of photographic processes to
+the printing industry (27).
+Although solid lines can be printed directly using the
+letterpress and offset processes, the intermediate tones in
+photographs cannot. In 1881, the Munich copperplate en¬
+graver Georg Meisenbach succeeded, by photographing an
+image through a screen of crossed lines, in breaking down the
+image into tiny dots. In the resulting positive, the closely-
+spaced dots combine to form the darker tones of the original
+image, and the less dense dots yield the light tones. The
+screened image can then be recorded on to a printing plate in a
+process known as halftone etching. Screening is often carried
+out by electronic scanning today (28).
+For the reproduction of tonal images in colour, however,
+three plates must be made one each to print red, blue and
+yellow ink. Usually, a black plate is also made, because black
+ink adds sharpness to the printed copy. The first step is to
+separate the colours photographically in the original image.
+The colour separations are made by taking four separate
+photographs through different filters which block out all
+colours except the desired colour, and also through a halftone
+screen to produce the dot pattern required for printing. In
+colour printing, some of the different coloured dots fall close
+
+
+
+together and some are superimposed. The eye mixes the
+colours of the dots on the printed page into all the tones of the
+original. For example, what the eye sees as green is really an
+area of tiny blue and yellow dots. Experiments carried out in
+the USA between 1946 and 1950 led to the development of a
+process for making colour separations by electronic scanning,
+and by the late 1970s, following developments in electronics
+technology, the impulses from the scanner beam were digi¬
+tized. The tiny dots which produce the tonal values of the
+reproduction are then reconstituted by laser beam, either on
+film or directly onto the printing plate.
+iVrnj&iua copoitdlj
+nue DOOM
+3lo.(WTfoncjncil-
+Unue pmticnha
+23. Diagram showing
+operating principles of
+a phototypesetting
+machine
+24. Composing text
+on screen
+26. In the early days of
+European printing,
+identical woodcuts
+were sometimes used to
+illustrate different
+people.
+27. Photo from William
+Henry Fox Talbot's
+Pencil of Nature (1844-
+46), the first known
+book illustrated
+entirely with
+photographs
+28. Electronic scanners
+(right) can be used to
+process images for
+printing. The image is
+fitted onto a revolving
+drum and reproduced
+by the scanner as a
+pattern of tiny dots.
+Far right, halftone dots
+enlarged
+The electronic future
+Developments in the printing industry during the coming
+decades will be primarily determined by advances in electro¬
+nics. Desktop publishing technology (see article page 16)
+emerged in the 1980s for the processing of both text and
+image. Using electronic pencils and brushes, computer
+graphics can be created directly on the screen and integrated
+into the stored text. Furthermore, magnetic discs are being
+developed which can store over 1,000 million typographical
+signs (500,000 typewritten pages) and integrated databases
+will improve access to information.
+Metal typesetting and letterpress printing processes have
+virtually disappeared within a short period. Thanks to the
+simplification of platemaking, however, the offset and photo¬
+gravure processes have survived. Electrostatic printing,
+whereby an electrostatically-charged plate transmits a dry
+powder or liquid ink toner to plain paper, and inkjet printing,
+in which computer-controlled jets are used to spray hundreds
+of thousands of electrostatically-charged drops of colour per
+second onto the paper to produce text and images, are just two
+of the techniques which are leading to contactless printing,
+instead of printing from an inked plate.

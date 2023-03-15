@@ -1,0 +1,222 @@
+Cutting the
+Gordian knot
+by Ivar Ekeland
+Since we can
+never base our
+decisions on
+complete
+knowledge, we
+have to live with
+uncertainty
+lYIel Gibson in the title role of
+Franco Zeffi relli's film Hamlet
+(1991).
+IVAR EKELAND,
+of France, is honorary president
+of trie University of Parls-
+Dauphine and director of the
+Institut Finance Dauphine, where
+he teaches mathematics. His
+works published in English include
+The Broken Dice, and Other
+Mathematical Tales of Chance
+(Chicago University Press, 1993)
+and Mathematics and the
+Unexpected (Chicago University
+Press, 1988). His most recent
+publication Is Lechaos
+(Flammarion, Paris, 1994).
+Human existence is fraught with
+uncertainty. Who knows what
+tomorrow may bring? But this does not pre¬
+vent us from taking daily decisions, in our
+private and public lives, which hold implica¬
+tions for our future, for the future of our fam¬
+ilies, our country or even in certain dra¬
+matic situations, such as war the future of
+humanity as a whole. These decisions, be
+they good or bad, are taken on the basis of the
+information available at the time.
+This raises the question of whether bad
+decisions may not be the result of inaccurate or
+incomplete information. Would complete
+knowledge of a particular situation allow a fully-
+informed decision to be taken and its conse¬
+quences to be predicted with virtual certainty?
+The climatological model
+The complexity of both natural systems and
+those of human design means that the ideal
+scenario a clear-cut situation leading to a
+good decision, the effects of which can be
+simply deduced is not only unattainable but
+inconceivable.
+An example of such a complex system is
+provided by that increasingly disturbing cli¬
+matic conundrum, the greenhouse effect.
+Does human activity increase the level of
+carbon dioxide in the atmosphere and, if so,
+what are the consequences for the earth's cli¬
+mate? From a purely scientific viewpoint, the
+problem consists in studying the long-term
+evolution of a complex system (the earth's
+atmosphere) which is subject to a variety of
+external influences (cosmic and solar radia¬
+tion, interactions between the oceans and the
+land masses, influence of human activity and
+other life-forms, etc.). The difficulty is
+twofold: one must first acquire knowledge of
+the present state of the system and, once this
+has been thoroughly established, one must
+then predict its future evolution.
+Let us start by examining the apparently
+20
+
+"A butterfly flapping
+its wings . . . can unleash a
+storm. . . "
+'In order to predict
+next year's weather
+at a given spot one
+would need a
+network of
+information from all
+over the surface of
+the globe.'
+© SuperStock. Paris
+simple notion of "the atmospheric level of
+C02". Does this mean determining the level
+of C02 at a particular point in the atmosphere ?
+This requires a statistical analysis which reveals
+certain major seasonal trends but leaves a sub¬
+stantial margin of error, due to the uncertainty
+of various meteorological variables. Or does it
+rather mean, less arbitrarily, the total mass of
+C02 present in the atmosphere at a given
+point in time? There is no way of measuring
+this directly and, in any case, there is no indi¬
+cation that this approach would be any less
+uncertain than the previous interpretation.
+The only precise definition of this para¬
+meter would be "the level of C02 at every
+point in the atmosphere at any given
+moment". For this definition to be opera¬
+tional, it would have to be supplemented by a
+mass of data on the direction and strength of
+the wind, the temperature and humidity of
+the air, and on the oceans. Only then could
+we determine, more or less precisely, the
+near future of the climatic system.
+A definition which requires such a volume
+of information is barely feasible in economic
+terms. It is therefore right to wonder whether
+we should not abandon the attempt to produce
+a single figure to denote this persistently elu¬
+sive quantity, the "atmospheric level of C02".
+Would it not be sufficient to work on the basis
+of typical figures, for example, from points at
+intervals of 100 km across the earth's surface,
+and at 5,000 m intervals of altitude?
+The answer naturally depends on pre¬
+cisely what we are looking for. In meteo¬
+rology, this kind of precision would enable
+forecasts to be made from one day to the
+next. To forecast the weather two days ahead,
+data must be gathered on a finer scale; and the
+farther ahead we wish to see, the more sensi¬
+tive and extensive the data base must be. The
+American meteorologist Edward Lorenz has
+remarked that a meteorological disturbance
+which is allowed to develop unhindered may
+double in magnitude within three days. In the
+now famous image, a butterfly flapping its
+wings in the Amazon basin can, if atmos¬
+pheric conditions are favourable, unleash a
+storm on the coast of Brittany a year later.
+In other words, in order to predict next
+year's weather at a given spot one would need
+a network of information on the scale of the
+butterfly, stretching all over the surface of the
+globe.
+21
+
+'Modern societies have become so complex that their situation can
+no longer be encapsulated in a handful of figures. '
+Let us now leave the domain of meteo¬
+rology, with its short-term quantitative pre¬
+dictions, and return to climatology, where
+these phenomena are analysed qualitatively
+over a much longer time-scale. Can we
+achieve results using composite data, by con¬
+sidering the "atmospheric level of C02" as a
+mean annual value adjusted to take account of
+random fluctuations? This is possible, but it
+will not guarantee a significant improvement
+in the degree of certainty of our predictions.
+One can, of course, imagine large-scale
+assessments of the thermodynamics of the
+M an in the World, oil on atmosphere, which would enable definite
+canvas by the Russian painter
+Pavel Filonov (1883-1941).
+conclusions to be drawn. The dynamics of
+the earth's atmosphere are subject to great
+variation from one year to the next, but a sta¬
+tistical analysis over a longer period a cen¬
+tury, say would reveal certain trends
+However, the relatively short history of
+climatology means that such analyses are not
+available to us at present. In any case, it could
+be that the atmospheric level of C02 in 100 or
+200 years time may crucially depend on phe¬
+nomena that are too subtle or too obscure to
+have yet entered our calculations (for example,
+the disappearance of certain animal species).
+A stitch in time
+The question of the accumulation of large
+amounts of data crops up in most human sys¬
+tems (economics, politics, the social sphere,
+etc.). It was long believed that the state of the
+economy, and public opinion, were dependent
+on several major variables (including the rate of
+inflation, unemployment, taxation and the bal¬
+ance of trade) and that the art of government
+consisted in maintaining these few indicators
+within acceptable limits, or bringing them back
+into line if they strayed beyond these limits.
+In recent years, however, some industri¬
+alized countries have been unable to reduce
+their unemployment figures; and a President
+of the United States suffered a severe elec¬
+toral defeat during a period of economic
+growth. It may therefore be wondered
+whether we tend to represent problems in an
+over-simplistic manner, and whether statis¬
+tical data still have any value at all. Perhaps
+modern societies have become so complex
+that the reality of a given situation can no
+longer be encapsulated in a handful of figures,
+still less be controlled on such a basis.
+In any event, we can be certain of one thing
+in human affairs: that nothing is certain. One
+might even wonder whether certainty is desir¬
+able. To want to know everything about a given
+subject is futile, an endless escalation into com¬
+plexity. As Shakespeare's Hamlet knew, any
+decision involves slicing through a Gordian
+knot. Complete information will never be
+available, and total certainty is impossible. But
+there always comes a moment when one must
+decide, when the search for further informa¬
+tion is more of a hindrance than a help. Cer¬
+tainty will not be forthcoming, either sooner or .
+later, and we will never know for sure whether
+we have made the right decision: a world in
+which a different decision had been taken, a
+world in which Chancellor Helmut Kohl, for
+example, had not gone ahead with the reunifi¬
+cation of Germany, would be so different from
+the world we know that any comparison
+between the two is meaningless.
+One could almost say that the most
+important skill in decision-making is knowing
+when to decide.
+22

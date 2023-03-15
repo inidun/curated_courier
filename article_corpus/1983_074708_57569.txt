@@ -1,0 +1,240 @@
+How Arab sailors
+read the stars
+by Régis Moretón
+AS early as the beginning of the
+eighth century, in the wake of
+the great Islamic conquests, the
+Arabs had direct access to many seas
+the Red Sea, the Mediterranean, the
+Gulf, the Indian Ocean, the Atlantic.
+From end to end of this vast expanse,
+trade and commerce were partly conduc¬
+ted by sea, first of all in coastal waters
+and later on the high seas.
+At that time orientation was a major
+problem. When we speak nowadays of
+orientation at sea, we immediately think
+of the compass, and we know that the
+magnetic needle was, indeed, used for
+navigation in the Gulf as early as the ele¬
+venth century, but only when the stars
+were not visible. All orientation at sea
+depended on observation of the heavens.
+Nautical instruction manuals in those
+days were largely devoted to problems of
+astronomical observations measuring
+the height of the heavenly bodies above
+the horizon and using the great cata¬
+logues of the stars. The most famous of
+these was the catalogue drawn up in the
+tenth century by the Islamic astronomer
+Al-Sufi in a manner that was both scienti¬
+fic and practical, since it gave the co¬
+ordinates of every star and contained two
+drawings of each constellation one as it
+appeared in the sky, and the other drawn
+symmetrically, as it would be seen on a
+copper globe reproducing the vault of
+heaven. With this catalogue and the cop¬
+per globe which was meant to accompany
+it, the constellation by reference to which
+one wished to take one's bearings could
+easily be located in the sky.
+At the turn of the fifteenth and six¬
+teenth centuries, two great Arab naviga¬
+tors of the Indian Ocean, Ahmed Ibn
+Majid and Suleiman Mahri, revived this
+traditional method, and it is to them that
+we owe our knowledge of those features
+of Arabian nautical astronomy which are
+described below.
+With the aid of a simple diagram (see
+diagram 1), let us take a quick look at
+some elementary facts concerning the
+apparent movement of the stars on the
+heavenly sphere and to which reference
+will be made hereafter.
+Let us consider the semi-vault of
+heaven as it appears to an observer loca-
+REGIS MORELON, of France, is a member of
+the Dominican Institute of Oriental Studies,
+Cairo. He is a specialist in the history of Arab
+astronomy and his new study on Arab texts on
+astronomy is to be published shortly.
+8
+ted at T, picked out with the aid of the
+four cardinal points NSEW, the local
+meridian being the circle NPZS. The
+north heavenly pole is at P and its height
+above the horizon the arc NP gives
+the latitude of the observation point. The
+heavenly equator is represented by the
+circle EGW. A star situated north of the
+by establishing that the particular stars F,
+G, H, for example, on the diagram men¬
+tioned above were at the same height on
+the horizon, which corresponded to a
+definite latitude.
+In addition to latitude, observation of
+the sky enabled them to determine the
+direction in which they were sailing,
+Diagram 1. Apparent movement of the stars on the heavenly
+sphere (see article).
+Diagram © Régis Morelon
+equator rises at A, its apparent trajectory
+on the heavenly sphere is the circle AFA'
+parallel to the equator, and it sets at A',
+symmetrical with A in relation to the
+meridian. Likewise, a star situated south
+of the equator will rise, for instance at B,
+its apparent trajectory will be the circle
+BHB', B' being symmetrical with B in
+relation to the meridian. A star situated
+at I, at a lower distance from the pole
+than the latitude of the spot, will always
+remain above the horizon in its daily
+movement. If its distance from the pole is
+known and its height as it passes below or
+above the meridian is noted, this will
+immediately give the height of the pole
+above the horizon.
+A point on the earth is determined by
+its latitude and longitude. The longitude
+is given in relation to a meridian of ori¬
+gin, and involves the difference between
+a local time and an origin-time. How¬
+ever, movable chronometers which per¬
+mit "time to be kept" precisely have exis¬
+ted for little more than a century. Con¬
+sequently, it was impossible for Arab sea¬
+men to take a bearing in longitude. On
+the other hand, they calculated their lati¬
+tude by observing the stars, or by mea¬
+suring directly the height of the pole, or
+which was ascertained by what we now
+call the compass-card.
+The compass-card as it is represented
+on present-day compasses and naviga¬
+tional charts is a 32-point star which,
+when related to the horizon, shows the
+direction in which a vessel is heading.
+This choice of 32 compass-points on the
+horizon existed long before the compass
+and it is very likely that this division,
+established through observation of the
+rise and setting of certain stars, origi¬
+nated with the Arab seamen. Diagram 2
+shows this card as it is described in the
+nautical instruction manuals of the
+Arabs, with the corresponding directions
+related to the four cardinal points.
+We can see at once the symmetry in
+relation to the North-South line. On the
+East side, each of the 15 divisions is en¬
+titled "rise of such and such a star" and
+on the west side "setting of such and such
+a star". Thus we find repeated the sym¬
+metry of the points A and A' or B and B'
+in diagram 1. The names of the stars are
+inscribed in the centre of the drawing.
+Some of them still pose problems of iden¬
+tification, but during the history of
+navigation these names have become
+
+Diagram 2. Compass-card as described in Arab nautical instruc¬
+tion manuals.
+Diagram © Régis Morelon
+A North pole
+1 Ursa minor
+2 Ursa major
+3 Cassiopeia
+4 Capella
+5 Vega
+6 Arcturus
+7 Pleiades
+8 Altair
+9 Orion
+10 Sirius
+1 1 Scorpius
+12 Antares
+13 Argo navis
+14 Canopus
+1 5 Crux (Southern cross)
+B South pole
+^¿JE-Jfe
+Two symmetric drawings of the Corvus (Raven) constellation,
+drawn by the great Islamic astronomer Al-Sufi (903-986 AD).
+purely conventional, just as what are call¬
+ed "the signs of the zodiac" have long
+since ceased to coincide with the con¬
+stellations in which this description
+originated. Consequently, nautical in¬
+struction manuals show this "compass-
+card" with the old descriptions and in¬
+dicate according to latitude which stars,
+by reference to their rising or setting,
+really determine on the horizon the dif¬
+ferent directions to be taken.
+With the aid of the co-ordinates of
+those stars on the "compass-card" which
+it has been possible to identify, it can be
+calculated that this division was original¬
+ly made by seamen navigating on the In¬
+dian Ocean at about 10° north latitude
+and simply noting the position on the
+horizon when the most typical stars rose
+and set.
+We now have, then, sufficient infor¬
+mation to read the instruction given for a
+particular maritime route.
+At the end of the fifteenth century,
+Suleiman Mahri gave the following
+description of the route between Diu
+(Pakistan) and southern Ceylon (Sri
+Lanka):
+"From Diu head for the 'rising of
+Suhayl' (SSE) until the north pole is 5
+fingers (1) above the horizon, then turn
+landwards until thou art within 5 or 6
+zam (2) of the land, then turn back in the
+direction of the 'rising of Suhayl' until
+the north pole is at a height of 3 fingers,
+then gradually head south because as
+thou drawest near to Ceylon the sea
+becomes rough whereas out to sea it is
+less rough. Thou shouldst turn towards
+the right very slowly. As soon as the 'two
+calves' (Beta and Gamma of the Little
+Bear horizontal to the East) are at a
+height of 7.75 fingers, head for the rising
+of 'agrab' (SE) until thou seest the 'two
+calves' at a height of 7.25 fingers. Then
+head eastwards for 18 zam until thou
+recognizest that thou art south of
+Ceylonthou shalt know by the light¬
+ning flashes above the island, with or
+without rain...".
+These few lines from Mahri comprise
+practically all the means of navigating at
+sea known in his time height of the
+stars, compass-card, distance covered
+and indications furnished by the ap¬
+pearance of a coast.
+It was with the aid of these that Arab
+seamen became the experts on navigation
+in the Indian Ocean and so in 1498, after
+rounding Africa, Vasco da Gama took
+Ibn Majid as his pilot from Malindi, on
+the east coast of Africa, as far as Calicut,
+in India. But after this initial voyage Por¬
+tuguese ships arrived in strength in the
+Indian Ocean and snatched maritime
+supremacy from the Arab seamen
+throughout the region.
+Régis Morelon
+(1) The "finger" is a unit ofangle read on instruments
+used by sailors lo measure the height ofa heavenly body
+above the horizon.
+(2) The zam mentioned here is a unit ofdistance depen¬
+ding on the average speed of a sailing vessel of the
+period: about 12.6 sea-miles covered in three hours.

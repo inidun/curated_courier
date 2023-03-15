@@ -1,0 +1,275 @@
+The mathsticks of early China
+by Du Shi-ran
+The ancient Chinese devised an original
+system of calculating using counting rods
+Schoolchildren learn to use
+the abacus in Nanking
+(China).
+18
+THE origins of numeration in China go back
+into the dim and distant past and since, as
+in many other countries, no-one knows
+precisely how it began, all sorts of legends and
+myths sprang up. An ancient book called Shi
+Ben ("The Book on Ancestries") tells how the
+legendary Yellow Emperor, regarded as the first
+emperor in China's history, ordered his sub¬
+jects Xi He to observe the sun, Chang Yi to
+observe the moon . . . and Li Shou to invent
+arithmetic. The story of Li Shou became widely
+known, and people imagined that he discov¬
+ered the concept of numbers by himself.
+But to credit the concept of numbers to one
+man obviously does not accord with the his¬
+torical facts; such a complex concept could not
+have been worked out single-handed, even by a
+genius. It is obvious that numbers gradually
+evolved throughout the long history of
+humanity in response to practical requirements.
+Certain features in the evolution of Chinese
+numeration can be inferred from legends and
+myths, but more important clues can be drawn,
+and more accurate deductions can be made,
+from archaeological evidence.
+Archaeologists discovered that some earth¬
+enware from the 7,000-year-old Yangshao Cul¬
+ture (excavated in Henan and Shanxi Provinces)
+bore specially inscribed signs and marks. Most
+of the marks were vertical lines, while others
+were Z-shaped. These vertical lines are believed
+to be the very earliest forms of numeration in
+ancient China.
+After tens of thousands of years of primitive
+civilization, a society with a class structure
+evolved in China. This was the slave society of
+the Shang dynasty (circa sixteenth to eleventh
+centuries B.C.). It is clear from archaeological
+evidence that this culture was fairly well devel¬
+oped, producing bronze weapons, household
+utensils and sacrificial vessels. Around the four¬
+teenth century B.C., the Shang Dynasty moved
+
+Detail of bronze bell
+showing inscriptions,
+Western Zhou period
+(8th century B.C.).
+DU SHI-RAN,
+of China, is a professor at the
+Institute of the History of
+Natural Science of the
+Academia Sinlca. Since 1 99 1 he
+has been teaching at Bukkyo
+University, Kyoto, Japan. His
+main publications are The
+History ofAncient Chinese
+Mathematics ( 1 986, Clarendon
+Press, Oxford) and A Draft
+History of Chinese Science and
+Technology (2 volumes, 1982,
+Science Press, Beijing).
+its capital to the neighbourhood of the present-
+day Xiaotun, near Anyang in Henan province.
+Culture and the economy took a further step
+forward, and a form of calendar appeared.
+I The oracle bone script
+In the course of the present century, a large col¬
+lection of plastrons the ventral part of tor-
+toiseshells and animal bones inscribed with
+characters have been excavated in the same area.
+Research has shown that the nobles of the Shang
+period worshipped the spirits of their ances
+tors. In their prayers they put questions to these
+spirits, inscribing the questions, the answers,
+and sometimes the subsequent verifications on
+the plastrons and on animal bones. The charac¬
+ters used in the inscriptions are generally known
+as "oracle bone script," and this is the earliest
+form of Chinese writing so far discovered,
+although isolated symbols have been found on
+Yangshao pottery.
+Among the 5,000 characters used by the
+Shang people on the excavated oracle bones are
+the earliest known Chinese numerals. The oracle 19
+
+bones recorded how many prisoners were taken
+in war or how many of the enemy were killed,
+how many birds and animals the hunters caught
+and how many domestic animals were sacri¬
+ficed to the spirits. Days were also numbered.
+Here are some examples:
+"On the eighth day, namely the day of
+Xinhai, two thousand six hundred and fifty-six
+men were killed while crossing spears."
+"Captured ten and six men."
+"Ten dogs and five dogs."
+"Ten cattle and five."
+"Deer fifty and six."
+"Five hundred four tens and seven days."
+The largest number inscribed on the oracle
+bones is 30,000 and the smallest is one. Units,
+tens, hundreds, thousands and ten thousands
+.. each have a specific character to represent them
+(figure 1).
+Ancient inscriptions on bronze have also
+been found, in what is known as "bell vessel
+script" or "bronze script," and research shows
+that most of them date from the Zhou period
+(around the eleventh century to 221 B.C.). The
+numerals were written in a similar way to those
+on the oracle bones. In the bronze script, how¬
+ever, compound words are written quite dif¬
+ferently from the oracle bone script. The modern
+Chinese jo«, meaning "and" is used to separate
+units, tens, hundreds and thousands. The
+number 659, for instance, is written as 600 and
+50 and 9.
+In the Han Dynasty (206 B.C. to 220 A.D.)
+the character used for separation in recording
+(large) numbers was dropped and compound
+numerals also disappeared. The shape of char¬
+acter then used is almost exactly the same as in
+present-day Chinese.
+To show how the characters have evolved,
+figure 2 compares the characters for one to ten
+in oracle bone script, in bronze script, in the Han
+Dynasty script, in present-day Chinese charac¬
+ters and in modern Western (or Hindu-Arabic)
+numerals.
+M Counting rods
+So far we have discussed decimal notation, but
+in ancient China calculations did not directly
+involve the manipulation of numerals. The
+device used for calculations by the ancient Chi¬
+nese was the counting rod.
+The counting rods were small bamboo sticks
+known as chou which Chinese mathematicians
+arranged into different configurations to repre¬
+sent numbers before performing calculations
+with them. This was known as "chou suan"
+(calculating with chou).
+In August 1971, more than thirty rods dating
+back to the time of Emperor Xuan Di (73-49
+B.C.) of the Western Han Dynasty were found
+in Qianyang County in Shanxi Province. Their
+M. w length and width conform to the descriptions in
+Oracle bone script:
+= x n, A + X % 1
+Modern Chinese: Z- ¿- C9 jl * -t /\ iL -l-
+1 2 3 4 5 6 7 8 9 10
+100 1 000 10 000
+0© * *
+s
+4*
+u Ui UJJ 2 ir -f >'(
+-+ Z.-V V3~\- ¿+ *+ -t+
+20 30 40 50 60 70 80
+H B W ¥ fe* tf &
+-'S" JLíT ES "g" Aï A"5" /VS" tes
+200 300 400 500 600 800 900
+É k * * V y
+--Î- -H.-Í- E9"f- JL+ Af .=-#
+2000 3000 4000 5000 8000 30 000
+figure /. Two ways of writing
+numbers
+the History of the Han Dynasty, with the dif¬
+ference that the Shanxi rods are made of bone.
+A bundle of rods was unearthed in 1975 in Han
+tomb No. 168 at Fenghuangshan in Jiangling,
+Hubei Province. These are made of bamboo,
+but are a little longer than the Shanxi rods. They
+date from the reign of the Emperor Wen Di
+(179-157 B.C.). In 1978, a quantity of earthen¬
+ware with rod signs, dating from the Warring
+States period (473-221 B.C.) of Eastern Zhou,
+was found in Dengfeng County, Henan
+province.
+No reliable evidence has yet been found to
+determine when counting rods began to be used,
+but it is plausible that people were quite familiar
+with this technique by no later than the Warring
+States period. Texts relating to that period which
+have survived to the present day use the
+ideograms "chou" and "suan".
+To represent numbers, counting rods could
+be used either vertically or horizontally, as
+shown in figure 3.
+The rods are arranged in accordance with a
+decimal place-value system, like the present
+Western system. For units the vertical form is
+used, for tens the horizontal form, for hundreds
+the vertical form, for thousands the horizontal
+form, and so on. A blank space is used for zero.
+A number could thus be represented by
+digits arranged in vertical and horizontal forms
+alternately, working from right to left in the
+usual order of units, tens, hundreds, thousands,
+ten thousands, etc. This method of recording
+numbers is explained in "Master Sun's Mathe¬
+matical Manual" {Sunzi Suanjing, circa fifth
+century A.D.) and in Xiahou Yang's "Mathe¬
+matical Manual" {Xiahou Yang Suanjing, circa
+eighth century A.D.). Master Sun says:
+
+Clay statuette of a
+horseman, Han period
+(late 3rd century A.D.).
+Oracle bone:
+	
+_
+= Z n, a T )C =\ 1
+Bronze: = = = , 8 1. X fr t H A i
+Han: = ' = <n> X 9* Í A- h t
+Modern Chinese: ""
+J"" va JL * -t A iL +
+1 2 3 4 5 6 7 8 9 10
+"Units arc vertical, tens are horizontal,
+Hundreds stand, thousands lie down;
+Thus thousands and tens look the same,
+Ten thousands and hundreds look alike".
+Xiahou Yang's "Mathematical Manual" says:
+"Units stand vertical, tens are horizontal,
+Hundreds stand, thousands lie down.
+Thousands and tens look the same,
+Ten thousands and hundreds look alike.
+Once bigger than six,
+Five is on top;
+Six does not accumulate,
+Five does not stand alone".
+The last four lines mean that for digits equal
+to or greater than six, the units from one to four
+are used and a single counting rod standing for
+five rods is placed on top of them. This is just the
+same as in the Chinese abacus, where each bead
+above the crossbar stands for five beads below.
+The digit six is not represented by piling up
+counting rods. "Five does not stand alone"
+means that the digit five must not itself follow
+the method described above, in which one
+counting rod is used to represent five. This is to
+avoid confusion with the representation of the
+tens, thousands and so forth.
+Written language in ancient China was
+arranged in columns reading from top to bottom
+and right to left, but when using counting rods
+to record numbers, the characters were arranged
+
+
+
+from left to right as in the present way of
+recording numbers in both East and West.
+The decimal place-value method of recording
+numbers appeared in China at some point
+during the Spring and Autumn period (770-476
+B.C.) or the Warring States period (475-221
+B.C.). From then on, various arithmetical oper¬
+ations could thus be performed easily and con¬
+veniently.
+Figure 3
+vertical:
+horizontal:
+Figure 2
+I 2 3 4 5 6 7 8 9
+1 II III llll mu T TT rrr im
+	 = ==
+= m J_ X 4 ¿
+21

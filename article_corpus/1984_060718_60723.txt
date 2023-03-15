@@ -1,0 +1,219 @@
+The electronic alternative
+by Kerns H. Powers
+FROM the beginnings of large-scale
+television operations in the late
+1940s, motion pictures on film have
+been a major source of television pro¬
+gramming. Even to this day, a majority of
+programmes aired in prime viewing time are
+originally produced on film, including those
+produced exclusively for television. When
+first aired, these films are converted to video
+in a telecine machine (a combination film
+projector/television camera) but are general¬
+ly stored for later replay in the video-tape
+medium.
+Over the past decade, we have witnessed
+an explosive growth of new media for
+distributing motion picture features to
+homes: Pay TV on cable and multipoint radio
+distribution systems, prerecorded video
+cassette tapes, and video-discs. Soon to
+follow are the direct broadcasting satellites.
+All of these media as well as the normal
+television broadcast systems require a con¬
+version of the feature from film to video.
+We have also witnessed the spawning of
+a new industry, that of the film-to-tape
+transfer houses, of which there now exist
+several dozen in the United States alone.
+These transfers require colour correction as
+a minimum, and may require timing ad¬
+justments and other edits as well. Most
+houses offer a broad range of video produc¬
+tion and postproduction services. As a con¬
+sequence of the less-than-orderly develop¬
+ment of this new industry, a typical motion
+picture feature when distributed by several
+video media might find itself duplicated in
+four or five electronic masters, no two of
+which are identical.
+In fact, these "dupes" are technically far
+from being identical to the master film or its
+release prints. Not only is the colorimetry a
+variable, the resolution (the ability to resolve
+fine detail in the images) more closely
+matches 16 mm film than the 35mm master
+stock. Furthermore, the features have been
+KERNS H. POWERS, of the USA, is vice-
+president for communications research, Radio
+Corporation of America Laboratories, David
+Sarnoff Research Centre, Princeton, New
+Jersey. He is also chairman of a future
+technologies working group of the Society of
+Motion Picture and Television Engineers.
+Charge-coupled device (CCD)
+chips are used as electronic
+"eyes" of a new portable
+solid-state colour television
+camera for news and sports
+coverage. The CCD tech¬
+nology is being developed for
+electronic production of mo¬
+tion pictures.
+converted in frame rate from the twenty-four
+¡mages per second of the original shooting
+to sixty modified images per second in the
+video format (sixty per second in the North
+American and Japanese television stan¬
+dards, fifty in Europe). These "modified" im¬
+ages in the frame rate conversion are either
+repeated in a nonuniform repeat cycle or are
+blurred in a lap dissolve between two adja¬
+cent frames of the film stock. Thus motion in
+the scene may appear to the viewer to be
+jerky or smeared out in the video format.
+Finally, a substantial portion of the original
+scene is usually cut out during the conver¬
+sions. The aspect ratio (the ratio of the width
+to the height of the displayed scene) has
+been modified. The wide-screen format of
+the cinema has given way to the narrower
+aspect ratio (four-to-three) of television. It is
+this latter mutilation of the original that has
+the most significant effect on the viewer's
+perception.
+The recent developments of high-
+definition television (HDTV) and digital video
+technology promise for the future a way out
+of this dilemma. Digital video effects
+generators have been used for the past ten
+years to create a vast array of electronic
+special effects and image manipulations
+during the postproduction (editing) of TV
+12
+
+programmes. These techniques are now
+finding their way into motion picture films
+with computer-generated animations and
+electronic "opticals" (laboratory optical
+special effects such as fades, wipes, and lap
+dissolves).
+In digital video, the electronic signals that
+represent the red, green, and blue primary
+colour components of each picture element
+(pixel) of the scene are digitized into bits
+(binary digits) for storage in computer-like
+memories, and the images are processed
+under computer control with "software"
+flexibility. A "studio quality" television
+signal in either the 525- or 625-line stan¬
+dards requires digital encoding at a rate of
+approximately 200 million bits per second.
+High definition television promises for the
+future a TV system of resolution equal to that
+of 35mm film, a widescreen aspect ratio, and
+a universal frame rate selected to minimize
+the image deterioration in the frame rate
+conversions for all release media. A digital
+HDTV signal would require encoding and
+recording at rates exceeding one thousand
+million bits per second, a value beyond the
+current state-of-art.
+Although HDTV cameras (even with
+analog signals) are expected to be more ex¬
+pensive than quality film cameras for many
+years to come, their use could be cost-
+effective relative to film in shooting because
+of the immediacy in screening the results of
+a shoot. In any event, the use of improved
+resolution digital video technology in elec-
+This projection device with a
+sprocket camshaft was made
+in 1908.
+tronic postproduction could be cost-effective
+very soon, even if both original shooting and
+release are accomplished on film.
+One significant advantage of postproduct¬
+ion in digital technology is that a single
+digital master tape can be generated during
+editing under the watchful artistic eye of the
+producer or director, with the assurance that
+all subsequent copies whether they be film
+release prints or television video-tapes will
+be derived from either the digital master
+itself or identical clones of it. A property of
+the digital video format is that copies can be
+made through multiple (conceivably, hun¬
+dreds of) generations without errors in col-
+orimetry, contrast range, brightness level, or
+pixel position.
+The digital master can be archived on
+digital video-tape having far less suscep¬
+tibility to magnetic fields or "print through"
+than is characteristic of analog tape media.
+It is believed that digital optical video-discs
+will have even longer storage life with,
+possibly, higher storage density (bits per
+cubic metre) than video-tape. Current
+estimates of the near term technology
+predict that a two-hour sound motion picture
+feature of television studio quality (220
+million bits per second) can be stored digital¬
+ly with ruggedness for multiple replays and
+in convenient environments for many
+decades of life in a volume of 1,500 cubic
+centimetres on tape cassette and 1,200 cu
+cm on disc, as compared with 4,000 cu cm
+in 16mm film cans. Each of these numbers
+should be multiplied by a factor of about five
+for wide screen HDTV quality and 35mm
+film.
+The major impediment to this panacea for
+electronic archiving is not the technological
+development required but is, rather, the lack
+of common standards. There not only exist
+three different frame rates to contend with,
+but motion picture films are released in no
+fewer than five different aspect ratios spann¬
+ing the range from 1.33 to 2.35. An ideal
+solution to the standards problem would be
+for the motion picture and television in
+dustries to reach an agreement on a single
+aspect ratio and a single frame rate to be us¬
+ed worldwide in future productions, both
+electronic and film. Backward compatibility
+with both existing cinemas and television
+systems can be achieved through standards
+conversions for the release film and tape
+media.
+The standards discussions have com¬
+menced for high definition television within
+the Comité Consultatif International des
+Radiocommunications (CCIR), the study
+arm of the International Telecommunica¬
+tions Union, based in Geneva. The studies
+are being supported by the world's major
+Broadcasting Unions such as the European
+Broadcasting Union and by the international
+engineering professional societies such as
+the Society of Motion Picture and Television
+Engineers in the USA and the British
+Kinematograph, Sound and Television
+Society in the United Kingdom. The CCIR
+has set as a target date its Plenary Meetings
+in 1986 for approval of a recommendation
+for HDTV standards for television studio use
+and for international programme exchange.
+Hopefully, the common worldwide stan¬
+dards developed for television will also serve
+the needs for electronic production and ar¬
+chiving of motion picture films as well.
+I Kerns H. Powers
+Regina Linnanheimo and Otso
+Pera in a scene from Nuroena
+Nukkunut (1937). This Finnish
+film directed by Teuvo Tulio is
+thought to be lost. (See article
+page 17).
+13

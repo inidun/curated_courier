@@ -1,0 +1,341 @@
+NASA's broad range of aerospace research activities has led to
+many practical applications in unexpected fields. NASA's Langley
+Research Centre in Virginia recently found that on water-covered
+surfaces tyres do not touch the ground but skim along on a cushion
+of water. Discovery of this "hydroplaning" effect has had
+immediate applications for automobile safety. U.S. government
+agencies and the automobile industry are now experimenting with
+grooved highways, road textures, new tyre treads and Improved
+breaking systems to avoid skidding and loss of control on wet roads.
+The fuel cell that provided electrical power for Gemini and Apollo
+spacecraft has already been used experimentally to run farm
+tractors and electric passenger cars, and may be the forerunner
+of power for pollution-free automobiles of tomorrow.
+
+7. Space-age electronics
+and pocket computers
+T
+HE key to man's conquest
+or space is the computer. The assi¬
+milation of scientific data for every
+stage of a space flight, the design and
+production of virtually every component
+of a spacecraft, the precision control
+of the spacecraft in flight, and the
+storage, classification and retrieval of
+data received from each space mis¬
+sion have produced tremendous ad¬
+vances in computer technology. The
+stringent weight and volume require¬
+ments of spacecraft have led to
+development of striking miniaturized
+computer circuits which in a short time
+will find their way into commercially
+available equipment.
+Computers have been scaled down
+to the point where thousands of cir¬
+cuits can be compressed into a case
+smaller than a thumbnail. Similar low-
+cost computers soon will be incor¬
+porated into control systems for air¬
+planes, motor vehicles, industrial ma¬
+chinery, and construction and mining
+equipment.
+Space age computer software dev¬
+eloped for the wide gamut of opera¬
+tions involved in the Apollo program¬
+me have been adapted for use with
+computers in air traffic control, indus¬
+trial process control, engineering
+design, automation of hospital services
+and sophisticated medical diagnosis.
+Computer data processing techniques
+and programmes developed by space
+projects have permitted airlines to
+provide instant flight information and
+reservations systems, insurance com¬
+panies to improve their accounting and
+investment services and other firms to
+handle transactions involving more
+than 20 million items per day.
+The applications of computerized
+numerical control and digital logic to
+the machine tool, a direct result of
+aerospace research, received its great
+impetus from the metal machining re¬
+quirements of the space programme.
+Parts are complex. Zero-defects stand¬
+ards are absolute. Production lots
+are small. Design changes are fre¬
+quent. A system which assured the
+automatic control of machinery by
+means of programmed instructions
+stored on punched cards or tape
+replacing the operator, jigs and manual
+controls was essential to meeting
+these rigid standards and rigorous
+conditions.
+"The marriage of numerical control,
+the digital computer and machine tools
+is one of the stunning technological
+innovations of our time, ranking with
+nuclear power and space flight itself
+as a third great development of our
+generation," the American industrialist
+Willard F. Rockwell, Jr., contends. Not
+only will 80 per cent of all machined
+parts be produced by numerical con¬
+trol, with tremendous improvements in
+productivity which means lower costs
+as well as greater reliability, but the
+computer is enabling management to
+make sounder decisions on the basis
+of faster, more accurate and more
+complete information.
+While the aerospace Industry is still
+by far the largest user of numerically
+controlled tools, numerical control
+applications are being broadened to
+a multitude of other uses beyond the
+cutting of metal. These uses include
+material handling, assembly, welding,
+fabrication, inspection, quality control,
+computer graphics and drafting ma¬
+chines and plotters. Systems concepts
+of numerical control cut right across a
+company's activities with an irresis¬
+tible logic all of their own.
+They jolt and stimulate and chal¬
+lenge every member of the corporate
+team from the worker to top manage¬
+ment. They free the worker from the
+drudgery of assembly-line routine,
+and the engineer can turn to more
+creative pursuits. They blur the dis¬
+tinction between design and manufac¬
+turing, interlocking both Into a single
+computerized process. They become
+an integral part of computerized
+management information systems.
+And all this adds up to a new indus-
+CONTINUED NEXT PAGE
+29
+
+SPACE-AGE ELECTRONICS (Continued)
+Cartridge programmes for every TV set
+trial revolution, with productivity boost¬
+ed by a ratio of four or five to one
+wherever numerical controls and data
+logic are properly used.
+To make certain that innovations in
+computer software technology devel¬
+oped in space projects become avail¬
+able to all who can use it, the Com¬
+puter Software Management and In¬
+formation Center (COSMIC) was set
+up by NASA and is run under contract
+by the University of Georgia.
+COSMIC operates as the central
+clearinghouse and dissemination outlet
+for computer programmes and related
+information developed by NASA itself
+as well as by its 20,000 contractors.
+The centre receives, evaluates and
+checks out the software adding to its
+inventory those programmes which are
+operational and of potential value in a
+wide range of applications.
+Over 14,000 requests for software
+from industry, commerce and univer¬
+sities have been filled by COSMIC
+with substantial savings to the user.
+Since the development costs are all
+born by NASA, it is estimated that the
+average purchaser of a programme
+from COSMIC saves from 50 to 90 per
+cent of the cost of developing a sim¬
+ilar programme. More than 400 com¬
+plete programmes and documentation
+packages are available for sale "off
+the shelf" and new items are regu¬
+larly being added to the inventory.
+I
+30
+F computer technology is
+the key to man's conquest of space,
+the computer itself owes its rapid de¬
+velopment to space requirements. To
+begin at the beginning, if aerospace
+technology had remained shackled to
+the vacuum tube, there would have
+been not the slightest hope of landing
+on the moon or probing the planets in
+this century. Even efforts to explore
+the near reaches of space just outside
+the atmosphere would have been ser¬
+iously handicapped because of the
+size, weight and power consumption
+of avionic equipment.
+The development of the transistor
+and its solid-state offspring the inte¬
+grated circuit made it possible to
+build digital computers no bigger than
+a shoebox and reliable enough to
+make possible exacting interplanetary
+space flights. But it was first the
+transistor, and now microminiature
+integrated circuits, that made possible
+the development of successive gene¬
+rations of computers faster and with
+greater capacity to meet the informa¬
+tion and control needs of science,
+education, industry, business and
+government. Thus, in France the Labo¬
+ratoire Central de Télécommunications
+has developed a tiny computer with
+integrated circuits no bigger than a
+portable typewriter using space elec¬
+tronic technology.
+Yet the transistorized computer was
+but the beginning of a total revolution
+of the electronics industry throughout
+the world, providing the underpinnings
+for economic miracles such as that
+of Japan. Now, following on the heels
+of the ubiquitous Japanese-made
+transistor radio, a whole new genera¬
+tion of electronic products from clocks
+to computers using advanced micro¬
+electronic devices called "metal oxide
+semiconductor/large-scale integrated
+arrays" (or more simply MOS/LSI
+devices) are pouring off Japanese
+production lines.
+Developed by North American Rock¬
+well's Autonetics Division, MOS/LSI
+devices are about the size of this
+capital "O", twice the thickness of a
+sheet of writing paper, and contain
+more than a thousand circuit elements.
+None of the vital space systems could
+function without the electronic sensing,
+calculating and controlling "brain
+centres" using these devices.
+But neither could the revolutionary
+desk-top calculators now being pro¬
+duced by Japan's Hazakawa Electric
+Company, using Autonetic MOS/LSI
+devices. Approximately the size of a
+cigar box, the new calculator weighs
+just three pounds, operates instan¬
+taneously, without noise, and features
+a lighted display of eight digits. And
+this promises to be just the beginning
+of a Lilliputian invasion that will
+eventually affect the lives of men
+everywhere.
+Another technological breakthrough
+in space age electronics promises to
+revolutionize education and home
+entertainment. In addition to books,
+libraries of the future will contain
+Electronic Video Recordings (EVR)
+cartridges that can be played over any
+ordinary television receiver. Devel¬
+oped originally for high resolution'
+photo reconnaissance of the moon EVR
+will soon be produced and marketed
+worldwide by "The EVR Partnership"
+in London a consortium of Columbia
+Broadcasting System (US), Imperial
+Chemical Industries (UK) and CIBA
+(Switzerland) as a low-cost means of
+playing sound motion pictures of high
+quality as and when the user chooses.
+It's like recording tapes with the
+very important difference that sight
+has been added to sound, the sound
+track being carried on magnetic strips
+built into the edges of black and white
+or colour film. For the public, it means
+movies at home. For students, audio¬
+visual learning at home.
+For doctors, too busy to keep up
+with the ever-Increasing flow of med¬
+ical literature, it means convenient
+audio-visual briefings on new develop¬
+ments in the medical field prepared
+and distributed by pharmaceutical
+companies for easy viewing at home
+after office hours. For television, it
+means competition. And for socio-
+philosophers like Marshall McLuhan, it
+is the end of the Gutenberg era and
+an affirmation of the "picture civiliza¬
+tion". Slowly, under the impulse of
+space technology, civilization seems to
+be bypassing the written word.
+A
+iS this happens, a new
+industry is developing on a global
+scale. In the U.S., Kodak has devel¬
+oped a new process for the duplication
+of films which produces four times as
+many copies in any given time than
+previous methods, and at half of the
+price. CBS has set up a plant for
+high-speed duplication and will develop
+the EVR market for films. In licence
+agreements with CBS, Motorola will
+manufacture EVR players and the
+New York Times will develop educat¬
+ional EVR cartridges.
+Outside the United States, llford
+will manufacture fine grain 8.75 mm
+film for copy prints and high
+speed printing equipment of its own
+design to provide copies for fast
+delivery at low cost. The Rank Organi¬
+zation will manufacture and distribute
+teleplayers, and plans to package the
+Rank Film Library in .EVR cartridges.
+Quantity production Is scheduled to
+begin by the summer of 1970, just
+three years after Its first use in lunar
+reconnaissance.
+Add to all these spectacular develop¬
+ments affecting whole industries the
+crop of new science-based companies
+shooting up in North America, Europe
+and Japan dedicated specifically, if not
+exclusively, to the conversion of aero¬
+space technology to "down-to-earth"
+civilian applications.
+Spar Aerospace Products Ltd. of
+Toronto, Canada, is typical of the
+breed. In addition to its space eng¬
+ineering work in support of the Cana¬
+dian Alouette/ISIS programme and
+planning for the Canadian domestic
+communications satellite system, Spar
+manufactures STEM (Storable Tubular
+Extendible Member) for Canadian, U.S.
+and European space programmes.
+But STEM devices are also excellent
+examples of the many "unglamorous"
+products developed specifically to
+meet satellite requirements that are
+now finding a wide variety of uses in
+earthbound applications. Essentially,
+the STEM principle is a means of
+coiling-up and storing long, rigid rods
+or booms. In the ground environ¬
+ment, uses range from vehicular ship
+antennas, mobile elevating masts for
+television cameras, lights or antenna
+arrays to surveyor's tripod legs and
+tent poles. The ability to coil-up
+lengths of relatively rigid tube into a
+small volume, and re-deploy it again
+has a range of uses limited only by
+one's imagination.

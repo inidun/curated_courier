@@ -1,0 +1,271 @@
+The star system
+by ñertholó Riese
+In their quest to foretell the future, Mayan priests and
+astronomers entered the realm of pure mathematics
+Head of a priest emerging
+from the mouth of a
+serpent. Architectural
+detail in the Mayan Puuc
+style (7th to I Oth
+centuries) from Uxmal
+(Yucatán, Mexico).
+22
+BERTHOLD RIESE,
+of Germany, is a specialist in
+the field of Amerindian
+civilizations. His work Maya-
+Kalender und Astronomie (The
+Mayan Calendar and
+Astronomy) appeared In
+Altamerikanistik (Early
+American Studies), edited by
+Ulrich Köhler and published by
+Dietrich Reimer Verlag, Berlin,
+1988.
+SEVERAL million Indians living in Guatemala,
+southern Mexico and Belize today still speak
+one of the thirty or so Mayan languages,
+including Mam, Quiche, Cakchiquel, Kekchi and
+Myathan. A well-developed and broadly similar
+numerical system exists in all of these tongues.
+Centuries of colonization and, more impor¬
+tantly, the introduction of the market economy
+have led to the gradual replacement of vernac¬
+ular names for numerals by words borrowed
+from Spanish. Higher numerals have disap¬
+peared from general use and today even the pri¬
+mary numbers are being forgotten.
+Numbers in everyday use
+Archaeological excavations have yielded little
+information on how numerals were used in the
+economy of pre-Columbian America. We do
+know, however, that the Mayas' numerical
+system was initially based on counting on the
+fingers and toes. In Quiche, for example, the
+word for the number twenty, huvinak, literally
+means "a whole person". This method of
+counting is also reflected in the decimal divisions.
+The word for 11 is hulahuh or hun (one) plus
+lahuh (ten). These numbers were probably used
+in much the same way as we use numbers for
+counting today, with one difference. The Mayan
+languages use words known as "classifiers" to
+describe objects being counted, denoting
+whether they are round, elongated, stackable,
+solid or liquid food, etc. For example, a Yucatec
+would not say, "Here is a cigarette", but "Here
+is one {hun) long, cylindrical object {dzit) called
+a cigarette {chamal)".
+I Calendars
+The conventional solar year
+The Mayan calendar was based on the 365-day
+solar year, which the Mayas had inherited from
+the earlier civilizations of the Zapotees (at Monte
+Alban) and the Olmecs (at La Venta and Tres
+Zapotes). The length of this calendar year never
+varied and was divided using the vigesimal
+system of numeration into eighteen months of
+twenty days each. The remaining five days were
+added at the end of the year. Each month had a
+name, which does not seem to have been related
+to the seasons or to any particular festivals.
+Most of them were handed down by tradition
+and perhaps even borrowed from other lan¬
+guages and cultures. They do not seem to have
+had any meaning other than their calendar func¬
+tion, not unlike our own months whose original
+Roman meanings few people know today.
+Each day was designated by a number from
+0 to 1 9 which was placed in front of the name of
+the month, and from 0 to 4 in the case of the
+final, shorter month. It was therefore possible to
+identify each day of the year, as in our own cal¬
+endar. The years followed each other without
+interruption and there were no leap years.
+The diviner's
+calendar
+Guatemala's Quiche, Ixil and Mam Indians still
+use a traditional 260-day calendar to predict
+the future. Why 260 days? In interviews with
+Guatemalan diviners in Chichicastenango and
+Momstenango, German ethnologist Leonhard
+Schultze Jena found that the number of days in
+the year matches the length of human preg¬
+nancy. Whatever its origin may be, the vigesimal
+system made it possible for early Mayan math¬
+ematicians to break this 260-day year down
+into thirteen months of twenty days each. Each
+calendar day was identified by attaching a
+number from one to thirteen to one of the
+twenty names of the vigesimal cycle, which
+referred to animals, natural forces and tradi-
+
+tional or abstract concepts whose meanings are
+unknown today.
+Like the solar calendar, the diviner's calendar is
+cyclical. The last day of one cycle is automatically
+followed by the first day of the next and so on.
+The calendar round
+Permutation of the 260-day calendar with the
+365-day calendar gives a cycle of 52 years in
+which each day bears a different name derived
+from elements taken from the other two systems.
+This major cycle of 1 8,980 days 52 solar years
+of 365 days each or 73 divination years of 260
+days each is known as the "calendar round"
+and was the largest time-measuring unit for
+most of the Mesoamerican peoples during late
+pre-Columbian times. Unlike the Mixtees and
+Aztecs, the Mayas were familiar with different
+systems and used other units for measuring
+longer periods of time, but they were an excep¬
+tion among the great pre-Columbian cultures.
+Hieroglyphics
+As we have seen, the calendar days were identified
+by names, some of which designated numbers.
+That is how Indian diviners still express them in
+their own languages. The pre-Hispanic Mayas
+could also write all the days of the year, of the
+divination calendar and the calendar round in
+Carved glyphs and
+calendar dates on a
+7th-century Mayan
+limestone stele at
+Palenque (Mexico).
+hieroglyphic script. Four hieroglyphic books or
+codices from that time have survived, and are
+today conserved in Paris, Dresden, Madrid and
+Mexico City.
+Countless stone inscriptions, a few wall paint¬
+ings and many painted clay pots and sherds are
+other sources of information about this highly
+original writing system.
+The simplest way of writing numbers
+between 0 and 19 consisted of using dots for
+units and lines for fives in an additive system
+(figure 1). For higher numbers an additional
+symbol for 20 was used. A positional system was
+used to write numbers higher than 40, with an
+extra symbol equivalent to our zero identifying
+the unoccupied places (see photo page 24). Each
+place represents a power of 20, until the third
+place in which a factor of 18 is used. Thus, the
+order of positional values was as follows: first
+place, 20° (=1), second place, 20' (=20), third
+place, 18 x 20' (=360), fourth place 18x202
+(=7,200), fifth place 18x203 (=144,000) and so on.
+Counting the days
+At an early stage, certainly no later than the
+beginning of the Christian era, the Central Amer¬
+ican Indians invented a new way of calculating
+time: the day number {"cuenta larga", or "long
+
+
+
+count"). This system, which is independent of the
+calendar cycles described above, consists of 23
+
+Below, detail from a Mayan
+manuscript conserved in
+Dresden (Germany). The
+columns of numbers to left
+and right of the female
+figure designate the length
+of lunar half-years. Above
+the figure the sign for zero
+(in red) appears twice.
+numbering the days continuously from a more
+or less mythical date far in the past. This
+extremely accurate dating system has proved
+to be of invaluable assistance to modern
+researchers, ever since scholars in the early twen¬
+tieth century succeeded in correlating it with our
+own calendar. Its primary aim was to help the
+Mayas codify major historic dates concerning
+their rulers or deities.
+Other calendar cycles
+The Mayas of the classical period used other
+cycles for historical, divinatory and speculative
+purposes. For example, a cycle of days or nights
+devoted to nine deities is known from hiero¬
+glyphs G j -G9 Furthermore, the combination
+of short 7, 9 and 13-day cycles, each of which
+designated a category of gods, was used to come
+up with a complex divination cycle of 819 days.
+Astronomy
+The astronomy of the Mayas was not limited to
+observation of the stars and approximate pre¬
+dictions of the movements of the heavenly
+bodies. Using their sophisticated numerical sys¬
+tems and various tabular calculations in con¬
+junction with the hieroglyphic script, Mayan
+astronomers were able to perform complex cal¬
+culations with figures running into millions.
+Their efforts were focused primarily on the
+sun and the moon. Different year lengths were
+used for different sorts of calculations. Nor¬
+mally they took the conventional 3 65 -day year
+as a basis. However, years with a length of 364
+1 to© -cp.9tffiß$ü
+* " ~ # 	,	 ""
+:
+I.
+' iO-'HO-lCA
+I <P:\IOUO\tena m
+»' J^t&A 8. *t
+¿¿.{¿à W*tS) « «« «r>
+24 m
+days are also encountered, as are years of 365 V4
+days, similar to our own Julian calendar.
+The moon played a prominent role in stone
+inscriptions, which often begin with a day
+number followed by the phase of the moon and
+the day's position in a calendar of six lunar
+months (see photo below left).
+Mayan astronomers also calculated the syn¬
+odic period of the planet Venus, and the figure
+of 584 days at which they arrived is astonishingly
+close to the modern astronomic value. But they
+went still further. A set of tables in the Dresden
+Maya codex cites correction factors to allow
+for the fractional deviations from this value,
+which can only be observed after decades and
+even centuries. Researchers also suspect that
+the Mayas were familiar with the synodic period
+of other planets, such as Mars and Jupiter, but
+this has not been proved conclusively.
+A springboard into pure
+mathemathics
+For the Maya, all the calendar and astronomic
+cycles and systems were ultimately used for div¬
+ination and religious or speculative purposes.
+Their calendar experts constantly strove to estab¬
+lish a relationship between the cycles by permu¬
+tation, using the lowest common multiple and
+other methods, to predict the future and connect
+the present with historical dates. In this way they
+could also learn something about the destiny of
+their clients the ruler and private individuals.
+These practical goals often served as a spring¬
+board for complex calculations and research
+which transcended their original purpose. For
+example, some of their calculations were pro¬
+jected so far into the past or future that the pri¬
+
+
+
+mary purpose must have been to quench the
+calendar priests' own thirst for knowledge and
+desire to explore the limits of their mathematical
+system. It is therefore reasonable to assert that
+the Mayas, like the Babylonians, Greeks, Arabs
+and Indians before and after them, had entered
+the realm of pure mathematics.
+12
+10 13
+3 7 II
+4 8
+figure /
+Mayan system of writing
+numbers from I to 1 3
+using dots and lines.

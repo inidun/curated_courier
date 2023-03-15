@@ -1,0 +1,286 @@
+METEOROLOGY IN THE ATOMIC AGE
+TWO PROBLEMS :
+* Protection against
+radio - active contamination
+of the air
+* Using atomic tracers
+to study atmospheric
+phenomena
+There are certain aspects of the
+utilization of atomic energy
+which recently have received in¬
+creasing public attention: firstly to
+what extent the use of radio-active
+substances can contribute towards the
+solution of certain fundamental prob¬
+lems in meteorology and secondly
+the role which the meteorologist can
+play in the "atomic age", for instance
+in connexion with the work of safe¬
+guarding the public against dangerous
+contamination of the atmosphere due
+to radio-active substances produced
+by atomic plants.
+It should be pointed out in the first
+instance that the possibility of using
+certain radio-active substances (iso¬
+topes) in meteorological research, and
+also in the closely related hydrological
+research, is still in its experimental
+stage. The research-projects men¬
+tioned below should therefore not be
+regarded as exhaustive, but rather as
+examples of those possibilities which
+at present look most promising.
+One of the research projects which
+particularly appeals to people's imagi¬
+nation is the possible use oí a radio¬
+active substance as a tracer to study
+air currents in the atmosphere. The
+main idea is to give the air current
+a strong "injection" with a suitable
+16
+harmless radio-active substance, pre¬
+ferably a gas, and subsequently study
+the transport and dilution of the
+radio-active gas in the atmosphere.
+It has been suggested that this
+method would be useful for the study
+of the remarkably strong jet stream
+which frequently exists at a height
+oí 8 to 12 kilometres and which has
+considerable importance in connexion
+with the safety and economy of air¬
+craft operation.
+A large-scale experiment of this
+type would require considerable pre¬
+paration, not only to determine where
+in the atmosphere it would be most
+advantageous to release the radio¬
+active gas, and at what time, but also
+with regard to the choice of a radio¬
+active tracer. This should have a
+hali-life (1) of several years and it
+should not be liable to be washed out
+by precipitation.
+Furthermore a world-wide network
+of observing stations would have to be
+organized and these should be in op¬
+eration over a period of some years.
+The first attempt would need to be
+successful, for if it iailed, a second
+trial could only take place after sever¬
+al years, when the radio-activity of
+(1) The time In which radlo-actlvlty Is
+reduced to half.
+the introduced tracer had diminished
+sufficiently unless other and equally
+good tracers were available.
+Other possible uses of isotopes exist
+due to the fact that radio-active
+tritium can be used to "mark" water
+vapour molecules without changing
+their characteristics. Since water
+vapour is an important link in the
+hydrological cycle, there are reasons
+to believe that the use of such tech¬
+niques may be of importance, parti¬
+cularly in hydrology. A similar me¬
+thod has been employed in studying
+the source of origin and movements
+aï various types of surface water.
+A third example is the use of radio¬
+active measuring techniques to deter¬
+mine the water equivalent of snow.
+For various purposes, e.g. in con¬
+nexion with the forecasting of river
+floods and runoff, it is necessary to
+know as accurately as possible the
+water equivalent of the snow accu¬
+mulated in a certain area in winter.
+It has been suggested that the water
+equivalent oí snow can be measured
+with considerably greater ease than
+with the present methods, by placing
+a suitable radio-active substance at
+the earth's surface below the snow,
+and measuring the attenuation of the
+radiation passing through the snow
+
+layer. This method has already been
+introduced on a trial basis at several
+stations in the United States.
+With regard to the second aspect of
+the peaceful uses of atomic energy
+the contamination of the atmosphere
+is a field where the advice and
+assistance of meteorologists would
+be very useful indeed. Fortunately,
+one of the characteristics of the
+atmosphere is its ability to clean
+itself, but this ability to dilute or
+disperse "foreign" gases or particles is
+limited, and varies with the season,
+the time and geographical position.
+The winter fog over London for in¬
+stance or the common smoke-layer
+over a great number of cities in the
+morning always appears when the
+conditions and movement of the
+atmosphere are such that it does not
+succeed in dispersing the contaminat¬
+ing particles sufficiently rapidly.
+The "waste-products" which certain
+atomic plants are releasing into the
+atmosphere may be several tens of
+times more toxic than the waste-pro¬
+ducts released from chimneys belong¬
+ing to ordinary industry. It is there¬
+fore of vital importance to find quan¬
+titative expression for the relationship
+between changes in the diluting abi¬
+lity of the atmosphere and the result¬
+ing concentration of radio-activity in
+the air and on the ground.
+This is a complicated problem, the
+solution of which is mainly dependent
+on accurate knowledge of wind and
+temperature gradients and their
+variations, horizontally, vertically and
+with time. The topographical condi¬
+tions around the atomic plant may
+also play an important role in these
+calculations.
+The scope and type of assistance to
+be given by the meteorologists in con¬
+nexion with the establishment and
+operation of industries based on atom¬
+ic energy will naturally depend on
+the site and size of the plant, and par
+ticularly on the extent to which its
+radio-active waste-products are ex¬
+pected to contaminate the atmosphere.
+It seems superfluous to point out that
+the advice of the meteorologist should
+preferably be obtained before the final
+site for the atomic plant has been
+agreed upon, unless other factors are
+of greater importance.
+Certain atomic plants may require a
+permanent network of meteorological
+stations which will have to undertake
+frequent and regular observations.
+These observations will be of impor¬
+tance in ensuring that the operation
+of the atomic plant at no time consti¬
+tutes a risk for the population.
+Neither the meteorologist nor the
+atom-physicist should work indepen¬
+dently on these problems. The nu¬
+clear-physicists, chemists or engineers
+will provide all information about the
+source of the problems; amount, na¬
+ture and properties of the radio-active
+waste-products. The health physicist
+will determine the permissible concen¬
+tration of radio-activity in the air and
+on the ground, and also the maximum
+permissible doses of radiation. Taking
+this information as a basis, the meteo¬
+rologist will advise on the meteorolo¬
+gical conditions which may lead to
+concentrations of radiation exceeding
+the permissible limits.
+Both the health physicist and the
+meteorologist will require a network
+of observing stations to solve his part
+of the task. As mentioned earlier, cer¬
+tain meteorological research projects
+are also dependent on a world-wide
+network of observing stations. There
+seems, therefore, to be some merit in
+ensuring that the various measure¬
+ments required for different purposes
+are made at the same stations.
+For health purposes, it is of the
+greatest importance to measure the
+total radio-activity due to air-borne
+radio-active particles deposited on the
+ground.
+Tho Unesco Courier. July 1957
+The meteorologist will, however, re¬
+quire the following two types of radio¬
+activity measurement: (a) at the
+earth's surface; (b) in the free atmo¬
+sphere.
+The first of these will consist of
+samples of radio-activity of rain water
+and of measurements of radio-activity
+of the air at the earth's surface by
+means of a suitable filter (2). The se¬
+cond type of observation is designed to
+permit study of the vertical distribu¬
+tion of radio-activity in the atmo¬
+sphere, and requires relatively expen¬
+sive equipment. Such observations
+may consist of "filter" measurements
+from aircraft or measurements made
+by means of sounding balloons. The
+latter method is still in an experimen¬
+tal stage and is not considered as
+sufficiently reliable.
+It should be emphasized that the
+establishment of stations for the
+observation of radio-activity is closely
+related to the peaceful uses of atomic
+energy and a number of countries
+have already set up such stations or
+are in the course of doing so.
+Steps to improve the world network
+of stations for measuring radio-acti¬
+vity to organize their programme of
+observation and the collection of the
+data are being taken in connexion with
+the forthcoming International Geo¬
+physical Year and it is believed that
+this initiative will lead to a still closer
+scientific co-operation between na¬
+tions in this important field.
+Whether we approve of the use of
+atomic energy or not, the only course
+open to us seems to be to prepare
+ourselves in the best possible way to
+use this new form of energy. In this
+connexion the meteorologist should
+accept his share of the work and of
+the responsibility.
+(2) The radio-activity of the filter Is mea¬
+sured after a known amount of air has been
+drawn through it.
+RADIO-ACTIVE ISOTOPES are
+today being considered for use in
+meteorological research as "tracers'*
+to study air currents in the atmo¬
+sphere. Such substances are already
+widely employed in medicine, agri¬
+culture, industry and other fields.
+Here, an industrial hygiene specialist
+studies harmful airborne particles
+in a factory. He counts the concen¬
+tration of dust particles by coating
+them with a radio-active substance
+(metallic selenium). This research,
+which includes testing the toxicity
+of dusts on animals, is one type of
+work performed by the Atomic
+Energy Project at the University
+of Rochester, in the United States.
+SMOKE PLUMES coming from a
+tower at U.S. laboratory, (opposite
+page) enable meteorologists to
+dermine the right weather condi¬
+tions for releasing into the atmo¬
+sphere air which has been used to
+cool the laboratory's atomic reactor.
+USIS Photos
+17

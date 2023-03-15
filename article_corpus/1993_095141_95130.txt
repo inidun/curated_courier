@@ -1,0 +1,240 @@
+Words, gestures and symbols
+by Pauius Gerdes and Marcos Cherinda
+Africa has a rich variety of traditional
+counting methods
+A A ANY hundreds of well-structured
+Ashanti weights used for
+weighing gold dust.
+38
+PAULUS GERDES
+is a Mozambican mathematician
+who is rector of his country's
+Higher Pedagogical Institute
+and chairman of the
+International Commission on
+the History of Mathematics in
+Africa (AMUCHMA). His
+published works include
+Ethnomathematics and Education
+in Africa.
+MARCOS CHERINDA,
+Mozambican mathematician, is
+a lecturer at Mozambique's
+Higher Pedagogical Institute,
+where he specializes in
+ethnomathematics. He is the
+co-author, with Paulus Gerdes,
+of Famous Theorems of
+Geometry.
+of Côte d'Ivoire uses three bases: 5, 10 and 20.
+Fifty-six, for instance, is expressed as golosso-ya-
+kogbo-gbeplo, that is "20 times two plus 10
+(and) 5 (and) 1". The Bambara of Mali and
+Guinea have a 10-20 system in which the word
+for 20, mugan, means "one person", while the
+word for 40, debé, means "mat", referring to a
+mat on which husband and wife sleep together
+and jointly they have 40 digits.
+The Bulanda (West Africa) use 6 as a base so
+that 7 is expressed as 6 + 1, 8 as 6 + 2, and so on.
+The Adclc count koro (6), koroke (6 + 1 = 7), nye
+(8) and nyeki (8 + 1 = 9). Among the Huku of
+Uganda the number words for 13, 14, 15 are
+formed by the addition of 1, 2 or 3 to twelve.
+Thirteen, for instance, is expressed as bakumba
+igimo (12 plus 1). The decimal alternatives, 10 +
+3, 10 + 4 and 10 + 5, were also known.
+One advantage of using a low number such
+as 5 as the basis of a spoken numeration system
+is that it may facilitate oral or mental calculation
+where the answer has not been memorized. For
+instance, 7 + 8 would be (5 + 2) plus (5 + 3). As
+2 + 3 = 5, one finds as answer 5 + 5 + 5, 10 + 5,
+or 5 multiplied by 3.
+The duplicative principle
+A particular case of the use of addition to com¬
+pose number words is the situation where both
+numbers arc equal or where one of the two is
+equal to the other plus one. For instance, the
+Mbai count from 6 to 9 in the following way:
+mutu muta (3 + 3), sa do muta (4 + 3), soso (4 +
+4), and sa dio mi (4 + 5). The Sango of northern
+Zaire express 7 as na na-thatu (4 + 3), 8 as mnana
+(4 + 4) and 9 as sano na-na (5 + 4). One possible
+reason for using the duplicative principle to
+compose the number words between 6 and 9 is
+that it may make it easier to do mental arith¬
+metic, in particular duplication operations. For
+instance, to obtain the double of 7, one has to
+add, if one has not memorized the answer, 4 + 3
+and 4 + 3. As 4 + 3 + 3 = 10, the answer becomes
+10 + 4. In sub-Saharan Africa, there is a strong
+tradition of mental calculation, and oral and
+mental multiplication often were (and some¬
+times still are) based on repeated duplication.
+In several African languages subtraction, as
+well as the additive and multiplicative principles,
+has been used to form number words. In the
+Yoruba language of Nigeria, for example, 16 is
+expressed as eerin din logun meaning "four until
+one arrives at twenty". The Luba-Hemba people
+of Zaire express seven as habulwa mwanda
+("lacking one until eight"), and nine as hab¬
+ulwa likumi ("lacking one until ten").
+Spoken numeration systems may vary
+greatly within relatively small geographic
+regions. In Guinea-Bissau, for example, the
+Bijago have a pure decimal system; the Balante
+use a five-twenty system; the Manjaco use a
+decimal system with exceptional composite
+number words such as 6 + 1 for 7 and 8 + 1 for
+9; and the Felup use a ten-twenty system in
+which the duplicative principle is also employed
+in forms like 7 as 4 + 3 and 8 as 4 + 4.
+Some number words are adjectives while
+others are nouns. In this situation, number word
+structures may appear that do not correspond
+directly to an addition, multiplication or sub¬
+traction. For instance, in the Tschwa language of
+central Mozambique 60 is expressed as thlanu
+wa makuma ni ginwe, that is "five times ten
+plus one more (ten)".
+To denote relatively large numbers, com¬
+pletely new words are often used or words that
+express a relationship with the base of the
+numeration system. The Bangongo of Zaire say
+kama (100), lobombo (1,000), njuku (10,000),
+lukuli (100,000) and losenene (1,000,000), while
+the Ziba of Tanzania say tsikumi (100), lukumi
+(1,000), and kukumi (10,000), the three latter
+terms being clearly related to kumi (10).
+Counting by gestures
+Gesture counting was common among many
+African peoples. The Yao of Malawi and
+Mozambique represent 1, 2, 3 and 4 by pointing
+with the thumb of their right hand at 1, 2, 3 or
+4 extended fingers of their left hand. Five is
+indicated by making a fist with the left hand. Six,
+7, 8 and 9 arc indicated by joining 1, 2, 3 or 4
+extended fingers of the right hand to the left
+fist. Ten is represented by raising the fingers of
+both hands and joining the hands. The Makonde
+of northern Mozambique start counting on their
+right hand with the help of the index finger of the
+left hand. Five is indicated by making a fist with
+the right hand. For 6 to 9, the representation is
+symmetrical to that of 1 to 4, that is, right and left
+hands change roles, with the index finger of the
+right hand pointing at the fingers of the left.
+Ten is represented by joining two fists.
+The Shambaa of Tanzania and Kenya prac¬
+tise a method of gesture counting that uses the
+duplicative principle. They indicate 6 by
+extending the three outer fingers of each hand,
+spread out; 7 by showing 4 on the right hand and
+3 on the left, and 8 by showing 4 on each hand.
+To express numbers greater than 10, the
+
+The number I as indicated
+in gesture counting (from
+top) by the Makonde, the
+Yao and the Shambaa.
+Sotho of Lesotho employ different individuals
+to indicate the hundreds, tens and units. To rep¬
+resent 368, for example, the first person raises 3
+fingers of the left hand to represent 300, the
+second one raises the thumb of the right hand to
+express 6 tens, and the third one raises three
+fingers of the right hand to express 8 units. This
+is actually a positional system, since it depends
+on the position of each man whether he indicates
+units, tens, hundreds, thousands, and so on.
+The use of fingers and hands to count may
+explain the choice of five and ten as bases for
+verbal numeration systems. The use of bases
+may also have been stimulated by practices used
+to accelerate counting. For instance, Makonde
+basket makers count the plant strands of the
+bottom of their likalala-baskcts by fours instead
+of counting one by one.
+I Tally devices
+Tally devices were commonly used in Africa
+south of the Sahara. In Mozambique Chuabo
+boys use the following counting technique when
+they are playing football. The two halves of the
+leaf of a coconut tree obtained after taking off its
+vein serve as a tally device for each team. The
+halves are called mulobuo. When a team scores
+a goal, a fold is made in its mulobuo, and at the
+end of the match, the scorer compares the
+lengths of each one or counts the folds, in order
+to see who has won.
+Among the Tswa, also from Mozambique,
+trees are used to record the age of children.
+After the birth of a child a cut is made on a
+trunk of a tree, and each year a new cut is added
+until the person is old enough to count for him
+or herself. Cuts on tally sticks arc also used
+
+when counting the number of animals in a herd,
+each cut corresponding to one animal.
+Among the Makonde, knotted strings were
+used. A man who was setting out on an eleven-
+day journey would tie eleven knots in a string
+and would say to his wife, "This knot" (touching
+the first) "is today, when I am starting;
+tomorrow" (touching the second knot) "I shall
+be on the road, and I shall be walking the whole
+of the second and third days, but here" (seizing
+the fifth knot) "I shall reach the end of the
+journey. I shall stay there the sixth day, and
+start for home on the seventh. Do not forget,
+wife, to undo a knot every day, and on the tenth
+day you will have to cook food for me; for see,
+this is the eleventh day when I shall come back."
+Pregnant women used to tie a knot in a string at
+each full moon so that they would know when
+they were due to give birth. In order to register
+a person's age, two strings were used. A knot was
+tied in the first string at each full moon. When
+twelve knots were tied, a knot was tied in a
+second string to mark the completion of the
+first year, and so on.
+Figures in the sand
+A variety of numeration systems exist in Africa
+that are "written" in one way or another. The
+eastern Bushongo (Zaire) counted simultane¬
+ously by threes and tens. For each three objects,
+they marked in the sand three short parallel
+strokes with three fingers of a hand. After com¬
+pleting three groups of three strokes, a longer
+stroke was marked for the next object to indicate
+that ten more objects had been counted.
+The Fulani or Fulbc, a scmi-nomadic pas¬
+toral people of Niger and northern Nigeria, place
+sticks in front of their houses to indicate the
+number of cows or goats they possess. One hun¬
+dred animals are represented by two short sticks
+placed on the ground in the form of a V. Two
+crossed sticks, X, symbolize 50 animals. Four
+sticks in a "vertical" position represent 4. Two
+sticks in a "horizontal" and three in a "vertical"
+position indicate 23 animals. The following was
+found in front of the house of a rich cattle owner:
+WVWVXII, showing that he had 652 cows.
+The Akan peoples (Côte d'Ivoire, Ghana,
+Togo) used figurines in stone, metal or simply
+vegetable seeds as coins. The weight of each fig¬
+urine was agreed to represent the monetary value
+that corresponded to a certain quantity of gold
+dust of the same weight. The figurines show ani¬
+mals, knots, stools, sandals, drums and in some
+cases have diverse geometric forms such as step
+pyramids, stars or cubes. Many display graphic
+signs representing numbers. Although in the lan¬
+guages spoken by the Akan peoples only base ten
+is used, base five is also found on the money
+weights. The Agni, one group belonging to the
+Akan people, used a scries of units of money
+weights with a binary structure, each new unit
+being double the previous one. 39

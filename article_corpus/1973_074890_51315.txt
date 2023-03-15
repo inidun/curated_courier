@@ -1,0 +1,263 @@
+This ordinary-looking wrist watch conceals
+a tiny radio transmitter and telescopic
+antenna (here extended fully). Such a
+device can easily be used secretly to
+pick up and transmit conversations. In
+conjunction with an electronic robot
+receiver, the transmitter could also serve
+as a remote control switch to set a tape
+recorder in motion. The growing micro¬
+miniaturization of electronic equipment has
+enormously Increased the danger of
+eavesdropping with a host of devices.
+
+
+3. The walls etc...
+have electronic ears
+'NE of the oldest among
+the modern methods of auditory
+surveillance is the wire-tap.
+Such "direct taps" could take place
+anywhere between the voice-piece of
+the telephone and the main telephone
+exchange. They interfered sometimes
+with clear transmission, however, and
+were subject to discovery by physical
+inspection.
+Describing the techniques of wire¬
+tapping, in his book "Privacy and
+Freedom" (New York, Atheneum,
+1967), Alan F. Westin says that the
+major innovation in wire-tapping
+before 1941, and still the leading
+technique, uses the induction coil.
+By this technique an induction coil
+is placed a few feet from the telephone
+or near its various connecting wires
+at any point before it is mixed with
+other lines. This requires no cutting
+or breaking into the telephone wires
+or equipment. The coil, being in the
+magnetic field carrying the voice
+signal, draws off a very small amount
+of that signal and carries it to a
+receiver that permits the listening to
+or recording of conversations.
+In addition to their use as "planted"
+devices, says Westin, induction coils
+can also be uëed as portable devices
+when kept in a pocket and wired to
+a pocket recorder. In this way calls
+have been tapped by investigators
+sitting in waiting-rooms outside
+business, law, and government offices,
+from rooms adjoining those of hotel
+guests, and even from the street
+outside a building when a phone is
+near the sidewalk.
+Techniques are being developed in
+several countries which make it
+possible to identify persons speaking
+on the telephone without reference to
+the contents of the conversation.
+Microphones may be used for
+monitoring ordinary conversations,
+not carried over telephone wires.
+Some of these microphones require
+external wire connexion to their source
+of power, others work on internal
+batteries. Some have to be introduced
+into the premises where the conversa¬
+tion takes place, others are able to
+monitor from outside.
+A simple microphone requires
+positioning on the premises in ques-
+CONTINUED NEXT PAGE
+7
+
+HUMAN RIGHTS AND THE THREAT TO PRIVACY (Continued)
+8
+tion, where it may be secretly left,
+connected by wire to a loudspeaker
+over which the conversations taking
+place may be heard outside the
+premises.
+Micro-miniaturization has enabled
+microphones to be reduced to the size
+of a match-head. The transmission
+range is from 300 feet to more than
+a quarter of a mile. These tiny
+mikes can be placed inside a
+telephone, a flower-pot, a picture
+frame or in any other object in the
+room. A common practice is to tape
+them to the underside of furniture.
+No wires are required for the Fre¬
+quency Modulation (FM) microphones
+which have a built-in battery-operated
+radio transmitter. They can give a
+constant transmission for five days
+with a 14 ounce battery.
+Small devices exist which can be
+worn on the person. For example,
+magnetic microphones are on the
+market weighing about 5 grammes,
+which may be hidden behind the lapels
+of a suit jacket. The diameter of the
+mouthpiece, visible in the button¬
+hole, measures 9 millimetres. It may
+be connected to a pocket tape-
+recorder or to a miniature transmitter.
+This device and variations working on
+the same general principle (such as
+cuff-links and fountain pens containing
+microphones are said to be widely
+used.
+'OME microphones do not
+need to be placed inside the premises
+in which the conversation takes place.
+Directional microphones, for instance,
+are able to pick up sounds from the
+outside through any openings in a
+room, such as open windows.
+They may also be used to listen to
+conversations held outdoors, for
+example on park benches or in fields,
+hundreds of feet away. Some direc¬
+tional microphones are, moreover,
+able to monitor sounds through closed
+windows. They have a range of 40 to
+50 metres.
+Another type of microphone which
+does not require trespassing on the
+premises concerned is the contact-
+microphone. This device, which may
+be the size of a lima bean, can be
+attached to the outside of the wall
+of a room. When sound waves set up
+by speech strike the wall, it picks up
+enough of the vibration to permit
+accurate recording.
+Where the walls are too thick, a
+variation on the contact-microphone,
+a "spike-mike", may be used. The
+vibrations in that case are transmitted
+through "spikes" the size of a small
+nail to contact-microphones and then
+recorded.
+Another instrument for recording
+speech from a closed room is a device
+that uses a reflector made of a thin
+diaphragm and a microwave antenna.
+The device is activated by a microwave
+beam that goes through solid walls
+and has a range of a city block. When
+activated it sends the vibrations in the
+room to an outside receiver and the
+conversation is recorded.
+"Micro-balles", i.e., microphone
+bullets, may be shot at windows by
+a special rifle, to catch sound of
+speech from outside the window.
+A technique exists for taking sound
+out of rooms using laser microphones.
+One such device is portable and sends
+out an invisible infra-red beam, which
+may travel for miles before reaching
+the target room. The returning beam
+having been modulated by the sound
+waves in the room, a photo amplifier
+at the listening post makes it possible
+to transform the returning light into
+sound.
+Tape-recorders have been minia¬
+turized and transistorized and are
+capable of recording for several hours
+without any need for changing the reel.
+Some tape-recorders are self-activated
+by sound and stop of themselves
+when silence returns. Such devices,
+may, for example, be built into
+briefcases.
+It has also been reported that a
+dentist, while filling a tooth cavity,
+may insert there a miniature micro¬
+phone capable of transmitting every
+word spoken by the person concerned
+during the day, or a small transmitter
+emitting a signal permitting an operator
+in a distant room to follow closely the
+person's movements all over a city;
+and that miniature transmitters exist
+which a person may swallow without
+his knowledge.
+Miniature transmitters may also be
+placed inside a car, whence they emit
+a signal which can be tracked by
+portable receivers in other vehicles,
+miles away.
+Ordinary telephones may be trans¬
+formed into transmitters by processes
+requiring entry into the premises
+concerned. One such telephone-
+based transmitter, the "Harmonica
+Bug", has been described by one
+expert as follows:
+"Once this is installed in the
+telephone of the victim, the eaves¬
+dropper, who can be anywhere, even
+thousands of miles away provided
+that he is on a direct dialing system,
+merely dials the victim's number and
+blows a predetermined musical note
+on a harmonica. This note is picked
+up by the device in the victim's
+telephone, and prevents it from
+ringing. At the same time it connects
+the telephone microphone into the line
+so that the eavesdropper can listen to
+any conversations that are taking place
+within earshot of the victim's
+telephone."
+The "internal telephone transmitter"
+is a miniaturized transmitter that
+resembles the microphone in the
+mouthpiece of the telephone receiver,
+for which it is substituted. It sends the
+voice impulses created by the use
+of the telephone to a transistorized FM
+receiver, set at the device's transmis¬
+sion frequency. The transmitter
+receives its power from the telephone
+line in question.
+There exist small, unobtrusive
+electronic devices to be worn or
+implanted on one's person; these
+devices emit signals permitting a
+monitor located some distance away
+to determine the wearer's location.
+Existing technology is, moreover, able
+to produce devices which can, in
+addition, monitor such bodily reactions
+as pulse rate and blood pressure as
+well as the sounds in the wearer's
+immediate surroundings, for example,
+his conversations.
+Another device for electronic sur¬
+veillance permits a person within a
+range of three or four city blocks to
+learn whether a television set is
+operating within a house and, if so,
+to which channel it is tuned. Radar-
+type equipment in a truck or nearby
+building is able to pick up signals
+known as horizontal oscillators, given
+off by TV sets, compare them with
+the particular signal produced for each
+channel, and identify the one in use,
+all within a fraction of a second. The
+developers of this device, intended
+for measuring television audience
+choices, state that they are also able
+to identify radio stations.
+

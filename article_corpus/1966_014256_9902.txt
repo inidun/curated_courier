@@ -1,0 +1,476 @@
+MESSAGES
+TO THE STARS
+by D. M. A. Mercer
+FACE IN SPACE
+A profile of the human face
+seems to float among
+the myriads of stars
+in this enlarged photo
+of the Milky Way.
+The brightly luminous nebula
+forming the outline is
+visible in the constellation
+of Cygnus (the Swan),
+distant from the earth
+by 1,000 light years.
+© Observatoire de Paris
+I F we woke up one morning to find, hovering
+over our city, a space-ship from a distant galaxy,
+we would no doubt view it with very mixed feelings. But
+after the initial surprise had subsided, the very practical
+question would arise how could we get in touch with its
+crew? If we did not, at best the ship might simply consider
+that there was nothing of interest in the vicinity and go
+away and we would have lost an almost unique opportunity
+of immense potentiality. But at worst, the ship might have
+the means of destroying our whole planet. For a variety
+of reasons, we would find it imperative to communicate
+with the crew (or with the ship if, as may well be the case,
+it is an unmanned robot).
+But how should we start to communicate? Obviously there
+is no point in flashing English messages in the Morse code.
+What means should we use? Clearly this needs a good
+deal of thinking through, and it is this subject which I want
+to deal with the basis of communication with alien
+intelligent beings (I use the word "alien" in the science-
+fiction sense; the inhabitant of another part of the physical
+universe who may have no necessary common physical
+traits with us).
+All we know about these people is that they are intelligent
+they must be so, or they could never have built a space¬
+ship. Any communication must be on the basis of our
+. common intelligence. This puts the problem in the best
+way what is the basis, the lowest common multiple, if
+you like, of intelligence: something which is common no
+matter how much its physical vehicle changes. If we can
+understand this, we can understand how to communicate:
+in fact the two problems are bound up with each other.
+To start with our case of the space-ship which has
+appeared in our vicinity, we assume that its builders are
+(1) Intelligent; (2) At least as far advanced scientifically
+as we are, and probably much more so; (3) Interested in
+finding other intelligences. (This is probably a fair assump¬
+tion, as they have apparently sent an exploring spaceship
+although it is not impossible that races who are completely
+withdrawn and introverted exist.) (4) Ready to communicate
+4
+D.M.A. MERCER, of the Physics Department of the University of
+Southampton (United Kingdom) is a specialist in acoustics.
+and to receive signals, and also to try to interpret them.
+This last point is important, and it needs some discussing.
+The probe will obviously not expect communication in
+its own language. In fact, we must both seek a common
+language. This is rather like the problem set up in certain
+branches of game theory. You are to meet someone in
+London on a particular day, but neither of you has any
+knowledge of the time or place; you must choose not
+what seems obvious to you, but what you think he thinks
+you will choose in the situation in which you both are, etc.
+(You might in this case choose Piccadilly Circus at 12 noon,
+for instance.)
+To follow this thought up, we should ask what signals
+would show that we are intelligent, and would be so
+understood by the probe. Any signals we send must look
+artificial space is full of light and radio waves, and our
+signals must clearly look as if they have not arisen from
+a natural source.
+I don't want to spend time discussing the mechanics of
+signalling, except to say that we are limited, over long
+distances, virtually to two means: short-wave radio, and
+"laser" light beams. For most purposes it appears that
+radio is preferable. I might also remind you that such waves
+travel at the speed of light; so to communicate with a
+planet 10 light-years away, the round-trip signal would
+take 20 yearsl Clearly there is little scope for rapidly
+changing one's mind while conversing.
+In many cases, we are limited to sending a series of
+identical signals in time i.e. a train of pulses of elec¬
+tromagnetic energy, either radio beams or light beams.
+One such series which has been suggested is a series
+of prime numbers (numbers which have no factors, but
+are divisible only by themselves and 1). If we send pulses
+in groups of 1, 2, 3, 5, 7, 11, 13, 17... etc., they will
+clearly come from intelligent beings. No radio storms
+in the galaxy, or any other natural process, will produce
+prime numbers.
+o. .oo. .ooo. .ooooo. .ooooooo. . ooooooooooo. .ooooooooooooo. .
+Fig. 1
+They might be indicated as in Fig. 1, in which we choose
+a fixed spacing in time for the pulses, indicated by the
+space between symbols. A dot means the absence of a
+pulse, and a circle means a pulse.
+CONT'D ON PAGE 6
+
+w
+v
+'
+. *"
+/V **
+.
+. -*
+*. «i"H'
+
+MESSAGES TO THE STARS (Cont'd)
+How to devise an interplanetary signal
+We might also try a series of squares, 1, 4, 9, 16..., or
+the digits of jt, the ratio of the circumference of a circle
+O..O00O..OOOOOOO0O..OOOOO0OOOOOO0OOO..OO0OOO00OO0OOO0OOO0OO00OO..
+0OO..O..O0OO..O« .OOOOO..OOQOOOOOO. .OO..OOOOOO. .ooooo.ooo. .oooooo. .
+.Fig. 2
+to its diameter, 3.141.592... (Fig. 2). This, being a ratio,
+is independent of the units of measurement. It does however
+raise the sort of point which we will be considering again
+can we assume that the circle is such a fundamental idea
+that any intelligent being, however alien, will know it?
+I think we can make this assumption; any being with any
+knowledge of working materials, such as constructing
+radio transmitters, must be familiar with the circle.
+At this stage it might be pointed out that we could
+make pictures. It has been suggested in the past that we
+should build an enormous chain of beacons over a large
+land-area, showing, for instance, Pythagoras' theorem
+Fig. 3
+(Fig. 3). If a space-ship were hovering overhead, this
+would certainly be possible; although we might well want
+to indicate that we had progressed further than the ancient
+Greeks, and some more sophisticated diagram, of the sort
+to be discussed later, might be more appropriate.
+Such beacons however would be visible only to some¬
+thing close at hand an alien space-ship orbiting the
+earth, as I mentioned earlier. What if we tried to send
+signals to a distant planet? Is there any way in which
+we can send pictures to them?
+»
+Before discussing this, perhaps we should consider
+two further fundamental points. One is that we assume
+other alien races have eyes, or at any rate some corres¬
+ponding sense organs. The other is that they can understand
+pictures, which are two-dimensional representations of
+three-dimensional objects.
+Here again, we feel that a sense of vision must be
+essential to anyone with an advanced technology. Secondly,
+we feel that such an advanced technology must deal in
+pictures and diagrams. We may be wrong over this; there
+may be races dependent entirely on tactile senses dealing
+directly with three-dimensional objects. All we can say
+is that it seems unlikely: this is the sort of thinking we
+must however attend to if we are to establish a basis for
+a universal intelligence.
+While on this point, we ought to consider a little further
+the modes which intelligence can take. There may be
+some intelligent races which are completely withdrawn
+and introspective, wishing to have no contact with anyone
+outside. There may be others who are uninterested: they
+may have solved all their political and economic problems,
+and spend their time watching television.
+There are two other cases which may raise problems;
+one is the case of beings whose processes are very slow
+compared to ours. Although they may be intelligent, it
+would be virtually impossible to communicate with them.
+The other is the case of a civilization well versed in the
+abstract virtues of goodness, truth and beauty, but without
+any technology.
+These would be difficult to communicate with as a
+superior alien community would have found the classical
+Greeks but I do not think there is an absolute bar.
+I don't consider that any entirely abstract philosophy can
+exist in isolation from the real world: even on this earth,
+our most idealist philosophers slip in ideas of material
+things counting, for example which they could not do
+if in fact mind were the only thing which existed. (And
+it is worth noting that the ancient civilizations have led,
+in time, to our technological one.)
+Returning to the problem of sending pictures, in fact it
+is not too difficult to do so by a series of pulses. Suppose
+we send a series as in Fig. 4. By itself it is not very
+ooo	 .o.	boo. ....
+	.o	...o....	ooo	.o
+o	ooo o	
+	o	ooo o	
+	o	ooo o
+..o	ooo o	W	o...
+ooo .o. .o	ooo. .....
+	o	o	ooo
+o Fig. 4
+meaningful. If however we cut off each series beginning
+with three circles, and put them all one above the other,
+we have a diagram of a circle, Fig. 5. This of course is
+OOO o
+OOO O o
+OOO o o
+ooo o o
+ooo o o
+ooo o o
+ooo o o
+ooo o o
+ooo Fig. 5
+a form of scanning in exactly the same way as that carried
+out in a television receiver.
+Alien races may not have the same sort of television
+of course their sets may scan in a spiral but we would
+think that they would be intelligent enough to try various
+ways of superimposing traces until they hit on a "meaning¬
+ful" one. (Here again I am assuming that "meaningful"
+has the same connotation to any intelligent being i.e.
+that the ideas of "random" and "ordered" are universal.)
+o.o	oo	oooo . . . o . . . . o . . . o . . o	o ... o
+....0......0.. .OOO. ..«.0....0. «OOOOO. .O. . .OOO. .00. »o. .
+.o.... o	ooo.	o...o....o... o	...o-.,o... o	
+..oooo	oo.o Fig. 6
+There is in fact another way in which we can send
+pictures in a rectangular array. Suppose we send a series
+such as Fig. 6, starting and ending with one pulse, and
+
+A.B.C.D.E.F.G.H.I.J.K.LM.IM.P.Q.R.S.T.U.V.W.Y.Z.
+AA, B ; AAA, C ; AAAA, D ; AAAAA, E ; AAAAAA, F ; AAAAAAA, G ;
+AAAAAAAA,H; AAAAAAAAA. I ; AAAAAAAAAA, J.
+AKALB; AKAKALC; AKAKAKALD. AKALB; BKALC; CKALD;
+DKALE. BKELG; GLEKB. FKDLJ ; JLFKD.
+CMALB; DMALC; IMGLB.
+CKNLC; HKNLH. DMDLN; EMELN.
+JLAN; JKALAA; JKBLAB; AAKALAB. JKJLBN; JKJKJLCN.
+FNKGLFG.
+BPCLF; EPBLJ; FPJLFN.
+FQBLC; JQBLE; FNQFLJ.
+CRBLI; BRELCB.
+JPJLJRBLSLANN; JPJPJLJRCLTLANNN. JPSLT; JPTLJRD.
+AQJLU; UQJLAQSLV.
+ULWA; UPBLWB; AWDMALWDLDPU. VLWNA; VPCLWNC.
+VQJLWNNA; VQSLWNNNA. JPEWFGHLEFWGH ; SPEWFGHLEFGWH.
+GIWIHYHN; TKCYT. ZYCWADAF.
+14 DPZPWNNIBRCQC.
+CAN YOU DECIPHER
+THIS
+INTERPLANETARY
+MESSAGE ?
+In 1960, Ivan Bell, an English language teacher
+in Tokyo, heard about Project Ozma, a scien¬
+tific plan for listening in for radio messages
+from outer space. To amuse his friends he
+devised a simple interplanetary message of
+24 symbols. It was printed in The lapan
+Times of January 22, 1960. and readers were
+asked to decipher it. The newspaper received
+four complete solutions, including one from
+a U.S. reader who wrote her answer in the
+same code, adding that she lived (by Jove !)
+on Jupiter. Here we reproduce Ivan Bell's
+lighthearted exercise in coding an interplane¬
+tary message. The message is extremely
+simple to decipher; far far simpler than it
+looks. All readers are urged to try their hand
+at it and if they fail, let them ask their
+children to help. Three words of advice:
+(1) Don't be afraid to use paper and pencil.
+(2) When you've found the solution you won't
+have to ask, "Is this it?" ; you'll know you have
+the answer. (3) The key to the solution is to
+be found in paragraphs 2 and 3. Paragraph 1
+simply lists the alphabet (minus letters O and
+X). Answers will be published next month.
+Punctuation marks are not part of the
+message but indicate time lapses.
+repeating this series many times. If you count the total
+number of symbols, (i.e. circles + dots) it comes to 203.
+This is a number which can be decomposed in only one
+way, 7 x 29. If we do split it up in this way, in a rectan¬
+gular array 7 x 29 we arrive at Fig. 7.
+oo oo oooo
+oo o
+° o oooo °
+O OOOOO o oo
+O O O ooo o
+ooo o o
+o oooo ooo
+Fig. 7
+Of course this expression 1+2 = 3 would mean
+nothing as it stands, but I am simply indicating that it is
+possible to send pictures using a train of pulses; and the
+pictures could of course be much more complex than
+this. What in fact should we send? I mentioned that we
+wanted something more advanced than Pythagoras' theo¬
+rem. One subject we do know about is the way in which
+atomic nuclei can be split up in reactions taking place in
+stars. One such reaction, believed to be correct, is when
+lithium and hydrogen combine to form carbon and helium.
+o o o
+oo oo 00
+o
+o oo o ooo
+o
+oo oo oo
+o o o
+o 0
+oo oo oo o
+oooo o
+o o 000 00
+oooo o
+oo oo 00 o
+0 o
+Fig. 8
+If we indicate this as shown in Fig. 8, in which the
+single and double circles represent two different types of
+elementary particles in the nuclei, it is probable that it
+will be recognised. (Of course we would use predeter
+mined signs for the plus and equals.) The alien races
+will then know that we understand stellar reactions. We
+could send diagrams of the carbon cycle, indicating that
+we live on the basis of carbohydrate chemistry. We
+should perhaps send diagrams of our local constellation
+and solar system.
+Apart from all this, once one can send pictures the
+problems become standard ones of education and logic.
+It is however a fascinating idea to compile an educational
+series on "All about us and our world for someone who
+has never seen any of it." Think of putting together the
+whole sum of human experience and existence in a series
+of programmes. I would like to see some television series'
+experts try it.
+Quite apart from the problem of sending information,
+however, there is the problem of listening. Suppose other
+advanced galactic communities are trying to beam infor¬
+mation at us? What should we be listening for?
+Once again we are considering intelligent signals, differ¬
+ing from the natural signals in the universe. There is one
+way in which perhaps detection can be made easier,
+Fig. 9
+without examining every one in detail. Fig. 9 shows the
+forms of two types of signal: (a) is noise, (b) is man-made.
+The time spent by each near its zero line is quite different:
+(a) spends a large proportion of its time near its zero-line,
+the proportion becoming less the further away it gets;
+(b) spends all of its time a fixed distance from its zero-
+line. The test, in other words, to distinguish between
+CONT'D ON PAGE 10
+
+MESSAGES TO THE STARS (Continued from page 7)
+40 years for an answer to come back
+10
+natural and artificial is a statistical one, and can readily
+and quickly be applied, without studying each signal in
+detail.
+I might point out that we could learn a good deal about
+the other planet just by the character of the radio signals,
+quite apart from their information content. If the signals
+appear at more or less fixed intervals, we might assume
+that this represents the length of their day. The basic
+frequency of their radio signal will slowly change, due to
+the transmitter moving towards and away from us, due
+to the rotations of the planet on its axis and about its star
+(this is the well-known Doppler effect.) From a study of
+this frequency, we could deduce these quantities, and
+hence find something about their planet's behaviour. We
+might even, from this, be able to identify their star.
+It is necessary to digress to consider just how many
+advanced communities there may be, as the type of signal
+received (or the type we send) does depend on it.
+S far as we know, a small fraction of stars have
+^planets. For any planet to be able to support
+life, it must be neither too hot nor too cold" because life
+depends on chemical reactions, which will proceed too
+slowly at low temperatures, and will not proceed at high
+temperatures because substances decompose. (We know
+that the whole universe is made of the same materials we
+are familiar with, and the same general laws of chemistry
+apply.)
+Thus only a fraction of planets will be at the appropriate
+distance from their stars. Further, only certain types of
+star are suitable; they must give a constant energy output
+over the biological time-scale.
+When all this has been worked out, the next problem is
+how long may technologically advanced communities exist,
+compared with the whole time life has existed on their
+planet? This is a matter for speculation: perhaps by
+sociologists. In our own case, for instance, we have had
+radio for only some 60 years, while life has existed over
+the vastly longer biological life-time scale.
+If we can imagine advanced communities existing for
+much longer than our 60 years, we arrive at the quite
+speculative figure that there may be some hundred million
+advanced communities throughout our universe (taking the
+number of stars in the universe to be denoted by a 1 fol¬
+lowed by 21 zeros, i.e. one thousand million million million).
+The general thinking in this section will be seen to stem
+from one aspect of the "cosmological principle" namely,
+that there is no reason to assume that we on this earth
+are unique, or specially privileged in any way.
+This is not a very useful figure, because many of those
+communities will be immense distances away. But to come
+nearer, within 15 light-years of us there are seven "suit¬
+able" stars; within 50 light-years there are 100 "suitable"
+stars. That is, there is a small probability that some
+advanced communities are within hailing distance.
+There is another conclusion to be drawn, however. The
+lifetime of a technological community is probably so much
+longer than the time we have had modern technology,
+that nearly all the galactic communities are far more
+advanced than we are. They may already be in a "galac¬
+tic" club, busy communicating; and they may maintain a
+small subdepartment who are beaming messages at other
+likely stars in the hope that they may discover some novice
+community, just on the threshold of interstellar communi¬
+cation, to whom they can send .their kindergarten messages
+and gradually educate to their standards. It is a humbling
+thought.
+What all this means in practice is that we might find
+that any other community could pay very little attention
+to us. They may have thousands of likely stars to send
+signals to; as they would not have vast numbers of trans¬
+mitters, we might receive signals only 1 day in 100 years
+(and they might have been doing this for thousands of
+years, of course without result).
+This situation is perhaps rather pessimistic, because in
+fact a much better way for any community to explore is
+not to send signals, but to send unmanned space-ships,
+or "probes". These would be loaded with computers and
+recorded material, ready to give us information about them
+and to record the information we send them. A superior
+community might be able to spray thousands of such
+probes into the galaxy with pre-programmed instructions
+to listen for any radio waves, and "home" on any planet
+sending them out.
+What would such a probe do? It would circle a planet,
+picking up radio waves. How would it make itself known?
+This raises another basic problem; how you get people to
+perceive the unexpected, and not to dismiss it just as
+interference?
+One suggestion which has been made is that the probe
+would send back a replica of any message it received.
+This is good technology, because the senders of the signal
+would probably also be listening on this frequency. There
+is in fact a case of some long-delayed echoes in a radio
+transmission investigation about 30 years ago, which have
+never been explained.
+It is entertaining to speculate that they might have been
+picked up by an exploring probe, which has relayed the
+information back to its planet, many light-years distant;
+a further message may be even now on its way to us.
+(The delay is because, as pointed out earlier, no signal
+can travel faster than light: so that if a planet is 20 light-
+years away, it would be 40 years before a response to
+the first signal was heard.)
+I T is worth closing with the question, assuming
+' that the sort of exploring probe I have discussed
+may come to us one day, should we learn to listen or
+learn to send? There is already a listening station in the
+U.S.A. which has searched without result so far for
+intelligible radio waves from some nearby stars.
+Listening is exciting work: it has an appeal. Sending
+information is not so appealing: you can do it for a long
+time with nothing to show for it. But it seems to me that
+it might be far more important. It is unlikely that a probe
+will yield up its stored information unless we interrogate
+it properly; and we should surely, besides giving informa¬
+tion about ourselves, want to ask questions of the advanced
+communities such as how to conquer cancer. (For it is
+worth noting that the interchange of information in this
+way is an entirely benign activity.)
+I think we should spend time and energy on studying
+how to send, and what to send to be ready for the
+opportunity when it comes. For although the probability
+of success in communicating with alien communities is
+very small indeed, the probability of success if we do
+nothing about it is precisely zero.
+The above article Is the text of an address delivered by Dr. Mercer
+at the meeting of the British Association for the Advancement of
+Science, held in Southampton, England, last year.

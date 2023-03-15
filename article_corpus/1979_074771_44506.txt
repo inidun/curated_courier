@@ -1,0 +1,472 @@
+The mole
+and the butterfly
+Reflections on Einstein,
+science and subjectivity
+by Pierre Thuillier
+Text Copyright © Pierre Thuillier, 1979
+Reproduction prohibited
+J[§ F we consider science as a completed body of knowledge,
+I it is the most impersonal of human works; but if we see
+I it as a continuing project, it is just as subjective and
+psychologically conditioned as any other human undertaking."
+This declaration of Einstein's may surprise the defenders of a cer¬
+tain form of logical positivism. But it constitutes a sort of invitation
+to scrutinize the "subjective" genesis of relativistic ideas.
+Let there be no misunderstanding. "Special relativity" and
+"general relativity" are scientific theories; only by considering the
+state of physical science at the beginning of the 19th century can
+we understand the nature of these theories and evaluate their im¬
+portance. If our only interest lies in the "progress" of knowledge
+per se, we may even feel justified in ignoring (or condemning as
+too anecdotic) all psychological or sociological contributions to the
+history of science. The fact remains that Einstein himself was
+always at pains to analyse his ideas and the influences he had
+undergone.
+Let us seriously consider the objection implied above that
+science is essentially "objective", or at least is only of value insofar
+as it is "objective". If this is so why deliberately place so much im¬
+portance on the "subjectivity" of the scientist, even if his name is
+Einstein? In other words, it would be ill-advised and even
+dangerous to confuse art and science. Artists do not seek to
+describe reality "as it is": they interpret it and reconstruct it ac¬
+cording to the dictates of their sensitivity and imagination. But
+scientists, we are given to understand, go about it quite different¬
+ly; they prefer to silence their "subjectivity" and listen only to the
+"voice of facts"; relying on a strict methodology they succeed in
+establishing perfectly precise "laws of nature".
+According to this view of science, what counts is that the con¬
+cepts be precisely defined and workable and the results confirmed
+experimentally. Scientific "geniuses" are, undoubtedly,
+remarkable in their own way: but their work would seem to have
+nothing "subjective" about it.
+This approach has all the appearances of everyday common
+sense. However, it may well conceal the difficulties inherent in the
+notion of objectivity. No one would dream of denying that scien-
+PIERRE THUILLIER, professor of the history of science at the University
+of Lille III and the University of Paris VII, is a member of the editorial staff
+of the French scientific periodical La Recherche. His interests in
+epistemology (the theory and science of knowledge) and the broader
+questions of the relations between science and society are reflected in his
+Jeux et Enjeux de la Science (Games and Stakes of Science) published by
+Robert Laffont, Paris, 1972.
+tifie Statements must be able to stand up to experiment. But even
+when the "verdict of the experiment" is favourable, can it really be
+said that the theory's "objectivity" has been established?
+In fact, only the value (or validity) of the theory has been con¬
+firmed. Strictly speaking, a positive result does not prove that the
+statements tested are absolutely "true". For another theory may
+turn out to be as good or even better. In other words, one is never
+sure of having complete and definitive knowledge of the "objects"
+studied. Experiments can show that, in certain conditions and
+within certain limits, a given theory explains phenomena. But they
+do not prove that this knowledge is absolute and completely true.
+Examples abound. Thus, for a long time it was thought that
+Newton's mechanics offered a strictly accurate ("objective")
+description of nature. But it is this very idea that the theory of
+relativity calls into question. We must admit that science aims at
+giving an objective description (or explanation) of phenomena. But
+it would be going too far to assert that scientific theories, such as
+they exist in reality, are wholly objective constructions, that is to
+say, devoid of any "subjective" element. It is for this very reason
+that theories are constantly evolving.
+The approach adopted to the problem of subjectivity in science
+is closely linked to the solutions given to certain purely
+epistemological questions (questions concerning the nature and
+value of scientific knowledge). Einstein himself was well aware of
+this, as is attested by his analyses concerning the connexion bet¬
+ween "facts" and "theories".
+Newton, he said, believed that "the laws and basic concepts of
+his system could be derived from experiment". But this is not so.
+Contrary to what some empiricists think, "any attempt logically to
+deduce concepts and fundamental postulates from elementary ex¬
+periments is doomed to failure". In fact, the foundations of
+theoretical physics must be "freely invented". Which means that
+to develop their science physicists do not passively record sense
+data, but build a theoretical framework with the aid of principles
+and concepts that they have not only selected, but, as Einstein
+repeated time and again, freely selected.
+This view could be described as constructivisme. Not only does it
+allow that the theoreticians' "subjectivity" is involved, it also ad¬
+mits that this involvement is practically unavoidable and entirely
+legitimate. True, some theories are better than others. But, as
+Einstein observes, "there is no logical bridge between phenomena
+and the principles intended to explain them". But if these prin¬
+ciples do not stem from the phenomena, then what is their source?
+Einstein's view can be summarized, as follows: although the
+scientist seeks to give a "rational" ¡mage of the world, he has no
+24
+
+Einstein at his desk at
+Princeton University in
+1948. When someone once
+asked him where his
+laboratory was he took a
+fountain pen out of his
+breast pocket and said :
+"Here".
+Photo © Parimage, Paris
+access to unique and absolute Reason which will present him, in a
+purely logical way, with the concepts and principles he needs. It is
+by using their own resources and their own experiences that men
+try to invent intellectual tools that are more or less suited to
+"reality". So the genesis of scientific theories lies not only in logic
+and epistemology, but in psychology, sociology and cultural
+anthropology.
+The so-called advanced societies propagate an image of science
+which, more than anything, emphasizes its stringent, logical,
+"objective" aspects. But Einstein, both by his declarations and his
+scientific activity itself, gives us a wonderful opportunity to get a
+better look at the reverse side of this ¡mage with its concomitant
+emotions, flights of fancy, philosophical convictions, even
+"mystical" passion.
+We know that Einstein and Michèle Besso enjoyed a long
+friendship. One day Besso's sister asked Einstein: "Why hasn't
+Michèle made any major discovery in mathematics?" Einstein
+laughingly replied: "But that's a very good sign. Michèle is a
+humanist, a universal spirit, with too much interest in too many
+things to become a monomaniac. Only a monomaniac gets what
+one calls 'results'." Urged by Besso to explain, he went on: "I still
+believe you would have developed significant ideas in the field of
+science if you had been obsessive enough. A butterfly is not a
+mole, but no butterfly should mind that".
+And so it would be nice to know: to what extent was Einstein a
+"mole", a "monomaniac"? What was the obsession that could
+more or less directly engender special relativity and general
+relativity? In answer Einstein suggests: the real scientist is totally
+imbued with "cosmic religious feeling".
+According to him, this is the third degree of religious life, the
+first two being religion-fear and religion-morals, in that order. "I
+maintain (...) that cosmic religiosity is the strongest, most noble
+incentive to scientific research.. Only someone who can measure
+the enormous efforts. and, even more,- the dedication without
+which scientific creations opening up new ways cannot be
+realized, is in a position to appreciate the strength of feeling which
+alone can engender a work of this kind, detached from everyday
+living. (...) It is cosmic religious feeling that gives man this
+strength".
+So on this point Einstein thinks very differently from the
+positivists: "In our materialistic age, serious scientific researchers
+are the only men who are deeply religious". Remarks like this are
+two a penny in Einstein. Sometimes we even get the impression
+that hé is rather overstating his idea: "I cannot imagine a genuine
+scientist who does not have deep faith. The situation can be
+summed up in a metaphor: science without religiop is lame,
+religion without science is blind".
+A few observations on this Einsteinian religion would not come
+amiss. First of all, it has no connexion with religions which accept
+the existence of a personal God who dispenses punishments and
+rewards. Einstein feels that this sort of doctrine is impure and that
+religions should reject it out of hand. True, the idea of a personal
+God breeds hopes and fears and gives priests enormous power
+over the minds of men. But in the long run it can only cause
+"incalculable harm to the progress of mankind". Therefore
+Einstein prefers to call himself a pantheist. To be religious is to
+endeavour in all modesty to understand the order of the world.
+In this way Einstein makes an almost systematic connexion
+between the idea of "religion" and the idea that the world is
+intelligible and rational. More precisely, the scientist must believe
+that the world is so. If he is brave enough to dedicate himself to the
+study of nature, it is precisely because he is convinced that nature
+is constructed according to harmonious laws.
+For Einstein this means, among other things, that everything is
+determined by strict causality. The real scientist thinks "that causal
+law determines all events", from which it is easy to understand
+why he cannot accept the idea of a personal God, that is a being
+who dictates the course of events. In his own way, Einstein is very
+lucid. Instead of using causality as absolute evidence, he makes it k
+the object of religious belief, of personal commitment. This*
+25
+
+( evidently does not prevent him in practice from using the principle
+of causality as a decisive criterion in evaluating scientific theories.
+So it was that he consistently refused to recognize the
+legitimacy of quantum mechanics. For "God does not play dice".
+With this oft-repeated formula Einstein declared his faith in a rigid
+determinism of natural phenomena. He could not accept "the
+statistical craze" as evinced in the speculations of the Bohrs,
+Borns, Heisenbergs and Paulis.
+The major stumbling-block of quantum theory, in his view, is
+that it does not provide a complete description of reality ; "pro¬
+babilities" cannot be the last word in knowledge. The Eins¬
+tein/Born correspondence is eloquent on this point: Born never
+succeeded in shaking Einstein's "cosmic religion" Einstein found
+it shocking that a particle might be considered not to behave in a
+totally predictable way.
+But the belief in universal causality is rather commonplace: it
+could never on its own have "inspired" the theory of relativity. On
+the other hand, it is quite remarkable that Einstein often defined his
+"religious" position by contrasting "the inanity of man's longings
+and objectives" with nature's "sublimity" and "wonderful order".
+Individual existence is a "kind of prison". So the quest for
+knowledge has a thoroughly fundamental significance: man, as an
+individual, does not amount to much, but he has the capacity to
+contemplate and understand the universal order. Through
+knowledge "the individual endeavours to experience the universe
+as an entity with a meaning". A religious man is a man who has, as
+far as he can, freed himself of the trammels of selfish desires, and
+turned towards thoughts, feelings and aspirations of supraperso¬
+nal value.
+In his Autobiographical Notes, Einstein returns to this theme:
+we must "free ourselves from the shackles of the purely personal"
+and endeavour to discover an "extra-personal world" which will
+constitute a new paradise. Thus is established the existence of a
+"real world", independent of ourselves, the contemplation of
+which has (or will have) a liberating effect.
+Einstein's epistemological realism, we see, is deeply and directly
+rooted in his "subjectivity". And here we are in a position to ad¬
+vance a crucial hypothesis: if Einstein worked out special relativity
+and general relativity, it was precisely in order to enjoy a world that
+is more real and more satisfactory than the poor world in which we
+live from day to day.
+What is in fact the essence of the "theory of relativity"? It is suf¬
+ficient to read Einstein to realize that, despite its name, this theory
+expresses the wish to find "laws of nature" the form of which re¬
+mains constant regardless of the system of reference adopted.
+Special relativity only applies to the Galilean systems, that is to.
+say, systems in which there is validity for "the fundamental law
+known as the law of inertia: a body sufficiently removed from other
+bodies persists in its state of rest or uniform rectilinear motion".
+The general theory of relativity can be expressed as follows: "All
+systems of reference, regardless of their state of motion, are equal¬
+ly valid in the formulation of the general laws of nature."
+To put it more simply, let us say that the theory of relativity
+represents the wish to find an image of the world independent of
+the position of different observers. For some time now various
+authors have been struck by the fact that a "postulate" of this sort
+quite faithfully reflects Einstein's personal ideas mentioned earlier
+on. Everything seems to point to the fact that relativistic physics is
+the realization, in a particular field, of a more general programme:
+to build a "suprapersonal" world, a world situated beyond our sen¬
+sations and perceptions but possessing a superior reality.
+The detractors Of the new theory were not mistaken; they clearly
+perceived that relativistic speculations were by no means founded
+on pure and simple "objectivity". So we have Christian Cor-
+nelissen, in a little book published in Paris in 1923, deploring Eins¬
+tein's hallucinations. He regretted that Einstein had taken certain
+ideas "to the absurd" and "let himself stray into the realm of
+metaphysics". In a way he was right! To dare to formulate such
+theories, Einstein had to be (there is a tendency to forget this
+nowadays) extraordinarily confident about various presuppositions
+which were by no means evident. It is not surprising that less dar¬
+ing minds than his at the turn of the century were hard put to share
+this "faith".
+Einstein displayed his originality in the article published in 1905 in
+which he laid the foundations of the theory of relativity. But this
+originality lay not so much in the novelty of the ideas he used as in
+the way in which he deployed them.
+The French mathematician Henri Poincaré had seen quite clearly
+the new uses to which the "theory of relativity" could be put,
+while the Dutch physicist Lorentz developed the "transformation"
+which bears his name and the formalism of which was adopted
+by Einstein. So much so that Sir Edmund Whittaker, an
+Englishman and author of the authoritative History of the Theories
+of Aether and Electricity, could attribute the theory of relativity to
+Poincaré and Lorentz, which rather shocked Max Born. In fact, far
+from being the fathers of this theory, neither Poincaré nor Lorentz
+ever really accepted it. Whittaker's mistake is both a psychological
+and an epistemological one: he underestimated Einstein's intellec¬
+tual courage, what could be called his philosophico-scientific
+radicalism.
+For Poincaré probably understood the theory of relativity as well
+as Einstein did. But he thought of it as being only "a convention
+suggested by experience". Physicists, he said, could well do
+without it. In other words, Poincaré hesitated to demolish the
+classical theory. This sort of timidity is quite foreign to Einstein. He
+makes no bones about it. He decides that the "theory of relativity"
+is a sine qua non if one is to rebuild the theoretical edifice from
+scratch. At least temporarily; it must not be called into question.
+Therein lies all the difference between the two: Poincaré
+adopted a conservative strategy while Einstein decided to pioneer
+an entirely new path. Hence the importance of being a
+"monomaniac". For intelligence was not enough to invent the
+theory of relativity; one also had to be "mad" to select the new
+bases despite their paradoxical nature.
+In his 1905 article Einstein showed his audacity by admitting two
+basic principles from the outset: the principle of relativity (which
+has just been discussed) and the principle of the constancy of the
+speed of light. It was all the more daring since, according to Eins¬
+tein himself, these two principles were apparently incompatible.
+This raised certain questions: how did Einstein get the idea of
+asserting the constancy of the speed of light?
+Many physicists and philosophers felt that Einstein had been led*
+
+
+.to this idea by the Michelson experiment (1881) and the Michelson-
+Morley experiment (1887). At this time it was widely accepted that
+light moved about in an absolutely motionless medium, the ether;
+and that it should be possible to show the earth's motion through
+this ether. It is unnecessary to go into Michelson's experiment in
+detail here. Suffice it to say that he was working on light beams
+and that what he hoped to show was the influence exerted on
+them by the "ether wind".
+But this hope failed to materialize as the mysterious ether proved
+impossible to detect. The empiricist interpretation has it that it was
+this experimental fact that inspired Einstein; by making a broad
+generalization from it he was able to establish that light always
+travelled at the same speed (and was therefore outside the sphere
+of certain well-known laws of classical physics).
+This interpretation is certainly debatable. First of all, it is clear
+that various interpretations could be put on Michelson's experi¬
+ment. Thus the Dutch physicist Lorentz followed up a suggestion
+of the Irish physicist Fitzgerald and put forward an original ex¬
+planation: "the ether wind" caused matter to contract, which
+prevented any verification of the expected light effects. This
+proves that the solution put forward by Einstein (the theory of the
+constancy of the speed of light) had not been strictly based on
+"facts".
+Better still, we now know that Michelson's experiment was not a
+determinant in Einstein's approach: "I can't say for certain when I
+first heard of Michelson's experiment. I was not aware that it had
+any direct influence on me". He made this point time and time
+again: "Michelson's experiment played no part, or at least no
+decisive part, in my personal struggle". On the other hand, we can
+assume that some "subjective" influences intervened.
+Einstein explains in his Autobiographical Notes that for ten years
+he pondered a paradox which he had spotted at the age of sixteen.
+It was a kind of "thought experiment" in which he asked himself
+this question: what would happen if I pursued a beam of light
+while I myself was travelling at a speed equal to the speed of light?
+He suggested the following reply: "I would observe this beam as
+an oscillatory electromagnetic field at rest".
+But for more reasons than one he considered this to be impossi¬
+ble; and for him this was a problem, an exciting paradox. "We
+see", adds Einstein, "that the germ of the special theory of relativi¬
+ty is already present in this paradox". This confirms that Einstein
+had been mentally prepared for some time to manipulate some
+basic problems in order to get certain concepts to work.
+Naturally, he was conversant with the results of various ex¬
+periments. Hethought that, generally speaking, physics should be
+developed in contact with experiment and validated by it as far as
+possible. But the theory of relativity was not conceived in order to
+resolve the difficulties arising out of a particular experiment. It was
+the outcome of a much more general and much more theoretical
+development.
+It was another problem that gave birth to special relativity: the
+lack of symmetry of action between electrical conductors and
+magnets. In fact if we use the Scottish physicist James Clerk Max¬
+well's theory of electricity and magnetism we have to resort to two
+different interpretations to explain what happens: 1) when a con¬
+ductor is moved in relation to a magnet at rest and 2) when the
+same magnet is moved in relation to a conductor at rest. For Eins¬
+tein this was nothing less than scandalous. In an unpublished
+manuscript he wrote that he found this asymmetry "intolerable".
+We must remember, however, that Maxwell's theory takes into ac¬
+count the results of experimentation.
+But Einstein is guided by aesthetic conviction: since in reality the
+only thing that counts is the relative motion of the magnet and the
+conductor, the theory must also be symmetrical.The first sentence
+of the 1905 article is quite explicit: "We all know that Maxwell's
+electrodynamics, as understood today, when applied to a body in
+motion, leads to asymmetries which do not appear to be inherent
+in the phenomena".
+This brings us once more to Einstein's "subjectivity", to his need
+to find (and at any rate postulate) a harmonious order in the
+universe. He repeatedly resorted to aesthetic considerations to
+work out his theoretical conceptions. For that is what "cosmic
+religion" is all about: it demands as elegant an explanation as
+possible (that is, with as few basic statements as possible) of the
+largest possible number of phenomena. So Einstein's
+"rationalism" is very deeply rooted; it is nurtured and guided by
+personal ideas, personal ¡mages and personal emotions.
+To a question put to him by Jacques Hadamard during an in¬
+vestigation on invention in mathematics, Einstein replied: "Words
+and languages, whether spoken or written, seem to play no part in
+my thought process. The psychic entities which serve as elements
+to thought are reasonably clear signs or images which can be
+reproduced and combined 'at will'. There naturally exists a certain
+relationship between these elements and the logical concepts in¬
+volved". In his Autobiographical Notes Einstein returned to the
+subject: "In my opinion, there is no doubt that our thought func¬
+tions mostly without using signs (words) and that, what is more, it
+functions unconsciously for the most part."
+The implications of such observations are wider than are at first
+apparent. In fact, it could well be that the use of "thought in im¬
+ages" was effective in helping Einstein to think out the concepts of
+time and space in an original way. This statement certainly has the
+merit of going straight to the point: "I sometimes wonder how it is
+that I was the only person to develop the theory of relativity? I
+think the reason is that a normal adult doesn't bother about
+problems posed by space and time. He assumes that he has known
+all he knows about it from infancy. But I, on the contrary,
+developed so slowly that I only oegan to ask myself questions
+about time and space after I was grown up. As a result, I was able
+to go more deeply into the heart of the problem than a child who
+had developed normally would have done." In other words, it is a
+stroke of luck that, as his biographers confirm, Albert Einstein as a
+child experienced difficulty in speaking.
+Deep down, what did the baby Einstein's refusal to speak in¬
+dicate if not resistance to certain cognitive schema imposed by
+Zurich as it was
+in the early years
+of this century
+when Einstein was
+a professor there.
+Photo © Zurich
+City Archives
+28
+
+society? A "successful" education is an education which makes
+people accept as natural a number of concepts about, and inter¬
+pretations of, "reality". So it is also by definition an education
+which makes those who receive it conform; and which deprives
+them of the possibility of challenging the generally implicit presup¬
+positions which are the basis of the knowledge it transmits.
+Another idea dear to Einstein was that certain difficulties
+presented by a cognitive system can only be resolved if the more or
+less arbitrary and fortuitous bases for the system are first grasped.
+A mind that has been too well socialized and too well moulded
+cannot have the necessary detachment. So the critical approach
+which gave birth to the theory of relativity was only possible
+thanks to true intellectual autonomy. From this point of view, it is
+important to emphasize that Einstein had adopted an attitude of
+detachment with regard to generally accepted ideas. In his own
+words, he had arrived at "positively fanatical free thought", which
+manifested itself in the form of "suspicion of all forms of authority
+and scepticism about convictions in vogue in any social context".
+Various historians have also observed that, in his youth, Einstein
+lived in an, atmosphere that did not encourage intellectual conven¬
+tionalism. He received his higher education at the Zurich
+Polytechnic, and he was working in the Berne Patent Office when
+he wrote his 1905 article on relativity. At this time, Switzerland
+"was opening its doors to a cosmopolitan crowd of students,
+émigré revolutionaries and young people who had fled national or
+social oppression rampant in their countries". Zurich around 1900
+was "a huge permanent club".
+Let us mention some important names: Rosa Luxembourg,
+George Plekhanov, Mussolini, Karl Radek, Lenin. Discussions
+were as numerous as they were heated; and not only about
+politics, but about epistemology and psychoanalysis. Einstein was
+fond of describing himself as a "heretic", and these details about
+his life help us understand the theoretical daring which enabled
+him to put forward such novel ideas.
+Before we close, let us look at the problem posed by the now
+commonplace expression: theory of relativity. Few labels have in¬
+spired so many misconceptions as if this relativity had anything
+to do with relativism or subjectivism. In fact, it would be better to
+talk, as Minkowski suggested, of the "postulate of the absolute
+world". This would be less misleading.
+True, according to Einstein's theory, our measurements of
+space are relative, as are our measurements of time. Which means
+that they depend on the observer's point of view; and that there is
+no such thing as a privileged observer. But the famous "space-
+time" is in itself something absolute; it expresses in theoretical
+form the existence of a "reality" which is not directly accessible,
+but in relation to which all individual ("local") observations take on
+specific significance.
+The expression "theory of relativity" does not in fact appear in
+the title of Einstein's works prior to 1911. He preferred to speak
+about "theory of invariants" (Invariententheorie) and, in 1928, he
+said that the theory of relativity would be more accurately called
+"theory of covariance" (that is, the principle that demands that all
+basic equations keep the same form in all systems of reference).
+Why then did he finally agree to a label that was misleading, to
+say the least? Doubtless, even here psychological factors played
+their part. To speak of "relativity" is to recall that the Newtonian
+absolutes were dead; there is no absolute space, there is no ab¬
+solute simultaneity. This label underlined the mutation worked out.
+by Einstein, a mutation which many scientists and laymen con¬
+sidered "revolutionary". As the historian L.S. Feuer put it, the
+word relativity is in keeping with the spirit of the time and, more
+precisely, with the spirit that was at large in Zurich and in Berne.
+Pierre Thuillier
+

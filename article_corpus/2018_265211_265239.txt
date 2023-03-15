@@ -1,0 +1,114 @@
+
+When Doug McIntosh, an amputee taking 
+part in a clinical trial, was able to quickly 
+and efficiently grab an object for the first 
+time in twenty years without the slightest 
+effort, the designer of the bionic hand 
+he was wearing said that no reward was 
+greater than seeing the joy on his face. 
+“It showed my innovation was successful 
+and my tester was happy with it,” said 
+Dr Kianoush Nazarpour, a biomedical 
+engineer at the Institute of Neuroscience 
+at Newcastle University, in the United 
+Kingdom. The bionic hand is one of the 
+winners of the Netexplo Innovation 
+Awards 2018. 
+The new generation of prosthetic limbs 
+allows the wearer to grip objects without 
+the use of the brain, automatically and 
+without thinking. It is just like a real hand, 
+whose ability to grasp objects correctly 
+we take so much for granted. 
+
+
+Chen Xiaorong
+An intuitive bionic 
+hand that can “see” 
+objects by itself 
+and is capable of 
+precise and smooth handling, 
+could change the lives of people 
+with upper-limb disabilities. 
+Designed by biomedical 
+engineers at Newcastle 
+University, this prosthesis 
+illustrates the collaboration 
+between human intention 
+and the technical efficiency of 
+artificial intelligence (AI). 
+A bionic hand that sees
+The usual process requires the user to see 
+the object, physically stimulate the muscles 
+in the arm and trigger a movement in 
+the prosthetic limb. In the new version, a 
+tiny camera (which costs less than $1.50) 
+fitted on the bionic hand takes a picture of 
+an object in front of it, assesses its shape 
+and size, and triggers a series of smooth 
+movements to pick up the object – in a 
+matter of seconds. 
+The device demands nothing more of the 
+wearer than a quick glance in the right 
+direction. Choosing from four different 
+“grasps” – suitable for picking up a cup, 
+holding a TV remote controller, gripping 
+objects with a thumb and two fingers, or a 
+pinched thumb and first finger – the hand 
+uses artificial intelligence to continually 
+improve its detection and grasping skills. It 
+is ten times faster than current bionic limbs. 
+“Responsiveness has been one of the main 
+barriers to artificial limbs – controlling 
+them takes practice, concentration and 
+time,” explains Nazarpour. “Prosthetic limbs 
+have changed very little in the past 100 
+years – the design is much better and the 
+materials are lighter in weight and more 
+durable, but they still work in the same 
+way,” he adds. “The beauty of this system is 
+that it’s much more flexible and the hand 
+is able to pick up novel objects – which 
+is crucial, since in everyday life people 
+effortlessly pick up a variety of objects that 
+they have never seen before.”
+This bionic hand is capable of quickly 
+and easily grasping any object, using 
+a camera to assess its shape and 
+dimension, which then triggers the 
+correct movement to pick it up. 
+© Newcastle University, UK
+Nazarpour, who has focused his research 
+on improving prosthetics since 1999, 
+grew up in Iran, dreaming of becoming a 
+medical doctor. His research is motivated 
+by the potential of prosthetics to restore 
+function to individuals with sensorimotor 
+deficits, by transforming thought into 
+action and sensation into perception.
+The crucial point is to understand how 
+the peripheral nervous system responds 
+to electro-mechanical stimulation of the 
+limb, which helps to inform the design of 
+prostheses. An electro-mechanical design 
+and computer programme are available 
+online, which can be adapted to or installed 
+in various artificial upper-limb products.
+“We produce a device and software 
+control system, but not the artificial hands,” 
+Nazarpour said, adding that the hardware 
+costs just $1. Beyond the obvious benefit 
+for disabled people, the bionic hand could 
+belong to an intelligent robot, and be of 
+interest to industry and businesses. 
+Recent statistics show that in the UK there 
+are around 600 new upper-limb amputees 
+every year, fifty per cent of whom are 
+15 to 54 years old. The number is much 
+higher in the United States, with 500,000 
+new upper-limb amputees every year. “We 
+plan to cooperate with many prosthetics 
+producers and we need to build up 
+networks,” Nazarpour, whose team is still 
+perfecting the design, said. “I hope this can 
+help thousands of people in the world.”

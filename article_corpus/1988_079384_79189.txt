@@ -1,0 +1,532 @@
+The new convergence
+ofscience and culture
+llya Prigogine
+SCIENCE is a cultural phenomenon.
+In his remarkable writings on Chi¬
+nese science and technology, the
+British biochemist and historian of science
+Joseph Needham asks why modern science
+did not emerge from China.1 China was, in
+fact, particularly well placed to become the
+cradle of modern science and technology.
+From China came such key inventions as
+the compass, gunpowder and printing, to
+name but a few, and Chinese algebra and
+astronomy had made several promising
+advances.
+Many reasons have been put forward in
+reply to Needham's question. Among those
+most frequently proposed are the highly
+bureaucratic organization of Chinese socie¬
+ty and the absence of a sovereign, law-giving
+God, a concept deeply entrenched in Eu¬
+ropean thought at the end of the Middle
+Ages. Whatever specific answer may be giv¬
+en, it is clear that the problem raised is one
+of culture in all its complexity. It is my firm
+conviction that the notion of a god who is
+the guarantor of the laws of nature and their
+rationality played an essential role at the
+time of the first stirrings of European
+science.
+What today we call classical science was
+born in a culture dominated by the notion
+of an alliance between man, situated at the
+interface between the divine order and the
+natural order, and a law-giving, apprehen¬
+sible god, a sovereign architect conceived in
+our own image.
+The correspondence between the German
+mathematician and philosopher Gottfried
+Leibniz and the English philosopher Samuel
+Clarke, acting as Isaac Newton's mouth¬
+piece, is very revealing in this respect. The
+correspondence followed a criticism made
+by Leibniz in which he accused Newton of
+having a very poor opinion of God, since,
+according to Newton, his handiwork was
+less perfect than that of a good clockmaker.
+Newton had, in fact, spoken of the con¬
+stant intervention of God, the creator of a
+world whose activity he unceasingly nour¬
+ished. In reply, Newton and Clarke accused
+Leibniz of reducing God to the status of a
+Deus otiosus, an idler king, who, after a once
+and for all act of creation, retires from the
+stage. In classical science, dominated by the
+1 . J. Needham, Science and Civilisation in China, UK,
+Cambridge University Press, 1954, Vol. Ill, pp. 150-168.
+
+One of the most important research tools in
+nuclear physics is the particle accelerator, a
+device which produces beams of fast-moving
+electrically charged atomic or subatomic par¬
+ticles. Photos above show the behaviour of a
+beam ofoxygen particles emergingfrom a colli¬
+sion with a lead target during an experiment at
+CERN (the European Organization for Nuc¬
+lear Research) in Geneva where the highest-
+ever beam energies in laboratory conditions
+have been achieved. The data revealed by such
+experiments may help us to know more about
+the origin of the Universe.
+notion of the possibility of an omniscient
+power indifferent to the passage of time,
+Leibniz' view prevailed. The present deter¬
+mined the future, just as it could serve to
+reconstruct the past.
+The almost inconceivable nature of this
+idea of dynamic reversibility should, per¬
+haps, be stressed. The question of time, of
+what maintains, creates, disrupts the flow of
+time, has always been one' of mankind's
+central preoccupations. Many mystics have
+denied the reality of this changing, uncertain
+world and have postulated the ideal of at¬
+tainment of a state of knowledge that would
+make it possible to escape from the treadmill
+of life. However, none of these speculative
+postulations has gone so far as to affirm that
+there is an equivalence between what is done
+and what is undone, between a plant that
+burgeons, flowers and dies and a plant that
+comes back to life, grows younger and re¬
+gresses to the original seed. Classical sci¬
+ence, and in particular classical dynamism,
+forcefully affirms this equivalence.
+Einstein, perhaps, best represents this vo¬
+cation of physics, this ideal of a body of
+knowledge that strips our conception of the
+world of those accretions which, for him,
+were merely indicative of human subjectiv¬
+ity. It has always been the ambition of
+certain mystics to escape from the torments
+of a changing, deceptive world. Einstein
+made this ambition the very vocation of the
+physicist and, in doing so, expressed it in
+scientific terms. The mystics sought to live
+this world as though it were an illusion;
+Einstein, on the other hand, aimed to dem¬
+onstrate that it was merely an illusion and
+that reality consists of a transparent, intelli¬
+gible Universe, purged of everything that
+touches on the lives of men, of painful,
+nostalgic memory of the past, of fear or
+hope for the future.
+Within the context of such a conception,
+irreversibility, the notion of things happen¬
+ing, is reduced to mere illusion, resulting
+from the approximations that we introduce
+in our description of the world.
+Important as it may have been for the
+progress of knowledge, the triumph of clas¬
+sical science entailed a rift between the
+world and man the importance of which
+cannot be over-estimated. The external
+world appeared to be an automaton, a
+clockwork mechanism that had been regu¬
+lated once and for all; it was in absolute
+opposition to our inner world in which,
+rightly or wrongly, we live in a time rhythm
+which creates novelty, new events, and in
+which we are conscious of having a freedom
+of choice on which is based the notion of
+rationality. Herein lie the roots of the di¬
+chotomy that has coloured the whole of
+Western thought since the emergence of
+modern science. I cannot here enter into the
+development that this problem deserves;
+but students of the history of ideas will
+already have noticed the irreducible dualism
+it entails and which is manifest in works
+such as those of Immanuel Kant and Henri
+Bergson. This dualism results inevitably in a
+precarious insertion of science into culture
+which persists to this day.
+My aim in this paper is to attempt to show
+that we are slowly getting closer to a more
+unitary vrew of things in which our descrip¬
+tion of the Universe and our existential
+experience are once more converging. We
+are, perhaps, thus coming nearer to the
+realization of Karl Popper's dream, which
+he expressed in these words: "...the aim is a
+picture of the world in which there is room
+for biological phenomena, for human free¬
+dom and human reason."
+The twentieth-century contribution
+It is not my intention to list here the
+details of the immense contribution that has
+been made during the twentieth century to
+scientific and technological research. I
+would, however, Tike to lay stress on the
+revision of those ideas that have had a deci¬
+sive impact on the relationship between sci¬
+ence and culture. I shall start with the field
+of classical dynamics, the discipline which
+marked the emergence of Western science.
+We are living through a revolution in
+classical dynamics which began with Henri
+Poincaré, continued with A.N. Kolmogo-
+rov and has become one of the most active
+fields of research in physics and mathemat¬
+ics. Of what does this revolution consist? A
+landmark observation made by the meteo¬
+rologist Edward Lorenz pointed the way.
+Lorenz noted that two time sequences of
+temperature variation could diverge spec¬
+tacularly, however superposable they were
+at the starting period. This is the hallmark of
+unstable dynamic systems. Thus it is pos¬
+sible to predict the position of the Earth
+over a period of five million years, because
+the movement of the Earth is essentially (if
+we ignore disturbances due to other planets)
+10
+
+an element of a dynamically stable system.
+We can, however, only predict the evolution
+of the Earth's temperature over relatively
+short periods of time because here we are
+concerned with an unstable dynamic sys¬
+tem. This notion of instability turns out to
+be basic to the understanding of the major
+laws of physics.
+The notions of instability, of chaos and of
+amplification are today among the central
+preoccupations of a growing number of
+researchers in areas ranging from mathemat¬
+ics to economics. The notorious "black
+Monday" of 19 October 1987 (the day on
+which share values crashed on the world's
+money markets) may one day be remem¬
+bered as a date in the history of science, not
+in memory of the victims who saw the value
+of their shares melt away, but because since
+that day leading newspapers in the United
+States have published articles on chaos dy¬
+namics as a result of which such notions as
+fluctuation, amplification and bifurcation
+have come to the attention of the general
+public, in much the same way as did, a few
+years ago, the notions of the "Big Bang" and
+"Black Holes".
+Having said that, it should be noted that
+to talk of fluctuation, amplification, sur¬
+prise, is to evoke the negative aspect of
+dynamic instability. There is, however, a
+positive side; unstable systems subject to the
+constraints of non-equilibrium are capable
+of producing structures to which systems in
+thermodynamic equilibrium can offer no
+equivalent. What seems to me to be impor¬
+tant in all this is that it reveals the limitations
+of the classical, reductionist conception of
+the Universe whose aim is to describe the
+Universe in terms of groupings of stable
+entities, established once and for all, wheth¬
+er they be elementary particles, atoms or
+molecules. We are now aware that there are
+global phenomena which cannot be ana¬
+lysed in this manner.
+Rethinking the notion of complexity
+The twentieth century will go down as
+the century of surprises. It is true that quan¬
+tum mechanics and relativity drew oh the
+achievements of the nineteenth century. It
+was such men as Ernst Mach and Ludwig
+Boltzmann who, in turn of the century
+Vienna, asked the questions which were to
+give rise to these two prodigious theoretical
+constructs. Yet as well as building on the
+science of the nineteenth century, the twen¬
+tieth century has witnessed discoveries that
+constitute a fundamental break with the
+past. Who would have predicted that time
+would become a key element at the most
+fundamental level of matter in the trans¬
+formation of elementary particles as well as
+at the cosmological level? Who would have
+thought that determinism and reversibility,
+which formed the bases of physical intelligi¬
+bility in the classical sense, would be over¬
+turned by new phenomena and new theo¬
+ries? As William Golding put it,
+determinism represents for us a form of
+"cultural defeatism"; yet it is precisely on
+this point that twentieth-century science is
+diverging from classical science.
+Today we can no longer identify certainty
+and reason, or probability and ignorance.
+For classical science, order was associated
+with equilibrium and disorder with non-
+equilibrium. It might now be said that this
+relationship has been reversed. Non-equi¬
+librium creates structures whose coherence
+largely surpasses that of equilibrium struc¬
+tures as described by classical science.
+Movements such as those of a falling body
+would have been described unhesitatingly
+by classical science as simple, and phenom-
+Photos © CERN, Geneva
+ena occurring in the brain or within human
+societies would have been considered
+complex.
+Today, however, we know that, even
+where gravitational phenomena are con¬
+cerned, when we pass on from study of the
+movements of a system comprising two
+bodies to examination of a system involving
+three bodies, new patterns of behaviour
+appear which have much in common with
+that of systems that were traditionally con¬
+sidered to be complex. As a result, the gap
+between systems that used to be called sim¬
+ple and those said to be complex has largely
+disappeared. This new state of affairs means
+that it is now possible to make transfers of
+knowledge that would have been inconceiv¬
+able only a few years ago, as witness such
+areas as information theory and artificial
+intelligence.
+With the development of new means of
+observation, ranging from radioactive iso¬
+topes to artificial satellites, we have discov¬
+ered that ecosystems are unstable; and this
+has occurred at the very moment when
+non-linear dynamics has supplied us with
+the theoretical tools to understand the am¬
+plification of fluctuations and the appear¬
+ance of bifurcations that can occur within
+such systems. Better understanding of the
+instabilities of ecological systems and study
+of the future prospects for our planet are
+clearly priority matters. We have to go be¬
+yond the conservation concept. We know,
+for example, that some 10,000 years ago our
+planet enjoyed optimal climatic conditions
+and the Sahara and the Gobi, now both
+deserts, supported flourishing civilizations.
+There is nothing to exclude hopes of a
+return to such a Utopian situation.
+This new vision of Nature has also
+changed our understanding of our position
+within it. The consequences of progress
+11
+
+made in molecular biology were stated with
+unprecedented clarity in Jacques Monod's
+book Le Hasard et la Nécessité: "The old
+alliance is broken; man knows at last that he
+is alone in the uncaring immensity of the
+Universe from which he emerged by
+chance."
+Thus classical science seemed to point the
+way to disillusion, if not alienation. Howev¬
+er, the conflict described by Monod be¬
+tween the unchanging laws of an inanimate
+world and the evolutionary phenomenon
+described by biology is today largely resolv¬
+ed. The image we have of the outside world
+is converging with the image we have of our
+own interior activity. The twentieth century
+has brought us the hope of cultural unity, of
+a non-reductionist, more global vision. The
+sciences are not the reflection of a static
+rationality to be resisted or submitted to;
+they are furthering understanding in the
+same way as are human activities taken as a
+whole. They alone cannot tell us what is
+man, what is Nature, what is society. They
+are exploring a complex reality in which are
+inextricably intertwined what we tend to
+place in opposition under the headings of
+what is and what ought to be.
+Action plans for the 'silicon age'
+The new picture that we have of the
+Nature that surrounds us and of our posi¬
+tion in it is beginning to have repercussions
+in the field of culture. A new naturalism is
+emerging and we are aware of a new sense of
+solidarity between man and other living
+creatures, indeed, with the entire biosphere.
+Moreover, this transitional phase in science
+coincides with a period in which mankind
+itself is going through an age of transition.
+The original contribution of the twentieth
+century is that it has proposed some un¬
+expected solutions to the contradictions in¬
+herited from the nineteenth century.
+r
+Ttlj*1' :w*qnj . vif «m Jlîfl :&fMw
+"¡A «aftrf«- *tefr **vn HIjikti .ti
+\ - *¿P«tf* <»lS*Kf -\) «VlITH*«
+Ï
+g
+Strangely enough, what is true for science
+is also true with regard to the history of
+mankind, for the great dramas of the two
+world wars were above all due to ideological
+hangovers from the past, and in particular
+from the nineteenth century. It is no doubt
+rather rash to make a judgement about a
+century in which we are still immersed. It is
+my hope, however, that historians of the
+future will recognize, as we do, the signs of
+the break with the past which were traced
+out after the Second World War, a rupture
+which seemed to herald a more naturalistic
+vision, a new alliance between man and
+Nature and greater respect for human
+dignity.
+The rapid phase of development on which
+we are now embarked bears with it the
+danger of the creation of a rift between
+those with knowledge and those deprived of
+it, and between those who are taking part in
+and benefiting from the current scientific
+and economic revolution and those who
+have no share in it. The scandals of disease,
+famine and the inequitable distribution of
+wealth have been referred to on several
+occasions during this Conference. Never¬
+theless, science has made possible the emer¬
+gence of a kind of society in which individu¬
+al responsibility is greater than it has ever
+These annotated drawings ofmechanisms using
+screws and toothed wheels are by Leonardo da
+Vinci (1452-1519). They feature in a manu¬
+script known as Codex Madrid I, in which
+Leonardo analysed the basic elements of
+machines. The greatest experimental scientist
+of his age, Leonardo understood principles
+about machines andprocesses that were notput
+to use until long after his death.
+12
+
+*.. *
+> Jvx
+ff*
+&r^ ^**r
+Fl
+been, and has created a universal language
+by means of which men can communicate.
+The programme of action which emerges
+from the analysis I have put forward corre¬
+sponds with some of the points raised in
+other papers presented. The importance of
+knowledge, at all levels, has been stressed
+(the fight against illiteracy, reform of ele¬
+mentary education, restructuring of re¬
+search systems in the developed countries to
+make them more oriented towards the man/
+Nature interface). This implies that support
+should be given to programmes such as
+Global Change2 and to the Japanese Gov¬
+ernment's proposed Human Frontiers* pro¬
+gramme, which could lead to the establish¬
+ment of a worldwide network of scientific
+collaboration. In the same spirit, it is vital to
+press for pooling of the resources of the
+oceans, of space and of information.
+The new rationality that science is devel¬
+oping is far from having the weight it should
+have in the decision-making process if we
+want to look beyond the short term. This is
+why I recently proposed the creation of a
+European Scientific Assembly which could
+assist the Commission of the European Eco¬
+nomic Community in the conduct of its
+policies. Many other initiatives need to be
+taken if the objectives mentioned here are to
+be attained.
+Science today has the potential to im¬
+prove the overall situation of the world;
+what is still needed is the political will to do
+so. Here I must underline what Wassily
+Leontief4 has said: we need a new Marshall
+Plan for the developing countries. As Chan¬
+cellor Willy Brandt has said, we must also
+seek to reduce international tensions, for
+example by encouraging the overtures made
+by countries such as the USSR and the
+People's Republic of China.
+The science of today promotes a plural¬
+istic outlook. We must henceforth combat
+reductionist ideologies within the human
+sciences, in economics and in culture in
+general. This change in attitudes has already
+manifested itself over recent decades in such
+fields as music and literature. We rightly
+deplore the danger of the destruction of our
+cultural heritage by the mass media. On the
+other hand, the media are making possible
+an unprecedented level of cultural exchange.
+One of the essential lessons that the twen¬
+tieth century has taught us is that the strug¬
+gle for the control of territory and raw
+materials no longer plays its age-old role in
+the history of human societies. It has often
+been pointed out that, in what might be
+called the "silicon age", the critical scarcity
+is no longer the scarcity of raw materials.
+I have always been struck by the syn¬
+chronism that seems to mark human history
+on the planetary scale. The great technical
+advances of the New Stone Age, such as
+pottery and agriculture, have always ap¬
+peared at comparable periods of history in
+various parts of the world. This synchro¬
+nism, however, has been disrupted, with the
+nineteenth century marking the high point
+of this process of cultural disequilibrium. It
+was the century of inequality, of savages and
+civilized man, of colonizers and the colo¬
+nized.
+2. A programme proposed by the International Council
+of Scientific Unions (ICSU).
+3. The Human Frontiers programme is co-ordinated by
+the Ministry of International Trade and Industry,
+Tokyo. Its budget for 1988 totals 100 million Yen.
+4. American economist. Nobel Prize for Economic
+Science, 1973.
+Conquête de l'espace (1960; "The Conquest of
+Space"), a tapestry by the French painter and
+designer Jean Lurqat (1892-1966), one of a
+series often entitled Le chant du monde ("The
+Song of the World").
+In the twentieth century, an attempt has
+been made to move away from this sit¬
+uation, to seek behind all the conflicts a
+more universal conception of human digni¬
+ty that is less subject to the constraints of
+history. In this respect too, the twentieth
+century has marked an irreversible turning-
+point in the history of mankind a turning-
+point that heralds a new age, a bifurcation.
+Will this be a new point of departure to¬
+wards Karl Popper's dream of an open so¬
+ciety? One of the fundamental lessons that
+twentieth century science offers us is that
+time is not fixed, determined; it is a process
+of construction in which our future lies. It is
+to be hoped that this Conference will make
+a significant contribution to that process of
+construction.
+ILYA PRIGOGINE, of Belgium, was awarded
+the 1977 Nobel Prize for Chemistry for his con¬
+tributions to the thermodynamics of irreversible
+systems, in particular the theory of dissipative
+structures (dynamic structures undergoing a con¬
+stant dissipation of energy and of matter). He is a
+professor at the science faculty of the Free Uni¬
+versity of Brussels, and since 1959 has been direc¬
+tor of the Ernest Solvay International Physics and
+Chemistry Institutes, also in Brussels. Since 1967
+he has directed the Center for Statistical Mecha¬
+nics and Thermodynamics (renamed the llya Pri-
+gogine Center in 1977) at the University of Texas,
+Austin (USA). His many publications in English
+.include Order out of Chaos Man's New Dia¬
+logue with Nature (1984).
+13

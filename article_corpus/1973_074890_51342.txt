@@ -1,0 +1,382 @@
+"Waiting in Quintuplícate" (Attente Quintuplée) is the
+title of this work by a Greek artist, Yannis Gaitis, presented
+at the Young Sculptors Exhibition held at Unesco in
+July 1972.
+
+THE
+BRAVE WORLD
+OF DATA
+SURVEILLANCE
+In September 1970, the International Commission of Jurists in
+Geneva undertook on behalf of Unesco a comparative study of. the
+laws relating to the legal protection of the right to privacy. This
+Unesco inquiry was carried out in 10 countries and its results were
+published in N° 3, 1972. of Unesco's quarterly magazine "Interna¬
+tional Social Science Journal" ( * ). Below we reproduce a passage
+on "Data Surveillance" and "Legal Safeguards" from that issue.
+I T is likely that within the
+next twenty years most of the recorded
+information in the world will be on
+computers and more than half the
+telephone calls will be communications
+to and from and between computers.
+As a method of storing information
+and making it available, computers
+are not only cheaper and more efficient
+than conventional methods such as
+books or files. They operate on an
+entirely different dimension and make
+possible the collection, collation and
+distribution of information on a scale
+hitherto unthinkable.
+The machines on which all this data
+is recorded need not themselves be
+large. For instance, with a certain type
+of computer based on the laser system,
+it would be possible to have the equi¬
+valent of twenty pages of information
+about every man, woman and child in
+the world on ten tapes, each
+1,500 metres long and 2i centimetres
+wide. A match-box can contain
+computer-recorded information which,
+16 * "International Social Science Journal",
+Unesco, Place de Fontenoy, 75007 Paris.
+Price: single issue $2, 60p, 8F; yearly sub¬
+scription $7, £2.10, 28F. Obtainable from
+Unesco national distributers (see page 35.)
+in print, could scarcely be contained
+in a cathedral.
+The benefits to mankind which can
+flow from the use of computers are
+immense. It is plain that not only will
+their use continue to grow, but com¬
+puters will so dominate the scene in
+a few years time that nearly all
+information will be collected in the
+form required for its storage In
+computers.
+There are a number of ways in
+which computers can pose threats to
+the privacy of the individual, but the
+central one is the fact that they will
+make it possible for a person having
+access to the coded data on computers
+to bring together all the recorded infor¬
+mation, often of a private and per¬
+sonal nature, about a particular person
+in a way that would never have been
+practical before.
+People have become accustomed
+to making a lot of information about
+themselves available for particular pur¬
+poses. Each item of information does
+not in itself reveal very much and per¬
+sons are willing to disclose it, confident
+that those to whom it is given will use
+it only for the purpose for which it
+is intended.
+If one thinks about the matter one
+may also conclude that it would not
+be practical for anyone to bring
+together the different items of infor¬
+mation in such a way as would enable
+a picture, however distorted, to be
+constructed of one's private life and
+activities. All that is now changed by
+the computer.
+Examples of the kind of personal
+information given to public author¬
+ities include records of births, mar¬
+riages and deaths, medical records,
+records of education, military service,
+passport applications, employment
+records, social-security records, decla¬
+rations for tax returns, applications for
+licences of many kinds, motor-vehicle
+registrations, post-office savings-bank
+accounts and telephone accounts.
+These records are usually based
+on information voluntarily given by the
+individual concerned or his relatives.
+In addition, there may be confidential
+records compiled by police or intelli¬
+gence authorities.
+A second category of records are
+those compiled for commercial pur¬
+poses and include bank accounts,
+demands for credit facilities, credit-
+card accounts, travel records including
+ticket purchases and hotel bookings,
+and hotel registrations.
+Equally, records can be and are kept
+by private firms of information about
+
+Photo Dominique Roger - Unesco
+people's supposed credit-worthiness,
+without their knowledge, and supplied
+commercially to inquirers. In the
+United States a number of firms have
+computerized records of the financial
+position of more than 100 million
+people.
+Many such records can be used by
+anyone with access to the computer
+for purposes quite different to those
+for which they were compiled, and
+above all for purposes of surveillance.
+One of the main problems of surveil¬
+lance is to find the person who is to be
+kept under observation. Use of a
+credit card will reveal in a matter of
+seconds where the holder is at the
+moment that he presents it. Again, if
+hotel and boarding-house registrations
+are filed on computers, the same result
+can be achieved.
+From records such as these an
+"inverted file" can be compiled in a
+few minutes of all the recorded infor¬
+mation about the places to which a
+person has travelled over a period
+of time, where he stayed and with
+whom, what purchases he made at
+what places and so forth.
+The computer has the ability to
+reorganize a large quantity of infor¬
+mation (each element of which is
+separately harmless) into a new quality
+of information which may reveal more
+than a person wishes to be known.
+Furthermore, this connexion which
+may be established between different
+items of information concerning a
+given individual, may be used as the
+basis for passing judgement on him, a
+secret judgement from which there can
+be no appeal and which, because it is
+based on a computer, is thought to be
+objective and infallible. But in fact the
+information used may be inexact, or
+out of date or of no real significance,
+with the result that the final conclu¬
+sion amounts to a "scientific sophism".
+Some writers consider that there is
+a danger of serious interference with
+the personal development of the indi¬
+vidual resulting from the way in which
+he is "presented" by the computer;
+in the last resort he may be driven to
+the point where he modifies his real
+personality to suit that presentation,
+behaving not in fact as he wishes but
+as he feels he is expected to behave
+"objectively" and "scientifically".
+There is a further danger that the
+individual will become too conscious
+of his past rather than of his future.
+Such domination of the private life of
+the individual by technology could lead
+to a veritable pollution of the human
+personality.
+These anxieties have been well sum¬
+marized by Prof. Arthur Miller of the
+U.S.A.: "The computer with its in¬
+satiable appetite for information, its
+¡mage of infallibility, its inability to
+forget anything that has been put into
+it, may become the heart of a surveil¬
+lance system that will turn our society
+into a transparent world in which our
+home, our finances, our associations,
+our mental and physical condition are
+laid bare to the most casual observer."
+Other dangers to privacy from com¬
+puter data banks are that there may
+be errors either in the information fed
+into the computer or in the reorganiza¬
+tion or "evaluation" of the information,
+or simply errors due to mechanical or
+electrical faults. Errors once recorded
+tend to remain, for the simple reason
+that it is cheaper and easier to retain
+records in data banks than to eliminate
+them. Another feature of computers
+is that it is very simple to erase an
+entry and substitute another, and unlike
+alterations in a conventional file, these
+alterations cannot be detected.
+In principle there are a number of
+ways, other than by legal sanctions,
+in which the individual can be protect¬
+ed and these risks reduced. These
+lie in establishing good professional
+standards, building in technical safe¬
+guards and adopting secure adminis.-
+CONTINUED NEXT PAGE
+17
+
+DATA SURVEILLANCE (Continued)
+18
+trative procedures. Unfortunately the
+present practice in all these respects
+leaves much to be desired.
+Attempts are being made in some
+countries such as the United States
+and the United Kingdom to establish
+a professional code for computer pro¬
+grammers but these are little more
+than guidelines and programming is in
+no sense a properly constituted and
+disciplined profession. This is serious
+not only because the information pro¬
+grammers are handling is confidential,
+but because they do not have the sta¬
+bility of employment which might serve
+as some guarantee that secrecy is
+respected. An extreme example of
+the lack of concern for privacy in the
+computer world was seen when a
+United States data system went out
+of business and offered for sale to the
+highest bidder its dossiers on three
+million citizens.
+On the technological level there are
+a number of possible methods for
+checking the "integrity" of the system,
+for controlling access to the informa¬
+tion (as by passwords or "keys") and
+for controlling the processing of infor¬
+mation. Many of these are expensive
+to introduce, requiring elaborate "hard¬
+ware" and "software" and are un¬
+likely to be adopted except under
+compulsion.
+One specialist has compiled a list
+of administrative safeguards which
+could be introduced as a set of model
+rules for operating computers contain¬
+ing personal information. He proposes
+that an independent advisory council
+should have to be satisfied of the need
+for the data and of the effectiveness
+of the security measures before
+authorization would be given to hold
+personal data in computers.
+He also proposes coded identifica¬
+tions rather than names and addresses
+and that personal files should be
+erased at regular intervals of not more
+than ten years. As far as is known,
+there is no administrative code of this
+kind in force in any of the countries
+covered by the study carried out for
+Unesco in 1970-71 by the International
+Commission of Jurists, or indeed else¬
+where.
+Some of the dangers to individual
+privacy from the operation of data
+banks fall within the ambit of existing
+laws, but very little legislation specifi¬
+cally related to computers has yet
+been passed in the ten countries dealt
+with in Unesco's study.
+Many countries have legislation
+which make it an offence for public
+servants to disclose without authority
+confidential information acquired in
+the course of their official duties. In
+the United Kingdom, for example,
+there are provisions of this kind in
+the Official Secrets Act 1911 and in
+the Taxes Management Act, 1970.
+The recent legislation establishing
+national data-processing services in
+the United Kingdom imposes upon the
+officials of the Post Office operating
+the services an obligation of secrecy
+with penalties of up to two years'
+imprisonment for unauthorized dis¬
+closure. The Federal German Penal
+Code, which came into force in 1969,
+provides for the protection of privacy
+in automated information systems.
+In the United States the Fair Credit
+Reporting Act 1971 covers the acti¬
+vities of credit reporting agencies. It
+entitles an individual against whom
+an adverse report is made to be told
+about it. He is entitled to examine
+the file maintained about him and to
+have errors corrected.
+It is known that the possibility of
+legislation is being considered in a
+number of countries, including Can¬
+ada, Denmark, Norway, Sweden and
+the United Kingdom. A private
+member's Bill on the subject was
+introduced in the United Kingdom
+Parliament.
+HE only country, however,
+which has introduced any comprehen¬
+sive legislation on this subject is the
+Land Hessen of the Federal Republic
+of Germany. The Land Hessen's Act
+of 1970 contains provisions for:
+Imposing the duty of protection of
+confidentiality in the method of op¬
+eration of all data banks;
+Imposing a duty of secrecy on the
+operators, with penal sanctions;
+Establishing an effective enforce¬
+ment and complaints procedure
+through the Data Protection Commis¬
+sioner;
+Giving the individual the right to
+have errors corrected. It may be
+commented that there appears to be
+no right for the individual to know what
+has been recorded about him. The
+"right to verify" may prove ineffective
+without a correlative "right to know".
+Finally it should be mentioned that
+the Union Internationale des Avocats
+has prepared for the Council of Eur¬
+ope a draft convention and model law
+on the right to privacy which deals
+with the question of data privacy,
+including the storage of data, the
+theft or misuse of data and the
+publication of data.
+It is to be hoped that the reports
+prepared on the intergovernmental
+level as a result of the 1968 resolution
+of the U.N. General Assembly and the
+answers submitted by governments
+may serve as the basis for the pre¬
+paration of an international convention
+for the protection of human rights
+against the dangers arising from scien¬
+tific and technological developments.
+It is only through an international
+convention that sufficient legal pro¬
+tection is likely to be provided to
+ensure that technological devices do
+not operate to the detriment of legi¬
+timate human rights.
+CONFORM
+OR ELSE...
+
+Drawing (© Cardon, from "Satirix", No 13, 1972, Paris
+"Wholesale invasions of privacy," says the United
+Nations, "inhibit individual liberty... The commu¬
+nity becomes fear-ridden, and no one can be
+trusted... This destruction of trust is one of the
+major dangers to a free society... The detailed
+questionnaire for employment, housing or insur
+ance, the hidden but suspected camera, psycho¬
+logical tests, the lie detector all these devices u «
+for ferreting out intimate details of our lives 1 Jl
+produce a pervasive insecurity which suppresses
+individuality, discourages responsibility and encou¬
+rages frightened conformity... "

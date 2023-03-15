@@ -1,0 +1,370 @@
+w^^ y eyes watched the clock. The hands pointed
+I f I to seven minutes past nine... I heard a loud
+whistle and then a steadily Increasing whine; the hull
+of the huge ship shuddered as slowly, very, very slowly,
+It rose from the launching pad. The struggle between
+the rocket and terrestrial gravitation had begun. The
+whine was actually no louder than the one you hear in
+the cockpit of a jet fighter but in it were countless musical
+notes and timbres that no composer has ever written
+down and that no human voice and no musical instru¬
+ment have yet produced. The giant rocket motors were
+creating the music of the future..."
+That is Yuri Gagarin's description of the take-off of
+spaceship Vostok I as it was boosted into orbit in outer
+space.
+During the past five years dozens of artificial earth
+satellites have been put into orbit, automatic interplane¬
+tary stations have been launched in the direction of the
+Moon, Venus and Mars, and the first flights have beeri
+made In outer space by eleven men and one woman.
+All these flights by manned and unmanned space
+vehicles would never have been successfully accomplished
+without complex and thorough planning and an astrono¬
+mical number of calculations by thousands of engineers,
+chemists, mathematicians and other specialists.
+A spaceship ls boosted into an orbit around the earth
+by a powerful multi-stage rocket, each of the stages
+being Itself an Independent rocket. The multi-stage
+system has many advantages over a single-stage rocket
+which wastes some of Its energy since it has to boost not
+only itself and the ship it carries but also continue to
+carry fuel containers that once they have been emptied
+become useless ballast. The most suitable type would
+be a huge one-stage rocket that casts off the containers
+as the fuel ls used up, but technical difficulties have so
+far prevented the design of such a rocket. The one which
+comes closest to it is the multi-stage rocket used by the
+U.S.S.R. and the U.S.A. It consists of a series of rockets
+placed one behind the other; each of them is discarded
+when the fuel is exhausted, either automatically or by
+a signal sent from the ground.
+On the initial stage of its journey the rocket rises verti¬
+cally from the pad; then its direction gradually changes
+in accordance with a pre-set programme. After a flight
+that may last from eight to fifteen minutes the rocket
+attains a velocity of about eight kilometres a second; by
+this time its flight position is practically horizontal and
+thus parallel to the earth's surface.
+Bousting a space vehicle into orbit involves loss
+' of energy In overcoming the force of gravity.
+Average velocity losses at this stage amount to two or
+three kilometres a second. For a rocket-carried vehicle
+to be put into orbit, therefore, it must develop a speed
+which, in the absence of an atmosphere and of gravity,
+would be ten or eleven kilometres a second. The power
+the rocket must develop to reach this velocity naturally
+depends on the weight of the vehicle it is to put into orbit.
+For instance. Spaceship Vostok I weighed 4,725 kilogram¬
+mes and was put into orbit by rocket motors that deve¬
+loped 20,000,000 h.p. ten times the capacity of the Boulder
+(Hoover) Power Station In the U.S.A. and three times
+that of the Bratsk Power Station in Siberia.
+Once the carrier rocket has reached the computed velo¬
+city its last stage Is automatically detached from the
+spaceship. The ship is now in free fall and from then
+on becomes a celestial body whose motion is determined
+by the laws of celestial mechanics. It is then said to be
+"in orbit."
+For a space vehicle to remain in orbit around the earth
+it must travel at "orbital velocity" (or "first cosmic velo-
+24 city" as Russian engineers term it) which is the minimum
+speed at which a body may move without being pulled
+back to earth by the force of gravity. Theoretically this
+
+COUNTD
+FOR SP
+FLIGHT
+by Evgeny P. Aksenov,
+Evgeny Grebenikov
+and
+Vladimir Dyomin
+THREE, TWO, ONE, ZERO... The Soviet
+spaceship, Vostok 1, leaves the launching
+pad in this shot which comes from the film,
+"The First Voyage Towards the Stars."
+APN
+velocity is 7,909 metres per second, computed at the earth's
+surface. If the programme requires a circular orbit, the
+speed of the vehicle will be constant and will depend on
+the altitude, as' orbital velocity varies inversely with
+altitude.
+We know from the laws of celestial mechanics that the
+greater the radius of the orbit along which a body travels,
+the lower its velocity will be. At the same distance from
+the earth as the moon (an average of 384,000 kilometres)
+a body in circular orbit would only need to travel at one
+kilometre a second. Thus the time taken for each orbit
+increases as the distance from the earth's centre increases.
+At an altitude of 500 kilometres above the earth the
+orbit takes 90 minutes but an orbit equal to that of the
+distance of the moon would take roughly a month. If
+the velocity of a body moving in space exceeds the orbital
+velocity but does not reach the velocity of escape (which
+Russians engineers call the "second cosmic velocity," and
+which is approximately 11,200 metres a second at the
+earth's surface), it will move in an elliptical orbit.
+Spaceship Vostok I, launched by the U.S.S.R. on April 12,
+1961, had an elliptical orbit with its lowest altitude (peri¬
+gee) at 181 kilometres and its greatest (apogee) at 327 kilo¬
+metres from the earth. One orbit was made in 89.1 min¬
+utes. From these data the velocity of the spaceship is
+found to be 7,837 metres per second at the perigee and
+7,688 metres per second at the apogee. In other words,
+engineers can now design rockets that travel at speeds
+seven or eight times greater than the muzzle velocity of a
+big gun.
+Does the orbit of a space vehicle change as It encircles
+the earth a number of times? Many factors do, in fact,
+affect the variability of the flight paths, the chief among
+them being the shape of the earth. Our planet is not a
+true sphere but an oblate spheroid, the equatorial radius
+being 18 kilometres longer than the polar radius; its mass
+ls not homogeneous since densities are unevenly distri¬
+buted and gravitational pull, therefore, is not uniform.
+The atmosphere still offers a noticable resistance to
+the motion of a body, even at altitudes of between 250 and
+
+OWN
+300 kilometres where the density of the atmosphere ls no
+greater than that of the "vacuum" of a good radio valve.
+The continued effect of even such a rarefied atmosphere
+causes some changes in the dimensions of the orbit the
+ship at such heights loses about two kilometres in altitude
+on each orbit so that after circling the earth 80 to
+100 times it is brought back into denser layers of the
+atmosphere.
+Probably the most important factor in the successful
+boosting of a space vehicle into orbit (and still more so
+for its landing in a pre-determined area) is the exact
+observance of the planned flight programme. Mathema¬
+tical accuracy must be nothing less than prodigious. The
+slightest deviation of the vehicle in flight from the para¬
+meters in the programme would lead to errors that cannot
+be corrected in outer space a rocket aimed at the moon,
+for instance, might shoot past it, or a spaceship re-entering
+the atmosphere at too high a velocity might burn up.
+LL automatic devices carried by the vehicle
+Lmust function perfectly. The following exam¬
+ple shows the degree of accuracy required. A satellite Is
+to be boosted into an orbit elliptical in shape with a peri¬
+gee at 6,640 kilometres and an apogee of 7,140 kilometres
+from the earth. If the velocity differs only by 10 metres
+per second due to the malfunctioning of the rocket
+motors that is, by only twelve hundreths of one per cent
+of the velocity there will be a difference of 39 kilometres
+in altitude at the apogee.
+If, at the time the last stage burns out, the vehicle
+differs by one degree from the computed direction, the
+perigee will be 25 kilometres less and the apogee 25 kilo¬
+metres greater than programmed; this would bring about
+vastly different flight conditions and might shift the orbit
+from a perfectly safe region into a radioactive zone or
+Into the denser layers of the atmosphere.
+The many artificial earth satellites that have been
+launched by the U.S.S.R. and the U.S.A. have enabled
+engineers to design high precision systems of piloting
+and delicate control devices that ensured the successful
+flights of the first spacemen. These pioneers of space
+flights are: Yuri Gagarin, Herman Tltov, Adrian Nlco-
+layev, Pavel Popovlch, Valéry Bykovsky and Valentina
+Tereshkova (the first space woman) in the U.S.S.R.; Alan
+Shepard, Virgil Grlssom, John Glenn, Scott Carpenter,
+Walter Schlrra and Gordon Cooper in the U.S.A.
+When a spaceship returns to earth It has to be brought
+out of orbit and to do this means that Its speed must be
+reduced. The methods evolved for this purpose are a
+combined application of the laws of celestial mechanics and
+the aerodynamics of a body moving at supersonic speeds.
+As the vehicle descends it enters the denser layers of the
+atmosphere that act as an "air brake". The orbital velo¬
+city is reduced by a system of braking rockets (retro-
+rockets) whose action combines with the effective use of
+atmospheric resistance.
+The retrorockets have a thrust opposing the direction
+In which the vehicle ls moving; the moment they arc
+switched on, therefore, the spaceship must be oriented
+so that the rocket nozzles point in the direction of flight.
+Re-entry at an altitude of eighty to a hundred kilometres
+and at a velocity many times greater than that of sound,
+subjects the vehicle to tremendous stresses.
+There are two possible types of landinghard and soft.
+The rocket ship sent from the U.S.S.R. to the moon in
+September 1959 made a "hard" landingIt made contact
+with the lunar surface at such a high velocity that it
+was destroyed by the impact. Even a hard landing
+involves many intricate calculations and must be made
+with steering, stabilizing and orienting devices of great
+reliability. A matter of a few metres deviation at the
+beginning of the vehicle's flight, or a slight variation in
+its speed could be fatal and the vessel would never reach
+the planet at which it was aimed.
+The landings of spaceships with cosmonauts on board
+launched since 1961 are examples of "soft" landings. ,_
+Most difficult of all is the soft landing of a space vehicle Z5
+CONT'D ON NEXT PAGE
+
+SPACE FLIGHT (Cont'd)
+A shower of meteorites
+in a pre-determlned area which depends on the retro-
+rockets being switched on at an exact moment with the
+vehicle in exactly the right position.
+The distance travelled by the vehicle during descent ls
+very great. Yuri Gagarin's spaceship continued in flight
+for half an hour after the "brakes" had been applied;
+the U.S. vehicle. Friendshlp-7, landed in the Atlantic
+Ocean after the "brakes" had been put on over the
+Western seaboard of America. The actual position of the
+vehicle and its exact velocity at the time the decelerating
+process is put into operation must be determined with
+absolute precision. An error of one metre per second
+in computing the velocity or of one kilometre in computing
+the altitude, would land the vehicle dozens of kilometres
+from the appointed spot.
+I
+26
+n the days before the first Sputniks were laun¬
+ched, the possibility of encountering meteo¬
+rites was considered one of the greatest potential obsta¬
+cles to space flight. As ls well known, the earth (or rather
+Its atmosphere) is under constant bombardment by a
+"cosmic shower", consisting of various-sized particles of
+matter coming from outer space.
+American scientists have estimated that something like
+30,000 meteorites with a diameter of one centimetre enter
+the atmosphere daily. The shower of meteorites of one
+millimetre in diameter is estimated at 75,000,000 a day
+while the smallest particles of all, those less than
+0,005 mm., arrive dally in such quantities that It would
+require an elghteen-flgure number to express them.
+Thus it seems not only probable but absolutely inevitable
+for a spaceship to encounter meteorites on its journey.
+These generalized figures, however, do not present a true
+picture. Calculations have shown that a spaceship in
+flight might meet a meteorite with a diameter of half a
+millimetre once in fifteen years and one half a centimetre
+in size about once in 25.000 years. Although It is theo¬
+retically possible for a space vehicle to meet a dangerous
+meteorite, this probability Is about as great as that of
+someone on earth being struck on the head by one.
+Despite the unlikelihood of the danger, spaceships are
+nevertheless equipped with "shock absorbers" against
+meteorites.
+Before a manned flight could be attempted, the intensity
+of cosmic, ultra-violet and corpuscular radiation had to
+be studied so as to estimate the degree of danger from
+them. Cosmic rays possess very great penetrative powers.
+If the walls of the pilot's capsule were thin, cosmic rays
+would penetrate and produce secondary radiation that
+would be harmful to the man inside.
+he nature of solar radiation in outer space is
+also different from that experienced on earth;
+a space flight is made outside the terrestrial atmosphere
+that forms man's natural protective screen from the sun
+by absorbing most of its ultra-violet rays. Studies of
+different kinds of radiation made by artificial earth
+satellites put into orbit by the U.S.S.R. and the U.S.A.
+have given engineers enough data to design space vehi¬
+cles with structural features best calculated to protect
+them from harmful radiation effects.
+It must be said, however, that the existing rockets are
+unfit as yet to protect the spacemen from radiation of
+high Intensity and thus the proper choice of space routes
+Is still of vital importance.
+Rocket flights into outer space enabled the American
+scientist James A. Van Allen and the Soviet scientist
+S. N. Vernov to study areas close to the earth in which
+high-energy particles abound. These regions form several
+radiation belts in circumterrestrial space at various dis¬
+tances from the earth. Though deadly to man, these
+belts, are not, however, continuous, but contain "holes"
+over the earth's North and South Poles.
+The particles In these radiation belts are of such high
+energy that effective protection from them would add
+tremendously to the weight of a space vehicle trying to
+penetrate them. It has not yet been found practicable
+to design such a ship and manned flights have been
+confined to orbits between the nearest radiation belt and
+the earth. Manned flights to other planets will have to
+follow a trajectory that leaves the earth close to one of
+the poles.
+Another danger that existed has now been overcome by
+space vehicle designers. We know that our atmosphere
+ls a reliable shield that protects us from meteorites they
+burn up or disintegrate when they crash into the atmo¬
+sphere at high velocities. A space vehicle could also
+become a "meteoric body" if its re-entry were made at
+too high a speed; the vehicle's mass is relatively small
+and the resistance of the atmosphere could easily
+destroy it.
+The mechanism of atmospheric resistance is this: any
+body moving in the atmosphere pushes particles of air
+before it. This "push" is transmitted by molecules of air
+from particle to particle, thus providing a signal of the
+moving body's approach a signal which travels uniformly
+at the speed of sound.
+If the body ls moving at a subsonic velocity, the signal
+spreads more rapidly than the body moves. Waves like
+those caused by throwing a stone in a pond spread
+through the atmosphere ahead of the moving body ; they
+consist of alternating condensed and rarefied layers
+of air.
+These rapidly spreading waves provide the air particles
+with what might be described as a "warning signal"
+about the moving body so that they open up a path for
+It as it approaches and flow round it. The body moves
+forward, meeting little resistance. Though this descrip¬
+tion is somewhat simplified, it comes close to reality when
+the body concerned is streamlined.
+When a body moves at supersonic velocities an
+entirely different situation is created. In this
+case the signal announcing its approach is delayed
+because the body moves faster than the waves can spread.
+A region of densely compressed air forms a cushion in
+front of the moving body. On a space vehicle's re-entry
+an Impact wave forms ahead of it and the air cushion
+builds up between the wave and the vehicle.
+The compression of the air brings about a tremendous
+increase in the pressure and temperature of the atmo¬
+spheric gases. If the velocity of the vehicle is twice that
+of sound the temperature reaches 250° C, and if it is six
+times that of sound the temperature will rise to 1,800° C.
+Describing his re-entry into the atmosphere, Her¬
+man Titov spoke of "a mass of fire of the brightest
+colours seething round the ship." The kinetic energy of
+the rapidly moving body Is expended on the formation of
+the impact wave and on heating the air cushion in other
+words, it loses velocity. The heat generated in the air
+cushion is only partly dispersed in the surrounding
+atmosphere, most of it is used to heat up the vehicle.
+A spaceship, therefore, must be provided with a protective
+shell and the velocity of its entry into the denser layers
+of the atmosphere must not exceed a certain limit.
+Such is the overall picture, greatly simplified, of the
+flight of our present spaceships, the first vehicles to open
+up a path into outer space. Spaceships will not retain their
+present form, they will be improved and developed as
+science and technology progress. It may well be that
+spaceships will soon be as different from those we know
+today as modern motor cars differ from their prototypes
+of the late nineteenth century.
+The authors of this article Evgeny Grebenikov and
+Vladimir Dyomin, of the Patrice Lumumba University,
+Moscow, and Evgeny Aksenov of the Sternberg Astrono¬
+mical Institute, Moscow are all specialists in physics and
+mathematics.
+
+RETURN FROM SPACE. Soviet technicians recover capsules containing live animals parachuted
+from research rockets after their re-entry into the earth's atmosphere. Thanks to tho giant parachutes
+used for these operations the animals come down to a soft landing after their flight into outer spaco.
+APN pholos
+4 m
+il
+, i¿ -
+.'.K'V
+i
+..-: «
+*ffvfí*J^>?^ "ffT ''f «
+27
+>W<
+.. ./<

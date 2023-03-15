@@ -1,0 +1,319 @@
+The search for a vaccine
+by Marc Girard
+The development of a vaccine against HIV raises highly complex scientific and
+economic problems
+Chromatography (below) is
+one of many purification steps
+used in the final stages of
+production of an experimental
+anti-HIV vaccine being
+developed in the United
+Kingdom.
+The development of a vaccine to prevent
+infection with the Acquired Immunode¬
+ficiency Syndrome (Aids) presents biomedical
+research with an urgent and serious challenge.
+Simple prophylactic measures that could
+prevent transmission of HIV, such as the
+screening of blood donations, the proper steril¬
+ization of surgical equipment and needles, or the
+use of condoms, are often not a practical propo¬
+sition in developing countries because of their
+cost and/or because they meet with behavioural
+or cultural barriers that are very difficult to
+overcome. A vaccine against HIV is therefore
+badly needed. (Vaccines are the most efficient
+known way of dealing with virus diseases.)
+However, in spite of almost ten years of
+intensive research, HIV vaccines still elude us.
+Nobody can be sure when a vaccine will be
+available, nor even if there ever will be a vaccine
+to cope with the seemingly endless variation of
+HIV and its ability to hide and persist in the
+body of infected individuals.
+A persisting disease
+Why can we not produce a vaccine against HIV
+by using the classical methods that have been so
+successful in developing vaccines against "clas-
+32
+sical" virus diseases? The answer to this question
+lies in the very properties of HIV and in the
+fact that Aids is a persisting disease. HIV is a
+retrovirus and as such inserts its genome into the
+chromosomes of the cell it infects, then transmits
+it as a piece of chromosome from one cell gen¬
+eration to the next.
+The HIV virus actually does even "better"
+than most retroviruses. Classical retroviruses
+grow at low levels in infected cells, and cell
+growth is usually compatible with virus pro¬
+duction: the virus does not kill the cells. HIV,
+however, has evolved a series of accessory genes
+that allow it to grow very rapidly once it is acti¬
+vated and to kill the cell after large numbers of
+progeny virus particles have been produced. It
+has been estimated that an asymptomatic HIV-
+positive individual can produce more than 2
+billion HIV particles per day.
+Another reason why HIV persists in the
+human body is that it can avoid the neutral¬
+izing antibody response of the host. The virus
+can persist in a latent state inside the infected cell,
+remaining dormant and escaping surveillance
+by the immune system. It can be transmitted
+directly from an infected cell to uninfected cells
+by a process known as cell fusion, in which the
+virus particles do not come into contact with cir¬
+culating antibodies. HIV can also be transported
+by the infected cells to organs like the brain
+where immune surveillance is minimal.
+Finally, the reason why HIV persists so well
+is that it attacks two of the major players of the
+immune system, the CD4+ T-lymphocyte (also
+known as the helper T-ccll) and the macrophage.
+At the same time the virus perturbs the com¬
+munication network between the different cells
+of the immune system, leading to profound
+dysregulation of the immune response.
+The HIV virus has also developed a remark¬
+able ability to change, both within infected indi¬
+viduals and from individual to individual. Intrin¬
+sically, it is no more variable than viruses such as
+the influenza virus or the polio virus. But
+whereas the influenza virus actively multiplies
+in the infected host for only a few days, HIV
+
+This Ugandan district nurse
+(left of photo) visits Aids
+sufferers and provides them
+with medication and
+counselling.
+multiplies in its host for years, providing ample
+time for variants to emerge and be stabilized.
+Prototype HIV-1 vaccines
+Most of the potential vaccines against HIV-1, the
+cause of the Aids pandemic, that have been
+tested in chimpanzees and human volunteers
+so far have been of what is known as the "sub-
+unit" type, consisting of purified viral proteins
+mixed with an adjuvant. Such protoype vac¬
+cines have demonstrated their protective efficacy
+in animal models such as chimpanzees. More
+recently it has been shown that immunization
+with antigens substances that stimulate the
+production of antibodies from one virus strain
+(HIV-1 MN) could provide protection in chim¬
+panzees from challenge with another virus strain
+(HIV-1 SF2). This opens the possibility that
+HIV-1 subunit vaccines may provide cross-pro¬
+tection from infection with different virus strains
+provided they belong to the same subtype.
+Although extremely encouraging, these results
+are still only preliminary. First of all there has been
+no test for protection from infection by the sexual
+route in the animal models. Challenge of immu¬
+nized chimpanzees has been by intravenous injec¬
+tion of the virus; whereas in nature HIV is essen¬
+tially transmitted by sexual contact.
+Secondly, it has been found that the HIV-1
+strains used for challenging the animals are dif¬
+ferent from the wild HIV-1 strains that are iso¬
+lated from human patients. The challenge strains
+have been selected to grow in the laboratory and
+are easily neutralized by neutralizing antibodies,
+whereas clinical isolates are not neutralized.
+Thirdly, challenge of the animals is usually
+MARC GIRARD,
+a French biochemist, is Deputy
+Director and Head of the
+Molecular Virology Laboratory of
+Paris's Pasteur Institute. He is a
+member of the Steering
+Committees of WHO'S Global
+Programme on Aids (GPA) and of
+its Global Programme for
+Vaccines and Immunization.
+"When I first knew I was HIV-positive, I thought I had Aids. I thought they
+were the same thing. It took two weeks' reading before I understood. . . .
+The doctor who had told me the news said that in these cases the family is
+the best support. I phoned my family, and my father took it very badly. He
+scolded me for spoiling the new-year festivities. 'You might have waited,'
+he said."
+33
+
+All potential vaccines must
+first be tested on animals, and
+so far only chimpanzees seem
+subject to infection by HIV-1,
+although they do not develop
+Aids. This is another of the
+many difficulties in Aids
+vaccine research.
+done very shortly after a booster immuniza¬
+tion, i.e. at or very near the peak of the immune
+response. The fact that the antibody response
+elicited by HIV-1 vaccines appears to be tran¬
+sient in chimpanzees raises the question of
+whether the vaccines would induce sufficient
+immune memory to provide long-term protec¬
+tion in a natural setting.
+Finally, it has not been possible from studies
+on animals to identify in a reproducible manner
+correlates of protection that could be used to
+predict vaccine efficacy. In other words, no
+yardsticks are available by which to measure
+potential vaccine efficacy.
+Ohould prototype vaccines be tested
+on humans?
+Before undertaking large-scale (Phase III) effi¬
+cacy trials in populations at risk, in which a
+vaccine would be compared in a blind fashion
+with a placebo, trials must be conducted to
+assess the safety and immunogenicity (capacity
+to stimulate immunity) of candidate vaccine(s)
+in small numbers of human volunteers. Some
+subunit vaccines have been tested on human
+volunteers, and shown to be safe and immuno¬
+genic. This does not mean, however, that these
+vaccines would protect humans against infection.
+To find this out, an efficacy trial is needed.
+The National Institutes of Health of the United
+States recendy decided not to proceed in expanding
+efficacy trials of HIV-1 subunit vaccines, arguing
+that more predictive scientific data were needed
+that would make one reasonably confident that
+protection could be achieved by the administration
+of the vaccine. Furthermore, it was felt that vac¬
+cines based on more than one viral antigen might
+have a better chance of being effective. Finally, the
+fear was expressed that individuals taking part in
+an efficacy trial might perceive that they were
+protected, which could make them change their
+behaviour and be at higher risk of HIV infection.
+34
+Testing a vaccine in a developing
+country which would not be able to
+afford it later because of excessive
+pricing is difficult to accept. It is also
+clear that the concept of developing
+a safe, sophisticated but expensive
+medicine for the industrialized
+
+
+
+countries and unsafe,
+unsophisticated but cheap vaccine
+for the developing countries is
+ethically unacceptable.
+At a recent WHO meeting, however, it was
+decided that "Phase III efficacy trials . . . could be
+conducted to obtain definite information on the
+ability of candidate vaccines to induce protective
+immunity in humans". This different attitude
+reflects the fact that public health needs may differ
+from country to country, resulting in different
+recommendations in different parts of the world.
+However, there should be no scientific or ethical
+shortcut in planning an efficacy trial in any country.
+Vaccine testing in developing countries
+The prospect of launching efficacy trials in
+developing countries is presently meeting many
+difficulties, some technical and others ethical.
+One technical problem is the fact that it has
+not been possible so far, in spite of repeated
+attempts, to develop a multivalent, "universal"
+HIV-1 vaccine based on conserved antigenic
+determinants. It is therefore necessary that spe¬
+cific vaccines be developed to match the circu¬
+lating HIV-1 isolates in the developing countries.
+Another technical problem stems from the
+need to strengthen local infrastructures in these
+countries, i.e. hospitals and laboratories, and to
+train local personnel. It is impossible to plan an effi¬
+cacy trial that would involve from several hundreds
+to a few thousand volunteers without appropriate
+logistical and professional support in the field.
+Among the many ethical problems that may
+arise, that of the modification of sexual behaviour
+that might possibly be induced by a large-scale
+vaccine trial is of serious concern. Such a trial
+would be dangerous if the attitude of the volun¬
+teers towards prevention was significantly altered
+as a consequence of their enrollment in it. Edu¬
+cating the people is, therefore, one of the most
+important prerequisites to a large-scale trial. It is
+noteworthy that even some elites in developing
+countries confuse the use of vaccines in prevention
+and their use in immunotherapeutic interven¬
+tions. Unreasonable expectancy of protection
+from highly exposed and poorly educated people
+is much to be feared. This could be overcome
+only by repeated counselling and education.
+CONTINUED ON PAGE 36
+
+36
+CONTINUED FROM PAGE 34
+Another problem is that of the subsequent
+availability of the vaccine. Testing a vaccine in a
+developing country which would not be able to
+afford it later because of excessive pricing would
+be difficult to accept. It should also be made
+clear that the concept of developing a safe,
+sophisticated, but expensive vaccine for the
+industrialized countries and an unsafe, unso¬
+
+
+
+phisticated but cheap vaccine for the developing
+countries is ethically unacceptable.
+Making HIV-1 vaccines available to
+developing countries
+It is obvious that the success of vaccination
+against HIV will depend on the characteristics
+of the future HIV-1 vaccines on their safety,
+efficacy, duration of protection, stability, the
+number of doses required for full immunization,
+and last but not least, their cost. There has been
+very strong political pressure to make HIV-1
+vaccines available to developing countries at a
+marginal cost. Even though we are still years
+away from marketing such vaccines, it is appro¬
+priate for the public health community to set the
+stage for an effective global Aids-prevention
+effort. One should realize, however, that the
+cost of developing a new vaccine has reached
+fantastic heights due to the enforcement of
+stricter regulations, tighter quality controls,
+higher safety standards, and to the very high
+cost of clinical studies, not to mention the cost
+of research itself. Aids-vaccine research for the
+past ten years in the United States and Europe
+has already cost several billion dollars.
+The financial returns to be expected by the
+vaccine manufacturers will obviously be low,
+vaccines being quite different in this respect
+from pharmaceutical drugs. How could a vac¬
+cine be made available to developing countries?
+One possibility would be to sell the vaccine to
+these countries for a low price and for a compen¬
+satory high price on the Western world market.
+But how low is low? It has been estimated that an
+HIV-1 vaccine would be administered yearly to
+about 300,000 persons worldwide, which could
+involve 1,200,000,000 doses, not counting subse¬
+quent booster doses. Manufacturing, controlling
+and distributing such an enormous number of
+vaccine doses would cost several billions of dollars.
+It is clear that we will have to invent a mech¬
+anism, such as direct payment from an interna¬
+tional agency to the manufacturing companies, to
+provide the companies with sufficient reward
+while at the same time supplying the Aids vaccine
+to the developing world at a rock bottom price.
+This is basically what UNICEF (the United
+Nations Children's Fund) and the Pan-Amer¬
+ican Health Organization (PAHO) are trying to
+do for classical vaccines. But the chances of suc¬
+cess of such an operation will depend strictly on
+the goodwill of the industrialized nations.
+

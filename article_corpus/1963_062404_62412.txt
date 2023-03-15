@@ -1,0 +1,338 @@
+How many books are published in the
+world each year ?
+What are the chief vernacular lan¬
+guages spoken in Africa ?
+I am 15 years old. Which books on
+space science should I read?
+Who said : " The foundation of every
+state is the education of its youth " ?
+What will the library of tomorrow look like ? A peek at what
+it may be one day was allowed visitors at the ' Library 21"
+exhibition at the Seattle World's Fair last year. The chief
+keynote was electronics and automation revolutionizing
+methods of storing, retrieving and communicating know¬
+ledge to future library users. Visitors saw how specially
+"programmed" computers (right) can already provide
+The machine replies,
+up-to-the-minute information on different countries, supply
+printed excerpts from the writings of the world's great
+novelists, thinkers and scientists, and offer specially "tail¬
+ored" bibliographies on subjects ranging from the arts to
+space science according to the individual's age, education
+and degree of interest. The transparent spheres, below, tell
+the story of communication with three-dimensional models
+depicting cave painting, the development of writing,
+papermaking, printing, the telescope, and other wonders
+from among some of the newer media in the field of education.
+Pan American
+
+THE LIBRARY OF THE FUTURE
+by J. H. Shera
+an, In his long struggle up from savagery, has
+undergone many experiences and evolved
+many Ideas which would be important to our own quest
+for a better life If we could but retrieve them from the
+past. But, because we do not yet possess efficient means
+of access to the store of recorded human knowledge, we
+have rediscovered that which was already knownre¬
+invented the wheel, many times.
+Worse, we have probably re-invented "square wheels,"
+without knowing, or even suspecting, that they had long
+ago been rejected. A degree of prodigality in research
+may be unavoidable, and if properly controlled perhaps
+even desirable. But, contrary to popular lore, ignorance is
+not characteristic of a state of bliss and what we do not
+know can hurt us.
+As early as 1937, Frederick P. Keppel, then president
+of the Carnegie Corporation of New York, sought an Ima¬
+ginary solution to the problem of Improving man's
+recourse to the records of the human adventure by pro¬
+jecting himself into the library world of 1958, of which
+his imaginary librarian said:
+"I blush to think how many years we watched the
+so-called business machines juggle with pay rolls and
+bank books before It occurred to us that they might be
+adapted to dealing with library cards with equal dex¬
+terity. Indexing has become an entirely new art. The
+modern Index is no longer bound up in the volume, but
+remains on cards, and the modern version of the old
+Hollerith machines will sort out and photograph
+anything that the dial tells it. . . we librarians must
+keep up with all these applications of science, and
+I admit it takes a fair share of our time to do so."
+The almost uncanny accuracy of Keppel's prophetic
+vision will have been quite apparent to visitors to the
+"Library 21" exhibit at last year's World's Fair in Seattle,
+Washington, U.S.A. There, on the shores of Puget Sound,
+a computer, manned by professional librarians and tech¬
+nical assistants provided inquirers with short annotated
+bibliographies on selected subjects tailored to the
+education, age, and language capability of the indivi
+dual patron. The computer was also stored with selected
+texts from the "Great Books of the Western World." to
+provide the visitor with quotations on appropriate subjects
+from the great classical authors.
+In reality the Seattle exhibition was far less dramatic
+than the real developments that have actually taken
+place during the quarter of a century that ha« followed
+Keppel's prophetic words. Moreover, the Importance of
+these innovations is not to be interpreted solely In terms
+of the machine, for automation Is only the outward mani¬
+festation of the Intellectual revolution that Is taking place
+In llbrarianship today.
+The most Important phrase in Keppel's statement does
+not relate to the gadgets that he hypothesized, but to the
+assertion that "indexing has become an entirely new
+art." The bases of that art. Keppel might have added,
+are the semantic relationships among ideas, concepts,
+and words, and only Incidentally the innovations In elec¬
+tronic circuitry.
+One should not minimize the Importance of the
+machine, for the machine has made a fundamental con¬
+tribution in redirecting and refocussing the thinking of
+librarians concerning the intellectual processes which the
+management and efficient utilization of recorded know¬
+ledge involves. But the machine is still an instrument
+and nowhere is Its Instrumentality more apparent than
+in its role as a library catalyst.
+Traditionally, library procedures and methods have
+derived from ad hoc assumptions concerning the nature
+of books and the ways in which they are used. Such
+library classifications as those of Dewey, the Library of
+Congress, and the Brussels Institute are based upon the
+implicit assumption that books resemble biological speci¬
+mens which can be arranged in a hierarchical order of
+genus and species according to a major characteristic of
+their intellectual content. Similarly, the subject entrieg¬
+ln the card catalogue are terms which are assumed to be ..
+not only meaningful descriptors of the content of books "
+CONT'D ON NEXT PAGE
+
+Electronics invades
+the world of books
+but also the terms which the library user would associate
+with the subject of his search.
+But because the standard library classifications and the
+subject catalogues have worked reasonably well, in some
+Instances surprisingly well, librarians did not much con¬
+cern themselves with research Into the underlying theory
+of Information storage and retrieval until the decade of
+the 1950's brought an unexpected proliferation in recorded
+knowledge that far surpassed the capabilities of con¬
+ventional library and bibliographic instruments.
+Simultaneously with these new demands upon the
+library came the rise. In other areas of intellectual endea¬
+vour, of automation, and librarians turned in hasty
+desperation to the machine as a potential source of sal¬
+vation. Tw.o early twentieth-century inventions, the Hol¬
+lerith punched card and the micro-photograph or micro¬
+film, seemed to hold the greatest promise, and much expe¬
+rimentation was begun in adapting these, in a variety of
+ways, to the storage and retrieval of recorded Informa¬
+tion.
+Subsequently magnetic tape was added to the arsenal
+of the automated library. But despite the engineering
+skill lavished upon other devices, results fell far short of
+expectations because these mechanisms were not logi¬
+cally derived from an understanding of the Intellectual
+process that takes place when the library patron searches
+a library file.
+This charge of failure does not imply condemnation.
+Ill-considered as some of these experiments were they
+represented a necessary stage In the development of
+man's progress in improving library procedures. Every
+social innovation must shake itself free from a morass
+of misconceptions, false starts, and exaggerated hopes.
+Moreover, automation has already proved- Itself, perhaps
+in more ways than most people realize, as an effective
+means for facilitating certain types of bibliographic and
+indexing operations.
+The preparation of concordances, which formerly was
+regarded as the work of a lifetime, can, through the use
+of punched-card or magnetic tape equipment, now be
+accomplished in months. A number of libraries are using
+similar equipment for the reproduction of catalogues and
+specialized bibliographies thus greatly extending the use¬
+fulness of their respective collections.
+he punched paper tape typewriter, such as the
+Flexowriter, with a print-out speed of more
+than six hundred pages an hour, offers possibilities for
+improving library and bibliographic operations that are
+only beginning to be fully realized. The Key Word in
+Context (KWIC) system now being used successfully by
+Chemical Abstracts Service for the superficial indexing of
+chemical literature employs high-speed computers to
+facilitate Its operations.
+The indexing and abstracting methods devised at
+Western Reserve University have been fully automated
+and are In dally use in an information retrieval service
+offered by the American Society for Metals. And, on a
+much less sophisticated level, libraries had, even before
+the outbreak of the Second World War, begun to employ
+limited automation In their acquisition and other busi¬
+ness routines, as well as for the circulation records of
+their books.
+Today, these limited uses of electronic and mechanical
+devices no longer seem strange or out-of-place In the
+library, and the time Is doubtless not far distant when
+much more Intricate mechanisms for the performance of
+much more complex library and bibliographic operations
+will be accepted by librarians and general public alike as
+standard library equipment. We should remind ourselves
+that not so very many decades have passed since the first
+library schools, before the typewriter became prevalent,
+regularly offered courses in a form of penmanship known
+as "the library hand."
+In a world transformed by automation what, then, will
+be the form of the library of the future? Obviously the
+applications of automation to librarianship are so new
+BOOKS ARE STILL
+BASIC. The "Library
+of the Future" (general
+view right) designed
+by the American Li¬
+brary Association, by
+no means neglected
+books. Books and
+other printed materials
+will continue to re¬
+main basic to all edu¬
+cation in the next cen¬
+tury. The library was
+a prototype of six or
+seven core libraries
+which will serve vast
+areas of America in the
+next 100 years. These
+libraries will be linked
+together so that every
+important document,
+book and pamphlet
+will be available to
+every library user no
+matter where he lives.
+and imperfectly understood that prognostication is dan¬
+gerous. One can certainly say conservatively, however,
+that these new electronic mechanisms that simulate man's
+mental processes should give us new Insights Into the
+operations of the human mind and hence a better under¬
+standing of the ways in which the human being seeks
+out, acquires, and utilizes knowledge.
+One also seems on solid ground in saying that machines
+are not likely to replace librarians any more than com¬
+puters replaced mathematicians. On the contrary, these
+new devices will not only provide the librarian with
+means for improving the services he can render, but also
+will increase his understanding and appreciation of his
+role in society.
+Finally, one can say with some confidence that the book
+is very far from becoming obsolete. To be sure, techni¬
+ques for its miniaturization will doubtless become even
+more prevalent than they are today, and for purposes of
+storage the book in its traditional form does display cer¬
+tain marked disadvantages. But for use the book is so
+admirably adapted to the ends it serves that man has not
+been able to improve upon It since the parchment codex
+evolved from the papyrus scroll. The book is here to stay,
+and library architecture Is not likely soon to deviate from
+a form making possible efficient shelving of books.
+To those who are punch-drunk from the impact of
+scientific innovation, the library of the future is apt to be
+envisaged as a phantasmagoria of flashing lights, spinning
+tapes, and rattling teletypes. To be sure, rapid progress
+in facsimile transmission, mechanized character recog¬
+nition, data processing, and trans-world communication
+will doubtless leave their mark upon the library, and one
+may properly expect to find In the library of the future
+a variety of electronic and other devices that today would
+have appeared to many as being out of place.
+But the most striking characteristic of the library of
+the future will be not so much its physical form, as the
+intellectual activity that will take place within its walls,
+and this may be traced back at least as far as the great
+library established by the Ptolemies in Alexandria at the
+mouth of the Nile.
+
+ValllcWorld'a fj¡r
+The library of the future, then, should be a true infor¬
+mation centre a collection of graphic records of every
+variety, assembled and used to the ultimate limits of Its
+resources by a community of scholars educated both In one
+of the traditional academic disciplines and in the new
+science of librarianshlp and proficient in the scholarship
+of their new profession.
+This is a new concept of librarianshlp only in its
+insistence upon the librarian as scholar and its emphasis
+upon the new tools which modern science will provide for
+improving the efficiency of his work. But before these
+tools can be designed and fabricated, and before tha
+Intellectual and functional dimensions of the library of
+the future can be identified and described, much important
+research into the physical and psychological nature of the
+library process must be completed.
+Research in libraries has, from the beginning, been one
+of the major reasons for the creation of the Institution,
+but research in librarianshlp is of such recent origin that
+its importance Is not yet fully comprehended even among
+librarians. Librarianshlp as the proper subject of orga¬
+nized research must have brought to bear upon it the
+work of many disciplines in the physical, biological, and
+social sciences If it is to be rescued from suffocation by
+its very riches.
+But however much the profile of the library may
+change under the impact of this research, the library as
+a service agency will remain, though the concept of that
+service may well undergo dramatic alteration In the tran¬
+sition from a passive organization to one that reaches out
+to the patron without waiting for his initiative.
+In this the new media of communication can play a
+very Important role, not only In bringing to the patron
+the required information in a variety of new forms, but
+also in expediting inter-library co-ordination by forging
+ever more strongly the bonds of co-operation that will
+eventually make available the total intellectual resources
+of a nation at any one point of need.
+Architecturally, the library of tomorrow must be func¬
+tional rather than monumental a form In which change
+can be made quickly and economically In anticipation of
+rapid obsolescence. We do not build for the future by
+architecturally crystallizing or ossifying the present;
+change is the only constant. When the responsibilities of
+the librarian were regarded as primarily custodial, and
+preservation was generally accepted as hLs first concern,
+the library as mausoleum was archltectually appropriate.
+With the twentieth century came a new and more
+dynamic concept of library service. The library as a gothlc
+cathedral expired with James Gamble Rogers' great ana¬
+chronistic outcry at Yale. The new functionallsm dic¬
+tates modular constructionan empty shell with a mini¬
+mum of bearing walls and fixed partitions. In fact, the
+library of the future may not be a single building, but a
+complex of Interrelated structures which provide not
+only for the acquisition, utilization, and dissemination of
+traditional library materials, but also are true "Informa¬
+tion banks," dedicated to the fullest possible use of
+recorded human knowledge In whatever form. Already
+Johns Hopkins University is planning a new library
+building that will Include a computing center for mecha¬
+nized literature searching.
+There is no limit to the potentialities of the library of
+tomorrow except the boundaries of the human imagina¬
+tion and our willingness to work. No longer Is the library
+a social embellishment for the perpetuation of local or
+personal prestige. It is essential to the survival of
+society for the simple and obvious reason that our culture
+has become so complex and Interdependent within and
+among its constituent parts that It cannot survive without
+constant intellectual nourishment.
+Knowledge, then, is the life-blood oí our civilization, and
+the library of the future may well be regarded as the
+instrument by which its continuing circulation of know¬
+
+ledge Is maintained. What goes on, then, in the library
+of the future may or may not be outwardly spectacular
+but It will probably Influence substantially the course of
+the human adventure.
+Dr. Jesse H. Shera is Dean of the School of Library
+Science at Western Reserve University, Cleveland, U.S.A.
+13

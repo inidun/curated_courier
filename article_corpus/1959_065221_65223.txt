@@ -1,0 +1,209 @@
+DRIVERLESS TRACTORS: THE LATEST
+THING IN MECHANIZED FARMING
+£S2s*^
+by B. W. Golding
+Today new methods of mechanization and automation are giving a tremen¬
+dous boost to agricultural efficiency, making the farmer's job easier
+and more profitable. Better still, they point the way to a solution of food short¬
+ages brought on by a massive and ever-accelerating increase in the world's
+population.
+The whole world depends upon the farmer whether he grows wheat in Kansas,
+coffee in Brazil or cotton in Egypt. Since the start of this century, thanks to
+the invention of new kinds of farm machinery and the willingness of farmers
+to adopt them, agricultural methods have changed out of all recognition.
+In the U.S.A., for example, between 1938 and 1958, farmers more than trebled
+their ownership of tractors to a total of 4,700,000. Since 1945 they have increased
+the number of newer work-saving machinery by 1,200%, investing over 17,000
+million dollars in combines, cornpickers, pickup hay balers, field forage har¬
+vesters and other machinery. Now, taking another big step from mechaniza¬
+tion to automation in the raising of animals and fowl they are copying the
+assembly line techniques of industry.
+One of the most striking examples is the giant "production line" for eggs
+of a U.S. layer-breeder. whose hens are kept in individual cages, feed from a
+continuously filled feed trough on one side and drink from a fountain on the
+other. They drop their eggs on an inclined wire floor and these roll out through
+an automatic counter onto a conveyor belt that takes them to a human sorter
+who boxes them. One man can easily take care of 7,000 birds with an output
+of 4,000 eggs a day.
+Farming, the greatest industry in the world, is now adopting techniques which
+have proved their worth in other industries. More and more ways are being
+found to use electricity in farming, and research in this field has made pos¬
+sible the development of such remarkable devices as the British experimental
+automatic farm tractor described in the following article.
+24
+A farm tractor without a driver,
+which sets out from the farm¬
+yard, makes its way round the
+field where it performs tasks automa¬
+tically, and finally comes to a halt
+back at its starting point, was seen
+recently at Sonning Farm, near Read¬
+ing in the South of England.
+The demonstration was staged
+jointly by the Farm Mechanization
+department of the University of
+Reading and the British Electrical
+Research Association, which has its
+rural electrification field station at
+Shinfleld, near Reading. The two
+groups are collaborating in this and
+other research involving the use of
+electricity in agriculture and horti¬
+culture.
+The tractor is a standard model but
+it is fitted with special coils of wire
+"search" coils which are mounted
+at the front of the machine a few
+inches above the ground. These coils
+pick up signals from a current-
+carrying wire which can be laid on
+the ground or buried just below the
+surface. The current is alternating
+and is supplied from a small genera¬
+tor, at a low voltage so that there is
+no danger of electric shocks being
+received by the field workers.
+The search coils receive signals
+from this directing wire and, through
+a controlling circuit, operate the
+steering of the tractor by means of
+
+The Unesco Courier. April 1959
+The time when a farm tractor
+¿m\ m&' * will continue to work unattended
+^A * ^ at night while the farmer sleeps
+^íár\ is perhaps not so far off as one
+might imagine. In Great Britain
+the Farm Mechanization Depart
+1 P^^^^B^^^fc ment of Reading University has
+already developed a system of
+WUfl WËTÈSiF' automatic control which enables
+f^9[ fl^ JwvKr^l K^J ^B """"^^H mm\. a tractor to carry out pre-selected
+mtym PS^*^saÉ A tasks without any human super
+vision. At a recent demonstra¬
+tion the machine set out from
+the farmyard, crossed a road,
+: obeying red and green traffic
+control lights, passed through
+B ' LLflK - ^sS* a gate, then made a circuit of
+a field, distributing fertilizer or
+I * WT 1 dropping off bales of hay at
+ür 1 HI l1
+kflr ^B BfA ^B Bfv/ Yl
+selected places. Photo left, shows
+the driverless tractor being fitted
+with auto-controls; far left, a
+trial run during research into
+^H ^ft wTW1. * ^tt^il the use of automatic controls.
+^ fr'n ~Jm*
+W* Am m\ Photos Central Office
+of Information, London
+solenoid-operated hydraulic valves
+and a double-acting hydraulic ram.
+Movement away from the wire pro¬
+duces a stronger signal in one search
+coil .than in the other; an out-of-
+balance is created and the effect is
+to correct the steering to bring the
+machine back "on course". In this
+way the tractor is made to follow,
+closely, the path traced out for it,
+while signals passed along the wire
+can stop it, or can make it do a num¬
+ber of simple jobs. All this is achiev¬
+ed without any human supervision;
+there is no radio control and no press¬
+ing of buttons.
+There is a telescoping bumper
+mounted in front so that, if the trac¬
+tor collides with something, the
+engine is shut off by the movement
+of the bumper closing contacts in the
+electrical control circuit. At the
+demonstration, the machine started
+out from the farmyard, passed
+through a gate, across the roadway
+obeying red and green traffic control
+lights passed through the field gate
+and then made a circuit round the
+field distributing fertilizer or drop¬
+ping bales of hay at selected places.
+It also sounded its horn automatically.
+The University and the E.R.A. have
+worked out this device as the first
+step towards a much fuller system of
+automatic operation of machines in
+the field. It is only a beginning: a
+good deal more research will be need¬
+ed to follow out the succeeding steps
+which may lead one day to automa¬
+tic ploughing, cultivating, harvesting,
+seeding, hoeing and other jobs.
+At present, the performance is
+confined to a very simple routine in
+which the machine moves along a par¬
+ticular route and performs a number
+of pre-selected tasks. Even so, a
+considerable saving in labour could
+be achieved by dispensing with a
+tractor driver when carting silage or
+collecting grain from a combine har¬
+vester and taking it back to the
+farmyard for unloading. Of course,
+the tractor has to be fitted With the
+search coils and hydraulic controls,
+and the directing wire has to be laid
+out. But these adjuncts, with the
+generator for the controlling signals,
+are not very expensive items and the
+power needed for the control is so
+small that costs are negligible.
+Another obvious advantage of a
+driver-less tractor is that it can be
+used for carrying out noxious or
+dangerous operations, such as spread¬
+ing toxic weed killers or carting the
+radio-active materials which may be
+employed if certain techniques now
+proposed are adopted.
+One can also foresee the develop¬
+ment of a self-navigating device
+allowing the tractor to move away
+from the wire, with perhaps a
+magnetic tape record which the
+tractor will "play" to itself to guide
+its more complicated motions and
+conduct it back to its shed for the
+night. But need it stop at night?
+Could it not go on with its work while
+its owner slept?
+These may seem fanciful ideas but
+there is no reason why automation,
+which is becoming so much fashion
+in industrial processes, should not be
+adopted on the farm. Indeed, there
+are very good reasons why it should.
+Labour saving in agriculture is
+becoming increasingly important in
+the more industrialized countries
+where farm workers are continually
+drifting away to other industries.
+And there is a need to allow standards
+of living to rise in the countries which
+are less developed industrially, by
+releasing agricultural workers for in¬
+dustrial work. Increased productivity
+is the key to advances in this direc¬
+tion.
+Automatic operation in poultry
+keeping by the use of a travelling
+"canteen" bringing food to hens in
+laying batteries and in pig rearing,
+by the use of automatic feeding, air
+conditioning and cleaning, have
+already been introduced. Automation
+in the field is certainly more difficult
+to accomplish than in fixed indoor
+installations, but its potentialities are
+perhaps even greater.
+25

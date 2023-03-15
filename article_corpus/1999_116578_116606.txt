@@ -1,0 +1,270 @@
+From midnight, Ja n u a ry 31, 1 9 9 9 ,
+i n t e rn ational regulations no longer
+require ships at sea to be equipped to
+call for help in an emergency using Mors e
+code and the we l l - k n own SOS signal. O n
+Fe b ru a ry 1, the Global Maritime Distress
+and Safety System (GMDSS), using sat e l l i t e
+and other high-tech communicat i o n
+t e c h n i q u e s , replaced a system which since
+the early part of this century has save d
+countless ships and thousands of lives.
+GMDSS has been developed and pro-
+gr e s s i vely implemented since 1979.As more
+and more ships adopted the new system,
+coastal radio stations around the world have
+been closing down their wireless telegr a p hy
+(W/T) services as demand has decreased.
+As midnight approached on Ja n u a ry
+3 1 , m a ny of the remaining stations sent
+their final Morse signals in a profusion of
+emotional messages, typical of which was
+this from a group of Danish stat i o n s :
+“Concluding an era of more than 90 years
+of W/T service from Danish coast stat i o n s ,
+starting in 1909. . . .This is the last trans-
+mission for ever.”
+Thus signed off with dots and dashes the
+era of Morse telegr a p hy, a medium which in
+the 19th century had created a revolution in
+world communicat i o n s , s e rving virt u a l l y
+e ve ry aspect of human activity: g ove rn-
+ment, diplomacy, business, industry, rail-
+way s ,n e w s p a p e rs ,m i l i t a ry, and more, p l u s
+the needs of ordinary people who wished to
+send telegrams.
+‘What Hath God Wrought!’
+Fo l l owing the Italian physicist A l e s s a n d r o
+Vo l t a ’s invention of the voltaic pile in 1800,
+the first means of storing electri c i t y, there wa s
+an upsurge of electrical experi m e n t at i o n ,
+including many attempts to achieve com-
+m u n i c ation between distant points using
+e l e c t ricity and metal wires. In 1832, S a m u e l
+F. B. M o rs e , a we l l - k n own A m e rican art i s t ,
+c o n c e i ved the idea of an electromagnetic
+w Consultant Editor of Morsum Magnificat, an
+international magazine devoted to Morse telegraphy.
+
+
+
+M O R S E :
+THE END OF AN ERA?
+w Tony Smith
+A world information highway built as a result of the 19th-century century communications
+revolution came to the end of the road at the beginning of this year. Or did it? 
+By the end of the 19th century, Morse telegraphy was in widespread use.
+
+i n s t rument to achieve this by means of inter-
+rupted electrical currents corresponding to
+a prearranged code (see box ) .
+In 1843, C o n gress allocated $30,000
+to test his invention on a 40-mile (65-km)
+line along the railroad from Washington to
+Baltimore.This opened on May 24, 1844,
+with the sending of the apposite phrase
+“What Hath God Wrought!”,and within a
+year pri vate companies came into being
+with plans to run Morse lines to all parts of
+America.
+In 1866, after several earlier at t e m p t s , a
+submarine cable linked Britain and Ame-
+ri c a . By 1871 a cable had reached A u s-
+tralia, and well before the turn of the cen-
+t u ry most of the world was covered by a va s t
+network of Morse lines.
+A new industry
+The Morse telegraph created an entirely
+new industry which, amongst other things,
+offered women for the first time an oppor-
+tunity to take up a respectable career, that
+of a telegrapher,outside their own homes.
+Te l e grams became a way of life for bu s i n e s s
+and for individuals, and many large orga-
+nizations had their own telegraph offices.
+In 1848, six New York newspapers
+f o rmed the A s s o c i ated Press, s h a ring news-
+g at h e ring and telegraphic serv i c e s. T h e y
+hired their own lines and operating staff,a n d
+by 1923 AP landlines across North A m e ri c a
+totalled 92,000 miles (148,000 km) ser-
+ving the interests of 1,207 member news-
+papers.
+M a ny famous people started their
+careers in the telegraph industry. Thomas
+Edison, the famous inventor, was an itine-
+rant Morse telegrapher at the age of 17,
+t r avelling thousands of miles throughout
+the United States and Canada, taking job
+after job as his fa n cy, or circumstances,
+dictated.
+Andrew Carn e gi e , the industrialist and
+philanthropist, began as a messenger boy
+and was a telegraphist for twe l ve ye a rs.
+
+This Morse receiver dating from 1889 is displayed in the telecommunications museum at Pleumeur-Bodou,in France.
+
+Gene A u t ry, “the singing cow b oy ” , w h o
+died in 1998 aged 91, was a railroad tele-
+grapher in his youth before he became a
+Hollywood star.
+In the early days of broadcasting, a tele-
+grapher accompanied A m e rican commen-
+tators to sporting events, and special lines
+were installed to connect the stadium to
+the radio stat i o n .The telegrapher sent short
+r e p o rts to the station describing the progr e s s
+of the mat c h , and a “ s p o rt s c a s t e r ” u s e d
+them to provide a “ l i ve ”c o m m e n t a ry on the
+game as if he were there personally. One
+broadcaster who worked in this way in the
+1930s was Ronald Reagan,later President
+of the United States.
+A universal code
+The code used on the A m e rican lines wa s
+“ A m e rican Mors e ” ,which is not the same as
+the intern ational code we know today.The firs t
+M o rse line in Europe was between Hambu r g
+and Cuxhaven in 1847, but the A m e ri c a n
+code was not entirely suitable for the Germ a n
+language with its diacritical letters. A new
+extended code was therefore devised, i n c l u-
+ding some new characters and some retained
+from the A m e rican code.
+As the telegraph spread to other
+German states and to Austria, each state
+devised its own va ri ation of the Morse code,
+n e c e s s i t ating telegraphic translation to a
+different code by an operator as messages
+crossed state boundaries.
+In 1851 the A u s t r o - G e rmanic Te l e gr a p h
+Union adopted a slightly amended ve rs i o n
+of the 1847 code for use in all states as part
+of a unified telegraph system effective from
+July 1, 1 8 5 2 .The new code spread to other
+European countries and was finally adopted
+for unive rsal use in 1865 by the newly
+formed International Telegraph Union.
+Later, some countries developed their
+own versions of the code for internal com-
+m u n i c at i o n s.A p a rt from the ori ginal A m e-
+rican Mors e , which remained in use within
+the United States, there are Arabic, Bur-
+mese, Chinese, Greek, Hebrew, Japanese,
+K o r e a n ,R u s s i a n , and Turkish Morse codes,
+and possibly more.
+The European code, which finally
+became the intern ational Morse code, wa s
+the chosen communication mode for the
+newly invented wireless at the end of the
+19th century.
+A good practical system of signalling
+already existed between stations using metal
+wires to carry their signals.The purpose of
+early wireless was simply to replicate and
+extend the scope of the Morse telegraph
+without the need for wires between sta-
+t i o n s. When wireless was found to be
+capable of sending messages over gr e at dis-
+tances it was adapted for use by ships at sea
+which previously had no means of com-
+m u n i c ation with land, or each other, e x c e p t
+by visual signalling when close-by.
+Inspiration for wireless
+The most famous early use of Morse at
+sea was when the Titanic struck an iceberg
+and sank on the night of A p ril 14, 1 9 1 2 .H e r
+t wo Radio Offic e rs , Jack Phillips and Harold
+Bride, stayed by their radio until the last
+m o m e n t , sending out CQD SOS messages
+in Morse code calling other ships to their
+r e s c u e .“ C Q D ” was a recognized mari t i m e
+distress signal, and “ S O S ” was a new inter-
+national signal due to replace it shortly.
+Their calls were heard 58 miles (93 km)
+away by the C a rp at h i a, which arri ved on the
+A Hungarian plate printed at the end of the 19th century shows the beginning of the Morse alphabet and numerals.
+
+scene an hour and twenty minutes after
+the Ti t a n i c sank and rescued some 700 sur-
+vivors. Over 1,500 people died in the tra-
+g e d y, including Jack Phillips. B ride sur-
+v i ved and although unable to walk or stand,
+spent much of the time over the next four
+days heroically helping the radio officer of
+the Carpathia send a continuous stream of
+messages from the surviving passengers to
+their next of kin.
+Military use
+Morse telegraphy was used by military
+forces in the Crimean Wa r , and in the A m e-
+rican Civil War. In the First World War, it
+was widely employed in trench wa r fare with
+bu z z e rs replacing sounders. At the same
+time early wireless telegr a p hy sets we r e
+coming into use.
+By the time of the Second World Wa r ,
+although wired telegr a p hy was still used,w i r e-
+less had become the preferred form of military
+c o m m u n i c at i o n . It was also an essential part
+of clandestine/intelligence operat i o n s ,p a rt i-
+cularly in occupied Europe where Allied agents
+risked detection,and their live s ,e ve ry time they
+transmitted a message to London. M o rse by
+radio also served as a vital communicat i o n s
+link for the gr e atly increased use of aircraft in
+wa rtime operat i o n s.
+In most armed forces today Morse is no
+longer taught as a standard form of com-
+munication,although some operators still
+l e a rn it as a special skill. In a recent unusual
+a p p l i c at i o n , Sudan Pe o p l e ’s Liberat i o n
+A rmy rebels fighting the gove rnment of
+Sudan have been heard on short wave radio,
+without Morse keys, vocalizing the code as
+“dits” and “dahs”into microphones.
+Not quite the end
+The invention of radio signalled the
+b e ginning of the end for landline Mors e , bu t
+it took a long time to happen.While long-
+distance radio services challenged the cable
+c o m p a n i e s , the advent of the telepri n t e r
+took a more immediate effect. B ri t a i n ’s Po s t
+O f fice officially abandoned Morse in 1932,
+although its use continued in the United
+States and Australia until the 1960s.
+The same process took place in other
+c o u n t ries although from time to time
+u n c o n firmed reports indicate that landline
+Morse still survives in Mexico and India.
+M o rse at sea has officially ceased, but it
+has not yet disappeared. Some stations and
+ships are still actively carrying Morse traffic,
+mostly in the developing world, but some
+European stations can also be heard.The
+high cost of installing new equipment in
+the ships is the main reason for the delay in
+c h a n ging to GMDSS, but also training fa c i-
+lities have not been able to keep up with
+demand.
+There is still one major user of Morse
+code. Radio amateurs worldwide use it to
+communicate with each other because of
+t wo adva n t a g e s. It has an intern at i o n a l l y
+understood system of abbreviations which
+aids communication between people who
+are unfamiliar with each other’s language;
+and Morse radio transmission is a part i-
+cularly effective means of getting signals to
+distant places compared with other radio
+modes—the same advantages that made it
+so valuable for maritime use.
+Landline Morse is also kept alive by
+hobbyists. In America, Canada and Aus-
+t r a l i a , enthusiasts mount historical display s
+and communicate with each other using
+original keys and sounders via the public
+telephone system, dial-up units, a n d
+modems. n
+
+The first attempt to lay a transatlantic submarine telegraph cable. Valencia island (Ireland),1857.(Contemporary engraving).

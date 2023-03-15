@@ -1,0 +1,358 @@
+Nuclear energy
+and
+the environment
+Are present safeguards adequate ?
+by Essam El-Hinnawi
+NUCLEAR energy has been used to
+generate electricity on a commer¬
+cial scale for about two decades,
+and it is estimated that it will constitute
+between 11 and 13 per cent of the world's
+total electricity generating capacity by 1985
+and 20 per cent by the year 2000.
+Public concern about the development
+of nuclear power has focussed chiefly on
+the radioactivity released from the products
+of nuclear fission.
+However, every stage in the "nuclear
+fuel cycle" '- has ' some impact on the
+environment from the mining and milling
+of uranium, through the manufacture of
+fuel elements for reactors, the transport
+and processing of irradiated : fuel, to the
+management of the wastes produced at
+each step in the cycle.
+The environmental impact ot. uranium
+mining may take several forms. On thé one
+hand, land and water may be affected by
+spoil, and by 'waste water, (from mine
+drainage and in some cases from drilling).
+On the other, there are certain occupation¬
+al health hazards.
+Essam El-Hinnawi of the Arab Republic of
+Egypt is research professor of geochemistry and
+mineralogy at the National Research Centre,
+Cairo. The author of two books and many arti¬
+cles on these subjects and on energy,, he was
+awarded . Egypt's State Prize for Science and
+Technology in 1967. He is chairman , of the
+Energy Task Force of the United Nations Envi¬
+ronment Programme (UNEP).
+Uranium ore contains radium-266. As it
+decays, this element gives off the radio¬
+active gas radon, which is considered to be
+a major cause of cancer among uranium
+miners. Nevertheless, it should be noted
+that the number of "environmental deaths"
+among coal miners (from pneumoconiosis)
+is much higher than among uranium
+miners.
+In the milling process, about 70 per cent
+of the total radioactivity contained in the
+uranium ore fed to the mills remains undis¬
+solved in the form of tailings ground to a
+sandlike consistency. Radioactive dust
+from unprotected tailings piles may be
+spread by wind erosion. Such piles may
+also cause, water pollution if they are loc¬
+ated too near river banks or if flood water
+leaches radium from them and then perco¬
+lates down to the groundwater.
+- In the fuel fabrication process, the main
+potential hazard arises from the toxicity of
+the hydrogen fluoride and fluorine used in
+the production of uranium hexafluoride.
+However, safe methods of handling these
+chemicals are now well established in the
+fluorochemical industry.
+As the' level of uranium enrichment
+increases,' so too does the risk of the acci¬
+dental agglomeration of sufficient quanti¬
+ties of uranium-235 to set off a chain reac¬
+tion. Although such accidents are unlikely
+to occur,' great' care is needed to ensure
+that they never do.
+The production of uranium dioxide fuel
+elements is now a well-established proce¬
+dure which seems to be free of appreciable
+hazards. Manufacture of mixed-oxide fuel
+is, however, much more complicated.
+Hazards arise from the toxicity of pluto¬
+nium and from the fact that the "critical
+mass" of plutonium dioxide the smallest
+amount of material necessary to start a
+chain fission reaction is only a few kilo¬
+grammes.: However, normal operational
+hazards of mixed-oxide fuel production are
+not difficult to manage.
+' During the normal operation of a nuclear
+reactor, radioactive materials are produced
+which are for the most part retained within
+the fuel elements. Compared to the risks
+from gaseous emissions produced by
+fossil-fuel-operated plants, the risks from
+discharges from nuclear power plants
+during normal operation are negligible.
+Thermal pollution, however, is consid¬
+ered to be more pronounced with nuclear
+plants than with fossil-fuel plants. The for¬
+mer reject virtually all their excess heat to
+the cooling water, while in the latter about
+15 per cent of the heat is rejected up the
+smoke stack along with combustion pro¬
+ducts. In other words, a nuclear power
+plant will discharge about 50 per cent more
+waste heat to the receiving waters than a
+fossil-fuel plant producing the same
+amount of electricity.
+Public concern about reactor operation
+has concentrated on the possibility of an
+, accident leading to the release of a consi¬
+derable, amount of radioactivity into the
+environment. Various types of accident are
+possible during the operation of a nuclear
+reactor, but many safety devices are incor¬
+porated into reactor design, and there are
+operating procedures that will automati¬
+cally close the reactor down in the case of
+any serious malfunction.
+: In -addition,' most reactors are placed
+inside a containment building,' the purpose
+of which is to contain virtually all the
+radioactivity that might be released in the
+case of a serious accident. However, there
+has been some criticism of the efficiency of
+these safety measures * (particularly . the
+emergency systems for cooling the reactor
+core).
+' Several studies have been made to deter¬
+mine the probability of a major nuclear
+reactor accident, using information on the
+failure rate of reactors'1 various engineer1
+ing components. The most recent of these
+studies, generally known as the Rasmussen
+report (1), estimates that the probability of |
+an accident due to the melting of the fuel in I
+(1) "The Reactor Safety Study", was sponsored by the
+U.S. Atomic Energy Commission and carried out under
+the direction of Prof. Norman C." Rasmussen' of the
+Massachusetts Institute of Technology.-
+11
+
+the core of a light water reactor is some¬
+where in the region of one in 20,000 per
+jreactor per year, and that 99 out of 100
+core-melting accidents would cause no
+early fatalities. It is also predicted that
+about one in 170 core-melting accidents
+would cause more than 10 early fatalities,
+and that only one core-melting accident
+out of 500 would cause more than 100 early
+fatalities.
+The arguments over the adequacy of this
+study are extensive and complex. Some
+critics have questioned the validity of the
+methods used, the estimation of the risks
+of accidents, and the factor of human
+error. Others have concentrated on the
+inadequate consideration given by the
+study to the risks of natural hazards (such
+as hurricanes or earthquakes), deliberate
+sabotage or war.
+Because they produce more fissile mate¬
+rial than they consume (see article page 8),
+fast breeder reactors have attracted consi¬
+derable criticism. The intense neutron
+bombardment which occurs in a liquid-
+metal fast breeder produces changes in the
+size of the structural materials which sur¬
+round it. This can result in the swelling of
+metals used in the construction of the reac¬
+tor core. These changes in the tolerance of
+the core can affect the coolant flow, and
+they might precipitate the overheating of
+the core and the melting of the plutonium.
+0NOTHER problem which
+plagues breeder designers
+is fuel handling. Breeders
+have the advantage of
+generating plutonium, but
+retrieving the newly-
+created radioactive subs¬
+tance necessitates much
+more frequent fuel handling than is neces¬
+sary in today's reactors. Once the pluto¬
+nium is lifted from its birthplace in the reac¬
+tor core, it must be transported to a fuel
+reprocessing plant so that it can be made
+into new fuel elements.
+Should an accident occur a major con¬
+cern of those critical of the liquid metal fast
+breeder reactor plutonium could leak out
+of the cylinders during transit. Another fear
+surrounding the movement of plutonium is
+that some of the material may be diverted
+for use by unauthorized parties. Only a
+relatively small amount is needed to cons¬
+truct a nuclear bomb.
+The complete dismantling of a nuclear
+power station after its write-off period
+(usually fixed at between 20 and 30 years)
+will be difficult and hazardous because of
+radioactivity induced in the reactor struc¬
+ture during its operating life. Bombardment
+by neutrons of the materials used to build a
+reactor produces a range of radioactive
+nuclides. Some of these emit highly pene¬
+trating gamma radiation and have a half-life
+(the time required for a radioactive subs¬
+tance, to lose half of its radioactivity) of
+several years.
+Experience gained in decommissioning
+small power reactors gives some grounds
+for optimism about the possibility of totally
+disposing of full-size reactors after their
+write-off. However, the environmental
+consequences of this operation are far from
+being sufficiently understood.
+The spent fuel elements removed from
+reactors during refuelling are the most
+intensely radioactive material in the fuel
+cycle. The main hazard here is the enor¬
+mous amount of gamma radiation emitted
+by the decay of radioactive fission pro¬
+ducts. The spent elements are removed to
+deep tanks of water known as cooling
+ponds, and left there for some time. They
+must be stored in the ponds in such a way
+that the considerable amount of fissile
+material present in them (uranium-235 and
+plutonium) is prevented from forming a cri¬
+tical configuration. After the short-lived fis¬
+sion products have decayed to low levels of
+activity which takes a few months the
+fuel can be reprocessed.
+At a fuel reprocessing plant the spent
+fuel is chemically dissolved and the residual
+fuel material recovered. During this pro¬
+cess the major portion of the fission pro¬
+ducts, in addition to induced radioactive
+products present in the fuel cladding, is
+converted into solid and liquid waste mate¬
+rial. So far, fuel reprocessing plants have
+been the major source of radioactive envi¬
+ronmental contamination from the nuclear
+industry.
+Low-level liquid waste produced during
+reprocessing is eventually discharged into
+the environment. Improved methods of
+storing or disposing of this waste must be
+developed. Reprocessing plants also pro--
+duce intermediate and low-level solid
+wastes. Reprocessing the fuel used in one
+year by a 1,000 megawatt light water
+reactor would produce from 20 to 60 cubic
+metres of such wastes. ,
+Until now most waste of this kind has
+been buried on land or placed in canisters
+and dumped in the ocean. The Nuclear
+Energy Agency of the Organization of Eco¬
+nomic Co-operation and Development
+(OECD) is currently supervising the dispo¬
+sal of 7,000 tonnes per annum at a depth of
+4,500 metres in the Atlantic Ocean. Other
+methods of disposal include deep burial in
+abandoned mines or in suitable geological
+formations.
+It is estimated that by 1990 there will be
+20,000 cubic metres of high-activity wastes
+arising from the reprocessing of spent fuel.
+Such wastes contain over 99 per cent of
+the fission products present in the fuel
+together with smaller quantities of actini-
+des. High-level wastes are at present stored
+mainly in liquid form, and some consti¬
+tuents will remain dangerously radioactive
+for several hundreds of thousands of years.
+There is at present no generally accepted
+means whereby high-level waste can be
+permanently isolated from the environment
+and remain safe for very long periods.
+Processes for the conversion of high-
+level waste to a relatively inert solid have
+been : developed. Permanent disposal of
+high-level solid wastes in stable geological
+formations is regarded as the most likely
+solution, but has yet to be demonstrated as
+feasible. It is not certain that such methods
+and disposal sites will entirely prevent
+radioactive releases following disturbances
+caused by natural processes or human
+activity.
+Nuclear fusion is the fusing together
+at very high temperatures of two
+atomic nuclei. When this happens to
+the nuclei of light elements like
+hydrogen large amounts of energy
+are released. This process provides
+the limitless flow of energy from the
+sun. Scientists are today
+experimenting with lasers to achieve
+the high temperatures required to
+reproduce nuclear fusion on earth.
+Photo shows cables of laser fusion
+apparatus at Los Alamos, New
+Mexico, U.S.A.
+Marine disposal of high-level radioactive
+wastes has been extensively restricted by
+international and regional conventions
+which are binding on many countries with
+nuclear power industries. Disposal in
+Antarctica is prohibited by treaty.
+During the entire fuel cycle, including the
+transport of nuclear material, strict vigi¬
+lance and care must be exercised to ensure
+that such material does not fall into unau¬
+thorized hands. An enormous effort is
+therefore required, both nationally and
+internationally, to Drevent any diversion
+of nuclear material or sabotage ofnuclear
+installations.
+The establishment and implementation
+of a physical protection system at the
+national level is the primary responsibility of
+Governments. At the international level,
+the International Atomic Energy Agency
+(IAEA) has initiated and implemented a
+nuclear safeguards system.
+The system established under the Non-
+Proliferation Treaty (NPT) of 1968 has a
+number of limitations and weaknesses: the
+.failure of many states to become parties to
+the Treaty; the inability of safeguards to
+prevent the transfer of nuclear technology
+from nuclear power production to the
+acquisition of nuclear weapons compe¬
+tence; the fact that many nuclear, facilities
+are covered by no safeguards; the exis¬
+tence of a number of loopholes regarding
+the application of safeguard agreements to
+peaceful nuclear explosions, to, materials
+intended for non-explosive military uses,
+and to the re-transfer of materials to a third
+state; the absence, in practice, ' of safe¬
+guards for source materials; the practical
+problems of maintaining effective checks
+on nuclear inventories; the ease with which
+states can withdraw from the Non-
+Proliferation Treaty and from most NPT
+safeguards agreements; deficiencies1 in
+accounting and warning procedures; the
+absence of reliable sanctions to deter diver¬
+sion of safeguarded material.
+\ Nevertheless, the', Non-Proliferation
+Treaty remains the most widely applied and
+most effective international' nuclear safe¬
+guards system.
+Essam El-Hinnawi
+12

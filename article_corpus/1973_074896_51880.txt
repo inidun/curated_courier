@@ -1,0 +1,313 @@
+The computer takes a crack
+at code-cracking
+H	|ow do experts set about
+deciphering an ancient, pictographic script?
+The famous Rosetta Stone, inscribed in hiero¬
+glyphic, demotic and Greek characters, provided
+a key to the secrets of the hieroglyphs of ancient
+Egypt. But in the case of the Indus script no such
+key has been found and a much longer, more
+painstaking study is required involving complex
+semantic, phonetic, grammatical, historical,
+statistical and other factors combined with infor¬
+med guesswork.
+For almost a decade, four Finnish experts,
+Asko Parpóla, Seppo Koskenniemi, Simo Parpóla
+and Pentti Aalto, of the Scandinavian Institute
+of Asian Studies, Copenhagen, have been attempt¬
+ing, with the aid of a computer, to decipher the
+300 or so signs of the Indus script on the basis
+of the 2,000 inscriptions on seals found in the
+Indus valley. Their work is based on the as¬
+sumption that the Indus script is related to
+Dravidian. This assumption and the interpre¬
+tations arrived at by the Finnish team have
+been contested by other authorities.
+We present below extracts from one of the
+preliminary studies "Further Progress in the
+Indus Script Decipherment", Special Publication
+No. 3, published in 1970 by the Scandinavian
+Institute of Asian Studies. They give the layman
+an insight into the reasoning used by experts
+in an attempt to crack the coded messages
+that have come down to us over some 4,000 years.
+7exfs © Copyright. Reproduction prohibited
+Jupiter
+of
+the Indus
+HE five planets denoted by
+the signs
+«T .*.#.& *
+must have been called after their "colours by the ancient
+Dravidians, for the original Dravidian names coincide with
+the colours associated with the planets in the Sanskrit and
+Tamil sources: Mars = red; Mercury = green; Jupiter =
+golden, yellow; Venus = white; Saturn = black.
+The above order of the planets can be deduced from
+the weekdays (Tuesday - Saturday) with which they are
+associated in later Indian tradition.
+"56 l = "& = the red star = Mars = Siva
+Jfr = the black star = Saturn = Krsna
+the white star = Venus = Balarama
+the green star = Mercury = Ganesa
+the golden star = Jupiter = Brahma
+Jupiter's Sanskrit name is Brhaspati, which is also one
+name of Brahma, the Creator of the Hindu trinity, called
+also Brahmanaspati, Prajapati or Vacaspati. Since, on the
+seal above, the god's name is one of the two planet signs
+that had not yet been deciphered, it seemed worth .while
+to examine whether the scene would fit to what is known
+about Jupiter and Brahma.
+The man kneeling in front of the horned personage in the
+midst of the holy pipal or fig-tree (Ficus religiosa) is
+obviously the god's high priest (note his "crown") and
+CONTINUED NEXT PAGE
+31
+
+COMPUTER CODE-CRACKING (Continued)
+corresponds to the sign
+*& = an "man, servant"
+at the end of the inscription [read from right to left]. Most
+probably the sign
+UJ (here "ritually pure")
+on the other side of the tree also refers to him. The person
+in the fig-tree must be the god himself, whose name in
+the genitive case precedes the sign
+i .if*.
+The sacred tree of the planet Jupiter is according to the
+Sanskrit sources, the asvattha or pipal tree; in Dravidian
+this tree is aracu and aracan means besides "king" also the
+planet Jupiter. The same tree, usually called udumbara,
+is the sacred tree of the god Brahma/Prajapati, being a
+symbol of life and fertility and the place of the soul after
+the death.
+In the Brahmana texts we have numerous variations of
+the story of how Prajapati created these worlds. They used
+to begin by telling that Prajapati hatched himself and then
+created these three worlds, which he then hatched, etc.
+In the Vedic agnicayana ritual where Prajapati is the central
+deity, he is represented by a golden man; the acts re'ating
+to this figure are accompanied by verses of "he who was
+born of golden womb". In the Mahabharata it is told that
+Brahma was hatched out of the golden egg that lay floating
+on primeval waters.
+Jupiter is the golden planet, and pon "gold" is also the
+Tamil name of the planet Jupiter. If we allow for a slight
+difference of the final nasal, we have a homophone which
+would give a good explanation to the scratch inside the fish
+in the pictogram
+*
+32
+pun "wound, scratch"
+Brhaspati and Brahmanaspati must mean approximately
+the same as Prajapati and be translations into Sanskrit of
+a Dravidian epithet meaning "the lord of creation and life".
+But Brahma also has a name Vacaspati "the lord of speech",
+and in fact he is the husband of Vac, "Speech, Voice", who
+is identical with Sarasvati the goddess of wisdom (= Tamil
+kalai-makal) and the life-giving holy river of north-west India.
+It is not a mere coincidence that the best Dravidian word
+for (the principle of) "life", uy, uyir, ucir, means besides
+^life; salvation, reanimation" (= Sanskrit Brahman) and
+"propagation, emitting semen" (= Sanskrit praja) also
+"speech" (= Sanskrit vac), the basic meaning being
+"breath" (= Sanskrit prana), an important concept intimately
+connected with Brahma/Prajapati.
+Brahma and Sarasvati had seven children, the "seven
+sages" who are the stars of the constellation of Great Bear.
+The planet Jupiter also has seven children, six sons and one
+daughter by Candramasi, Seven persons are seen depicted
+at the bottom of the seal.
+Brahma is represented as riding on a wild goose (hamsa),
+which symbolizes the soul and the sun, and the Mahabharata
+tells in several places how Prajapati assumed the shape of
+a golden goose, which is the first incarnation of Visnu, the
+supreme soul. Also in Tamil literature Brahma is said
+to have a swan in his banner. But in the Vedic ritual the
+animal specially connected with Prajapati is the horse, the
+foremost symbol of sun and fertility of the Aryans. The
+vahana or "vehicle" of the planet Jupiter is a yellow horse
+or goose. (Is the unclear object in the seal a goose?)
+The planet Jupiter holds in his hand a lotus, and is some¬
+times represented as sitting on a lotus. The lotus is, like
+the fig tree, an important symbol of fertility (of kantal, kanta,
+katta "bulbous root of lotus" and kanta "male, husband")
+and also the seat of Brahma, who according to one legend
+sprang from a lotus that came out of Visnu's navel. That
+Jupiter was a god of fertility like Prajapati is evident also
+from the great importance that was attached to the
+favourable position of Jupiter in the case of marriages in
+post-Vedic times.
+The significance of the human-headed ram on the seal is
+not yet clear.
+
+The
+mark
+of
+the tiger
+HE Indus seals usually
+have in addition to the pictographic
+text a design of an animal. The
+ancient Tamil kings, gods, tribes, etc.,
+had totemic emblems depicted in their
+flags, seals, houses, etc., consisting
+mostly of different kinds of animals.
+Ancient Tamil literature has preserved
+a most interesting account of the use
+of these seals. It is said that mer-
+The
+priestess
+and
+the drum
+II T would be difficult to draw
+a recognizable picture of the round
+tampa drum, but everybody would
+recognize that fr$ is a picture of
+a drum.
+But in order to show that it is not
+the hour glass-drum (támara or utukka)
+that is meant, the other side is left
+open to show that a drum beaten on
+one side only is concerned:
+X or X
+The intended meaning "priest (ess)"
+also apparently influenced the form of
+
+chandise was sealed with emblems of
+respective kings. . . Goods unloaded
+from ship to shore and vice versa, and
+the articles gathered on the shore,
+were sealed before letting them go
+out of the customs yard. The act of
+sealing the bags is explained in the
+words pulí porittu puram pokki, which
+means "the tiger (sign) was stamped
+and was passed out". The extant
+Indus sealings were stamped on clay
+tablets attached to bales of goods.
+The word venkai means in Dravidian
+both "kino tree" and "tiger", both
+totemic emblems of clans. The colour
+of the tiger's stripes bears a strong
+resemblance to the colour of the
+flowers of the kino tree. "It was on
+account of this resemblance that the
+young maidens of the Kuravar phratry
+shouted out 'Tiger, Tiger' when they
+were plucking the flowers of the venkai
+tree." This looks almost like a des¬
+cription of a fairly common scene
+depicted on the Indus seals, where a
+person is squatting in a tree and
+extending one of his arms with some
+object (flower?) in the hand towards
+a tiger beneath him.
+the sign, which was probably associated
+with some special priestly act depicted
+on the seal, opposite, showing a female
+figure with a bull's head and tail and
+legs, reaching towards a horned tiger.
+On this seal the text, unfortunately
+broken, contains the sign Ps
+with a tail added:^^C
+This tail is otherwise known from
+the sign^-^Ç, a variant of vfi/, both
+of which occur in contexts indicating
+a meaning "priestess".
+If £^ is tampi/nampi (used also
+as god's epithet like ]& )
+and V%) is its feminine form, the
+word is tankai/nankai "younger sis¬
+ter; woman of distinction". The tail
+added to the pictograph of course
+associates it with the priestess's dress,
+but also probably has a phonetic value.
+The word for "tail" in Dravidian is val,
+which has an exact homophone val
+meaning "(ceremonially) pure, white,
+holy", used with special reference to
+virgins. In Egyptian the word w' b
+"(ordinary) priest" literally means
+"pure, clean (person)".
+Some Indus pictograms
+and their possible meanings
+Sign
+Object
+depicted
+Dravidian
+name of
+the object
+The
+homophone
+intended
+Meaning
+V
+ship ota utai " possession ".
+" own " = gen¬
+itive suffix
+(= in Tamil)
+® potter's
+wheel
+ali al " to rule "
+" ruler "
+ifo hailstones ali
+* fish min min " star ", Mars
+/\ roof mey mai " black
+a two previous
+signs combined
+mai-min " black star "
+Saturn = Krsna
+% flower of the
+silk-cotton
+tree
+iia il " house "
+tr-ir extended arms,
+prayer
+mana man
+" king "
+w drum beaten on
+one side only tampata
+t^mpa/i
+nampi
+" priest ",
+" noble "
+-^ wing irai irai " lord "
+IM lute
+lyre
+yal yal
+" divine
+musician ",
+(Narada)
+© wicket in
+a hedge
+katavu katavul " god ", " divine "
+
+
+a) seated person ayya " father "
+f comb pentika penti
+" woman "
+" female "
+A> two signs above
+combined
+amma
+" mother
+(goddess)
+1 number one oru, or " (one) person "
+j% scorpion tel tel
+" bright ",
+" learned "
+m two previous
+signs combined tell-or
+" learned
+person "
+* man an
+" man ",
+" servant "
+*$
+scorpion and
+previous sign
+combined
+tell-an
+" learned
+man "
+33

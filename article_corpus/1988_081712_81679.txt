@@ -1,0 +1,102 @@
+A cybernetic machine
+By the third century AD at the latest, the Chinese had a fully operational,
+navigational "cybernetic machine", using the principles of feedback. It was
+called the "south-pointing carriage", but had no connection with a magne¬
+tic compass. It was a large carriage, 3.3 metres long, 3.3 metres deep, and
+2.75 metres wide, surmounted by a jade statue of an "immortal" a sage
+who had achieved immortality. The figure's arm was raised, pointing
+ahead, and it always faced towards the south, no matter which way the
+carriage turned. Even if the road were circular, the jade figure would rotate,
+keeping the finger pointing in the same direction. How was this possible in
+the third century AD? This machine may have been invented even earlier,
+indeed, as much as 1,200 years earlier. An official history for 500 AD
+describes how:
+"The south-pointing carriage was first constructed by the Duke of Zhou
+[beginning of the first millennium BC] as a means of conducting home¬
+wards certain envoys who had arrived from a great distance beyond the
+frontiers. The country was a boundless plain in which people ¡ost their
+bearings as to east and west, so the Duke caused this vehicle to be made in
+order that the ambassadors should be able to distinguish north and south."
+If this information is correct, the invention would date from about
+1030 BC. But Needham suspects that the word "carriage" was inserted in
+this account by scribes, and that what is being described is a "south-
+pointer", that is, a compass.
+The next person credited with building a south-pointing carriage is the
+astronomer and scientist Zhang Heng, about 120 AD, although this is also
+regarded by Needham as doubtful. The only date which he is prepared to
+accept with certainty is the middle of the third century AD, with the
+famous engineer Ma Jun as the builder (and, thus, the inventor). The
+drawing of a pointing figure of jade, taken from the Universal Encyclo¬
+paedia of 1601, was copied from a print of 1341.
+If the machine did not use a magnetic compass, how did it work? The
+answer is that it had a train of differential gears, similar to those in a modern
+automobile. Perhaps the function of a differential gear should be explained
+as follows. When a wheeled vehicle is turning a corner the wheels on
+opposite sides of the vehicle are clearly going to need to turn at different
+rates since the near side is travelling a shorter distance than the far side.
+With a hand-cart or horse-drawn carriage, this may not pose such prob¬
+lems. But when a vehicle has power being applied to the axle to make the
+wheels turn, how is it possible for one wheel to be permitted to speed up a
+little, and the other slow down a little, on the same axle? This is made
+possible only by an ingenious combination of gear wheels and flywheels:
+the differential gear.
+When Needham published his volume on mechanical engineering in
+1965, he believed that the Chinese had invented the differential gear, and
+that it had made its first appearance in this south-pointing carriage. If the
+first south-pointing carriage were the one attributed to the Duke of Zhou
+about 1000 BC, then the Chinese would indeed have been the inventors;
+but we must stay on the side of caution, and assume that the first
+south-pointing carriage was made in the second or third century AD. In
+that case, we must credit the Greeks with inventing the differential gear, a
+fact which became known only in 1975, when Professor Derek Price
+published his book Gears from the Greeks. In this work Price wrote the
+definitive account of a Greek differential gear dating from 80 BC, which
+Price said "must surely rank as one of the greatest basic mechanical
+inventions of all time". And although a transmission of this invention from
+Greece and Rome to China was possible, it is equally possible that the
+differential gear was independently re-invented in China for the south-
+pointing carriage.
+The precision needed in the construction of the south-pointing carriage
+almost defies belief. For the outside road wheels alone, Needham points
+out, J. Coales, in The Historical and Scientific Background ofAutomation,
+"has calculated that a difference of only one per cent between the wheel
+circumferences would lead to a change of direction of the pointing figure of
+as much as 90 per cent in a distance only fifty times that between the two
+	 14 _
+Model reconstruction of a "south-
+pointing carriage" based on a description
+dating from the 3rd century AD. Owing
+to a sophisticated gearing system, the
+figure's arm always points southwards,
+whatever the direction in which the
+carriage is moving.
+
+' **
+wheels." This was because the carriage would veer more and more to one
+side if one wheel were smaller (relative slip). So that for this south-pointing
+carriage, the size of the road wheels had to be accurate to a margin of error
+far less than one per cent, and a commensurate accuracy in size of gear
+wheels would have been necessary. This points to engineering of such a
+high order that we may well be justified in hesitating to apply the words
+"ancient" and "primitive" to it!
+The south-pointing device was basically a reversal of the use of the
+differential gear in the modern automobile. Today, such gears are used to
+apply power to turn the wheels and make the vehicle move. But with the
+south-pointing carriage, which was pulled by animals, the power was
+transmitted from the wheels, and applied towards the continual adjusting
+of the position of the pointing figure. Thus it was the differential gear in the
+machine which turned the figure so that it always pointed to the south. And
+it did so just as the differential gear operates today, only in reverse.
+Needham has called the south-pointing carriage "the first homeostatic
+machine in human history, involving full negative feedback. Of course, the
+driver had to be included in the loop. But as Coales has acutely pointed out,
+an attractive carrot held by the pointing figure might have replaced the
+human driver and closed the loop more automatically." Although
+Needham has occasionally spoken of the south-pointing carriage as the
+
+
+
+first actual cybernetic machine, he has qualified this by saying: "The
+south-pointing carriage would have been the first cybernetic machine had
+the actual steering corrected itself, as we could easily make it do today."
+_ 15

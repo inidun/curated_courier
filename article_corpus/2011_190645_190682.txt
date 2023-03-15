@@ -1,0 +1,163 @@
+Although significant advances have been made
+in cancer prevention, diagnosis and treatment,
+cancer remains one of the leading causes of
+death in all societies. Until the 1960s, cancer was
+treated by surgery and radiation therapy. But, in
+the last fifty years or so, as people gain further
+understanding of the molecular basis of the
+disease, and with the rapid development of new
+chemical agents in the treatment of cancer,
+chemotherapy has become one of the most
+powerful weapons against the illness.
+The first modern antitumor drug, nitrogen
+mustard, was discovered by chance during World
+War II. Researchers accidentally noticed that
+mustard gas – which got its name from its yellow
+colour and was used as a chemical weapon in the
+First World War – can reduce white blood cell
+counts. In 1942 a team of Yale pharmacologists,
+including Louis Goodman and Alfred Gilman,
+used it to treat advanced lymphomas and found
+that it could induce tumour regression if
+administered systemically. In 1949 the U.S. Food
+New chemotherapy cancer treatments aim to target the affected cells
+without harming healthy tissues. Easier said than done, though.
+Researchers are following a number of promising paths, including age-
+old herbal remedies. One herb that has been used in traditional Chinese
+medicine to treat digestive tract tumours is opening new horizons for
+modern medicine. 
+and Drug Administration (FDA) authorized
+nitrogen mustard to be put on the market. This
+gave a boost to the development of a number of
+other chemotherapeutic drugs for the treatment
+of various types of cancer.
+But, as we know, these chemotherapy drugs
+can cause serious side effects. We had to wait
+until the beginning of the third millennium for
+the dawn of a new era of molecular targeted
+cancer therapy. This consists of a new generation
+of drugs that are not dispersed throughout the
+body (damaging healthy tissue as they go) but
+target precisely tissues where the cancer cells are
+to be found. 
+Avoiding collateral damage
+Most of the drugs applied in clinic for the
+treatment of cancer are organic compounds, but
+there are also drugs based on inorganic
+compounds, particularly metals. The use of
+metals to treat human disease can be traced
+back to Antiquity. For example, 2,500 years ago,
+
+Herbs and metal:  
+a pact against cancer
+L Fragments of
+cancerous cells.
+© INSERM/J. Valladeau
+
+the Chinese discovered that gold could be used
+as a medicine. More recently, platinum, another
+precious metal, has become the basis for one of
+the most frequently used anticancer treatments
+in the world, cisplatin, shown in 1965 by an
+American chemist, Barnett Rosenberg and his
+colleagues, to block the spread of cancer cells.
+Once again, though, the side effects were
+toxic, which encouraged researchers to develop
+drugs based on other metals, such as ruthenium.
+Thanks to the pioneering work of chemists like
+Michael J. Clarke (USA), Bernhard K. Keppler
+(Austria), Peter J. Sadler (UK) and their colleagues,
+ruthenium seems to be a particularly attractive
+alternative to platinum. Like iron, it is able to bind
+to transferrin, the blood serum protein that
+transports iron to the organs. But, instead of
+spreading throughout the body, it accumulates in
+tumours, attracted by cancer cells, which have
+approximately 5−15 times more transferrin
+receptors than normal cells. In this way
+ruthenium directly targets the cancer cell and
+destroys it. Apart from their great precision,
+compared with their platinum counterparts,
+certain ruthenium complexes have the capacity
+to inhibit tumour metastasis – in other words to
+prevent the spread of cancer to other parts of the
+body.
+A novel strategy
+Broadening its field of research to ruthenium
+complexes, our research group has recently
+reported that the combination of ruthenium and
+the active ingredients of a Harmel (Peganum
+harmala) may provide a novel strategy for
+developing anticancer drugs. The powdered
+seeds of this plant have long been used in herbal
+formulas of traditional Chinese medicine to cure
+tumours of the digestive tract. Today, some of the
+chemical complexes formed by the alliance of
+metals and herbs are able to halt the spread of
+cancer cells much more effectively than cisplatin.
+What is more, we have noticed that these
+complexes can simultaneously induce apoptosis
+and cytoprotective autophagy in human cancer
+cells (see below). To our knowledge, this is the
+first time this dual action has been demonstrated.
+Apoptosis, sometimes known as
+“programmed cell death” is a normal process that
+results in the death of certain ‘damaged’ cells, at a
+given moment. But with cancer cells, apoptosis is
+switched off or deregulated, which may explain
+their continuous proliferation. So, some of the
+latest research in oncology is focusing on
+molecules that can induce the suicide of cancer
+cells. 
+Autophagy, on the other hand, which literally
+means “eating oneself,” is a mechanism that
+enables a cell partially to digest its own contents,
+in order to survive. But it is a double-edged
+sword, as, although it can mean the survival of
+healthy cells to the detriment of ailing cells, the
+inverse can also be true. The molecules we are
+working on aim to activate autophagy as a way to
+destroy cancer cells that are resistant to
+apoptosis. This is a new approach in the
+treatment of cancer, which should help combat
+the disease.
+According to statistics provided by the U.S.
+National Cancer Institute (NCI), the survival rates
+of some types of cancer have been greatly
+improved in the last few decades. Even so, cure
+rates for certain types of cancer remain very low.
+For example, the overall 5-year survival rate for
+liver cancer is less than 10%. The United Nations
+International Agency for Research on Cancer
+(IARC) estimates that approximately 760 million
+people died of cancer in 2008, and the number
+could reach 1320 million in 2030. The war is not
+over yet. 
+The molecules we
+are working on
+aim to activate
+autophagy as a
+way to destroy
+cancer cells that
+are resistant to
+apoptosis. This is a
+new approach in
+the treatment of
+cancer, which
+should help
+combat the
+disease.
+
+L Cell culture: apoptosis in a
+dopaminergic neuron. 
+© INSERM/P. Michel
+Anlong Xu is Vice-president for Research and
+Development, and Professor of Molecular
+Immunology and Biology at Sun Yat-sen
+(Zhongshan) University, Guangzhou, China. He
+is the Director of State Key Laboratory of
+Biocontrol, and serves on the expert
+committee on new drugs at the State Food
+and Drug Administration of China (SFDA). He
+is also a member of the Pharmacopoeia
+Commission of China.

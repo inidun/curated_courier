@@ -1,0 +1,468 @@
+A LITTLE LESS NOISE, PLEASE
+by M. H. Thompson
+Louis Joyex-RTF
+GIANT 'GOLF BALLS' studding the ceiling of a French broadcasting studio are one of the many kinds
+of sound absorbing materials used nowadays in acoustics. Cheap and easy to apply, they range from
+stone-like tile with the appearance of travertine marble, to wood fibre tile punched full of holes and blankets
+of absorbent mineral wool rolled in long strips. Opposite page, general view of same studio ceiling.
+To hear or not to hear... That is the problem.
+Haven't you heard people say they couldn't hear
+a lecture well because the acoustics were so bad?
+These people wanted to hear. On the other hand, haven't
+you heard people say they couldn't sleep a wink all night
+because some noise kept them awake? (Maybe it Was
+only a cat rubbing his whiskers.) At any rate, these
+people didn't want to hear. Music from the Hi . Fi is
+wanted while, at the same time, traffic noise is not.
+Furthermore, loud noises that constantly assault our
+hearing organs produce fatigue, while certain other
+sounds are pleasant without our realizing just why. Phy¬
+siologically the ear is built to take only so much noise.
+Nature's sounds are usually muted the ripple of a brook,
+the song of a bird, the mooing of a cow. ' Civilization's
+are often the opposite the wail of a siren, the din of
+traffic, the roar of aeroplanes in the sky. There are other
+reasons too why we would preserve one sound and suppress
+another. Hi Fi, for example, can be merely high finance
+unless the high fidelity sounds are truly heard, which they
+cannot be in many noisy rooms. The problem then is to
+hear or not to hear, and involves a .knowledge of the
+laws of sound or the science of acoustics.
+Ancient Greeks studied acoustics
+but a Frenchman coined the name
+The word acoustics is from the Greek and means :'to
+hear"'. Ancient Greeks were aware that sound
+somehow arises from the motion of parts of bodies
+and is transmitted by the air through some undefined
+motion of the air and in this way, striking the eardrums,
+produces the sensation of hearing. Aristotle emphasized
+that in hearing actual ;hTötion of the air is involved.
+28
+Pythagoras in the 6th century B.C. studied the origin of
+musical sounds and discovered that of two stretched
+strings fastened at the ends the higher note is emitted by
+the shorter string and that if one has twice the length of
+the other the shorter will emit a note an octave above the
+other.
+Joseph Sauveur, who pioneered in the study of sound
+in the early 18th century, first used the name "acoustics"
+for the science of sound. Today the word means the
+properties of a room which make it conducive to ready
+and faithful transmission of sound. Also, as to present-
+day nomenclature, acoustic refers to things distinctly
+related to the functions of sound, such as acoustic absorp¬
+tion, acoustic response, and acoustic spectrum (the range
+of frequencies or wave lengths that are audible) . "Acous¬
+tical" refers to associated things, such as acoustical tile,
+treatment, engineers, instruments.
+In the 19th century more work was done in the science
+of acoustics. Lord Rayleigh learned something about how
+sound is propagated, its speed in various mediums, such
+as air and fluids and solids, and the determination of
+pitch and its dependence upon frequency of vibration.
+But even with his research, and that of Sauveur and a
+few other men, acoustics remained a little known science
+until after 1895.
+Up until then a room with good acoustics was more or
+less an accident. When such a room or auditorium was
+found, architects copied the design to try to get another
+room or auditorium with equally good acoustics. Some¬
+times they succeeded and sometimes they didn't. But
+about this time there lived a man Who was a member of
+the Harvard University physics faculty, and he became
+interested in the science of acoustics and began to study
+more about sound absorption.
+The new Fogg Auditorium of the University of that time
+
+had been copied after the Sanders Theatre in Boston,
+which had very good acoustics. But in spite of that the
+Fogg Hall was a failure acoustically. So this physics
+professor, W. C. Sabine by name, undertook to learn what
+had gone wrong. He learned that the Fogg Hall hadn't
+supplied seat cushions and when this was done the acous¬
+tics were almost perfect. But his search and research
+didn't end there.
+As he learned more about the laws of sound, he began to
+establish standards of measurements and units of acous¬
+tic energy. He finally established a unit, later called a
+"sabin" after his own name in recognition of his work.
+It is the amount of sound energy lost to a room through
+one square foot of open space such as an open window.
+The energy is minute. It takes the combined power of
+about fifteen million voices to equal one horse-power, a
+unit of work equal to 550 foot-pounds per second.
+In time Sabine found that the easiest way to work
+with sound energy was to convert it to electrical energy,
+where units and procedures of. measurement were already
+well established. This changed acoustics from the realm
+of architecture to electrical engineering. But until the
+invention of the vacuum tube just before World' War I
+minute values of electricity were extremely difficult to
+handle or measure, and only the amplification of these
+minute energies to measurable amounts made the study
+of sound possible in all its phases.
+Briefly expressing sound power in the electrical unit
+of the watt, and remembering that the average light bulb
+takes 100 watts of
+energy, we find that the
+human voice at con¬
+versational levels equals
+.002 watts, the clarinet
+.05, the trumpet .3, and
+the bass drum 25 watts
+of sound power. While
+the sound power of
+energy is minute, yet so
+enormous is the range of
+the human ear that the
+ratio between the intens¬
+ity of the least noise
+we can hear a baby's
+breath, for instance
+and the greatest sound
+intensity we can stand
+without pain or injury,
+is one thousand million
+to one.
+Naturally such ratios
+would require long
+strings of zeros in any
+calculation relating to
+sound, so the physicist
+and the acoustical
+engineer use a sort of
+mathematical shorthand, employing the logarithmic unit
+of the decibel.
+Much of the science of sound cannot be explained
+easily to the average person. Information is buried in
+technical journals of limited circulation^ or in textbooks
+so technical that they serve only the acoustical engineer
+or the advanced student of physics.
+Confused noises bounced from
+the walls, floor and ceiling
+But the average person can understand something
+about acoustics by comparisons. Most of us know
+that we hear best in a quiet location out of doors.
+Here voice or music is heard in natural beauty. This is
+true because outdoor sound can travel freely in all direc¬
+tions, unconfused by echoic repetition of sounds previously
+uttered. In an enclosed space, however, the walls, floor
+and ceiling do not absorb the sound as do the grass and
+shrubbery and open sky of a quiet location outside. Sound
+is reflected back to mingle in confused noise.
+In fact, at a distance of more than a few feet we hear
+not so much by the direct sound from the source as by
+the sound reflected from room surfaces. And at the rear
+of some auditoriums the reflected sound may be nine-
+The Unesco Courler. September 1959
+tenths of the total reaching the listener. In its many
+reflections eh route the sound is changed in quality by
+having more of some tones than of others removed or
+absorbed by the reflecting surfaces. Thus sound plays in
+our daily lives a part scarcely less important than motion
+and light, and rooms present acoustical problems.
+And the problems of suppressing unwanted sounds
+without altering the quality of the wanted sounds are
+scientific problems. For each room of known intended
+use there is a correct amount of acoustic absorption at
+each pitch of sound, which absorption will suppress
+unwanted echoes while at the same time preserving
+distortion the maximum of wanted sound. The
+difference between this correct amount of absorption at
+each frequency and that already existing in the room
+itself its boundaries and furniture and occupants is the
+amount that must be supplied by the acoustical treatment.
+To suppress an unwanted
+sound wavemake it work
+For each occupied room there is a correct distribution
+of the total acoustic absorption in the vertical, trans¬
+verse, and longitudinal directions. It is essential
+that absorption and reflection shall be so distributed as
+to diffuse the sound as well as to absorb some of it. Cal¬
+culation of these factors for the room on the drawing
+board requires some ma¬
+thematics and much re¬
+ference to graphs and
+tables already in exis¬
+tence, and often involves
+the construction of a
+scale model. Precision
+instruments and acqui¬
+red skill are also used.
+If the room turns out to
+provide maximum dis¬
+tribution of undistorted
+voice or music with a
+minimum of unwanted
+echo, that room is said
+to have good acoustics.
+Perhaps more accurately
+we would call it a quiet
+room, a room free from
+unwanted sound.
+Not only are new
+buildings constructed to
+the laws of acoustics but
+old buildings are worked
+over at the advice of
+acoustical engineers to
+eliminate noise. For in-
+stance, many au¬
+ditoriums built twenty-five years or more ago have
+echoes so intense that an ordinary voice on the stage
+can't be understood more than half way back; and there
+are places where the echoes from the back wall cancel
+out the voice from the stage and make -music sound quite
+unnatural.
+Thus buildings, both old and new, are acquiring better
+acoustics by both sound proofing and sound conditioning.
+True sound proofing is keeping sound out; sound condi¬
+tioning is absorbing sound that is already in. The first
+requires mass, thickness and weight of the barriers; the
+latter requires light porous material such as acoustical
+tiles and boards.
+In fact, noise control is possible because of the develop¬
+ment of cheap and easily applied absorbent materials, and
+these are of great variety, ranging from stone-like tile
+with the appearance of travertine marble, through wood-
+fibre tile punched full of holes, to blankets of absorbent
+mineral wool rolled in long strips. The materials are all
+indexed as to sound absorption at each of six octaves of
+the piano keyboard, flame resistance, light reflection, and
+weight per square foot.
+Certainly there is plenty of choice but the very plethora
+of available materials makes a proper choice more impe¬
+rative. Moreover, the cost per square foot may range
+from 25 cents to $1.50, which also makes choice the
+wrong one expensive. So it is up to the acoustical
+engineer to advise about the product too.
+CONTINUED ON NEXT PAGE
+
+LESS NOISE,
+PLEASE
+(Continued)
+The drum: 500 times more
+power than the clarinet
+Scientifically, by the use of acoustical absorbent mater¬
+ials, the energy in the sound wave is changed into some
+form of work done so that the energy is no longer appre-
+hended as sound. For instance, in fibrous materials the
+filaments making up the tile or board are set in motion
+by the sound waves and the energy required to make
+them move is- work done. Hence this is energy lost to
+the sound wave. Or movement of the fibres may cause
+friction which is dissipated as heat and again the energy
+has been converted into something else and is no longer
+sound.
+Because there are so many different types of sound-
+absorbing materials, all good, and so many ways of
+applying them, and because they vary from type to type
+in the amount of sound they absorb at different frequen¬
+cies (pitch) of sound, great care is necessary in choosing
+the right material and its method of mounting for the
+particular room, or occupancy, or expected sound levels
+encountered.
+Too much proofing leaves
+the room hollow & boomy
+For example, suppose a room is being designed for
+orchestra practice. The instructor must be able to
+hear each instrument as a separate sound source if
+he is to correct mistakes of each player. Expressing the
+sound power in the electrical unit of the watt, the drum
+would release 12,600 times as much power into the room
+as the human voice, and 80 times the power of the trum¬
+pet and 500 times the power of the clarinet. Usually the
+notes of the clarinet are several octaves above the drum.
+Whatever acoustical material is applied in the room
+must of necessity give a lot of absorption at the low fre¬
+quencies of the drum if its enormous power is not to
+drown out the higher pitches entirely. Since most
+acoustical tile of the sort usually applied in stores and
+offices is six to ten times as absorbent at high frequencies
+as at low ones, they must be ruled out of this particular
+job.
+And not only is the selection of the kind of material
+important but the placing of the material is just as
+important. Also, the exact quantity of material is
+necessary too. If too much treatment is applied, usually
+the echoes are gone, that's true, but the remaining sound
+is often badly distorted as to pitch, for most materials
+reduce the high pitched sounds far better than the low
+ones, so that what is left for us to hear is the low pitched
+tones, and the room then sounds hollow and boomy.
+one could hear double and triple, beats. Some bands
+wouldn't play in the hall, so an acoustical engineer was
+called in to solve the problems.
+With electrical instruments he made exhaustive mea¬
+surements of the sound and echoes, explored the hidden
+structure of the walls and ceiling, and contrary to the
+procedure followed in 99 % of such problems, specified a
+ceiling hung 17 1/2 inches below the original one, in an
+aluminium gridWork of channels, and put Into the grid
+sheets of Fibreglas 2' x 4' in symetrical patches that
+totalled less than one-third of the ceiling. He filled in
+the rest of the area with sheets of sheetrocjk the same
+size as the fibreglas, then had the whole ceiling painted.
+SOUNDING OFF
+BEHIND THE MIKE
+Few background noises are the real thing on radio. A
+crackling fire ma/ be only cellophane being crumpled,
+something moving in the bushes merely twisted straw, a
+body blow a fist punching a rubber sponge. Sound effects
+can imitate almost any noise, but nothing can duplicate
+the sound of water except water itself. Photos show (I)
+diving and splashing effects; (2) staircase, half stone half
+wood, used for effects. Staff is shown how not to fall
+down stairs; (3) submarine commander (rear) shouts
+instructions while actors lie on floor to give right acous¬
+tics for scene taking place In dinghy at sea; (4) effects
+men imitate creaking of ship's rigging during storm at
+sea and breaking up of the mainmast while woman in
+background plays effects records of howling winds and
+raging seas; (5) a duel... with electronic firearms! Two
+actors fire the "guns" but the shots come from the two .
+little grey boxes being adjusted by effects woman; (6)
+agile feet and hands are needed to start right sound
+effects recordings listed under "train", "cheers", "drums".
+All photos © BBC, London.
+False ceiling cures the problem
+of three orchestras in one
+Thus each job has its own special problems for the
+acoustical engineer to solve. It may be interesting to
+know how one acoustical engineer solved the prob¬
+lem of noise in one auditorium. This public auditorium
+was built years ago. The room was 110 feet by 70 feet
+with a ceiling only 20 feet high, and the stage on the long
+side.
+The echoes were so intense that an ordinary voice on
+the stage couldn't be understood more than half way back,
+there were three rows in the middle where the echo from
+the back wall cancelled out the voice from the stage, and
+the only expedient had been to put so much power behind
+a loud speaker that the resultant roar, while annoying in
+the extreme, did force enough clear sound out over the
+floor that speech was at least partly intelligible. But a
+dance band generated so much echo that in the corners
+Also on the walls, in several selected areas that were
+reflecting the measured echoes, he glued large panels of
+fibreglas, 3/4" thick to absorb the sound. Now in the
+auditorium, a listener can understand a low voice on the
+stage at any place in the room provided the audience is
+between 200 and 1,000 people. And dance bands that
+have played there before and after treatment call it
+"Wonderful."
+Sound control does not apply to auditoriums only.
+Corrections extend to commercial buildings too. As the
+world became noisier the problem of sound control began
+to apply in factories, in office rooms, and in busy public
+places. Machinery has contributed to much of this noise,
+including many typewriters in one room, or address-
+ographs, for instance. The human voice has done its share
+to make places noisy too. It has been ascertained that
+noise made at a restaurant by 250 women having lunch
+registered 75 decibels. Sound engineers have looked into
+the household too and what they have found in the way
+of noise is startling. In the ordinary house, radio, TV
+sets, defective refrigerator motors, vacuum cleaners and
+the like produce much unwanted sound.
+30 CONTINUED ON PAGE 32
+
+The Unesco Courier. September 1959
+31
+
+No doubt more and more in the future truly acoustical
+architecture will be applied even to homes, especially to
+those in the higher cost brackets, so that annoying noises
+can be kept to a minimum. And perhaps some acoustical
+engineer will devise some inexpensive gadgets that could
+be mailed to home owners with instructions for use in
+rooms much as the engineer uses equipment on his jobs.
+Then a consulting-by-mail business could be built up to
+help people with their problems of noise control. . The
+home owner could draw a rough plan of the room, its
+furnishings, and give the number of people usually
+occupying it, etc. He would report the results of the
+simple tests taken with the gadgets, and a suitable treat¬
+ment could be recommended for a modest fee at probably
+far less cost than the usual risky allover-ceillng coverage
+so often used.
+Acoustics are for 'do
+it yourself amateurs
+Until then, however, people who can't afford acous¬
+tically engineered rooms can learn lessons from the
+facts now known about the laws of sound to help
+keep down noise.
+A basic principle in reducing noise is to attack it at its
+source. If the kitchen is the noisiest place, then an entire
+ceiling of acoustical tile Will accomplish as much as a
+40 per cent reduction of noise, thus vastly reducing the
+amount available for transmission to other areas of the
+house. The next step is to make a sound trap between
+noisy areas such as the kitchen or rumpus room and the
+bedrooms or study where quiet is wanted. This can often
+be accomplished by covering the ceiling and upper two
+feet of the walls of a connecting hallway with acoustical
+material.
+The range of waves known as
+the electromagnetic spectrum
+is like a long piano keyboard.
+The string struck by each white
+key vibrates at half the rate of
+the string eight notes higher, so
+that for each octave, frequency
+doubles and wave length halves.
+About 50 octaves, represent
+the electromagnetic spectrum.
+COI, London
+In the living room a complete ceiling of acoustical tile
+or other material would kill or distort the quality of music
+from the radio and TV. Here acoustical "damping" of
+sound must be obtained on two walls that intersect each
+othernot on walls opposite each other. In fact, the
+main causes of poor hearing conditions in such rooms are
+parallel wall surfaces of plaster or plywood. So acoustical
+material could be used on adjoining walls, not parallel, to
+cut down noise. Or if one can't afford acoustical material,
+if one wall' has heavy lined window drapes, one can
+experiment with a heavy wool blanket on the adjoining
+wall. A tapestry can be hung over the blanket. But
+home owners who think a mere ceiling of acoustical tile
+will solve their problem are more often disappointed than
+pleased, for they usually ruin it so far as hearing phono¬
+graph or radio music is concerned.
+There are a few more pertinent facts about cutting
+down noise in the home. If the telephone bell bothers
+you, you might try cutting a little square of sponge rubber
+to fit underneath it. The same trick will work for a
+radio or TV set or a noisy typewriter. A pad of sponge
+rubber under them will keep the sound from traveling
+down the table and along the floor. However, it won't
+affect the sound that comes out of the speaker. Radios
+and phonographs should be set in a corner for best sound.
+A sponge rubber rug under a carpet will cut down the
+noise of clattering feet. Rugs themselves, as well as pads
+under them, are a help in this respect.
+In fact, the ancients used rugs, draperies, and pillows
+to cut down noise. They didn't know why, but a lot of
+the trouble comes when sound bounces about the room.
+The noise hits a hard surface and flies off; in a different
+direction. . Any type of soft covering that 'will absorb this
+extra sound will make a big difference in personal comfort.
+Curtains or drapes around the windows help. Weather
+stripping on doors and windows help keep out traffic noise.
+Shrubbery or a row of trees on the outside will help too.
+Windows facing the street should be double weight or
+plate glass to cut down noise. Double thick ceiling plaster
+will cut out the noise of aeroplanes three times better
+than rock wool heat insulation would do.
+A little common sense, too, can protect your hearing
+from jarring noises. Keep the radio tuned down, also
+the TV. Wear ear plugs (made especially for noise) if
+construction or other loud continuous noise is going on
+near you. Anyone can have some extra pillow around to .
+help absorb noise. For noise, according to the dictionary,
+is unwanted sound and quiet is freedom from noise. And
+nowadays "Quiet Please" can mean a lot more than telling
+someone not to make noise. It can include the whole
+gamut of acoustical data in all its scientific phases.
+32

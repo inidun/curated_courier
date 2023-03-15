@@ -1,0 +1,224 @@
+FEBRUARY 1952 Page UNESCO COURIER
+A DOUBLE CHECK : This modern calculator is, in fact, two calculators, identical twins, each operating simultaneously yet independently, each noting
+the results of the other. A disparity in results immediately causes both to stop working. The printers (foreground) recording at the rate of 24, 000
+digits a minute, give a running account of the results produced, thus enabling scientists to Lfollow progress of a calculation and modify their
+programme in the light of results obtained.
+THE'MIRACLE I ON 57th STREET
+A day in a giant computing laboratory.','
+AMONG the luxurious windows of New
+York's 57th Street, displaying fine
+furs, expensive fashions and valuable
+paintings, is a store-front that stops
+every passer-by. It is a broad glass wall that
+permits an impressive view of a giant elect-
+ronic calculator at work. It shows a high and
+spacious hall with its three other walls
+solidly covered with row upon row of glowing
+vacuum tubes and tiny lights flashing in swift
+succession.
+It seems a vision of some other and super-
+human world. This calculator, this machine
+that"thinks"with lightning speed and
+remembers endless numbers and equations,
+dwarfs the few men that sit at desks beside it
+as if they were but pigmy servants of its
+higher intelligence.
+Timidly one steps into the hall and hears
+at once the steady confused chatter of relays
+and switches, sounding as if a thousand
+telegraph keys were racing to spell out end-
+less messages. One's first impulse is to
+retreat and be lost again among the ordinary
+human beings out there in the street.
+But no ;. a charming young lady steps from
+the mathematical altar with a welcoming
+smile and bids you enter. She is hostess for
+the"thinking machine,"and radiantly
+human. But she is a mathematician too, and
+offers to guide you and explain its operation.
+Both mathematics and mathematicians have
+changed since I struggled with them in
+school. Improved, I should say.
+She tells me that the great calculator has
+by Dr. Gerald WENDT
+just finished a task that has occupied it for
+many months of day-and-night operation. It
+was a calculation which by ordinary methods
+would have taken many men countless cen-
+turies-and therefore would never have been
+attempted. She shows me the result : a closely
+printed book of 327 pages, filled with figures
+that give the correct locations in the heavens
+of each of the five outer planets-Jupiter,
+Saturn, Neptune, Uranus and Pluto-at 40-
+day intervals for a period of 407 years, from
+the years 1653 to 2060-more than a century
+into the future.
+The book itself contains 1, 500, 000 numbers,
+many of them in ten digits. But these are
+only the final result of more than 150, 000, 000
+figures used in the calculation and temporar-
+ily remembered by the calculator. The
+operation involved over 5, 000, 000 multiplica-
+tions and divisions, and more than 7, 000, 000
+separate additions and subtractions of large
+numbers.
+This is an inconceivable number of opera-
+tions in a short time. But the operations
+themselves are simple. Even the ancient aba-
+cus can add and subtract ; and multiplication
+is merely repeated additions. The most com-
+plicated mathematical calculations can be
+reduced to these simple operations. And
+there I found the secret of the success of this
+great calculator which has neither magic nor
+intelligence.
+Its secret is speed. Electric impulses pass
+through it with the speed of light and they
+can be added one upon another with the speed
+of lightning. Actually, additions or subtrac-
+tions of numbers with 19 digits each can be
+done at the rate of 3, 500 per second. Numbers
+with 14 digits can be multiplied at the rate
+of 50 per second and divided at 20 per second.
+Only in its speed is it superhuman. And
+that speed is made possible only by the elec-
+tronic engineers who built into it 12, 500 elec-
+tronic tubes, 21, 400 electric relays and 40, 000
+connections that can be made, changed or
+broken by electric wires and plugs. All this
+is big and complicated, but not superhuman.
+In one other respect it does better than
+man. It can remember more. Figures obtain-
+ed in one part of a calculation are retained
+until they can be used in a later part. Or
+they can be so recorded (on punched cards)
+that they are remembered forever. But that,
+too, is old. Any record put on paper is
+remembered there as long as the paper lasts.
+What is new is the vast capacity of this
+electronic memory. No less than 400, 000
+separate digits can be stored in the"me-
+mory"of the calculator, ready for instant use.
+The machine has colossal memory and in-
+credible speed in arithmetical operations.
+But it cannot think. Every operation must
+be prescribed for it by the mathematicians
+who analyze the problem into its parts, supply
+the necessary data and instruct the machine
+(Continued on next page)
+
+UNESCO COURIER-Page 12 FEBRUARY 1952
+A mathematical error : The'Miracle'stops dead
+(Continued from previous page)
+what to calculate and in what order. Far
+from being the servants of the electronic
+giant, they are the masters whose thoughts it
+obeys. It can do only what they order.
+I saw them sitting quietly at the desk, two
+young mathematicians and two engineers, as
+the calculator went on and on with flashing
+light and chattering relays, through dozens or
+thousands of operations each second. I
+thought of the months of inaction ahead for
+them. But suddenly there was dead silence
+and the lights stopped blinking. Instantly
+all four men leaped from their chairs to
+various parts of the calculator. The machine
+had made an error, detected it, and stopped
+dead.
+There must be no error, so every single
+operation is done in duplicate. Indeed,
+the calculator is two calculators, identical
+twins, each operating independently, doing
+each operation at the same moment that the
+other does, and each noting the results the
+other gets. For hundreds of thousands of
+steps the results are identical. The instant
+they are not, everything stops.
+Then the mathematicians get busy to
+discover in which operation the error occur-
+red ; the engineers must find the tubes or
+relays that were involved in that operation
+and repair or replace them. With more than
+12, 000 electronic tubes, failures are inevitable,
+for no tube is perfect and none lasts for ever.
+An average of four tubes fail each day.
+Sometimes they can be replaced in a few mi-
+nutes. Sometimes it takes days to locate the
+faulty tube or connection.
+Then part of the calculation is repeated
+and the steady hum and flicker of the cal-
+culation resumes, without error-but only
+until the next tube burns out. So a team of
+four mathematicians and engineers is on duty
+at all times, 12 men for the three daily shifts.
+They are, however, only part of the staff
+that is required to keep the calculator at
+work. Three more men are engineers for the
+air-conditioning that keeps an even tempera-
+ture for the calculator. The thousands of
+tubes require no less than 180 kilowatts of
+electric power for their operation and all this
+power becomes heat in the tubes, wires and
+relays. So the calculator stands in a stream
+of cool air behind a glass wall. The electric
+refrigeration equals the melting of more than
+two tons of ice per hour.
+But there is more staff. There are the two
+attractive guides. There are specialists pre-
+paring instructions for the operation of the
+AN.. ASTRONOMICAL"CALCULATION
+It would have taken human mathematicians
+many centuries to calculate the exact location
+in the heavens of the planet Jupiter at 40-day
+intervals from 1653 to 2060. The giant IBM elec-
+tronic calculator did the job in about two months.
+Page (above) shows only small part of awe-
+inspiring figures produced.
+machine, days and weeks into the future.
+There are the mathematicians who spend
+weeks studying the next problem that the ma-
+chine is to solve, dividing it into its parts,
+indicating the changes in circuits and pro-
+gramme that will be required.
+All in all it takes 30 people to keep the
+machine going. It is not surprising that the
+cost of its operations is about $300 an hour.
+Who can afford such a cost ? There are a
+few industrial and engineering corporations
+who have rented the use of the calculator for
+short periods. But for the most part it works
+for pure science. It is a unit of the Watson
+Scientific Computing Laboratory, operated
+jointly by Columbia University and the
+Department of Pure Science of the Interna-
+tional Business Machines Corporation. Under
+their management, the giant calculator is
+available without cost to scientists under
+three conditions :
+1. The problem must be of general in-
+terest to science ;
+2. The results must be published and
+made available to all ;
+3. The scientist or laboratory that
+wishes to use it must have insuf-
+ficient funds to pay for its use.
+The Watson Scientific Computing Labora-
+tory occupies an entire building at Columbia
+University. At the University are other,
+smaller and more specialized computing ma-
+chines which may solve smaller or more spe-
+cial problems. The entire research staff of
+27 experts, under the direction of Dr. Wallace
+J. Eckert, Professor of Celestial Mechanics, is
+engaged in the analysis of future mathemati-
+cal problems for the computers to solve, in
+the training of operators for the machines,
+and in the design of newer and still swifter
+calculators. Here, if anywhere, are the super-
+human hrains, for here the giant calculator on
+57th Street was conceived and designed.
+Though colossal and impressive, it is only the
+product of the brainwork and vision of this
+group of modest, hardworking men.

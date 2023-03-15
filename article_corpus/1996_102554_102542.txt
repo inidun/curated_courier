@@ -1,0 +1,327 @@
+A new way of
+thinking
+by Edgar Morin
+EDGAR MORIN
+is a French sociologist who is
+emeritus director of research at
+France's National Centre for
+Scientific Research (CNRS). He is
+the author of many published
+works, including Introduction à la
+pensée comp/exe("lntroduction
+to Complex Thought", ESF, Paris,
+1990) and recently published a
+selection of writings entitled La
+complexité humaine ("Human
+Complexity", Flammarion, Paris,
+1994). His most recent work
+published In English is Towards a
+Study of Humankind. Voll: The,
+Nature of Nature (1992).
+Complexity represents a shift away
+from the simplifying, reductionist
+approach that has traditionally
+shaped scientific enquiry
+Until the mid-twentieth century, most
+sciences based their method on spe¬
+cialization and abstraction, i.e. reducing
+knowledge of a whole to knowledge of its
+constituent parts (as though the organization
+of a whole did not generate new properties in
+relation to those of its separate parts). Their
+key concept was determinism, in other
+words the denial of random factors and new
+factors and the application of the mechanical
+logic of artificial machines to the problems of
+living beings and social life.
+Knowledge must make use of abstraction,
+but it must also be constructed by reference
+to context and hence must mobilize what the
+enquirer knows about the world. Individual
+facts can only be fully understood by those
+who maintain and cultivate their general intel¬
+ligence and mobilize their overall knowledge.
+Admittedly, it is impossible to know every¬
+thing about the world or to grasp its many
+and varied transformations. But no matter
+how difficult this may be, an attempt must be
+made to understand the key problems of the
+world, for otherwise we would be cognitive
+idiots. This is particularly true today because
+the context of all political, economic, anthro¬
+pological and ecological knowledge has
+become global. As a result of globalization,
+everything must be situated in the planetary
+*£HPB?. ^*Ui
+context. Knowledge of the world as such is
+necessary both for intellectual satisfaction and
+for life itself. Every citizen faces the problem
+of gaining access to information about the
+world, and then of piecing it together and
+organizing it. To do this, a new form of
+thinking is needed.
+In the first place, the kind of thinking that
+separates must be supplemented with a kind
+of thinking that makes connections. Com-
+plexus means "that which is woven together".
+Complex thought is a kind of thought that
+unites distinction with conjunction. Secondly,
+it is necessary to come to grips with uncer¬
+tainty. The dogma of universal determinism
+has collapsed. The universe is not subject to
+10
+
+the absolute sovereignty of order; it is the
+outcome of a "dialogical" relationship (a rela¬
+tionship that is both antagonistic, concurrent
+and complementary) between order, dis¬
+order and organization.
+Complexity thus connects (contextualizes
+and globalizes) and also comes to grips with
+the challenge of uncertainty. How does it do
+this?
+A computer-generated
+image created from a fractal
+geometry formula.
+The three theories
+One approach to complexity is provided by
+three theories information theory, cyber¬
+netics and systems theory. These theories,
+which are closely related and indeed insepa¬
+rable, emerged in the early 1940s and have
+had a far-reaching cross-fertilizing effect on
+one another.
+Information theory gives access to a uni¬
+verse where there are both order (redun¬
+dancy) and disorder (noise) and derives
+something new from it, i.e. information itself,
+which then becomes the organizing (pro¬
+gramming) instrument of a cybernetic
+machine. For example, information that gives
+the name of the victor of a battle resolves an
+uncertainty. Information that announces the
+sudden death of a tyrant introduces an unex¬
+pected new element into a situation.
+Cybernetics is a theory of self-controlling
+machines. The idea of feedback, introduced
+by the U.S. mathematician Norbert Wiener,
+11
+
+IVl odel of the double stranded
+helix of DNA (deoxyribonucleic
+acid), the main constituent of
+the genetic material of living
+cells.
+'Complexity connects (contextuallzes
+and globalizes) and also comes to grips
+with the challenge of uncertainty. '
+breaks with the idea of linear causality and
+introduces that of the causal loop. The cause
+acts on the effect and the effect on the cause,
+as in a heating system where a thermostat
+controls the operation of a boiler. This regula¬
+tory mechanism makes the system
+autonomous, in this case ensuring that an
+apartment has thermic autonomy from the
+colder temperature outside. The feed-back
+loop may act as an amplifying mechanism, e.g.
+in a situation where an armed conflict reaches
+a critical stage. The violence of one adversary
+triggers off a violent reaction which in turn
+triggers off another, even more violent reac¬
+tion. Very many instances of this sort of infla¬
+tionary or stabilizing feedback can be found
+in economic, social, political or psychological
+phenomena.
+Systems theory provides the basis of a
+way of thinking about organization. The first
+lesson of systems analysis is that "the whole is
+more than the sum of its parts". This means
+that properties emerge from the organization
+of a whole and may have a retroactive effect
+on the parts. For instance, water is an emer¬
+gent property of the hydrogen and oxygen of
+12
+which it is composed. The whole is also less
+than the sum of its parts, since the parts may
+have properties that are inhibited by the orga¬
+nization of the whole.
+Self-organization
+In addition to these three theories are a
+number of conceptual developments related
+to the idea of self-organization. Four names
+that must be mentioned in this context are
+those of John von Neumann, Heinz von
+Foerster, Henri Atlan and Ilya Prigogine.
+In his theory of automata, von Neumann
+considered the difference between artificial
+automata and "living machines". He pointed
+to the paradox whereby the components of
+artificial machines, although very well
+designed and engineered, deteriorate as soon
+as the machine starts to operate. Living
+machines, on the other hand, are made of
+extremely unreliable components, such as
+proteins, which are constantly subject to dete-
+rioriation. However, these machines have the
+unusual property of being able to develop and
+reproduce themselves; they regenerate them¬
+selves through replacing damaged molecules
+by new molecules, and dead cells by new cells.
+An artificial machine cannot repair itself,
+whereas a living machine constantly regener¬
+ates when its cells die. It is, as Heraclitus put it,
+"life from death and death from life".
+Von Foerster's contribution is his dis¬
+covery of the principle of "order from
+
+'Order, disorder and
+organization are
+constantly
+interacting in the
+physical, biological
+and human worlds. '
+Left, "Complexas means 'that
+which is woven together'."
+Below, "The universe is the
+interplay of an antagonistic
+and complementary
+relationship between order,
+disorder and organization."
+noise". If a box containing a haphazardly
+arranged collection of cubes, each magne¬
+tized on two faces, is shaken, the cubes spon¬
+taneously form themselves into a coherent
+whole. A principle of order (magnetization)
+plus disordered energy have created an
+ordered organization. In this way, order is
+created from disorder.
+Henri Atlan has developed the theory of
+"random organization". At the birth of the
+universe there was an order/disorder/organi¬
+zation dialogic triggered off by calorific turbu¬
+lence (disorder), in which, under certain con¬
+ditions (random encounters) organizing prin¬
+ciples made possible the creation of nuclei,
+atoms, galaxies and stars. This dialogic recurred
+when life emerged via encounters between
+macro-molecules within a kind of self-pro¬
+ductive loop which eventually became a living
+self-organization. The dialogic between order,
+disorder and organization exists in a wide
+variety of forms, and via countless feedback
+processes is constantly in action in the phys¬
+ical, biological and human worlds.
+Prigogine introduced the idea of self-orga¬
+nization from disorder in a different way. In
+so-called Rayleigh-Bénard convection cells,
+coherent structures are formed and main-
+tened between two temperature levels when a
+thin layer of silicone oil is carefully heated. In
+order to be sustainable, these structures need
+supplies of energy which they consume and
+dissipate. Living beings have sufficient
+autonomy to draw energy from their envi¬
+ronment and even extract information from it
+and absorb its organization. I have called this
+process auto-eco-organization.
+The study of complex phenomena can thus
+be seen as a building with several floors. The
+ground floor consists of the three theories
+(information, cybernetics and systems) and
+contains the tools needed to develop a theory
+of organization. On the second floor are the
+ideas of von Neumann, von Foerster, Atlan
+13
+
+Springtime (1573)
+by the Italian painter
+Giuseppe Arcimboldo. and Prigogine on self-organization. I have
+added some other features to the building,
+notably the dialogical principle, the recursion
+principle and the hologrammatic principle.
+'Complex thought
+incorporates
+uncertainty and is
+capable of
+conceiving
+organization.'
+The three principles
+The dialogical principle brings together two
+antagonistic principles or notions which on
+the face of things should repel one another
+but are in fact indissociable and essential for
+understanding a single reality. The physicist
+Niels Bohr believed that physical particles
+should be regarded as both corpuscles and
+waves. Blaise Pascal said that the "the oppo¬
+site of a truth is not an error but a contrary
+truth." Bohr put this in the following terms:
+"The opposite of a trivial truth is a stupid
+error, but the opposite of a profound truth is
+always another profound truth". The
+problem is that of combining antagonistic
+notions in order to envisage the organiza¬
+tional and creative processes in the complex
+world of human life and history.
+The principle of organizational recur¬
+sion goes further than the feedback principle;
+it goes beyond the idea of regulation to that
+of self-production and self-organization. It is
+a generating loop in which products and
+effects themselves produce and cause what
+produces them. Thus we, as individuals, are
+the products of an age-old system of repro¬
+duction, but this system can reproduce itself
+only if we ourselves become its producers by
+procreating. Individual human beings pro¬
+duce society in and through their interac¬
+tions, but society, as an emerging whole, pro¬
+duces the humanity of individuals by confer¬
+ring language and culture on them.
+The "hologrammatic" principle high¬
+lights the apparent paradox of certain systems
+where not only is the part present in the
+whole, but the whole is present in the part:
+the totality of the genetic heritage is present in
+each individual cell. In the same way, the indi¬
+vidual is part of society but society is present
+in every individual, through his or her lan¬
+guage, culture and standards.
+Conclusion
+Thinking in terms of complexity is clearly not a
+mode of thought that replaces certainty with
+uncertainty, separation with inseparability, and
+logic with all kinds of special exceptions. On the
+contrary, it involves a constant toing and froing
+between certainty and uncertainty, between
+the elementary and the global, between the
+separable and the inseparable. The aim is not to
+abandon the principles of classical science
+order, separability and logic but to absorb
+them into a broader and richer scheme of
+things. The aim is not to set a vacuous all-pur¬
+pose holism against systematic reductionism,
+but to attach the concreteness of the parts to
+the totality. Linkage must be made between the
+principles of order and disorder, separation and
+connection, autonomy and dependence, which
+are at one and the same time complementary,
+concurrent and antagonistic.
+In short, complex thought is not the oppo¬
+site of simplifying thought; it incorporates sim¬
+plifying thought. As Hegel might have put it, it
+unites simplicity and complexity and ulti¬
+mately reveals its own simplicity. In fact, the
+paradigm of complexity can be described just
+as simply as that of simplicity. Whereas the'
+latter requires us to dissociate and reduce, the
+paradigm of complexity requires us to connect
+as well as to distinguish.
+Complex thought is essentially thought
+which incorporates uncertainty and is capable
+of conceiving organization. It is capable of
+linking, contextualizing and globalizing but
+can at the same time acknowledge what is sin¬
+gular and concrete.
+14

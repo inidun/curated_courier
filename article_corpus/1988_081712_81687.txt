@@ -1,0 +1,19 @@
+The decimal system
+The decimal system, now fundamental to modern science, originated in
+China. Its use can be traced back to the fourteenth century BC, the archaic
+period known as the Shang Dynasty, though it evidently was used long
+before that.
+An example of how the ancient Chinese used the decimal system may be
+seen from an inscription dating from the thirteenth century BC, in which
+"547 days" is written "Five hundreds plus four decades plus seven of days".
+In computation, the Chinese used counting rods on counting boards. To
+"write" ten involved placing a single rod in the second box from the right,
+and leaving the first empty, to signify zero. To change the ten to eleven, a
+single rod was added in the first box. To "write" 111, single rods were
+placed in the first, second and third boxes. Apparently from the earliest
+times, the decimal place system for numbers was literally i place system;
+the Chinese placed counting rods into actual boxes.
+The fact that the decimal system existed from the very beginnings of
+mathematics in China gave the Chinese a substantial advantage, laying a
+foundation for most of the advances they later made.
+_ 21

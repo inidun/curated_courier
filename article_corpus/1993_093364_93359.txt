@@ -1,0 +1,95 @@
+Above, a combination of
+satellite images showing the
+distribution of phytoplankton
+in the Mediterranean. Areas
+of densest population are
+shown in red, the least
+dense in blue.
+Left, data from a Seasat
+satellite showing surface
+wind patterns over the
+oceans on 14 September
+1978.
+
+
+
+HERE COMES BILKO
+IAN S. ROBINSON
+is Reader in Physical
+Oceanography and Head of
+the Oceanography
+Department at the University
+of Southampton, UK. He
+heads a group which carries
+out research on satellite
+oceanography and on
+education and training in
+océanographie satellite
+imagery.
+A computer-based learning package initiated
+by Unesco through its Training and Educa¬
+tion in Marine Sciences Programme
+(TREDMAR) is providing the worldwide training
+required to keep pace with modern developments
+in space oceanography.
+At the heart of this package lies a simple
+¡mage display software tool-kit called "Bilko",
+written for personal computers operating in MS-
+DOS. Corrunercial image analysis software
+packages require specialized computers. Bilko,
+however, was deliberately kept simple to enable it
+to run on the most basic of machines.
+The package contains lessons which guide
+students step by step through the analysis of
+several ¡mage data-sets. The software and image
+data are stored on magnetic diskettes and the text
+of the lessons is printed in a booklet along with an
+introductory tutorial on the use of the software.
+Bilko leads students with no computing skill
+straight into interpretation of satellite image data
+of the ocean. Each full screen Bilko image repre¬
+sents 131,072 individual scientific measurements
+of the ocean. If, for example, a student calls up an
+image of sea surface temperature derived from a
+satellite's infrared sensor, the cursor on the screen
+becomes a "research vessel" which he or she can
+"pilot" across the area of ocean illustrated to
+"explore" the spatial distribution of temperature
+levels.
+The first module, produced in July 1989, was
+received with enthusiasm by marine science edu¬
+cators around the world. Their positive response
+led to the planning of further lesson modules
+which were to draw on image data from other sea
+areas.
+Module 2, published in February 1991,
+contains material from South American and Aus¬
+tralian coastal areas and the Indian Ocean,
+written by local scientists. It also contains a
+"Lesson for lesson creators" which explains how
+to prepare image data for use with Bilko and how
+to write a lesson around it. As a result, more mate¬
+rial began to flow in from contributors around the
+world. This led to the publication of Module 3, in
+February 1992.
+Bilko is a multi-authored product written by
+marine science educators from around the world.
+Lesson material from it has been incorporated into
+other educational programmes. In parts of the
+LJnited States the modules are used for science
+teaching in high schools. In the Netherlands the
+Open University is adapting five lessons for use in
+a course on remote sensing. Several international
+training courses and summer schools in marine
+remote sensing have used the modules as the
+basis of practical classes. Some such courses have
+also led to the production of new lessons, includ¬
+ing the first African lesson which will form part
+of the fourth module to be published early in
+1933. As a result of a course held at Lepe, in
+Spain, the first three modules have been translated
+into Spanish and several new lessons arising from
+the course will be published first in a Spanish
+module before translation into English.
+I.S. Robinson, D.A. Blaci<burn,
+R.D. Callison and D.C. Troost 37

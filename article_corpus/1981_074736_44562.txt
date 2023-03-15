@@ -1,0 +1,230 @@
+A museum
+in a suitcase
+Three-dimensional 'replicas' of works of art,
+produced by the astonishing technique of holography
+by Ivan G. Yavtushenko
+and Vladimir B. Markov
+THE technique of producing holographic images was first ad¬
+vanced in 1949 by a Hungarian-born British physicist, Dennis
+Gabor. However, his method proved unusable for lack of a
+suitable light source. Not until the development of the laser as a
+source of coherent light was further progress possible.
+The breakthrough came in 1962, thanks to the work of American
+scientists Emmett Leith and Juris Upatnieks, and a Soviet scientist,
+Y.N. Denisyuk. Leith and Upatnieks took the laser as their source of
+light and, working with a modified version of Gabors method, proved
+it possible to record and reconstruct a three-dimensional image of any
+light-reflecting object. Meanwhile, Denisyuk's fundamental work
+established the principle of the complete reconstruction of the light
+field created by a real object.
+What is holography and how does it differ from conventional
+methods of recording ¡mages? Non-holographic techniques use a lens
+to produce an image of the subject on light-sensitive material, and of
+course, the original three dimensions are then converted into two.
+Holography consists of recording the light field emitted by the sub¬
+ject same field as is normally perceived by the human eye.
+The theory of the technique of holography may be described as
+follows. As in photography, one needs a light source, a photographic
+plate and, of course, an object. The layer of photosensitive emulsion
+is comparatively thickabout 10 microns. The object is illuminated by
+the light of a laser; the reflected light falls on the plate. However, in
+contrast to ordinary photography, the plate is also illuminated by
+reference light rays from the same source. These two beams of light
+combine, and are registered by the photographic plate, which is called
+the hologram.
+The image is reconstructed by placing the hologram as before and
+directing onto it a similar source of light. The effect of this upon the
+structure recorded on the hologram is to produce light beams which
+are an exact replica of those reflected by the original subject, so that
+the viewer sees a three-dimensional copy of that subject.
+(Denisyuk's holograms can even be viewed with a pocket flashlight.)
+This description of the recording and reconstruction of the image is
+the key to the origin of the word holography, which Gabor coined
+from two Greek words: holos, meaning "complete", and graphein
+meaning "to write". In other words, it is a method of recording all the
+information about the light field emitted by a real object.
+It is the hologram's ability to produce an exact optical copy of the
+subject which suggested that it might be widely used in museology.
+There are many ancient objects which, for a variety of reasons, can¬
+not be displayed: perishable items that need special storage, or those
+unique antiquities for which unusual security arrangements are re¬
+quired. This problem can largely be overcome by exhibiting
+holographic replicas of such objects. Again, it is no secret that par¬
+ticularly valuable items found in provincial areas usually find their way
+to large central museums. Holograms could well be made of them and
+placed in provincial museums, providing exact replicas which could
+advantageously replace laborious castings. Equally important is the
+potential use of holograms in establishing the origin and identity of ob¬
+jects and determining their age and state of preservation. Optical
+replicas may now be used in this research, rather than perishable or
+particularly valuable originals.
+30
+Holography holds out exciting prospects for museums in the
+organization of exhibitions. There are many exhibits which must be
+viewed from several angles, or at least from two opposite sides. This
+is especially true of coins or medals, since the designs on the
+obverse and the reverse sides are different. Such items as chalices
+and goblets also fall within this category. Holograms containing
+every detail of the structure of such items can be produced by taking
+circular reflective holograms. But this is an extremely difficult pro¬
+cedure: a simpler method is to take two-sided reflective holograms.
+The latter technique employs a single plate to record separate
+holograms of the obverse and the reverse of the subject, which must
+be done in such a way that when reconstructed the ¡mages exactly
+coincide.
+The first phase in this process is to take a hologram of the
+"obverse" side. The exposed plate is then turned round, and a se¬
+cond exposure is taken of the "reverse" side of the same subject. In
+order to avoid an overlap between the ¡mages, it is essential that the
+exposure be taken with the light striking both the subject and the
+plate at obtuse angles. When processed, this hologram is set up and
+illuminated from both sides, so reconstructing an ¡mage of both the
+"obverse" and the "reverse" of the object.
+A further use of holograms in museology arises from their ability
+to reconstruct pseudoscopic ¡mages. This method holds particular
+advantages in those frequent cases where the mould of a seal or a
+die is too ill-preserved to be used for casting, since an image can be
+produced of the article which the mould was used to make. The
+technique is as follows. The exposed and processed hologram is
+rotated through 180 degrees in relation to the light source, and a
+beam is directed onto it. The image thus produced is a pseudoscopic
+copy of the mould in other words, an image of the real article.
+Enlarged or scaled-down three-dimensional ¡mages of real objects
+can also be produced, these methods being particularly appropriate
+where small objects are to be displayed, or for showing the minor
+details of a large exhibit. Lastly, the applications of holography are
+not restricted to historical objects, but may include holographic por¬
+traits of contemporary figures, or holographic views of interiors.
+One highly successful use of holograms is in travelling or perma¬
+nent exhibitions, which can quite easily be set up in any locality. This
+is confirmed by the fact that such exhibitions have been organized in
+Moscow, Kiev, Yalta, Simferopol, Sebastopol and other Soviet,
+towns and cities. The international exchange of these exhibitions is K
+arousing strong interest. One sign of this is the popularity of an ex- f
+IVAN GRIGORYEVICH YAVTUSHENKO is the head of museum science
+and methodology at the Ministry of Culture of the Ukrainian SSR. His explo¬
+ration of the possibilities of holography in museum work forms part of his
+activities in the field of museum research, the design and technical equip¬
+ment of museums, preservation techniques, and the display of exhibits.
+VLADIMIR BORISOVICH MARKOV is the head of the laboratory of
+applied holography at the Physics Institute of the Ukrainian Academy of
+Sciences. He has written widely in Soviet and international publications on
+questions related to optics, laser technology and holography.
+
+Artist's impression of the arrangement
+of components in a holographic set-up
+(above) for the production of a
+hologram of a vase, and (below left) for
+the reconstitution of a three-
+dimensional image of the vase from the
+hologram. Below, simplified diagram of
+a hologram production lay-out.
+Mirror
+Object
+Beam
+spreader
+Laser
+Beam
+spreader
+Reference
+beam
+Beam
+splitter
+Object
+illumination
+beam
+Prism
+E
+2
+31
+
+> hibition of holograms of historical objects from Ukrainian museums,
+which has been shown in Belgrade, Yugoslavia, during the twenty-
+first session of Unesco's General Conference; at the "OPIEM" inter¬
+national conference on holograms in Strasbourg, France; at the
+lntercamera-79 exhibition in Prague, Czechoslovakia; and at exhibi¬
+tions in Finland, the German Democratic Republic and elsewhere.
+Holography provides enormous potential for the establishment of
+special thematic exhibitions combining items from several
+museums. It is notoriously difficult to bring together, for example,
+the objets d'art of antiquity, or collections of Scythian gold, which
+are housed in museums scattered throughout the world. Yet a
+specialized exhibition of holograms could be arranged on any such
+topic, and would prove extremely popular not only among specialist .
+historians or art experts, but also with the general public, since it
+would bring together articles from a given historical period.
+Another possibility would be to arrange for the centralized pro¬
+duction and sale of original souvenirs in the shape of holographic
+replicas of rare ancient objects. These would find a ready market,
+and would be excellent publicity for museums both at home and
+among foreign tourists.
+In view of the enormous number of exhibits, this list of possible
+museological applications is sufficient evidence that research in¬
+stitutes alone could not cope with the volume of work involved. This
+is why the Ukraine, for example, has taken steps to associate both
+physicists and museologists in attempts to provide global answers to
+a number of problems. As a first step, holographical laboratories
+have been set up at the museums themselves. The Applied
+Holography Laboratory of the Institute of Physics of the Ukrainian
+Academy of Sciences provides them with scientific and technical
+advice, trains their experts, and also develops new holography
+techniques. It is intended that these museum laboratories should
+produce holograms of all the rarer objects in their collections, and
+firstly of their perishable articles or those which require special
+storage or security.
+The particular way in which the image is produced in holography
+gives rise to extensive applications in the field of science and
+technology. One such application is holographic microscopy. The
+chief fault of existing microscopes is that a sharp ¡mage can only be
+obtained of the part of the subject on which the instrument is focus¬
+ed, while the rest of the image is out of focus and so lacks definition.
+The study of objects which are unstable in time is even more dif¬
+ficult, since the microscope must continually be adjusted. The
+holographic microscope enables three-dimensional images to be
+frozen at any point in time for subsequent study in detail. Such in¬
+struments are particularly efficient in the study of small suspended
+particles (aerosols) or of transparent objects. For instance, a
+holographic microscope has been used to produce a three-
+dimensional image of a neuron with a diameter of less than 0.001
+millimetres.
+Among the most rapidly developing applications is holographic in-
+terferometry, a technique which draws upon a single hologram's
+ability to record several successive ¡mages. The first exposure
+records the ¡mage of the object at rest: the object is then subjected
+to an external stimulus, and a second exposure is taken. If a sup¬
+plementary beam is directed onto the hologram, both images are
+reconstructed simultaneously, and the light beams thus formed are
+mono-directional. Since these beams are coherent, interference oc¬
+curs, and the resulting image is covered with light and dark patterns.
+This interferential structure, which varies according to the nature of
+the external stimulus, may be used for such purposes as determining
+the topology of the subject, identifying deep-seated defects, or
+comparing two subjects.
+I Ivan G. Yavtushenko and Vladimir B. Markov
+Right, holographic exhibition in the
+Ukrainian Museum of History, Kiev.
+Itinerant holographic exhibitions
+open up immense possibilities for
+bringing the treasures of the
+world's great museums to the
+attention of a worldwide audience,
+at very low cost and with no risk to
+the treasures themselves. It has
+been estimated, for example, that
+the entire contents of a major
+exhibition in Moscow, "The
+treasures of the State Museum of
+History", could be recorded full size
+on 110 holographic plates
+measuring 60 by 80 centimetres
+each, all of which could be packed
+into a crate of just one and a half
+cubic metres.
+Below, Shermazan Kakichashvili, head of the optical
+research laboratory of the Cybernetics Institute of the
+Academy of Sciences of the Georgian SSR (at left of
+photo) looks at a circular hologram of himself.
+Illuminated by a laser beam, the hologram is mounted on
+a turntable which, when turned, shows his head in
+profile, from behind and full face.
+32

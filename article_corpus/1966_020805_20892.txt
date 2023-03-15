@@ -1,0 +1,584 @@
+THE WORLD
+OF THE COMMUNICATION
+SATELLITE
+by Arthur C. Clarke
+Ceylon, only a few hundred miles from the equator. There are no
+telephones, no electric light, no newspapers, no cinemas; there are a few
+battery-powered radios, but reception is poor on the short waves and impos¬
+sible on the broadcast band.
+It is difficult for a visitor from one of the more developed countries to
+Imagine the social isolation of such a community though this village is
+positively suburban when compared with thousands in the more remote parts
+of Asia and Africa. Most of the human race exists in a cultural vacuum; it is
+still divided into myriads of insulated villages or tribes, as it has been since
+the dawn of history. But now, in a brief moment of time, all this will end.
+The coming of the communications satellite will make it impossible for any
+human group indeed, any individual to be more than a few milliseconds
+from any other. The social consequences of this, for good or evil, may be
+as great as those brought about by the printing press or the internal combus¬
+tion engine. And they will dome upon us much more swiftly.
+CONTINUED ON PAGE 2«
+ARTHUR C. CLARKE is a British science and science fiction writer. He is
+president of the Ceylon Astronomical Association and was formerly chairman
+of the British Interplanetary Society. In 1962, he was awarded the. international
+Kalinga Prize for the Popularization of Science. Among the *--' ' «---
+published are "Interplanetary Flight". "The Exploration of Sp
+Across the Sea", "The Challenge of the Spaceship". "The Oti
+Sky", "A Fall of Moondust " and " Voices from the Sky".
+X ft
+30V
+î-iSAîv-iji
+;>' ^
+
+>
+This sphere looming on .'the horizon like some approaching planet is the protective dome
+of the giant antenna at Pleumeur Boudou, in Britanny (France). The antenna
+and one at Goonhilly Downs (United Kingdom) picked up the first television programme
+transmitted from the United States via the communications satellite Telstar, in 1962.
+Photo © René Bouillot
+
+26
+The four space
+fantasy drawings on
+these pages are
+by the U.S. artist
+J. Huehnergarth.
+© Vitro Electronics,
+Silver Spring,
+Maryland (U.S.A.).
+COMMUNICATIONS SATELLITE (Continued)
+Orbital post offices
+telephones and newspapers
+The progress of astronautics since
+the opening of the space age in 1957
+has been so phenomenal that all the
+technical problems of the synchronous
+satellite should be solved by the mid-
+seventies. Millions need no longer be
+spent, as they are at present, in the
+vain quest for absolute component
+reliability. The communications satel¬
+lites may not be permanently inhabited,
+but they will be regularly serviced by
+low-thrust ferries which can bring
+repair crews to deal with any emerg¬
+ency within a couple of hours. For by
+1975, of course, there will be numerous
+manned space complexes in orbit, to
+conduct scientific research and to
+operate the presently unimaginable
+zero-gravity, high-vacuum industries of
+the next generation. The communi¬
+cations satellites of the later part of
+this century may be part of these sys¬
+tems, and will share their servicing
+facilities.
+With the development of space tech¬
+nology, therefore, all but one of the
+synchronous satellite's present limita¬
+tions will pass swiftly into history.
+Rockets are already under develop¬
+ment that can put many tons of pay-
+load into the twenty-four hour orbit;
+nuclear reactors such as Snap-8 could
+provide enough power for direct TV
+transmission to home receivers. Al¬
+though those concerned with today's
+satellites have to use the tools current¬
+ly at hand, they should not let present
+difficulties and failures condition their
+thinking. But I certainly do not envy
+them their problems, for every commu¬
+nications satellite built during the next
+ten years will be obsolete as soon as
+it Is launched.
+The only fundamental objection to
+the synchronous satellite Is the pro¬
+pagation time lag, which of course
+does not affect radio or TV services,
+but only telephony. I am convinced
+that once the inevitability of this time
+lag is understood and users are taught
+the proper speaking procedure, they
+will have no difficulty in handling it.
+Every generation comes to grips with
+new techniques; our fathers had to
+learn to use the dial telephone, our
+grandfathers, the telephone itself. We
+are currently grappling with long-dis¬
+tance dialling and ten-figure numbers;
+our children may think nothing of end¬
+ing each stretch of conversation with
+"over" and it would probably improve
+our own telephone procedure, and
+shorten our talking time, if we did this
+even now.
+In any event, if the delay does prove
+to be intolerable, then we can establish
+low-altitude satellites (perhaps in
+accurately sub-synchronous twelve,
+eight, six or three-hour orbit6) purely
+for telephony. These might provide a
+first-class, premium rate service; the
+cheap rate would be through the
+twenty-four-hour satellites. (As a
+much longer term possibility, It might
+be mentioned that there are a number
+of theoretical ways of achieving a
+low-altitude, twenty-four-hour satellite;
+but they depend upon technical devel¬
+opments unlikely to occur in this cen¬
+tury. I leave their contemplation as
+"an exercise for the student".)
+It seems clear, therefore, that the
+next ten years will be an interim, tran¬
+sitional period, characterized by small
+low-powered satellites of the Telstar,
+Relay and Syncom type. Transmis¬
+sions from these will be received only
+by very elaborate and expensive
+ground tracking stations, which can
+feed signals into national networks.
+There will be no question of direct
+broadcasting to the home viewer or
+listener; he will still have to rely on
+his existing local stations, if any, and
+must accept what they choose to give
+him.
+Even so, the communications satel¬
+lites of the next few years will have a
+major Impact on world affairs, and part¬
+icularly upon relations between the
+United States and Europe. Telstar
+proved this In the first few weeks of
+operation, when it established the first
+TV bridge across the Atlantic. As in
+the case of the first Atlantic cable a
+hundred years earlier, contact was
+Intermittent; but again, as in that
+case it will soon become permanent.
+Because they share many common
+interests (including language), already
+
+possess extensive rebroadcasting facil¬
+ities, and are separated by a relatively .
+small time differential, the Americas
+and Western Europe will obviously be
+the first to benefit from communic¬
+ations satellites. Some of the services
+which may reasonably be expected,
+either experimentally or on a full oper¬
+ational basis, during the next decade
+are:
+The Orbital Post Office. It has been
+pointed out by S. Metzger that a single
+5 mc/s satellite has enough inform¬
+ation-handling capacity to carry all
+first-class and airmail correspondence
+between the United States and Eu¬
+rope. Delivery time would be reduced
+to approximately half, the limit being
+set by the physical collection and dis¬
+tribution of the mail. One of the chief
+problems involved in this system is
+psychological; how would the public
+react to a postal service in which its
+letters could be read by unauthorized
+persons at any point? However, it
+accepted wartime V-mail; and for really
+confidential correspondence, there
+would be no difficulty in developing
+private electronic coding systems, so
+that only the right recipient could
+receive readable copies.
+As ground facilities improve, to keep
+up with the possibilities offered by the
+satellites, we may expect high-speed
+facsimile systems to spread to at least
+all important towns. For business (as
+opposed to personal) needs, the dis¬
+tinction between mail, telegram and
+teletype will rapidly blur. In each case,
+transmission time will approach zero,
+with profound effects upon Industry
+and public affairs, and a speeding up
+of the tempo of life.
+Orbital Newspapers. The simulta¬
+neous setting of international editions
+has already been demonstrated. In¬
+fluential newspapers such as The Times
+of London and the New York Times
+will experience a great increase in
+distribution and immediacy. One of
+the first countries to benefit from this
+will be, rather ironically, the United
+States, which has never possessed a
+really national newspaper. In the
+longer run, however, the newspaper
+as we have known it for the last three
+hundred years cannot be expected to
+survive the advent of communications
+satellites; ultimately, the home presen¬
+tation will become purely electronic.
+Intercontinental Telephony. As more
+and more band widths are made avail¬
+able, there will be a tremendous in¬
+crease in long-distance telephony. It
+is impossible to set a limit to this; man
+is a talkative animal, and all estimates
+that have been made of his need for
+communication have been swiftly sur¬
+passed. Although transatlantic calls
+may not be substantially cheaper
+during the next decade, I suspect that
+well before the end of this same cen¬
+tury all telephone calls to anywhere
+may be charged at the same flat rate.
+(How much of the present cost of a
+call goes to maintain the equipment
+that merely calculates the bill?) Even¬
+tually, the telephone may become a
+free public service; It will have the
+same status as the water supply, for
+in the society of the future it will be
+equally essential. Any tax on free
+communication is detrimental to the
+public interest.
+The full consequences of swift,
+cheap, and universal person-to-person
+telephony (and later television) cannot
+possibly be anticipated at this stage.
+One can only hint at some trends
+which may become apparent during the
+next decade, and dominant during the
+one that follows. They are:
+A great decline in personal corres¬
+pondence, continuing the trend already
+started by the telephone and conse¬
+quently reducing the need for the "Or¬
+bital Post Office" just when it becomes
+technically possible.
+A correspondingly great increase in
+long-distance personal contacts. The
+situation will develop over the whole
+world that now exists in great cities,
+when intimate friends may talk to each
+other every day but seldom meet. This
+would have been totally inconceivable
+only a hundred years ago.
+A steep decline in transportation for
+other than pleasure purposes. Effi-
+27
+CONTINUED ON NEXT PAGE
+
+COMMUNICATIONS SATELLITE (Continued)
+Blackboard in the sky for multimillion classes
+cient communications and efficient
+transportation are, to some extent,
+opposing influences. If either were
+perfect (i.e. free and instantaneous)
+there would be no need for the other.
+Thus one can envisage the time, in
+the not too distant future, when con¬
+ferences could be conducted with
+none of the participants leaving their
+own countries or even their homes.
+It may be objected that much of the
+important work at such conferences
+takes place in private and behind-the-
+scenes negotiations between indi¬
+viduals, not amenable to telecommuni¬
+cations. But even this will cease to be
+true as person-to-person services
+multiply. A generation from now, a
+delegate in Canberra may be able to
+locate one in Washington much more
+easily than either could do so today,
+if they were both looking for each
+other among the many committee
+rooms, private suites, simultaneous
+lecture sessions, dining rooms and
+bars typical of a large International
+conference circa 1960.
+N
+28
+ow let us look a little
+further ahead, to the se¬
+cond phase in the development of
+communications satellites particularly
+the Impact of direct broadcasting on
+the undeveloped countries. This,
+coupled with the timely invention of
+the transistor, may give a great stimu¬
+lus to radio; though we usually asso¬
+ciate satellites with television, it must
+not be forgotten that most areas of
+this planet cannot yet receive reliable,
+good quality sound.
+However, radio brings us immedi¬
+ately to the question of language. A
+single orbital transmitter can broadcast
+high-fidelity sound to half the world
+but can it provide programmes of
+equal interest to the Congo Pygmy,
+the Afghan tribesman, the Greenland
+Eskimo, the man-about-Manhattan?
+Obviously not, until they share a
+common language and, at least to
+some extent, a common culture.
+Communications satellites will make
+a basic world language mandatory.
+Just as (in quite recent times) all men
+had to learn to read so that they could
+work and even survive in modern
+society, so in the one world of the
+very near future they will have to
+possess a language in common.
+The full potentiality of educational
+programmes from satellites could not
+be exploited, however, until the arrival
+of vision; one could hardly teach the
+written language without this aid
+(though a great deal could be done
+with the help of leaflets keyed to the
+programme and distributed in advan¬
+ce). And here I would like to make a
+suggestion for an interesting compro¬
+mise between radio and full-scale TV.
+I t should be possible to
+develop a cheap and sim¬
+ple slow-scan facsimile-plus-sound
+receiver which could operate on the
+normal radio band width, without
+requiring the approximately thousand¬
+fold greater spectrum space needed by
+TV. Such a device could reproduce
+line drawings and cartoons (halftones
+would be unnecessary) at a perfectly
+adequate speed for educational purp¬
+oses, where the same picture has to
+stay in view for a minute or more. It
+would be the remote equivalent of the
+teacher's blackboard, and with its aid,
+even language could be taught to peo¬
+ples who did not share a single world
+of their instructor's tongue. It would
+thus be possible to tape programmes
+suitable for multimillion classes.
+The impact of such a device every
+element of which lies completely within
+existing technologies upon preliterate
+societies can perhaps be judged by
+the following example.
+In 1948 Monseñor Jose J. Salcedo,
+appalled by the poverty and illiteracy
+in his parish, set up a small radio
+transmitter in the mountain village of
+Sutatenze (Colombia). His facilities
+were quite limited but his objectives
+were large; reduction of illiteracy and
+provision of useful information. Start¬
+ing with a few hours of broadcasting
+on Saturday evenings to fifteen
+receivers and an audience of some
+5,000 listeners, Monseñor Salcedo's
+programme had grown by 1954 to six
+hours of daily broadcasting to 16,000
+receivers and 200,000 listeners... By
+1960 there were in excess of one
+million student listeners... With a very
+modest investment, Monseñor Salcedo
+has radically transformed rural life
+over a large part of Colombia.
+Through communal reception, support¬
+ed by first-level maintenance by parish
+priests, he has provided a broadcasting
+system suited to the meagre resources
+of the people and responsive to their
+needs.
+This gives a foretaste of what may
+be done by satellite communications
+to reduce illiteracy and ignorance if
+we decide to devote them to this ser
+vice rather than to selling soap. (Not
+that I am against soap, but I am
+against pretending that one soap is
+better than any other, and feel that it
+is essentially degrading to the commu¬
+nications industry to be dependent
+upon such impostures.)
+Because the slow-scan receiver
+would require a bandwidth of less than
+10 kc/s, it avoids the power and fre¬
+quency allocation problems which blur
+the global TV picture, and could start
+functioning in the very near future.
+There Is no question, however, that
+global TV will arrive just as soon as
+it is technically and economically pos¬
+sible. So much has been written on
+this subject that it is difficult to add
+anything new to it, but the following
+comments seem in order.
+It is often said that the existence
+of time zones will inhibit the develop¬
+ment of instantaneous, planet-wide
+communications. This precisely paral¬
+lels the argument, heard at the begin¬
+ning of this century, that motor cars
+would only be of use inside the cities,
+because, of course, there were no
+roads elsewhere on which they could
+operatel
+When we have true global
+communications, our way
+of life will adapt to them not vice
+versa. It would be frustrating to live
+in a society where, at any given time,
+between a third and a half of one's
+acquaintances were asleep. This will
+be the global situation, a quarter of a
+century from now, and society will
+have to make some Procrustean
+adjustments. Current attacks on the
+problem of sleep may give one answer;
+perhapswe can condense our present
+requirements, by electronic means, into
+an hour or so a day. Or the long
+range solution, unattractive though it
+is, may lie in the wholly artifical world
+where life goes on independently of
+the sun, and all the clocks on the
+planet keep the same time. As will
+appear later, this solution would not
+be only unpleasant, but unstable.
+The existence of nationally operated,
+direct-broadcasting TV satellites will
+immediately focus attention upon two
+problems which today are merely a
+minor annoyance, but which tomorrow
+will be intolerable. They are cen¬
+sorship and jamming. For the advent
+of communications satellites will mean
+the end of the present barriers to the
+free flow of information; no dicta-
+
+WORLD
+GIRDLING
+TRIO
+Drawing shows how three
+synchronous satellites
+placed In orbit around the
+equator could provide
+communications coverage
+over most of the world.
+Experiments have also
+en made with other types
+of communications
+satellites such as those
+placed on inclined
+elliptical orbits
+(see article next page).
+Drawing - USIS
+torship can build a wall high enough
+to stop its citizens listening to the
+voices from the stars. It would be
+extremely difficult, if not impossible,
+to jam satellite broadcasts; any at¬
+tempt by one country to do so would
+result in an act of space piracy, or a
+global telecommunications nuisance
+which the rest of the world could not
+permit.
+One of the immediate objectives of
+the ITU, therefore, should be a total
+ban on jamming, and a recognition by
+all nations that such behaviour is as
+uncultured as interrupting other peo¬
+ple's conversation by making rude
+noises. And very much more dang¬
+erous, since so many vital lifesaving
+and navigation facilities now depend
+upon radio links.
+It seems that we have, in the com¬
+munications satellite, a technical device
+that may help to enforce good be¬
+haviour and co-operation even upon
+reluctant parties. (The meteorological
+satellite, with which it is closely linked,
+will do the same). Its influence will
+be like that of air transport, though
+on a much larger scale and affecting
+whole nations rather than a relatively
+few favoured individuals. The inexor¬
+able force of astronomical facts will
+destroy the political fantasies which
+have so long fragmented our planet.
+For when all major artistic productions,
+entertainments, political and news
+events can be viewed simultaneously
+by the whole world, the parochialism
+and xenophobia of the past will be
+unable to survive.
+his will be one major in¬
+fluence of communications
+satellites; another, perhaps even more
+fundamental, may be the reversal of a
+historic trend which has proceeded
+with scarcely a break for five thousand
+years. The traditional rôle of the city
+as a meeting place is coming to end;
+Megapolis may soon go the way of the
+dinosaurs it now resembles in so many
+respects. This century may see the
+beginnings of a slow but irresistible
+dispersion and decentralization of
+mankind a physical dispersion which
+will take place, paradoxically enough,
+at the same time as a cultural unif¬
+ication.
+It will be none too soon, for it has
+been truly said that the measure of
+man's unhappiness is his estrange¬
+ment from nature. There is ample
+proof of this in the fact that the most
+vicious of all savages are now to be
+found in the rotting stone jungles of
+our great cities. Civilization, in historic
+fact as well as in etymology, was the
+child of the city; but now it has
+outgrown its parent and must escape
+from its suffocating embrace.
+It will be able to do so when almost
+all the sense impressions, skills and
+facilities that we employ in everyday
+life become amenable to telecom¬
+munications as they will. For as I
+concluded in my address to the Xllth
+International Astronautical Congress in
+Washington, 1961:
+What we are building now is the
+nervous system of mankind... The
+communications network, of which the
+satellites will be nodal points, will
+enable the consciousness of our grand¬
+children to flicker like lightning back
+and forth across the face of this
+planet. They will be able to go any¬
+where and meet anyone, at any time,
+without stirring from their homes... all
+the museums and libraries of the world
+will be extensions of their living
+rooms...
+And it will not matter where those
+living rooms may be; for on this planet
+at least, the conquest of space will
+be complete.
+This article was prepared at the request
+of Unesco to serve as background for a
+Unesco report on space communications.
+It was later presented by Arthur C. Clarke
+at the Unesco meeting of experts on the
+use of space communication by the mass
+media in December 7965.
+29

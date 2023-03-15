@@ -1,0 +1,356 @@
+Communications
+technology
+and development
+by Ithiel de Sola Pool
+ITHIEL DE SOLA POOL, U.S. educator, has
+been professor ofpolitical science at the Mas¬
+sachusetts Institute of Technology since
+1953. A fellow of the American Academy of
+Arts and Sciences, he is the authorofa number
+of books on communications, including Talk¬
+ing Back (7373,1, Handbook of Communication
+(1973)andTbe Social Impact of the Telephone
+11976). The present article has been extracted
+from "Technology and Change in Modern
+Communication", a document prepared for
+the International Commission for the Study of
+Communication Problems.
+THE developing countries of the
+world require large injections
+of technology transfer in the
+form of information if they are to have
+economic growth and development.
+The means for this, however, have been
+largely beyond their reach. Today a
+chasm separates the research facilities
+available in developed countries from
+the extremely limited research facilities
+in most of the world.
+With the development of informa¬
+tion retrieval technology, the gap could
+worsen, unless methods are devised to
+facilitate information transfer by new
+means. Given lack of money and skills
+poor countries cannot be expected to
+acquire comprehensive data bases;
+however, as low cost global data net¬
+works become available, they will per¬
+mit remote access to the best informa¬
+tion sources that exist.
+If as seems likely, international data
+communications networks make access
+to data bases available from anywhere
+in the world at communications costs
+
+
+
+Farmers at a co-operative near Piura, northern Peru, attend a training course developed under a project assisted
+by the United Nations Development Fund and the Food and Agriculture Organization. Robust modern portable
+video recording and playback equipment enables the course to be held at the farmer's normal place of work.
+less than that of the mails at present,
+the information gap could rapidly be
+narrowed. A researcher in a university
+or planning office in a country without
+adequate reference sources of its own
+could retrieve a fact from a data base
+anywhere in the world for a communica¬
+tion charge little more than the cost of
+a domestic telephone call.
+In short, as advanced countries in¬
+creasingly transfer their reference
+materials from hard copy libraries to
+computerized retrieval systems, the
+underdeveloped countries will either
+fall further behind in . information
+capacity, or will begin to catch up
+depending upon whether they are link¬
+ed to these new information stores by
+telecommunications .
+One common reaction to such sug¬
+gestions for sustained interaction is
+fear of dependency. But in-fact the use
+of the best scientific knowledge has the
+reverse effect. Given access to advanc¬
+ed knowledge, practitioners in less ad¬
+vanced locations will more quickly ac
+quire the skills to become independent.
+Suppose medical advice was provid¬
+ed to practitioners by global on-line
+query to data bases, and if necessary to
+live specialists. Medical practitioners
+everywhere would quickly improve
+their competence. Suppose that a new
+country linked its computer centre on
+line to a global network. Gradually, but
+fairly rapidly, young programmers and
+analysts would learn new skills. Doing
+things that they could not otherwise
+have done, they would develop expertise
+
+that they otherwise would not have had.
+They will start upgrading their own soft¬
+ware and developing their own data
+bases. They will be conquering the main
+barrier to entering the computer game,
+namely the lack of trained humans with
+access to modern facilities.
+Another objection often raised to
+developing countries investing in
+modern communications is that they
+should be using intermediate rather than
+high technology. They must learn to
+walk, it is said, before they learn to run.
+Poor countries, it is said, have
+unemployed labour and very little
+capital; they should use labour intensive
+processes, like hand-set newspapers, not
+capital intensive ones like computer
+composition. Besides that, it is argued,
+they should use things that they can
+make themselves (like the Indian
+chicken wire SITE antennas), not things
+that they have to import. Also, it is
+said and this is more to the point
+that there exist in every society tradi¬
+tional forms of communication, like
+folksingers, plays or sermons and that
+these have a credibility and mean-
+ingfulness in the culture which no im¬
+ported impersonal form can have.
+AJÍ of those arguments and par¬
+ticularly the last have a great deal of
+merit, but the cliché so easily leaped to,
+that high technology communications
+are inappropriate to developing coun¬
+tries, is a non-sequitur. Suppose that
+when the transistor radio first came into
+use someone had said that developing
+countries should not use that advanced
+technology, but should stick with con¬
+ventional tube radios. We can see that
+transistor radios were cheaper, more
+reliable, easier to produce indigenously,
+more portable, and used less current.
+They were what developing countries
+needed and as a result they spread
+everywhere. Thanks to the transistor,
+radio has become the developing
+world's most pervasive medium.
+It would be a mistake for poor coun¬
+tries to simply imitate the media institu¬
+tions and practices of wealthier ones. In
+the United States and Europe, TV is a
+household good; in India it has been
+adapted to a village facility. In the West
+broadcasting is done almost entirely
+over the air; in China it was first done
+via wired loudspeakers. Since wired
+loudspeakers do not incur the monthly
+cost for batteries, a wired system was an
+appropriate early choice.
+For a telecommunications system to
+Reading the wall
+newspaper, in Beijing.
+Photo Dilip Mehta © Contact Press Images, New York
+serve an underdeveloped area effectively
+it must have certain characteristics. It
+should serve as an adjunct to expression
+by those persons who have credibility in
+the culture. It should use the language
+and the symbols of the culture. Its con¬
+tents should be capable of local adapta¬
+tion. It must be cheap. It should require
+as little foreign exchange as possible. It
+must also be reliable, relatively rugged,
+and not require highly sophisticated
+maintenance and operating personnel. It
+must operate even in the absence of an
+elaborate infrastructure of stable elec¬
+tric current, nationwide microwave
+relays or cable networks, and smoothly
+functioning telephone service. Finally it
+must link the underdeveloped region to
+any possible sources of data, not just to
+ones in a favoured métropole on which
+it is dependent.
+These are not insoluble requirements.
+There are high technologies, in¬
+termediate technologies, and primitive
+technologies that meet many of these
+requirements, and there are high, in¬
+termediate, and primitive technologies
+that fail. Equipment in remote loca¬
+tions, where skilled maintenance men
+are few, should be highly reliable.
+Sometimes that favours solid state elec¬
+tronics (as in telephone switching);
+sometimes that favours manual
+methods. Developing countries have
+little foreign exchange for capital im¬
+ports. Sometimes they can make ad¬
+vanced equipment for themselves, as in
+the case of the SITE ground station
+dishes; sometimes they cannot. Such
+considerations need to be looked at in
+detail in each instance. They cannot be
+bypassed by a verbal cliché about high
+or intermediate technology.
+Among the communications devices
+that are most useful in developing areas
+are some well-tried means like a folk
+singer, or a traditional opera; some
+simple technological devices like a
+mimeograph machine, a slide projec¬
+tor, a wall newspaper, a super-8 movie
+28
+
+School textbooks come off the press at the
+printing works established at Yaounde by
+Unesco in collaboration with the Govern¬
+ment of Cameroon.
+Photo Gary Fullerton, Unesco
+camera, or a wired loudspeaker; and
+some very sophisticated devices like
+transistors, electronic telephone swit¬
+ching, satellites and computer data net¬
+works. The value of the simple devices
+is recognized. What is sometimes
+denied is how well some of the new
+technologies match the requirements of
+poor lands.
+International computer communica¬
+tions, using store and forward message
+switching, is a technology particularly
+well . suited to the need of the less
+developed countries. It bypasses,
+rather than being dependent upon the
+problems of the ordinary phone
+system. For a voice telephone call, both
+parties have to be simultaneously pre¬
+sent which can be very frustrating if it
+takes a couple of hours to complete the
+circuit. In a store and forward system
+the message waits in the transmitting
+computer until the circuit is available
+and then gets sent to its destined ter¬
+minal at any hour of the day or night.
+Furthermore, low cost satellite
+receivers can be installed in remote
+regions, bypassing non-existent or
+overloaded microwave or cable land
+lines. Moreover, sophisticated data
+processing operations can be done by
+remote access to locations where the
+prerequisites exist. All that the local
+service must provide is the capability of
+carrying low speed code such as that
+which currently delivers telex or
+telegrams.
+A four-media communication sys¬
+tem seems likely to be appropriate in
+poor countries, particularly those with
+large terrain and scattered villages. The
+four media that seem most important
+are radio, satellite TV, satellite
+telephone, computer store and forward
+message delivery.
+Radio is found everywhere. Tele¬
+vision adds something to the effec¬
+tiveness of educational broadcasting
+and to the quality of village life.
+However, it is too expensive to be own¬
+ed by many individuals. Its appropriate
+use in the poorest areas is as a com¬
+munity facility. Where territories are
+small and densely populated, terrestrial
+transmission to the village set is
+economic, but where the territory is
+large. and dispersed, the appropriate
+means of dissemination is by satellite as
+pioneered by the Canadians with their
+programmes to the Arctic, and by the
+Indians in the SITE programme.
+Telephony to remote locations can be
+delivered in the same way.
+A sound development policy is one
+that creates communications facilities
+not only for the use of the central
+authorities, but also for the use of
+organizers at all levels. A single public
+telephone call box in a village provides
+a way of getting help in emergencies
+and of putting villagers in touch with
+their market. A tape recorder can be a
+useful instrument for getting feedback
+from illiterate villagers. Other grass
+roots media include mimeographed
+newspapers. Provincial broadcasting is
+important to countries like Nigeria
+where regional, tribal, and language
+differences are great. Voices talking in
+a strange accent from a remote capital
+are less credible than a local man who
+will be seen again the next day, and who
+will have to answer his neighbours
+about what he said.
+Too little study has been done on
+possible use of such devices as the
+telephone or video recorder at the
+lowest rural levels. When developing
+countries invest in telephone develop¬
+ment it is usually to improve the service
+in the capital and between the capital
+and other major towns. Large amounts
+are being spent on such programmes,
+and for good reason. They generally
+show a high return on capital, reflec¬
+ting the high demand for telephone ser
+vice. Such market -guided telephone in¬
+vestments, however, are rarely oriented
+in a major way to giving a voice to
+villagers who want to speak to nearby
+villages or to their district town. A rural
+village in a poor country is usually a
+tightly settled community where
+everyone is on top of everyone else.
+The last need they are likely to feel is
+for a telephone in each house to talk to
+each other. The main function of
+village telephones is to allow villagers
+to be in touch with the market town and
+district officials. It is two-way com¬
+munication; it allows the local nurse, or
+teacher, to make a request to their
+superiors as well as to receive instruc¬
+tions. It allows the farmer to enquire
+about the price on the market or ask
+whether the fertilizer has arrived. A
+single community phone may be ade¬
+quate for years, and may be used only
+three or four times a day, but still
+thereby change the life of the village.
+That, at least, is the finding of the few
+studies of rural telephony that have yet
+been made. It is a subject that calls for
+more attention.
+Opportunities for using communica¬
+tions to accelerate development are
+waiting to be picked up. There are three
+important sets of developments. It is
+becoming cheaper and easier to get
+mass media to the population because
+of low cost cameras and video editing
+equipment, satellites and low cost
+ground stations along with parallel
+developments in publishing. Secondly,
+international data networks are
+eliminating geography as a barrier to
+access to the world's best information
+resources; users can be on line to them
+from anywhere. Third, satellites and
+solid state electronics make two-way
+communication more feasible for even
+the most remote villages, bringing them
+into the national system.
+Ithiel de Sola Pool
+29

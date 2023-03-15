@@ -1,0 +1,289 @@
+The
+microcomputer
+has become
+an important
+support for
+new forms
+
+
+
+of literacy
+Z - \ ?*$ . *{
+L. A # ^
+/ ^
+The PC and the 3 Rs
+i
+By Kenneth Levine
+N a century of almost continuous technological
+innovation affecting all the major media of human
+communication, the last decade has been partic¬
+ularly marked by rapid and striking developments
+in telecommunications and the power and cost-
+effectiveness of computers. Until recently, the
+inculcation of reading and writing skills has been
+the pre-eminent and unchallenged objective of
+almost all programmes of basic education the
+world over, but it is natural that sophisticated
+technical developments should prompt some
+reflection about the future significance of literacy,
+for both individuals and societies.
+Among the many issues that arise, we can use¬
+fully concentrate our attention, in turn, on three.
+Do "traditional" literacy and the medium of
+print retain their importance in the face of com¬
+petition from new modes of transmitting infor-
+Optical fibres (above),
+glass filaments no thicker
+than a human hair, are
+revolutionizing
+telecommunications.
+mation, and if so, how will they be altered? What
+degree of change is likely to take place in the level
+and spread of skills constituting literacy? Should
+the new media be seen as benign and potentially
+democratizing forces, or as sinister additions to
+the armouries of already powerful élites and
+bureaucracies? We can simplify our task some¬
+what by selecting the impact of the personal com¬
+puter on literacy as the main example under
+scrutiny.
+Before tackling these specifi'c questions, there
+are two preliminary considerations of a general
+kind. The first is an obstacle to sound reasoning
+that must be removed. Many of the forecasts and
+scenarios that are being dispensed by contem¬
+porary commentators contain a debilitating flaw
+in their analysis. They assume that the new tech¬
+nologies usher in a set of predetermined social and 33
+
+economic consequences that are universal and
+irresistiblean assumption often referred to as
+"technological determinism".
+Many of the scenarios, whether optimistic or
+pessimistic in tone, consist of the extrapolation
+and generalization of trends from a particular
+technical development in a particular society. In
+predicting what will happen when that technol¬
+ogy emerges in, or is transferred to, other soci¬
+eties, little or no allowance is made for the
+34
+mediation of local economic, political and social
+processes.
+The second consideration relates to literacy
+itself. Literacy is not a unified skill but a plurality
+of different capacities. A pedant would insist that
+we speak always of "literacies" in an effort to
+accommodate the fact, for example, that people
+"literate" by all of the conventional benchmarks
+may nevertheless not be able to read or write in
+"foreign" languages, or even use many of the
+specialist applications of writing and print avail¬
+able in their own natural language (for example,
+notations for music or chemical compounds, pho¬
+netic alphabets, proof-reading marks, maps,
+timetables, engineering plans, meta-languages for
+logical, mathematical or computing purposes).
+One of the indirect impacts of new technol¬
+ogies is that they alter prevailing social definitions
+of the skills (and the level of the skills) that con¬
+stitute literacy. It is important clearly to distin¬
+guish improving or declining rates of literacy
+from shifts in the way in which it is being con¬
+ceived and defined.
+Let us now take up the question of the dura¬
+bility of traditional literacy. One reliable meas¬
+ure of its continued importance is the level of
+consumption of printed paper, which has shown
+steady increases in both developed and develop¬
+ing societies over the past decade. Partly through
+its close connection with techniques of
+bureaucratic organization and project manage¬
+ment, the incorporation of reading and writing
+into all spheres of life and into a vast assortment
+of mundane transactions is at work on a global
+scale. The situation is broadly similar for "serious"
+writing and publication. Despite the forecasts that
+Computerization of the
+workplace: (above) India;
+(right) Zaire.
+have been repeatedly made over the last fifty years
+concerning the imminent eclipse of "book cul¬
+tures", the statistics show that the market for con¬
+ventionally published works has held up in the
+face of the expansion of ostensibly "rival" media
+such as recorded music, television and video.
+Software that takes
+the drudgery out of writing
+There are several reasons for viewing the advent
+of micro-computers as an important support for
+the literacy/print combination. The potential of
+this kind of equipment as a literacy aid, mainly
+within the framework of conventional schooling,
+has been recognized for some years. Unfortunate¬
+ly, the first generations of computer software for
+use in literacy training were, in general, pedes¬
+trian in conception, offering little more than drill
+exercises on a display screen rather than on paper.
+The greatest contribution to literacy studies so
+far has come from word processing software
+which has eliminated much of the drudgery as¬
+sociated in the past with the creation of finely-
+tuned and error-free texts, allowing the novice
+and the experienced author alike to concentrate
+on the creative process and to experiment freely.
+Spelling checkers, now often integrated with
+word processing software, represent a useful half¬
+way house on the road to high-level literacy: they
+allow the learner to eliminate errors (and mis¬
+types) that would, if uncorrected, detract from
+the polish and authority of the resulting text. In
+future, grammar and style checkers will extend
+this kind of facility, although at present they are
+generally crude and unreliable. As significantly
+
+KENNETH LEVINE,
+of the United Kingdom, is a
+lecturer in sociology at the
+University of Nottingham.
+He is the author of The
+Social Context of Literacy
+(Routledge & Kegan Paul,
+London, 1986).
+more powerful hardware and software become
+available, the quality of such aids will improve
+drastically. Many creative possibilities are also
+opened up by the way in which the micro¬
+computer can be used as the heart of a "hyperme¬
+dia" system that is to say, as the device that con¬
+trols the generation of a "performance" involving
+text, graphics and sound that is structured inter¬
+actively according to the responses of the learner
+to the programme.
+New ways of learning
+The linking of micro-computers to telecommu¬
+nications networks is another area of immense
+potential, particularly for the study of foreign lan¬
+guages. Pupils can send messages to their peers
+across continents quickly and relatively cheaply,
+adding spice and interest to language studies and
+frequently providing the contacts that lead to col¬
+laboration on projects and exchanges of person¬
+nel. This kind of "electronic mail", which
+involves an amalgam of the characteristics of face
+to face interaction, telephone contact and letter
+writing, has the hallmarks of a distinctive medi¬
+um of communication with a unique blend of in¬
+timacy, informality and distance.
+One of the most important characteristics of
+these latter developments is that they promote
+a participative form of learning; they permit (and
+frequently require) the learner to have a pro¬
+active role in decisions about how the pedagogic
+project is to be approached, and they are gener¬
+ally congruent with a philosophy of releasing the
+learning process, as far as possible, from the
+physical boundaries of any specific educational
+institution.
+The next issue concerning possible changes in
+the constituent skills of literacy is an important
+one with two principal aspects. The first is that
+change in the print-bearing medium does direct¬
+ly alter the character of reading and writing skills,
+but in most cases, only at the margins. Thus, to
+the extent that micro-computers become standard
+classroom teaching aids, some elements of "com¬
+puter literacy" such as familiarity with keyboards
+and basic knowledge of the capacities of word
+processing systems and their associated equipment
+will increasingly be incorporated into popular ex¬
+pectations of what literacy signifies, in much the
+same way as use of the electronic calculator is be¬
+ing assimilated into notions of numeracy.
+The second aspect concerns the probability
+that, in many societies, "inflation" will lead to 35
+
+i 1* -
+gliü&vaí HU1^01 ?w?inlrH
+» * -t. LtJL j, o o
+-', FfFPT rj F F f £
+* t * ni* .
+WiA^ ,hîr^V°X YiM°V O
+36
+Above, musical notation,
+16th century.
+Left, diagrams of the
+structure of the atom, from
+New System of Chemical
+Philosophy (1808-1810), by
+the British chemist and
+physicist John Dalton.
+a rise in the threshold of the minimum accept¬
+able standard of reading and writing (a standard
+often referred to as "functional literacy"). This
+inflation occurs because literacy is never a purely
+instrumental skill; possession or lack of it univer¬
+sally carries implications for the individual's
+social standing, so there is a tendency to seek the
+highest level of attainment possible, irrespective
+of the difficulty of the materials that will be
+written or read.
+Literacy is also the means to gaining educa¬
+tional qualifications that can secure entry to
+remunerative and prestigious forms of employ¬
+ment. In the face of competition, some candidates
+for such posts will choose to invest in higher lev¬
+els of literacy in order to acquire the advanced
+qualifications that give them an advantage over
+their rivals. Over time, others will copy their ex¬
+ample, until everyone finishes up in their origi¬
+nal relative positions. To achieve any advantage,
+an individual must now make a further invest¬
+ment in literacy and qualifications, fuelling an in¬
+flationary spiral of standards. The general
+implication of this spiral is that there will be a
+need to enhance the attainment targets in many
+programmes of basic education and also to offer
+more comprehensive provision for intermediate
+and advanced language studies.
+Finally, are the new technologies essentially
+democratic and egalitarian, or threats to civil
+liberties and personal freedoms? It has been ar¬
+gued, for example, that tools such as desk-top
+publishing, which can greatly facilitate the
+production of low-cost documentation such as
+newsletters and teaching materials, will empower
+many marginal and scattered minority groups,
+giving them for the first time a collective voice
+and identity. It has equally been argued that the
+capacity of national governments to acquire the
+most powerful available means of information
+storage and processing leads to ever greater dangers
+of centralized control and cultural uniformity.
+As suggested at the start of this article, ab¬
+stract generalizations in this area are likely to be
+unsound. As with technology generally, in benign
+hands the new tools of literacy are themselves be¬
+nign. The ends to which they are applied are a
+political and cultural consideration determined
+within each host society. There is, however, one
+significant global aspect: the cost of the new in¬
+formation systems, although falling rapidly in real
+terms, represents yet another potential source of
+inequality between the developed and the de¬
+veloping nations.
+The new information technologies cannot be
+looked to for a once and final solution to the
+problem of world literacy. Indeed, we must ac¬
+cept that this problem is not of a kind that lends
+itself to final eradication since literacy and illiter¬
+acy are both relative rather than absolute condi¬
+tions. The least literate in any society will always
+be seriously disadvantaged, while the fluent will
+increasingly demand opportunities to acquire
+specialist technical or foreign language literacies.
+In all probability, new technologies alone cannot
+cope with this rise in expectations, but if they
+are developed and implemented in a manner sen¬
+sitive to local needs and conditions, they can
+make a more than modest contribution to meet¬
+ing the literacy aspirations of a new century.!

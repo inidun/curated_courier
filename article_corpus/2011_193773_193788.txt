@@ -1,0 +1,221 @@
+I grew up in the leafy suburbs of
+Johannesburg, and had the privilege of
+receiving a private education. Being a
+young white learner at a private school
+meant that I was somewhat sheltered
+from the pain that South Africa was
+going through towards the end of
+Apartheid, but I cherish, as dearly as all
+my fellow South Africans, moments like
+Mandela’s release and inauguration and
+the World Cup in 2010, that have
+defined our new democracy as well as
+our national spirit ever since.
+I had always imagined starting my
+own business, but it wasn’t until after
+completing my Bachelor of Business
+Science at the University of Cape Town
+and spending five years in London’s
+corporate world, that Obami was born.
+Back then (2007), Obami was an open
+and generic social networking site, but
+after Facebook opened up beyond its
+college networks, I decided to target
+Obami to schools. 
+Obami is now a social learning
+network that provides a communication
+and learning platform for teachers,
+learners and their parents. It combines
+networking tools similar to those found
+on sites like Facebook with
+comprehensive learning management
+tools like those found on Moodle (an
+open source learning platform), all from
+within a safe environment – it is
+intended in large part for children. 
+The platform was originally built in
+London, but on a trip back to South
+Africa in 2008, I made the decision to
+move Obami home – if it could work in
+Africa, it could (theoretically) work
+anywhere. And more importantly, if it
+did work, it would make an enormous
+social impact in a place that needs it
+most.
+BARBARA MALLINSON
+L A young girl doing school work outside her home in
+a South African shanty town.
+In 2008, the young South
+African Barbara Mallinson,
+created Obami, which has
+since become the best
+friend of pupils in schools
+around her country. Neither
+black nor white, Obami is
+virtual; it is helping to
+improve the quality of
+education and thus the
+quality of life. Obami’s
+creator tells her story.
+Obami
+
+My best friend
+
+South Africa, a beautiful nation with
+a remarkable mix of rich cultures, still
+struggles with socio-political challenges
+a full 17 years after the birth of its new
+democracy. HIV/AIDS, crime, weak
+infrastructure and maladministration
+are just some of the reasons why South
+Africa is one of the world’s poorest
+performing nations with regards to
+education standards. In 2010, only
+23.5% of leavers qualify for further
+education, according to an official
+report in January 2011.
+At 0.68, South Africa’s Gini
+Coefficient is one of the highest in the
+world (the figure was published by
+Bloomberg agency on 25 February
+2011). As this coefficient can vary from 0
+to 1 with 0 representing perfect equality
+of incomes, the figure is an alarming
+sign reflecting a nation of great
+extremes. Unskilled labour is in
+abundance, while skilled labour –
+especially in the medical, engineering,
+IT, financial and technical fields – is in
+severe shortage due to major
+underperformance of mathematics and
+science within the education sector. This
+has only been further amplified by
+South Africa’s “Brain Drain” endemic,
+where a sizeable proportion of the
+country’s professional workers have
+emigrated over the past two decades.
+Using Obami
+It’s an ominous situation, one that can
+only be resolved from the bottom up.
+My vision was, and still is, to use Obami
+in bringing about social change,
+starting with education. 
+Obami supports three critical areas
+of education: resource distribution,
+teaching and learning practices, as well
+as performance measurement. Teachers
+can create, share and access educational
+resources using rich media content
+tools, while the latest web 2.0 enhanced
+interfaces (using Ajax technologies, for
+instance) facilitate interaction and
+collaboration between and amongst
+them, the learners and the learners’
+parents, using the model of blogs and
+social media. The system also
+incorporates an assessment application
+for the continual measurement of a
+learner’s performance.
+I have striven to offer Obami to
+schools for free. My motivation for
+doing so? So that each and every child
+can one day access a quality education
+through Obami, no matter what
+background they come from. Costs are
+currently being supported through
+private funding, and I have been
+fortunate to receive valuable support in
+the form of free hosting from the
+country’s biggest Internet Service
+Provider, Internet Solutions. I am also
+collaborating with existing NGOs in the
+schools sector – Edunova, who provide
+Information and Communication
+Technology (ICT) training to
+underprivileged communities, and
+Siyavula, who create high quality
+educational resources. 
+Challenges
+However, I am also very aware of the
+challenges I am taking on. Besides the
+personal sacrifices that my husband
+(who now works alongside me) and I
+have made in running our own
+business, Obami faces significant
+external factors. The very market that
+stands to benefit the most from Obami
+lacks infrastructure and internet
+accessibility. In 2009, only 23% of South
+Africa’s 25,000 government schools had
+a computer centre, and it is estimated
+that today, less than 20% of all public
+schools are connected to the internet. 
+In stark contrast, nearly all of South
+Africa’s 2,000 private schools were set
+up with connected computer facilities. It
+made natural sense for me to target
+Obami’s offering to the independent
+education sector at first. My strategy: to
+capture the small, but highly connected
+group of schools, here and abroad, and
+leverage their competitive advantages
+(i.e. skilled teachers, quality educational
+resources, etc) for the good of all.
+Already, less privileged schools have
+been able to quickly access quality
+educational resources created by others
+through the platform.
+But even in reaching the most
+connected of schools, Obami has faced
+difficulties. Schools are yet to embrace
+the web 2.0 revolution like social,
+business and niche communities have,
+perhaps because of online safety
+concerns – school decision makers have
+a responsibility to act as gatekeepers to
+what is unknown territory. It has taken
+me time to convince them of Obami’s
+social learning relevance and its
+commitment to providing a safe
+environment. Now that the product is
+proving itself, with more than 40
+registered schools, things have become
+easier.
+As for connectivity, change is
+happening within the continent.
+SEACOM, Main One, EASSy, and WACS,
+all undersea cable systems connecting
+Africa to the digital highway, are set to
+exponentially boost Africa’s connectivity
+and bring internet access costs down.
+Mobile currently dominates Africa’s
+internet access mediums, and will
+continue as such – it is a giant
+developing consumer market. For
+schools though, falling hardware costs
+(through increased cloud computing
+services), will provide a real chance of
+being able to set up technology centres
+and bridge the digital (and educational)
+gap. 
+Obami was awarded a spot as one of
+the world’s Top 10 Most Innovative
+Technologies for 2011 by French
+organisation Netexplorateur, in
+partnership with UNESCO, Air France,
+Deloitte, Orange and a number of other
+large organisations, and I was pleased to
+have been selected as one of the “Top
+200 Young People to Take to Lunch” in
+2010 by one of South Africa’s
+newspapers, the Mail & Guardian. It’s
+always an honour to receive recognition
+for Obami – even though it still has so
+much further to go. Every milestone
+that Obami reaches will only aid in the
+quest to improve education standards
+and connect more schools across the
+continent with rest of the world. ■
+K Barbara Manlinson, now 30, is the creator of
+Obami, a networking platform for South African
+schools.

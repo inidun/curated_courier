@@ -1,0 +1,243 @@
+Manolo plugs into the sun
+by Christopher Flavin and Nicholas Lenssen
+A unique andpotentially revolutionary means
+ofgeneratingpower, solarphotovoltaic cells are
+meeting the energy needs of thousands of
+villagers in the developing world. One of them
+is Manolo Hidalgo. . .
+Above, a solar energy power
+plant at Carrisa Plain, California
+(U.S.A.).
+In Joba Arriba, a scattered farming set¬
+tlement of about 5,000 people on the
+Dominican Republic's northern coast, Manolo
+Hidalgo decided to give his family a different
+kind of Christmas present in 1991: electric
+lighting. No longer content with dim and smelly
+kerosene lamps to light the homework of his
+three children, Hidalgo knew that his chances of
+getting electricity in the conventional way by
+hounding government officials in the hope they
+would extend the nearest power line the neces¬
+sary fifteen kilometres were faint at best.
+Hidalgo came up with a faster, more reli¬
+able option. Travelling to the nearby town of
+Sosua, he visited a small store called Industria
+Eléctrica Bella Vista, which offered a self-con¬
+tained solar panel that converts the sun's rays
+directly into electric current. With help from the
+store's electrician, Hidalgo mounted the roughly
+one-metre-square panel on his roof and wired it
+to a lead-acid battery in order to store electricity
+for use in the evening. The day after visiting 25
+
+A solar-powered water pump in
+a refugee camp in Hargeysa
+(Somalia).
+Below, solar panel and water
+pump in a Moroccan village.
+Sosua, his home had five working electric lights,
+as well as a radio and television set, all pow¬
+ered by his solar photovoltaic (PV) panel. With
+the flip of a switch on that December day,
+Hidalgo and his family joined tens of thousands
+of rural people who in the past few years have
+begun getting their power directly from the sun.
+It is hard not to be struck by the irony that
+the basic energy needs of some of the world's
+poorest people are being met by what is arguably
+the most elegant and sophisticated energy tech¬
+nology yet developed. Indeed, solar photo¬
+voltaic cells, which can be used in everything
+from handheld calculators to suburban rooftops
+and large desert power stations, are a unique
+and potentially revolutionary means of gener
+ating power. Solar cell technology is advancing
+rapidly, and many experts expect the devices to
+be ubiquitous in the early part of the next cen¬
+tury. But the greatest short-term impact of solar
+photovoltaics will be in the rural Third World,
+providing power to many of the more than two
+billion people like Manolo Hidalgo who do not
+yet have it.
+Solar photovoltaic cells are semiconductor
+devices made of silicon similar to but far less
+expensive than the chips used in computers
+that convert the energy from sunlight into
+moving electrons, avoiding the mechanical tur¬
+bines and generators that provide virtually all the
+world's electricity today. French scientist
+Edmond Becquerel discovered in 1839 that light
+falling on certain materials could cause a spark
+of electricity known as the "photoelectric
+effect" and that this charge could, under the
+right conditions, be propagated, forming an
+electric current. Within fifty years, scientists
+began to manufacture primitive solar cells out of
+a rare element known as selenium. The high
+cost and low efficiency of these devices made
+them useful in only one serious application
+photographic light meters.
+The precursors of the modern photovoltaic
+cells used on Manolo Hidalgo's roof did not
+emerge until 1954. Early that year, a small team
+of scientists at the Bell Laboratories in New
+Jersey began looking for a way to generate elec¬
+tricity for telephone systems in remote areas. As
+they tried to improve the selenium cells, a sep¬
+arate Bell team discovered that a silicon device
+26
+CHRISTOPHER FLAVIN,
+of the United States, is Vice-
+President for Research at the
+Worldwatch Institute in
+Washington, D.C., a private non¬
+profit environmental research
+organization.
+NICHOLAS LENSSEN,
+of the United States, is a Senior
+Researcher at the Worldwatch
+Institute. His research and
+writing deal with energy policy,
+alternative energy sources,
+nuclear power, radioactive
+waste, and global climate
+change.
+This article has been
+extracted from their book Power
+Surge, Guide to the coming
+energy revolution (W.W. Norton
+& Company, New York and
+London, 1994).
+
+Cleaning domestic solar
+heating panels in Australia.
+they were testing produced electricity when
+exposed to sunlight. When the work of the two
+groups was merged, a breakthrough was
+achieved: a silicon cell that converted 4 per cent
+of all incoming sunlight into electricity five
+times as much as the best selenium cell. Within
+a few months, the Bell team had pushed the
+cell's efficiency to 6 per cent. Excitement about
+this development was compounded by the fact
+that silicon is the second most abundant ele¬
+ment, constituting 28 per cent of the earth's
+crust. Soon, the Bell scientists began to speculate
+that silicon solar cells might become a major
+source of electricity, and their enthusiasm was
+echoed by the popular media, which touted the
+imminent arrival of a solar-powered future.
+Dpin-off from the space race
+Realizing that potential turned out to be a far
+greater challenge than anticipated. The initial
+silicon solar cells cost roughly $600 per watt
+($3,000 in 1993 dollars), several thousand times
+as much as electricity from conventional plants.
+After building a few prototype solar panels,
+Bell Labs decided that no commercial applica¬
+tions were within reach and shelved the new
+technology. The photovoltaic cell was saved
+from obscurity by the U.S. -Soviet space race
+in the 1960s. In the rush to find a practical way
+to power satellites, U.S. space scientists dusted
+off the solar cell.
+During the next decade, a sizable infusion of
+U.S. government funds served to jumpstart the
+photovoltaic industry. Within ten years the price
+of solar cells was cut by a factor of five to ten, the
+cell efficiency rose and the durability of the
+devices improved. Producing these early PV
+cells required pure, expensive silicon and
+More than 200,000 homes in
+Mexico, Indonesia, South Africa, Sri
+Lanka and other developing countries
+have obtained electricity from
+rooftop-mounted solar systems over
+the past decade.
+wasteful, energy-intensive manufacturing
+processes. Individual wafers of silicon were
+sliced from long crystals grown at temperatures
+above 1,400 degrees Celsius. Although costs
+were beginning to fall, PVs were still too expen¬
+sive for any application other than the govern¬
+ment-funded space programme.
+The 1973 oil crisis created a new race to
+bring photovoltaics back to earth. Government
+energy agencies and scores of private companies
+invested billions of dollars in advancing the state
+of photovoltaic technology. By 1980, the effi¬
+ciency of commercial PV modules had risen to
+more than 10 per cent, and the price had fallen to
+roughly $12 a watt ($21 in 1993 terms). Finally, sil¬
+icon PV cells were cheap enough to fill the niche
+Bell Labs originally tried to create for them.
+During the 1980s, solar cells were widely deployed
+at telephone relay stations, microwave transmit¬
+ters, remote lighthouses and roadside callboxes
+applications where small amounts of power are
+needed and where conventional power sources are
+either too expensive or not reliable enough.
+The technology continued to advance during
+the next decade, and by 1993 the average whole¬
+sale price of photovoltaics had dropped to
+between $3.50 and $4.75 a watt, or roughly 25-400
+a kilowatt-hour, thanks both to higher efficien¬
+cies and more automated manufacturing
+processes. As costs fell, sales rose from 6.5
+megawatts in 1980 to 29 megawatts in 1987, to 60
+megawatts in 1993. The worldwide industry,
+including ancillary activities such as retail sales and
+installation, did roughly $1 billion worth of busi¬
+ness in 1993.
+Although still too expensive to compete
+head-to-head with conventional generating
+technologies, photovoltaic cells have found ever-
+larger niches in the global energy market. The 27
+
+Some of the many uses of
+solar energy. Above, a solar
+reflector cooker (Kenya); above
+right, a Paris street lamp
+(France); right, a telephone
+booth in Australia.
+28
+technology's versatility was best demonstrated
+in the mid-1980s, when Japanese electronics
+companies came up with a particularly inge¬
+nious application, attaching tiny solar cells to
+small consumer devices such as handheld pocket
+calculators and wrist-watches. These require
+only a trickle of electricity, well within the capa¬
+bility of a small solar cell even when oper¬
+ating in a dimly lit room. Since the late 1980s, the
+Japanese have sold an average of about 100 mil¬
+lion such devices each year, an application that
+absorbs 4 megawatts of solar cells annually, 6 per
+cent of the global market. The use of solar cells
+in consumer electronics has levelled off in recent
+years, as has that in telecommunications, sur¬
+passed by more rapidly growing applications
+ranging from rural water pumps to village homes
+and rural electricity.
+By the early 1990s, thousands of villagers in
+Africa, Asia and Latin America were doing the
+same thing as Manolo Hidalgo, using photovoltaic
+cells to power lights, televisions and water pumps,
+needs that are otherwise met with kerosene lamps,
+rechargeable batteries and diesel engines. More
+than 200,000 homes in Mexico, Indonesia, South
+Africa, Sri Lanka and other developing countries
+have obtained electricity from rooftop-mounted
+solar systems in the past decade.
+Prospects for using solar photovoltaics in
+ever-wider applications hinge on how rapidly
+the technology evolves. Prices will need to be cut
+by a factor of three to five in order for large-scale
+grid-connected applications to become eco¬
+nomical. Most PV experts are confident that
+such reductions can be achieved by continuing
+the advances in cell efficiency and manufac¬
+turing processes of the past two decades and
+by capturing the cost-saving potential of mass
+production.

@@ -1,0 +1,206 @@
+The new world
+ofartificial intelligence
+THE days may soon be past when a pes¬
+simist could say that a computer, for all
+its capacity for rapid calculation, was a
+"high-speed idiot" because it could not "rea¬
+son". We are now moving into the age of
+"intelligent machines" and of "artificial intel¬
+ligence" a discipline that has an important
+place in informatics.
+Artificial intelligence is a branch of informa¬
+tics which studies the theoretical bases, meth¬
+odologies and techniques which make it pos¬
+sible to design hardware and software
+systems capable of performing tasks which to
+the non-expert would seem to belong
+exclusively to human intelligence. The aim of
+artificial intelligence research is to produce
+systems which behave intelligently and inter¬
+act with the world outside them just as human
+beings do.
+In practice, the results of research into artifi¬
+cial intelligence are now becoming part of our
+everyday lives. Artificial intelligence systems
+are acting as advisers and experts in such
+fields as lexicological analysis, medical diag¬
+nosis and genetic engineering. There are
+robots which have the power of perception
+and visual recognition and the ability to
+behave rationally in unfamiliar circumstances,
+terminals which converse in natural lan¬
+guages, either in speech or writing (though
+there are limits to their abilities in this sphere),
+systems that solve problems and demon¬
+strate theorems.
+Every two years, specialists meet to
+exchange information at the International
+Joint Conference on Artificial Intelligence
+(IJCAI), which is usually held in a leading
+world centre for study in this field. The first
+conference was held in Washington, D.C., in
+1 969, and since then conferences have taken
+place in London, Stanford, Tbilisi, Cambridge,
+Tokyo, Vancouver, Karlsruhe and Los
+Angeles. This year the Conference is being
+held in Milan, in recognition of work done in
+Italy in this field of advanced research. It will
+take place from 23 to 28 August, in the Centro
+CongressLMirafori.
+The philosophy of IJCAI is based on the
+belief that contemporary thought has suc¬
+ceeded in unifying the concept of culture; the
+old idea that scientific culture and humanistic
+culture are two different things has been dis¬
+carded. The culture of our day should there¬
+fore be characterized by the synthesis of
+these two forms of mental activity.
+Artificial intelligence is thus claimed to be
+the supreme example of an interdisciplinary
+subject, as was made clear at a symposium to
+prepare for the IJCAI Conference in Milan,
+held at the St. Vincent Cultural Centre (Italy)
+on 21 February last. The work of the sym¬
+posium, entitled in an allusion to Beckett's
+play, "Waiting for Robots: the immediate
+future of artificial intelligence", could perhaps
+be summarized by saying that two fundamen¬
+tal questions are being asked in this field: how
+far and how soon will robotics be able to take
+the place of man; and will man ultimately be
+rivalled, if not completely outstripped, by
+machines.
+Mr. Basilio Catania, the director of the Turin
+Telecommunications Research Centre and
+Laboratories, a leading Italian research
+institution in the field of artificial intelligence,
+pointed out that man possesses muscle
+power, faculties of perception, and intel¬
+ligence. Over the centuries, man has con¬
+stantly aimed to extend these capacities. His
+first success in enhancing his muscle power,
+the invention of the wheel, was followed by
+many others and culminated in the harnessing
+of the atom. He enhanced his faculties of per¬
+ception by inventing increasingly efficient
+tools, leading to the development of the elec¬
+tron microscope, the radio telescope, and
+television.
+In the sphere of human intelligence, one of
+the most significant steps forward was the
+invention of the pocket calculator, the pro¬
+totype of the complex modern machines
+which make it possible to increase man's
+mental capacity and will do so to a still greater
+degree in the future. Artificial intelligence sim-
+Some key words in artificial intelligence
+The expression artificial intelligence was formulated for the first time in 1956 by John McCarthy of
+Stanford University (United States).
+This new discipline proposes to overcome the current limits of informatics in certain areas, improving
+and extending the performance of computers. Its purpose is not to "simulate" human intelligence but to
+"emulate" it, since there is no basis for excluding the possibility that some manifestations of human
+intelligence, problem-solving, for example, can also be provided by adopting methodological approa¬
+ches that are not necessarily anthropomorphic.
+Within artificial intelligence, an Expert System is a system capable of automatically solving problems
+of a certain type, proposed by the users of the system. An Expert System is the result of the collaboration
+of two designers, the "knowledge engineer" who develops the algorithms (the sequences of instructions
+for solving a particular problem) necessary to construct the solution and the structures suitable for
+receiving the base information, and the "problem expert" who furnishes the body of facts and deductive
+rules, called the knowledge base of the Expert System.
+Industrial exploitation of Expert Systems will Increase with the use of fifth generation machines (see
+article page 16) which are currently the subiect of intensive research. The Expert System is directly
+embedded In the electronic architecture of these machines, which are created with the most advanced
+technologies of microelectronics, such as Very Large Scale Integration circuits, which present a million
+transistors on a single silicon chip.
+14
+
+by Domenico de Gregorio
+ply enables man to "extend" his own intel¬
+ligence, as It were, by providing a "prosthesis"
+to help him perform various functions.
+We must, however, beware of thinking of
+the future of these "prostheses of intel¬
+ligence" as a collection of anthropomorphic
+robots: a car may be regarded as a prosthesis
+of legs, but it is not the same thing.
+One of the most advanced fields of artificial
+intelligence research has led to the con¬
+struction of what are known as "connection
+machines", in which a large number of tiny
+calculators, instead of working sequentially,
+work on various pieces of information at the
+same time which is what happens in the
+human brain and combine the results. This
+was the field selected for the EEC project on
+"Basic research in adaptive intelligence and
+neurocomputing".
+The great scientific discoveries of the twen¬
+tieth century, such as the splitting of the atom
+and, more recently, genetic engineering, have
+conferred on man enormous powers which
+can be used for good or ill. Artificial intel¬
+ligence, too, may be used for good or ill. The
+availability of vast amounts of information
+which can be analysed in a fraction of a sec¬
+ond can be a source of financial and political
+power and can thus be open to all kinds of
+abuse. But artificial intelligence can also bring
+many advantages. It may help to provide more
+rewarding occupations for millions of people,
+increase productivity and take some of the
+drudgery out of work.
+Advances in the field of artificial intelligence
+will soon produce "fall-out" which may have
+surprising and awe-inspiring consequences
+such as giving sight to the blind. A project now
+underway at Rockville, Maryland, Is currently
+examining the possibility of using about a hun¬
+dred thousand micro-electrodes, associated
+with nerve cells In the embryonic phase of the
+visual cortex, to connect with the visual struc¬
+tures of the brain and give sight even if only
+rudimentary sight thanks to a microscopic
+telecamera implanted in a pair of spectacles,
+completely by-passing the eyeballs and the
+optic nerve.
+While the opportunities opened up by artifi¬
+cial intelligence can be expected to create
+new and more satisfying kinds of work, prob¬
+lems are bound to arise, ranging from the
+revaluation of certain categories of work and
+those who do it, to problems connected with
+privacy and the security of information, which
+may have Important legal implications.
+©
+:
+'
+1
+1
+-
+1
+. Vr;A/. - ';
+0^H
+i wÄu^Sk
+rJjMre& H
+¿$ËA h?
+W
+WmÊ
+**Áta¿ «*#**' vv I HÔk
+£.: 2»
+i m __
+t : ^m
+5 mtm f!
+*--i H !T B * M H#^H
+ft a
+*
+DOMENICO DE GREGORIO, Italian journalist
+and specialist in mass communication, is man¬
+aging editor of the Italian edition of the Unesco
+Courier. He has taught at the Italian Advertising
+Institute (University of Rome) and is the author of
+a number of studies on information science,
+notably Metodología del periodismo (1966,
+"Methodology of Journalism") and L'lnforma-
+zione, teoha ed evoluzione storlca (1981, "Infor¬
+mation, Theory and Historical Evolution").
+15

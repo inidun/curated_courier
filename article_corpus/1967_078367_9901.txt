@@ -1,0 +1,777 @@
+With supersonic commercial airliners
+designed for speeds up to 1,800 m.p.h.
+(2.7 times the speed of sound) now
+on drawing boards or already in prototype
+construction, the day is not far off
+when millions of people will be
+faced with the problem of sonic
+booms. This striking photo was taken
+during wind tunnel tests on a model
+of the Anglo-French supersonic
+transport "Concorde" (designed to fly
+at 1,450. m.p.h.). It shows the flow of
+air that will swirl around the aircraft
+(viewed from rear) as it comes in to land.
+Photo Sud Aviation, France
+
+STREET AND AIR
+TRAFFIC NOISE
+AND WHAT WE
+CAN DO ABOUT IT
+by Léo L. Beranek
+
+N OISE once served as
+man's principal warning signal. The
+sound of an approaching carriage on
+an otherwise quiet street warned
+people of danger. A booming sound
+meant an explosion, often accom-
+LEO L. BERANEK is a leading American
+specialist on problems of acoustics. He is a
+lecturer at the Massachussets Institute of
+Technology, Cambridge (U.S.A.) where he
+was formerly associate ' professor of
+communications engineering, and is pres¬
+ident of a U.S. research and consulting
+firm. Dr. Beranek has lectured on acoustics
+at many European universities and institutes
+(in London, Zurich, Prague, Warsaw, Mos¬
+cow and Helsinki) and was visiting pro¬
+fessor at the University of Buenos Aires
+in 1949. He is the author of "Acoustics",
+"Acoustic Measurements", "Noise Reduc¬
+tion" and "Music, Acoustics and Architec¬
+ture".
+panied by disaster. A noisy bearing
+or a shrieking cutting tool signaled
+mechanical failure in the factory. The
+piercing shout of a fellow worker was
+a prime factor in preservation of life
+on a construction job.
+Historically, noise has been a ser¬
+vant to man. But in the last quarter
+century, noise has fallen from a posi¬
+tion of usefulness to one of nuisance.
+Modern technology has furnished its
+own fanfare an ever-increasing din
+that disturbs our sleep, interrupts our
+conversation, creates anxiety and
+annoyance, and sometimes damages
+hearing.
+Advancing civilizations will create
+more noise, not less. Of that, we are
+certain. In all probability, the noise
+level will grow not only in urban cen
+tres, but, with increasing population
+and the proliferation of machines, noise
+will invade the few remaining havens
+of silence in' the world. A century
+from now, when a man wants to escape
+to a quiet spot, there may be no place
+left to go.
+We probably could not reverse the
+trend, even if we tried; so we must
+view the problem not as one of elimi¬
+nating noise, but rather of controlling
+it. Science alone is not the answer.
+Our most troublesome noise problems
+carry price tags; economic considera¬
+tions must be weighed against people's
+desire for culture and "the good life."
+As in any democratic process, the
+balance is struck in the political arena.
+The people's well-being must be squar¬
+ed with preserving a good educational
+CONTINUED ON NEXT PAGE
+
+TRAFFIC NOISE (Continued)
+One truck twice as noisy as a steady flow of cars
+system, with maintaining a reasonable
+tax rate, and with guarding the nation's
+position in the marketplace of the
+world. The science, economics, and
+politics of several of our most impor¬
+tant noise problems are the subjects of
+this paper.
+Sensational stories of the effects of
+loud noises on the well-being of man
+are often printed in the popular press.
+The noises of daily life have been
+blamed for increases in the divorce
+rate, social conflict, indigestion, inab¬
+ility to perform tasks with the limbs,
+or eyes, nervous breakdowns, high
+blood pressure, heart failure, and even
+insanity.
+Most of these allegations are the
+products of vivid imaginations. Of
+course, one cannot rule out the pos¬
+sibility that a few people are par¬
+ticularly sensitive to noise, just as
+some are allergic to nuts, eggs, or
+ordinary dust. But controlled social
+observations have indicated that the
+most important biological effects o>
+loud noises are: hearing impairment,
+interference with speech communica¬
+tion; interference by distraction with
+mental or skill work; interference with
+sleep; and a feeling of general an¬
+noyance.
+&
+14
+lURVEYS conducted in Cen¬
+tral London, near London airport, and
+in several American cities both near
+and far from military air bases have re¬
+vealed some interesting statistics. Of
+the thousands of people interviewed,
+about one-fourth of those present in
+any stratum of noise intensity seem
+to be unperturbed by their noise envi¬
+ronment.
+These people apparently could and
+often do live happily next to elevated
+train routes, trucking routes, aircraft
+flight paths, or other very noisy acti¬
+vities. About a tenth of those inter¬
+viewed seem to be disturbed by most
+any audible noise not of their own
+-making, regardless of level. These
+same people were dissatisfied with
+many other things in their environment.
+It appears that fear of safety for
+children near traffic routes and fear of
+air crashes increases people's sensi¬
+tivity to these respective types of
+noise. Personal differences owing to
+age, sex, income, education, occupa¬
+tion, and so forth, do not seem to be
+very significant. Of those in areas
+with a specific loud noise, about one-
+third said that they tend to get used
+to the noise, while about one-fourth
+said they are bothered more by the
+noise as time goes on.
+Carefully controlled tests performed
+in laboratories and with pilots of air¬
+craft indicate that noise alone does not
+affect people's ability to reason, to do
+mathematical exercises, or to control
+flight (using flight trainers, with and
+without loud cockpit noise.)
+Nevertheless, we should not dismiss
+annoyance as a figment of the imagi¬
+nation. Some physiologists assert that
+annoyance should be considered as a
+biological protective mechanism, induc¬
+ing man to avoid noise and to seek
+recovery processes. The biological
+meaning of annoyance may be compa¬
+rable to other feelings of discomfort
+like fatigue, hunger, cold or warm sen¬
+sations.
+The clip-clop of horses and the
+rumbling of carriages in an earlier day
+were quiet enough to be romantic.
+Traffic noise was no real problem so
+long as people were forced to content
+themselves with these slow means of
+transportation.
+Today's urban noise is largely the
+result of people's insatiable desire to
+reach distant places ever more rapidly
+and comfortably. As we have deve¬
+loped faster ways to transport our¬
+selves and our commercial goods, we
+have created a noise nuisance that is
+becoming increasingly difficult to live
+with.
+Cars, buses, trains, trucks, and air¬
+planes are a necessary part of our
+lives. It does not follow, however, that
+all the noise created by these machines
+must also be a part.
+Which noises are the most trouble¬
+some to the inhabitants of a city? The
+1,400 people interviewed in a British
+survey were asked, among other
+things in a questionnaire, "If you could
+change just one of the many things
+you don't like about living around here,
+which would you choose?" They res¬
+ponded as follows:
+Noise was mentioned as often as
+slums, dirt, smoke, public facilities,
+transport, government, and the
+amount of traffic.
+About one-third of the total samp¬
+ling specifically mentioned motor-
+vehicle traffic noise as one of its
+major irritants.
+Four to seven times as many people
+were disturbed by the noise of road
+traffic as by the noise of aircraft,
+trains, or industry.
+Traffic noise appeared to be as im¬
+portant an annoyance as all other
+noises together, including the noi¬
+ses of aircraft, trains, industry, con
+struction and demolition, domestic
+appliances, neighbours, children,
+radio and television, bells, alarms,
+and pets.
+People tolerate greater intensities
+of continuous noise than they do of
+intermittent noise. Also they tol¬
+erate higher (but less-frequent)
+levels of noise from aircraft than
+lower (but nearly continuous) levels
+of noise from automobiles.
+Similar surveys of occupants of
+apartment buildings in Rotterdam and
+The Hague, Netherlands, revealed that
+25 per cent were annoyed by traffic
+sounds; 12 per cent by children play¬
+ing; and 10 per cent by doors slam¬
+ming. There is, of course, a close rela¬
+tion between annoyance and the loca¬
+tion of the building. The Netherlands
+survey also indicated that:
+Noise nuisance is greatest in homes
+where children must study in the
+evenings or where adults read ex¬
+tensively or engage in self-educa¬
+tion.
+Noise nuisance decreases with in¬
+crease in family size and increases
+as the children grow older.
+Based on these fairly representative
+surveys, it is abundantly clear that a
+city's first efforts to produce quieter
+living must be directed at reducing
+noise from traffic.
+T
+HE steady flow of pass¬
+enger-car traffic alone would not
+necessarily be irritating. Many new
+cars are equipped with good exhaust
+silencers and quiet tyre treads. Cities
+and highway builders have it in their
+power to choose quiet road surfaces.
+The real trouble lies with trucks, buses,
+motorcycles, and sports cars. The
+average truck at 60 miles per hour is
+about twice as noisy as a steady
+stream of automobile traffic. Further,
+truck noise is more irritating than this
+difference indicates because trucks
+pass less often and the loud burst of
+noise that results is distracting and
+annoying. The same holds for sports
+cars, motorcycles, and buses.
+Many old cars are more noisy than
+new ones, usually due to deteriora¬
+tion of exhaust mufflers. Lack of
+shielding of engine noise and inade¬
+quate mufflers are common on trucks
+of all ages.
+The British Government is consider¬
+ing a law that would require all new
+passenger cars and trucks to have
+noise levels lower than 85 dBA.
+(noise measured in decibels on the
+
+Noise from the
+growing volume of
+air traffic disturbs
+schools near large
+airports. The Inter¬
+national Congress
+for Noise Abate¬
+ment reports that
+as much as 50 per
+cent of teaching
+time can be lost
+through teachers'
+voices being drown¬
+ed by the roar of
+aircraft. Outdoor
+programmes have
+to be abandoned
+and teachers and
+children suffer
+from noise fatigue.
+Elaborate sound¬
+proofing or the
+transfer of schools
+to quieter locations
+are often too expen¬
+sive to be feasible.
+'%
+"A" scale which partially discriminates
+against the lower tones in a noise,
+much as a person does when judging
+the "noisiness" of a sound). Motor¬
+cycles and other mechanically propell¬
+ed two-wheeled vehicles would be
+limited to levels below 90 dBA.
+The acoustical test for British auto¬
+mobiles requires measurement of the
+noise at a point 25 ft from the centre¬
+line of the lane in which the vehicle
+travels for three different operating
+conditions:
+constant speed of 30 mph in top
+gear;
+starting from a steady speed of
+30 mph and (beginning 32 ft before
+passing the test microphone) accel¬
+erating as rapidly as possible over a
+distance of 65 ft; and
+maintaining a constant speed of
+30 mph at full throttle with brakes
+applied. The highest noise level
+obtained under these three condi¬
+tions of test is used to rate the
+vehicle.
+The State of California has proposed
+legislation which would prohibit noise
+levels in excess of 82 dBA, for passen¬
+ger cars, and 92 dBA, for heavy trucks
+and for trucks and buses at posted
+highway speeds or the maximum speed
+of the vehicle.
+In France, maximum permissible
+noise levels, determined under the
+British test regime, are 83 dBA for
+passenger cars and small trucks,
+86 dBA for motorcycles, and 90 dBA
+for large trucks and buses.
+In Switzerland, maximum permissible
+noise levels, measured laterally in an
+open field at a distance of seven metres
+with full engine power, are 80 dBA for
+passenger cars, 85 dBA for two-stroke
+motorcycles and 90 dBA for 4-stroke
+motorcycles, large trucks, and buses.
+Hit-or-miss municipal and state laws
+designed to control the noise of sur¬
+face transportation generally are not
+effective. Trucking today is largely
+between countries or states. The in¬
+creased costs of providing and main¬
+taining adequate mufflers and engine
+covers are such that compliance with
+noise laws will be assured only if they
+are international (in Europe) or national
+(in large countries such as Brazil,
+U.S.S.R., or U.S.A.) and apply to all
+vehicles.
+Traffic noise, serious as it may be,
+disturbs only a relatively narrow strip
+of property on either side of the right-
+of-way. To those who complain of the
+nuisance, there is a reasonable reply.
+Move! But not so with modern planes.
+During takeoffs and landings, large
+transcontinental and international jet
+airplanes may disturb and annoy thou¬
+sands of people spread over many
+CONTINUED ON NEXT PAGE.
+15
+
+TRAFFIC NOISE (Continued)
+Engine nacelles
+ureraft have become the biggest noise in a noisy era. Having created
+ngines of tremendous power, technicians have had to develop silencing
+evices, like the muffler tubes on the jet engine above, that
+one down the noise without an excessive loss of power. Below, a giant
+exhaust pipe" leading from a Paris airport building used for testing engines.
+: muffles the noise and directs what is left skywards.
+acres. The increasing popularity of
+helicopters promises to pose new prob¬
+lems. Heliports, uniformly distributed
+throughout a city, would affect all resi¬
+dents.
+With the advent of supersonic air¬
+craft, nobody in a nation can be sure
+of freedom from sonic booms. A
+nation could, of course, refuse super¬
+sonic aircraft entrance into its air
+space, and restrict the operations of
+high-powered and, hence, noisy air¬
+craft to isolated areas. But this is
+hardly a practical solution for nations
+ever more dependent on large aircraft
+for commerce, travel, and defence.
+We must search for other answers.
+How much aircraft noise is too
+much? Attempts have been made on
+a number of occasions, in the Federal
+Republic of Germany, the Netherlands
+England and the United States, to de¬
+termine a relation between PNdB
+(adjusted for the number of flights per
+day) and the "annoyance" of aircraft
+noise as judged by residents under
+flight paths near airports. (PNdB is the
+perceived-noise-level in decibels, which
+takes into account the individual judg¬
+ment of the loudness of different types
+of noises.)
+It appears that there is a significant
+degree of dissatisfaction with aircraft
+noise whenever the average value of
+the maximums of the flyover noise
+exceeds about 115 PNdB (assuming
+20 to 40 flyovers each day during day¬
+time hours).
+The British Ministry of Aviation has
+specified maximum permissible noise
+levels in the main built-up areas
+around the London airport for jet air¬
+craft on takeoff, as follows: for hours
+between 7 a.m. and 11 pm, 110 PNdB;
+after 11 p.m., 102 PNdB.
+At the Kennedy Airport in New
+York, the Port of New York Authority
+has specified a maximum permissible
+figure for jet takeoffs over neighbour¬
+hoods of 112 PNdB. At night, jet
+takeoffs are generally permitted only
+from runways that lead over water.
+The airports of Paris are also discus¬
+sing similar restrictions. No restric¬
+tions are made on landing noise at
+London's or New York's airports.
+Factors other than noisiness (in
+PNdB) enter into the annoyance creat¬
+ed by aircraft operations. Among the
+more important are the average dura¬
+tion of the noise of single flyovers, the
+number of flyovers per day, and the
+time of day in which they occur. It
+appears from judgment tests that
+doubling the duration of noise asso¬
+ciated with each flyover or doubling
+
+above the wings to reduce the roar
+the number of flyovers each day is
+equivalent to a three to four PNdB
+increase in the level of a single flyover.
+People are more sensitive to aircraft
+noise during the late evening or night,
+partly because the ambient noise is
+lower and partly because people are
+trying to sleep. Some studies have
+indicated that noise levels between
+10 p.m. and 1 a.m. must be 10 or
+more PNdB lower than those between
+7 a.m. and 10 p.m. if people are to
+judge the noise situation as being
+about equal.
+If the land around an airport were
+strictly zoned to prevent residential
+construction, the aircraft-noise problem
+would be much less significant. But
+around existing airports, zoning against
+housing generally cannot be used as
+a substitute for the needed exercise of
+the power of condemnation and the
+ensuing obligation to pay for whatever
+is expropriated.
+Unfortunately, private airport owners
+possess grossly inadequate resources
+to pay the price of expropriation and,
+in the past, municipalities generally
+encountered public objection to prohi¬
+bition of residential construction, even
+near airports.
+T
+HE citizens of some count¬
+ries are demanding that their parlia¬
+ments should pass legislation requir¬
+ing all aircraft to produce lower noise
+levels in neighbourhoods. However, a
+law that would specify lower maximum
+acceptable levels to be met by all
+operating aircraft will do little imme¬
+diate good, since most of today's air¬
+craft cannot meet a substantially lower
+noise requirement.
+Noise limitations must first be im¬
+posed on new aircraft entering the air¬
+lines' inventories. Then attrition and
+the retro-fitting of silencers to existing
+aircraft, where feasible, become practi¬
+cal avenues toward quieter flight.
+U.S. Federal requirements on accep¬
+table noise levels before certification
+of new aircraft are the existing legal
+means available to accomplish this re¬
+sult. Without such regulation, com¬
+petitive pressures in both the manu¬
+facturing and operating industries will
+maintain the same lack of concern
+about noise as that which now exists
+for noise from trucks.
+Primarily as the result of regulations
+by the airports of England, France, Aus¬
+tralia, Denmark and U.S.A. and, in turn,
+airline purchase specifications, manu¬
+facturers have fitted silencing devices
+to the exhaust ports of most turbojet
+engines. These silencers reduce take¬
+off noise to some extent.
+The newer bypass (turbofan) engines
+provide considerably higher thrusts
+without a proportional increase in
+noise. Unfortunately, silencers on their
+exhausts do little additional good. For
+new aircraft, manufacturers are study¬
+ing ways to mount the engine nacelles
+above the wings so as to shield neigh¬
+bourhoods from much of the engine
+noise.
+Aircraft are also noisy on approach
+to landing both because of the whine
+of the engine-intake compressors and
+because most pilots believe it is safer
+to land at a low glide angle while using
+appreciable engine powers. To achieve
+a large angle of the glide path at
+which an airplane approaches the run¬
+way 6° to 8° instead of 3° the air¬
+line pilots say that better instrumenta¬
+tion (perhaps computer control of
+landings), better engine response, and
+better airplane-handling qualities would
+all have to be provided in the air¬
+craft.
+At least one country is experiment¬
+ing with regulations that require jet
+aircraft to climb as rapidly as possible
+to an altitude of about 1,500 ft and
+then to cut back engine power in
+order to reduce noise until the aircraft
+reaches an altitude of 3,000 ft. To
+avoid flying directly over houses at
+low altitudes, the aircraft must also
+turn after takeoff and until it has
+gained considerable altitude follow a
+river or a highway.
+The means seem available for appre¬
+ciable control of in-flight aircraft noise.
+Included are: refinement of aircraft
+design so they can climb and land at
+steeper angles, embodiment of better
+noise-control features in engines,
+nacelles and wings, and introduction
+of sophisticated operating procedures.
+But until regulations spell out maxi¬
+mum-permissible noise levels appro¬
+priate to differently zoned urban areas
+and certificate new aircraft only if they
+can meet these requirements, it is not
+likely that the upward trend of aircraft
+noise levels will be arrested.
+Many people are apprehensive of
+the noisiness of the next generation of
+aircraft, known as the supersonic trans¬
+port, or for short, the SST. Any air¬
+plane traveling faster than the speed
+of sound produces pressure, or shock,
+waves around the nose and around
+each protruding part of the airplane.
+These waves are analogous to those
+on either side of the bow of a rapidly
+moving ship.
+Shock waves form a cone that encir¬
+cles and fellows the aircraft and inter¬
+sects with the earth. As the line of
+intersection with the earth advances
+with the movement of the airplane,
+people living within the width of the
+intersecting path usually hear two
+closely-spaced explosive sounds,
+known as the "sonic boom". Typically
+when first experiencing the sonic boom
+residents are startled and frightened.
+Their reactions are caused in part
+because the boom occurs without any
+prior warning and in part because the
+individual is conditioned to associate
+loud explosive-like sounds with pos¬
+sible damage to his home, orto his per¬
+son. He may imagine that something
+has exploded nearby or a vehicle has
+struck his dwelling. Or, he may fear
+that repeated booms will crack plaster,
+loosen fixtures, and weaken the struc¬
+ture of his house.
+EASURED outdoors, a typ¬
+ical sonic boom from a high-flying
+aircraft is a pressure wave that sud¬
+denly increases above normal atmo¬
+spheric pressure by 0.5 to 2 pounds
+per square foot, then decreases some¬
+what more slowly to below normal
+atmospheric pressure by about the
+same amount, and finally jumps back
+to atmospheric pressure. The result
+is an N-shaped pressure wave less
+than half a second long. The lateral
+spread of the boom becomes greater
+as the altitude of the airplane incre¬
+ases, although the intensity of the
+boom decreases.
+The American Government has vigo¬
+rously pursued investigations of the
+effects of sonic booms on people and
+structures. One of these investiga¬
+tions was carried out over the Oklaho¬
+ma City area from February to July
+1964. During this period, the popula¬
+tion was subjected, during daytimes
+only, to a total of 1,250 sonic booms.
+The average intensities of the booms
+were 1.13 pounds per square foot (psf)
+during the first 11 weeks, 1.23 psf
+during the next eight weeks, and
+1.60 psf during the final seven weeks
+of the programme.
+From complaints received and inter¬
+views of the residents, it was found
+that the sonic boom was, in some mea¬
+sure, a disturbing influence in the lives
+of most of those people living within
+eight miles to either side of a line
+directly below the flight path.
+At the end of six months, about one- 1 "7
+fourth of the people interviewed said 1 I
+that they felt that they could not learn
+to accept eight booms a day, at least
+CONTINUED ON PAGE 20
+
+
+fe
+I la*)*
+A sonic boom from an aircraft
+"breaking the sound barrier"
+may startle us, but it is still
+a relatively rare disturbance.
+However, the prospect of regular
+supersonic flights sometime in
+the 1970s is already creating
+concern. Some aeronautical
+specialists, including Bo
+Lundberg, Director-General of
+Sweden's Aeronautical Research
+Institute, maintain that the
+shock waves set up by planes
+flying at from 1 ,500 to 1 ,800 m.p.h.
+will hit the ground in every spot
+within a "boom carpet" 50 to
+80 miles wide along the entire
+flight path. Plotted on map
+(left) are "boom carpets" that
+might be "unrolled" over
+Western Europe unless
+restrictions were imposed.
+Sonic boom disturbances, say
+other specialists, can be kept to
+a minimum providing sonic
+speeds are maintained until
+aircraft are clear of certain
+areas. Drawing (right) shows
+how a conical Shockwave created
+by supersonic flight follows plane
+and intersects with the ground.
+Rear shock wave
+rorward shock wave
+R*fr>*-' i
+~^*ï£2> St* ^
+Photo g " Science et Vie ", Paris
+'-.> '""<CT5i-,
+SUPERSONIC 'BOOM CARPET
+"Stop the noise", "We want to sleep undisturbed", "Silence for our schools"
+proclaim the banners carried by these demonstrators protesting, on
+November 19, 1966, against the noise caused by aircraft using Orly Airport
+near Paris. The demonstrators, representing some 500,000 people living in
+the area, are headed by several mayors wearing their sashes of office.
+Photo »© Camille Klein, Villeneuve-le-Roi
+
+TRAFFIC NOISE (Continued from page 17)
+20
+8 booms a day
+won't keep
+the doctor away
+at the 1.6 psf level. At some lower
+pressure level, as yet to be more defi¬
+nitely determined, very few people
+should be annoyed.
+The most significant result from the
+Oklahoma tests was that many resi¬
+dents believed their homes were being
+damaged by the sonic booms, although
+continuous observation of a number of
+houses showed no damage. In other
+parts of the country, near military
+bases where supersonic military air¬
+craft are regularly flown, large areas of
+houses have been subjected to sonic
+booms, many greater than 2.0 psf. The
+number of damage claims filed by per¬
+sons in those areas has been small.
+Nevertheless, over 40 % of those
+interviewed in Oklahoma City felt that
+their homes had been damaged. This
+result suggests that belief in alleged
+damage to property increases annoy¬
+ance and complaints. It also suggests
+that people might be less concerned
+with sonic booms if it were clearly
+demonstrated that SST noise levels at
+or below those specified by the gov¬
+ernment would not damage struc¬
+tures.
+There is no question about the
+future of supersonic transport aircraft
+the French-British SST will enter ser¬
+vice soon. Sonic booms are unavoid¬
+able, but it seems that overpressures
+should be held within limits that will
+not disturb people greatly or harm prop¬
+erty. It seems mandatory that accep¬
+table boom levels be established inter¬
+nationally and that SST operations
+afterwards be policed to assure com¬
+pliance with the regulations.
+People in modern societies must
+adapt in some measure to the noises
+of modern civilization. The extent to
+which adaptation is necessary is
+largely a matter of economics and con¬
+venience. At moderate cost and some
+loss of convenience, the hearing of
+workers can be protected. Noise
+created inside office buildings and
+dwellings can be reduced to accept¬
+able levels by proper use of materials
+and structures for noise control. The
+noise of transportation can be made
+less annoying by suitable designs of
+vehicles, by requiring noise limits for
+new vehicles, by legislation and enfor¬
+cement of noise codes, by operating
+vehicles properly, by zoning and con¬
+demnation of residential areas near air¬
+ports and superhighways. In the worst
+cases, we may have to resort to seal¬
+ed, fully climatized housing.
+Photo © Albert Winkler, Bern
+Motorcycle engines are powerful, compact and noisy, even though, their
+exhaust pipes are fitted with silencers (left of photo). Though these have
+little effect on the power output of the engine, some motorcyclists
+modify them and thereby reduce their efficiency as noise mufflers.

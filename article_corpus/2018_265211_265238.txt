@@ -1,0 +1,294 @@
+This idea, which refers to ancient myths 
+and legends, like that of the golem [from 
+Jewish folklore, an image endowed 
+with life], have recently been revived by 
+contemporary personalities including 
+the British physicist Stephen Hawking 
+(1942-2018), American entrepreneur Elon 
+Musk, American futurist Ray Kurzweil, and 
+proponents of what we now call Strong AI 
+or Artificial General Intelligence (AGI). We 
+will not discuss this second meaning here, 
+because at least for now, it can only be 
+ascribed to a fertile imagination, inspired 
+more by science fiction than by any 
+tangible scientific reality confirmed by 
+experiments and empirical observations. 
+For McCarthy, Minsky, and the other 
+researchers of the Dartmouth Summer 
+Research Project on Artificial Intelligence, 
+AI was initially intended to simulate 
+each of the different faculties of 
+intelligence – human, animal, plant, 
+social or phylogenetic – using machines. 
+Jean-Gabriel Ganascia
+Are machines likely to become 
+smarter than humans? No, says 
+Jean-Gabriel Ganascia: this 
+is a myth inspired by science 
+fiction. The computer scientist 
+walks us through the major 
+milestones in artificial 
+intelligence (AI), reviews 
+the most recent technical 
+advances, and discusses the 
+ethical questions that require 
+increasingly urgent answers. 
+A scientific discipline, AI officially 
+began in 1956, during a summer 
+workshop organized by four American 
+researchers – John McCarthy, Marvin 
+Minsky, Nathaniel Rochester and Claude 
+Shannon – at Dartmouth College in 
+New Hampshire, United States. Since 
+then, the term “artificial intelligence”, 
+probably first coined to create a striking 
+impact, has become so popular that 
+today everyone has heard of it. This 
+application of computer science has 
+continued to expand over the years, and 
+the technologies it has spawned have 
+contributed greatly to changing the 
+world over the past sixty years.
+However, the success of the term AI is 
+sometimes based on a misunderstanding, 
+when it is used to refer to an artificial 
+entity endowed with intelligence and 
+which, as a result, would compete with 
+human beings. 
+
+
+
+Artificial intelligence:
+between myth
+and reality
+More precisely, this scientific discipline 
+was based on the conjecture that all 
+cognitive functions – especially learning, 
+reasoning, computation, perception, 
+memorization, and even scientific 
+discovery or artistic creativity – can 
+be described with such precision that 
+it would be possible to programme a 
+computer to reproduce them. In the 
+more than sixty years that AI has existed, 
+there has been nothing to disprove or 
+irrefutably prove this conjecture, which 
+remains both open and full of potential.
+Uneven progress
+In the course of its short existence, AI has 
+undergone many changes. These can be 
+summarized in six stages.
+The time of the prophets
+First of all, in the euphoria of AI’s origins 
+and early successes, the researchers had 
+given free range to their imagination, 
+indulging in certain reckless 
+pronouncements for which they were 
+heavily criticized later. 
+CB2, an infant robot, was built by 
+Minoru Asada, Japan, who wanted to 
+understand how robots learn. 
+Here, CB2 is being taught to crawl. 
+
+Semantic AI 
+The work went on nevertheless, but 
+the research was given new direction. It 
+focused on the psychology of memory 
+and the mechanisms of understanding 
+– with attempts to simulate these 
+on computers – and on the role of 
+knowledge in reasoning. This gave 
+rise to techniques for the semantic 
+representation of knowledge, which 
+developed considerably in the mid-
+1970s, and also led to the development 
+of expert systems, so called because they 
+use the knowledge of skilled specialists 
+to reproduce their thought processes. 
+Expert systems raised enormous hopes 
+in the early 1980s with a whole range of 
+applications, including medical diagnosis. 
+Neo-connectionism and 
+machine learning 
+Technical improvements led to the 
+development of machine learning 
+algorithms, which allowed computers 
+to accumulate knowledge and to 
+automatically reprogramme themselves, 
+using their own experiences.
+This led to the development of industrial 
+applications (fingerprint identification, 
+speech recognition, etc.), where 
+techniques from AI, computer science, 
+artificial life and other disciplines were 
+combined to produce hybrid systems.
+From AI to human-machine 
+interfaces
+Starting in the late 1990s, AI was coupled 
+with robotics and human-machine 
+interfaces to produce intelligent agents 
+that suggested the presence of feelings 
+and emotions. This gave rise, among other 
+things, to the calculation of emotions 
+(affective computing), which evaluates 
+the reactions of a subject feeling emotions 
+and reproduces them on a machine, 
+and especially to the development of 
+conversational agents (chatbots).
+Renaissance of AI
+Since 2010, the power of machines has 
+made it possible to exploit enormous 
+quantities of data (big data) with deep 
+learning techniques, based on the use of 
+formal neural networks. A range of very 
+successful applications in several areas – 
+including speech and image recognition, 
+natural language comprehension and 
+autonomous cars – are leading to an 
+AI renaissance. 
+For instance, in 1958, American political 
+scientist and economist Herbert 
+A. Simon – who received the Nobel 
+Prize in Economic Sciences in 1978 – 
+had declared that, within ten years, 
+machines would become world chess 
+champions if they were not barred from 
+international competitions. 
+The dark years
+By the mid-1960s, progress seemed to 
+be slow in coming. A 10-year-old child 
+beat a computer at a chess game in 
+1965, and a report commissioned by the 
+US Senate in 1966 described the intrinsic 
+limitations of machine translation. AI got 
+bad press for about a decade.
+ENIAC (Electronic Numerical Integrator 
+and Computer), the first programmable 
+electronic digital computer, built 
+in 1946, during the Second World 
+War. Measuring 30 cubic metres and 
+weighing 30 tons, it was developed 
+by the University of Pennsylvania 
+in the United States, and used to 
+solve problems in nuclear physics 
+and meteorology.
+
+Scientists are also using AI techniques 
+to determine the function of certain 
+biological macromolecules, especially 
+proteins and genomes, from the 
+sequences of their constituents – amino 
+acids for proteins, bases for genomes. 
+More generally, all the sciences are 
+undergoing a major epistemological 
+rupture with in silico experiments – 
+named so because they are carried out 
+by computers from massive quantities of 
+data, using powerful processors whose 
+cores are made of silicon. In this way, 
+they differ from in vivo experiments, 
+performed on living matter, and above 
+all, from in vitro experiments, carried out 
+in glass test-tubes.
+Today, AI applications affect almost all 
+fields of activity – particularly in the 
+industry, banking, insurance, health and 
+defence sectors. Several routine tasks 
+are now automated, transforming many 
+trades and eventually eliminating some.
+
+What are the ethical 
+risks?
+With AI, most dimensions of intelligence 
+– except perhaps humour – are subject 
+to rational analysis and reconstruction, 
+using computers. Moreover, machines 
+are exceeding our cognitive faculties in 
+most fields, raising fears of ethical risks. 
+These risks fall into three categories 
+– the scarcity of work, because it can 
+be carried out by machines instead 
+of humans; the consequences for the 
+autonomy of the individual, particularly 
+in terms of freedom and security; 
+and the overtaking of humanity, 
+which would be replaced by more 
+“intelligent” machines. 
+However, if we examine the reality, we 
+see that work (done by humans) is not 
+disappearing – quite the contrary – but 
+it is changing and calling for new skills. 
+Similarly, an individual’s autonomy and 
+freedom are not inevitably undermined 
+by the development of AI – so long 
+as we remain vigilant in the face of 
+technological intrusions into our 
+private lives. 
+Finally, contrary to what some people 
+claim, machines pose no existential 
+threat to humanity. Their autonomy 
+is purely technological, in that it 
+corresponds only to material chains 
+of causality that go from the taking of 
+information to decision-making. On the 
+other hand, machines have no moral 
+autonomy, because even if they do 
+confuse and mislead us in the process 
+of making decisions, they do not have a 
+will of their own and remain subjugated 
+to the objectives that we have assigned 
+to them. 
+French computer scientist 
+Jean-Gabriel Ganascia is a professor at 
+Sorbonne University, Paris. He is also a 
+researcher at LIP6, the computer science 
+laboratory at the Sorbonne, a fellow of 
+the European Association for Artificial 
+Intelligence, a member of the Institut 
+Universitaire de France and chairman 
+of the ethics committee of the National 
+Centre for Scientific Research (CNRS), 
+Paris. His current research interests 
+include machine learning, symbolic data 
+fusion, computational ethics, computer 
+ethics and digital humanities. 
+Applications
+Many achievements using AI techniques 
+surpass human capabilities – in 1997, 
+a computer programme defeated 
+the reigning world chess champion, 
+and more recently, in 2016, other 
+computer programmes have beaten 
+the world’s best Go [an ancient Chinese 
+board game] players and some top 
+poker players. Computers are proving, 
+or helping to prove, mathematical 
+theorems; knowledge is being 
+automatically constructed from huge 
+masses of data, in terabytes (1012 bytes), 
+or even petabytes (1015 bytes), using 
+machine learning techniques.
+As a result, machines can recognize 
+speech and transcribe it – just like 
+typists did in the past. Computers 
+can accurately identify faces or 
+fingerprints from among tens of 
+millions, or understand texts written 
+in natural languages. Using machine 
+learning techniques, cars drive 
+themselves; machines are better 
+than dermatologists at diagnosing 
+melanomas using photographs of 
+skin moles taken with mobile phone 
+cameras; robots are fighting wars 
+instead of humans (see p. 25-28); and 
+factory production lines are becoming 
+increasingly automated. 
+Simulation of electrical activity in a 
+microcircuit of virtual neurons of a rat 
+(2015), by the Blue Brain Project (BBP) 
+team, part of Europe’s Human Brain 
+Project (HBP). According to scientists, 
+it is a step towards simulating the 
+functioning of the human brain.

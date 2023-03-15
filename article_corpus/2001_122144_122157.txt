@@ -1,0 +1,151 @@
+A
+quiet revolution is creeping through
+human rights groups around the world.
+D o n ’t expect to see noisy marches
+through the streets of Guatemala or
+angry protests in Ko s o v o, though both
+places are hotspots in the transformation.The revo-
+lution is running through electronic ether and human
+grey matter.
+Computer technology, and particularly crypto-
+graphy software (which uses secret codes to trans-
+form data into a stream of seemingly random cha-
+racters), is subtly changing the balance of power
+between repressive governments and the human
+rights groups that watch them.From Cambodia to
+El Salvador, grassroots human rights organizations
+are embracing software that allows them to track
+government abuses and then hide their data in
+order to protect sources.
+A driving force in this revolution is Dr. Patrick
+B a l l , deputy director of the science and human rights
+program at the American Association for the A d v a n-
+cement of Science (AAAS).For the past nine years,
+Ball has been discreetly travelling in the wake of wars
+and insurrections to train human rights workers in
+the science of information gathering.He has shaped
+and protected databases in places such as El Sal-
+v a d o r, G u a t e m a l a ,H a i t i ,E t h i o p i a ,A l b a n i a , Ko s o v o
+and South Africa,among others.
+Crucial testimony 
+under lock and key
+When Ball first began this training in the early
+1 9 9 0 s, most human rights workers were techno-
+phobes. Technology, used for so long as a tool of
+spying by repressive governments, was clearly the
+e n e m y. Every project was tough work, as Ball tried
+to convince people in the field to adopt increasingly
+cheap computer software as a means of deftly tur-
+ning the tables on governments.About three years
+ago however, the climate began to change.
+“Human rights groups are beginning to reco-
+gnize the tremendous analytic power large-scale
+data brings to us and you simply cannot do that
+without technology,” says Ball.While visiting groups
+in Cambodia who were learning to use this tech-
+n o l o g y, I was struck by the enormous piles of paper
+on every desk. It could take two weeks to extract one
+simple fig u r e, such as how many rapes were reported
+in Cambodia in a month.
+Cheap computers and, more importantly,e a s y -
+to-use software programmes are changing that, s a y s
+Ball. Database, spreadsheet, word processing and
+communications programmes have made it pos-
+sible for even small organizations to track abuses
+with scientific rigour.
+This analytic precision makes a powerful
+weapon.It also makes a logical target for political
+o p p o n e n t s.Witnesses often risk life and limb when
+they come forward to report an abuse committed by
+SUELETTE DREYFUS
+AUSTRALIAN JOURNALISTAND AUTHOR OF
+UNDERGROUND—TALES OFHACKING ,
+MADNESS AND OBSESSION ON THE ELECTRONIC FRONTIER (RANDOM
+HOUSE, 1997)
+The quiet
+re v o l u t i o n
+From Guatemala to Kosovo,
+human rights groups
+have taken a page out
+of a spy thriller by learning
+the art of encryption
+K E E P I N G  P R I V A T E  I N  A  W I R E D  W O R L D
+Encryption helped break the silence over Guatemala’s “vanished”children.
+
+the government.As a result,“human rights groups
+are using cryptography in the field to secure data-
+b a s e s, i n v e s t i g a t i o n s,field reports and witness iden-
+tities—all data that might put somebody’s security
+or liberty at risk,” Ball says.
+In fact,encryption played a key role in breaking
+the silence born from 36 years of terror and civil war
+in Guatemala, which killed more than 100,000
+p e o p l e, most of them Mayan Indians.Until recently,
+most Guatemalans would have been shocked by the
+fact that the following testimony was publicly docu-
+mented:“My sister went shopping in Rabinal,but
+when she got to the hamlet of Plan de Sanchez the
+army was already there. There they grabbed her
+and raped her in a house. There were fifteen girls
+raped and then they were riddled with bullets.A f t e r-
+wards, they were buried by the people in a clan-
+destine cemetery.”
+New flashpoints in 
+the crypto-wars
+This personal account, from a report by A A A S
+and the International Center for Human Rights
+Research (CIIDH) in Guatemala City, was one of
+many given by witnesses who wanted their names
+kept secret for fear of retribution.The CIIDH and
+several partner organizations gathered more than
+5,000 testimonies between 1994 and 1995.
+CIIDH was one of the first human rights groups
+in the world to secure its database by using PGP,
+now the most popular cryptography software in
+the field.Workers smuggled laptop computers and
+solar panels into remote mountain areas where
+they spent months scouring the region by foot and
+mule to gather testimony from people forced to
+hide from the military. They systematically burnt
+every paper trace of their work and encrypted the
+data before sending it back to the capital for analysis.
+They later emailed PGP-encrypted copies of the
+material overseas to a safe back-up site.
+Guatemala remains one of the best examples of
+how a human rights community embraced techno-
+logy, according to Ball.They continue to use secu-
+rity software to protect the identities of witnesses as
+well as the integrity of the data—to ensure that
+political opponents don’t sneak into databases to
+corrupt the information and discredit the group’s
+work.
+Nevertheless, “some groups choose not to use
+cryptography because hiding their work would
+make the government consider them a national
+security threat,” says Ball.“I don’t really think that
+any of the human rights groups is a security threat.
+They may embarrass certain military or police offi-
+cials who have committed atrocities, but all the
+groups I know are dedicated to their country’s
+democratization and civil liberties.”
+Throughout the 1990s, the U. S. government and
+activists fought a political war over the right to use
+and to share strong cryptography with the rest of the
+world—a war that Ball says has now finished in the
+U. S. “At the end of the day,” he says, “the U. S.
+government decided the economic and civil liberty
+costs of regulating crypto were greater than the
+rather shrill claims made by law enforcement and
+national security offic i a l s,” who maintained that
+the tools would assist criminals and terrorists.
+While he has not seen any crypto-wars waged in
+the countries where he has worked, there are still
+places that either control the use of cryptography or
+are hoping to do so in the future.According to Ball,
+“the war front in the fight for widespread human
+rights access to crypto is currently in North Korea,
+Iran, Vietnam—and the UK.” To avoid this battle,
+many groups don’t admit to using encryption.Wh y
+advertise the fact that a computer screen of see-
+mingly random characters can be transformed into
+witness reports of killing and torture? ■

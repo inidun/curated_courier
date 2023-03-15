@@ -1,0 +1,677 @@
+I COURIER DECEMBER 1953. Page 5
+UNLOCKING THE BASIC SECRETS OF NATURE
+0 ALPHA, BETA, GAMMA-THE ABC OF NUCLEAR PHYSICS
+THE greatest surprise experienced by thestudent of the universe is to find that it is
+composed entirely of discrete particles. If
+one could step quite outside it, the whole great
+universe would look somewhat like a wisp of mist
+or a puff of smoke, with stars and galaxies in
+place of the droplets of water in the mist. The
+stars too, like the sun and the earth, are compos-
+ed of materials in the solid, liquid or gaseous state,
+and these in turn are composed of very small
+particles, known as molecules.
+Solid rock and metal, the oceans, and the atmo-
+sphere around us are not continuous, as they
+seem to our eyes, but are made up of individual
+molecules. In solids they are held in firm contact
+to each other ; in liquids they are loosely held so
+that they easily slide over each other, or flow ;
+in gases they are quite separate, with empty space
+between them. Temperature decreases their
+attraction for each other so that heating ice first
+melts it to liquid water, then boils it to steam,
+with the molecules separating ever farther from
+each other. This much has been known for
+centuries and is new only to the beginner in the
+science of physics.
+The molecules are all alike
+in each of the many thous-
+ands of different substances
+that compose the earth :
+sugar and salt, sulphur and
+iron, cellulose and protein,
+limestone and sand. They
+are ultimate in the sense
+that they cannot be split
+into smaller particles me-
+chanically. But the chemist
+can split them by putting dif-
+ferent substances in contact
+with each other in which case
+reactions take place that
+give rise to new materials.
+Thus heating oil or cellulose
+in air starts combustion, to
+form water and carbon
+dioxide. This, with other.
+experiments, shows that
+within the molecules of the
+oil and the cellulose there
+are both carbon and hydro-
+gen, both of which combine
+with the oxygen of the air to
+give the oxides-for water
+is merely the oxide of hydro-
+gen.
+- Such reactions, and myr-
+iads more complicated, have
+proved that molecules are
+composed of still smaller
+particles, the atoms of the
+chemical elements. There are
+92 different elements, thus
+92 different types of atoms,. which in various combina-
+tions form the endless variety
+'of molecules and therefore
+the whole range of different
+materials that compose the
+earth and the universe-
+including the materials that
+compose living things and
+the bodies of animals and
+men. As physics studies mo-
+lecules and their motion, so
+chemistry studies atoms and
+their combinations with each
+other to form molecules.
+For a century after their
+existence was accepted by
+scientists, atoms were consi-
+dered to be the ultimate
+building stones of all matter.
+No one suspected that theynaa an interior. That would have been almost
+unthinkable in the philo. sophy of the nineteenth
+century. But in the final years of that century
+came the revelation. In 1896, Henri Becquerel
+in Paris noticed, aimost by accident, that uranium
+fogs a photographic plate in the dark, even when
+the plate is tightly wrapped in black paper. This
+led the Curies, Pierre and Marie, to the discovery
+of a new element, radium, which did the same
+thing but much more powerfully, and which not
+only glowed in the dark but kept itself several
+degrees warmer than its surroundings, automatic-
+ally and constantly. It was the most sensational
+discovery of modern times. It was not only the
+first revelation of what we now call atomic
+energy, but also the first suspicion that the atom
+has an interior, waiting to be explored. It pointed
+the way to the new world within the atom that
+has brought surprise after surprise to twentieth
+century science.
+Within five years it was understood that the
+atoms of radium are unstable. One after another
+they explode and in exploding give off three dif-
+ferent types of rays called alpha, beta and
+gamma, the first three letters of the Greek alpha-
+bet. They, in turn, cause the generation of both
+light and heat. The radium atoms are all iden-
+tical, yet every second a very small proportion of
+them suddenly breaks up, sending out particles of
+matter, the alpha-rays, that turned out to be
+atoms of helium.
+Radium also emits electrons as beta-rays and
+atom vibrations as gamma-rays that are even
+more. penetrating than X-rays.
+Whatever the amount of radium in hand, it dis-
+by Dr. Gerald Wendt,
+Head, Division of Science Teaching, Unesco.
+integrates at a steady rate, so steady that it would
+form a perfect natural clock, for in every 1600
+years half of the atoms disappear and half
+remain. The production of rays is thus reduced
+to one-half every 1600 years.
+Later many other such radio-active elements
+were discovered, each with a characteristic half-
+life, some of which are measured in thousands
+of millions of years, some in millionths of a
+second, others in hours, days or a few short years.
+No-one knows why some atoms of radium are
+destined to explode today while others that are
+identical so far as we know, will last for centuries.
+It is a matter of chance, like winning a lottery.
+It was the study of natural radio-activity that
+paved the way to devising artificial radio-activity,
+that is, methods of forcing atoms to disintegrate
+and yield up their energy. It took almost fifty
+years. In the course of those studies much was
+learned about the ultimate particles that consti-
+But the origin of the X-rays and how they are
+formed in the electric discharge tube was not
+'understood for many years. To explain them
+required a knowledge of the nature of electricity
+that did not exist at the beginning of the century.
+Electricity had been used for a long time. Bat-
+teries, motors, electric lights and even telephones
+were in common use. How electricity acts was
+well known ; what electricity is was a mystery.
+It was Prof. R. A. Millikan at the University of
+Chicago in the U. S. A. who gave the final answer
+in 1909. Searching for the smallest quantity of
+electricity that would still show electrical quali-
+ties, he used not the usual electric current but
+the static form, the charge on a small particle
+of matter that causes it to attract or repel other
+charged particles. In his final experiment he
+used a microscopic droplet of oil which, by itself,
+fell slowly downwards through the air of his
+experimental vessel. Then he electrified it to the
+least possible degree and held it suspended,
+without falling, by an opposing electric force.
+He found that there was a minimum charge
+and, what is more, all larger charges on the oil-
+drop were exact multiples of the minimum. It
+The simplest method of accelerating electronic or nuclear particles is to allow them to stream through successive charged electro-
+static plates each of which adds many hundreds of volts to the energy and the speed of the particle. The photograph shows the
+interior of such a"linear accelerator art the Radiation Laboratory, University of California. The particles pass through tubes on left.
+tute matter and the energy that Is associated
+with those particles. The story ends today with
+the giant cyclotrons that create such particles.
+But to tell that story it is necessary here to start
+afresh with several other aspects of the problem,
+especially the nature of electricity and of light
+vibrations, which weave into the story later.
+In 1895, just one year before Becquerel in Paris
+discovered radio-activity, Professor Roentgen at
+Wiirzburg, Germany, discovered, quite by acci-
+dent, that when a current of electricity is passed
+through a tube that has been pumped out to a
+high vacuum, one of the electric terminals gene-
+rates invisible rays that go outward in straight
+lines. Unlike light, these rays can penetrate not
+only through black paper but through almost all
+solid objects. Because of their unknown charac-
+ter they were called X-rays.
+Slowly it was proved that they were indeed
+exactly the same type of etherwaves as light but
+much shorter in wave-length. The waves of
+visible light are about 0. 4 thousandths of a milli-
+meter in length. X-rays are about 0. 1 millionths
+of a millimeter. Still later it was found that the
+gamma rays from radium are of the same type
+but still shorter-only about 0. 01 millionths of
+a millimeter. It is the shortness of the waves
+that enables them to penetoo. te through solid
+objects, much as small waves or ripples entering
+a harbour pass between rows of stakes or piles
+that stop the larger waves. Their use in medi-
+cine is now well known and depends on their
+going more easily through soft tissues than
+through. solid bone, so that they show shadows of
+bones and other solid objects in their path.
+was a simple proof that electricity is not a"conti-
+nuous fluid"but is itself composed of very small
+pieces, all alike. They are now called electrons.
+Just as matter is composed of atoms, so electricity
+is composed of electrons.
+That they are truly particles was proved by
+measuring the force needed to deflect them from
+their straight path when a stream of them passes
+at high speed through a vacuum tube. The mass
+proved uniform too and is equal to about half of
+a thousandth of the mass of the lightest known
+atom, that of hydrogen. It was the first particle
+to be discovered that is smaller and lighter than
+an atom. It is indeed incredibly small, for the
+electric current that passes through a 100-watt
+electric light bulb in a single second is composed
+of 10 million million million electrons-ten
+followed by 18 zeros !
+Here was another revelation, ten years after
+the discovery of radium, which opened another
+window on the new world of extremely small
+things. But the electron was at once accepted
+everywhere as a perfect explanation of all elec-
+trical phenomena. These tiny electrons are far
+smaller than atoms and can pass readily among
+and through them in a wire, for instance, and
+thus form a current. A battery of any kind
+merely pumps electrons into the battery pole that
+is called negative, and a dynamo is a machine
+to do the same.
+The discovery of the electron also provided the
+explanation for the origin of the mysterious,
+penetrating X-rays. When a stream
+of electrons, an electric current, (Cont'd on
+passes through a wire, it gives next page)
+
+Page 6. DECEMBER 1953 UNESCO ; OUR
+FIRST STEPS IN OPENING UP THE ATOM
+* ALPHA-RAY : One of the three types of
+rays emitted by the radio-active elements. It
+is the nucleus of a helium atom, composed of
+two protons and two neutrons, with a net
+positive charge of two.
+* ATOM : The unit of chemical composi-
+tion ; the smallest particle of a chemical
+element capable of independent existence.
+Atoms are chemically combined in various
+arrangements to form the molecules of che-
+mical compounds.
+* BETA-RAY : Penetrating ray, composed
+of electrons, ejected from radio-active atoms
+at velocities sometimes almost equal to the
+velocity of light.'
+* CYCLOTRON : A device or machine in
+which electrically charged nuclear particles,
+such as protons, are forced to move in a
+horizontal spiral path between the poles vf
+a powerful electromagnet and to receive an
+additional electrical impulse at each passage
+around so that they gradually acquire high
+speed and emerge as energetic nuclear pro-
+jectiles.
+* DEUTERON : A nuclear particle composed
+of one proton and one neutron which forms
+the nucleus of the atom of deuterium or
+"heavy hydrogen".
+. * ELECTRON : The fundamental particle of
+electricity.
+* ELECTRON-VOLT : The unit of energy in
+the motions and transformations of electrons,
+photons and nuclear particles. It is the
+energy acquired, by an electron when it is
+propelled by an applied voltage of one volt.
+* GAMMA-HAYS : Extremely penetrating
+rays from radio-active atoms, composed
+essentially of vibratory waves like X-rays
+but with waves less than 1/1000th of the
+length of X-rays.
+* HALF-LIFE : The period of time required
+for any quantity of a radio-active element to
+be reduced to half the original quantity by
+the gradual disintegration of its atoms.
+* ISOTOPES : DIfferent varieties of atoms
+of a single chemical element ; they have the
+same number of electrons at the surface,
+therefore the same chemical properties, but
+the composition of their nuclei is different
+in the number of neutrons, so that different
+isotopes of an element differ in the weight
+of their atoms. Hydrogen and deuterium art
+examples.
+* MESON : A short-lived particle, either
+positive or negative, and intermediate in mass
+between an electron and a proton which was
+discovered in cosmic rays and is now produc-
+ed in the proton-synchrotron.
+* MOLECULE : The smallest particle of any
+substance or chemical compound that is
+capable of independent existence. Molecules
+are arranged side-by-side in crystals, near
+each other at random in liquids, quite
+separated from each other in gases.
+* NUCLEUS : The dense core at the centre
+of all atoms, with less than 1/10, OOOth the
+diameter of the atom but containing all its
+mass in the form of one or many protons
+and neutrons closely packed together.
+* NEUTR1NO : A hypothetical particle, not
+yet actually observed, but believed to be form-
+ed when a neutron disintegrates into a pro-
+ton and an electron and also in certain
+collisions of cosmic rays, to account for the
+observed energy. They have no electric
+charge and practically no mass.
+* NEUTRON : One of the fundamental
+components of all atomic nuclei (except that
+of hydrogen). It has practically the same
+weight as the proton but carries no electric
+charge.
+* PHOTON : The unit quantity of the energy
+of light and similar wave-vibrations ; it has
+some aspects of a particle of energy with
+almost zero mass but can on collision with
+an atom break up into a positive and a nega-
+tive electron.
+* POSITRON : Like the electron but is posi-
+tively charged instead of negatively.
+* PROTON : One of the basic components
+of all atomic nuclei ; it carries a single posi-
+tive charge. It is also the nucleus of the
+hydrogen atom.
+* PROTON-SYNCHROTRON : The most
+powerful type of accelerator for nuclear pro-
+jectiles which operates on the frequency-
+modulation principle.
+* RADIUM : One of the chemical elements,
+discovered in 1898, with the unique property
+of giving off alpha, beta and gamma-rays
+from the nuclei of its atoms, and thus of
+changing into a series of other elements and
+eventually into lead.
+* SYNCHROTRON : A machine suitable
+for the acceleration of electrons to speeds
+near that of light and to an energy level
+which increases their mass (according to the
+Einstein principle) so that the frequency of
+the propelling electrical oscillation must be
+modulated.
+* V-PARTICLE' : The most recent of the
+elementary particles discovered in cosmic rays,
+produced in the high-energy accelerators.
+Its exact nature is still unknown.
+* X-RAYS : The rays, essentially wave-
+vibrations, produced when electrons in a
+vacuum tube are hurled under high voltage
+against a metallic cathode. They are the
+same type of wave-motion as ordinary light
+but their waves are only 1/lCOOth the length
+of visible light waves. They are invisible but
+can penetrate through several centimeters (or
+inches) of matter, depending on the voltage
+with which they are produced.
+(Continued from previous page)
+up some of its energy to heat the wire. Electric
+lights, heaters and pressing irons depend on this
+fact. But when electrons pass through a glass
+tube that has been partially evacuated, they col-
+lide with the molecules in the remaining air to
+make the gas glow. If the vacuum is very high
+so that the electrons cross through the tube at
+high speed, they collide with the solid wall oppo-
+site. And when on that spot there is a metal
+plate to form a target for the electrons to hit,
+their high-speed collisions set up very rapid ether
+vibrations-the X-rays-somewhat as hitting
+an anvil with a hammer sets up sound waves. Now
+the various new discoveries began to fit together
+to give understanding.
+Let us return now to the three types of rays
+that are automatically generated by the atoms of
+radium. The discovery and identification of the
+electron at once explained the beta-rays and the
+gamma-rays too. For it was soon found that the
+beta-rays are nothing but electrons, streaming
+naturally in all directions from every bit of
+radium, while the gamma-rays, known to be like
+X-rays, are produced partly as by-products when
+the high-speed electrons in the beta rays bom-
+bard the radium itself.
+The atom of
+heavy hydrogen
+0. 02 per cent of
+which is found
+in all natural
+hydrogen and
+all natural wat-
+er. Heavy hy-
+drogen, or deu-
+terium as it is
+called, has a
+neutron as well
+as a proton
+at its nucleus.
+This explained part of the mystery of radium
+but it also brought a new surprise. It meant that
+there must be a store of electrons deep within
+the atom of radium. Thus the atom cannot be a
+hard, solid, ultimate particle but must be a com-
+plicated structure composed partly of electrons
+and with enough energy packed inside to propel
+the electrons outwards in the form of beta-rays
+almost at the velocity of light.
+But it was the investigations of alpha-rays from
+radium that finally revealed the structure of the
+atom. The alpha-rays are not electrons nor are
+they ether vibrations. They are composed of rela-
+tively large particles. Measurement of the mass
+of the particles by the same method that was
+used with electrons-namely by measuring the
+force necessary to bend them from their swift
+straight path of flight-showed that they are
+of atomic size, thousands of times heavier than
+an electron.
+They turned out to be, in fact, atoms of the gas
+called helium. But not normal atoms, for each of
+them had two charges of positive electricity. In
+other words they lack two electrons-since an
+electron is the unit charge of electricity and is
+called'''negative''merely by an error of naming
+in the early days when no-one knew what an
+electric charge was. When the alpha particles
+strike matter they quickly pick up two stray
+electrons and become true atoms of helium.
+Since the atom of radium must therefore
+contain both electrons and helium atoms, and
+ejects both of them at very high speed, the
+radium atom began to appear complicated indeed.
+The next step was the series of researches by Sir
+Ernest Rutherford and his associates in England,
+in which he allowed a very thin beam of alpha
+particles from radium to strike a thin sheet of
+gold. Some of them passed straight through the
+solid metal ; many changed their line of flight
+and were deflected from their original direction
+by some form of elastic impact. A few of them
+were reflected almost straight back to the direc-
+tion from which they had come. When Ruther-
+ford measured the number of helium atoms that
+were reflected in various directions, he was forced
+In the photograph on the left, alpha particles are
+shown streaming through a cloud chamber. One
+has hit a hydrogen nucleus, and since the alpha
+particle has a mass four times as great, its path is
+hardly affected at all. But the light hydrogen nucleus
+is knocked out of the way towards the left. In the
+right hand picture, an alpha particle collides with a
+helium nucleus. These particles are identical in
+mass, and it can be seen how they share the energy
+of the impact and the fly off with equal deflections.
+to the astonishing conclusion that most of the
+helium atoms went through the metal sheet as
+easily as if it were not there, but a very small
+number hit a solid obstacle that repelled them.
+The only explanation is that the sheet of solid
+gold is not solid at all from the point of view of
+a very small projectile like the alpha particle.
+The gold atoms are nearly empty. Through this
+emptiness of the gold atoms the alpha particles
+penetrate quite easily. But there are some spots
+in the gold atoms that are solid and impenetrable.
+This conception of the atom of gold was new but
+the facts could not be explained at all if the gold
+sheet were made of solid atoms all in contact and
+side by side. So what was it that the alpha parti-
+cles hit ? Rutherford called it the nucleus, a very
+small and very hard centre where all the matter
+is concentrated and from which the alpha par-
+ticles bounce. Unless the nucleus is hit, the alpha
+particles easily go through the gold atoms.
+The result is a wholly new picture of the atom.
+At its centre is a small nucleus. At a considerable
+The collision of
+an electron
+with a positron
+neutralizes
+their charges,
+annihilates
+their mass and
+converts it into
+a strong burst
+of gamma rays.
+distance from the nucleus are electrons distribut-
+ed in orbits much like the planets around the
+sun. In fact, the analogy of the solar system is
+a good one, with the atom nucleus as the sun at
+the centre, and electrons circulating far away.
+But what is hard to realize is that the nucleus
+is so very small. Its diameter is only 1/10, 000th
+of the diameter of the atom. Thus the diameter
+of the atom is 10, 000 times that of the nucleus.
+If the nucleus were as large as a hazel-nut the
+atom would measure 2/3 of a mile across. Yet
+in that small central nucleus is all the'''matter''.
+It is from the nucleus of the radium atom that
+the alpha particles are ejected, and the beta rays
+too. It was at once obvious that the nucleus is
+not only very concentrated in matter but in
+energy also. As so often happens in scientific
+research, the exploration of the atom has only
+deepened the mystery. Now the problem becomes
+one of exploring the nucleus.
+In considering the structure of the nucleus it
+should be noted first that, electrically speaking,
+it is"positively charged". This means, of course,
+All the three isotopes of hydrogen have one proton and one electron. They differ only in the number of neutrons
+in the nucleus. Protium (ordinary hydrogen) has none, deuterium (heavy hydrogen) has one, and tritium
+(extra heavy hydrogen) has two. In these diagrams the orbit of the electron is much too close to the nucleus.
+If it were drawn to scale and the nucleus were this big, the electron orbit would be at least 300 feet away.
+
+DECEMBER 1953. Page 7
+The use of radium in medical treatments, especially for cancer, is well established, but limited and expensive. The cyclotron has led to the manufacture of
+artificially radio-active isotopes of a long list of chemical elements. The photograph shows a patient at the Brookhaven National Laboratory, Upton, N. Y. in the
+United States, which has the first hospital ever to be devoted exclusively to the medical effects and uses of atomic rays. A Geiger counter, a ! med at X
+marked on patient's throat, is used to measure quantity of radio-active iodine, remaining in thyroid gland after a patient has been given an"atomic cocktail"to drin k.
+only that electrons are missing. But the whole
+atom is neutral, electrically. Thus the positive
+charge on the nucleus is matched by the negative
+electrons forming the atom's exterior layers.
+It was mentioned above that the alpha particle
+is a helium atom with two positive charges. That
+can now be better said. The alpha particle is
+merely the nucleus of the helium atom, without
+the two external electrons that characterize the
+atom of helium. Thus the radium nucleus merely
+ejects a helium nucleus in its automatic explosion.
+It is therefore easy to suspect that the helium
+nucleus is one of the inherent components of the
+nuclei of other atoms. But this is not quite the
+case. The helium nucleus is itself complex. Space
+does not permit a detailed description of all the
+researches which led to the present conception of
+the atomic nucleus. But the conclusion is that
+one of the basic components of all atomic nuclei
+is the nucleus of hydrogen not of helium.
+Hydrogen is the lightest and simplest of atoms,
+with only one electron at its surface and one
+positive charge on its nucleus. Its weight is also
+a unit, for the weights of all larger atoms are
+simple multiples of the weight of the hydrogen
+atom. It is the hydrogen nucleus, smallest and
+simplest of all, that is the chief building stone.
+All the larger atomic nuclei are built, at least in
+part, from this unit. For this reason it deserves a
+special name : it is the proton.
+But it is not the only building stone. One more
+particle must be introduced before the list of
+major nuclear components is complete. That is
+the neutron. It was the last to be discovered
+because, oddly enough, it is not electrically
+charged and therefore is very hard to detect. It
+is of the same weight as the proton but it is not
+positively charged. It must therefore somehow
+contain an electron within it to make it neutral.
+That one electron makes the only difference bet-
+ween a proton and a neutron.
+The word"within"is important here. A posi-
+tive proton can be balanced by a negative electron
+circulating in an orbit around it, like a planet
+around the sun. This is the hydrogen atom. But,
+if, somehow, the electron enters into the proton,
+as if the sun had swallowed its planet, the result
+is a neutron. Conversely, knocking an electron
+out of a neutron converts it into a proton. But
+such interference with the structure of protons
+and neutrons is not easy. They are practically
+untouchable except by the powerful cyclotrons
+that are described in another article of this series.
+The discovery of the neutron by Prof. Chadwick
+in England came late-not until 1934. It proved to
+be the key to many puzzles. It explained at once
+what the alpha particle is as well as heavy water,
+and gave a clear understanding of isotopes, as
+will be shown in the next paragraph. It also
+made possible the transformation of one type of
+atom into another and thus paved the way not
+only for transmutation but for the actual creation
+of new chemical elements.
+Heavy water, much in the scientific news in
+recent years, is easy to understand. Water is, of
+course, the oxide of hydrogen and heavy water is
+merely the oxide of heavy hydrogen. The hydro-
+gen atom as has been said, is merely a proton
+with an electron circulating in an orbit about it.
+The weight of this atom is essentially that of one
+proton. But Prof. Urey in the United States dis-
+covered a form of hydrogen whose atom weighs
+twice as much, yet in all other properties is iden-
+tical with ordinary hydrogen. In fact, there is a
+small proportion of this heavy hydrogen in all
+natural hydrogen gas and in all natural water.
+The explanation came with the neutron, for the
+nucleus of this type of hydrogen is a particle
+composed of one proton and one neutron, inti-
+mately and firmly joined. It thus weighs twice
+the normal weight, but has only one positive
+charge own the nucleus and therefore only one
+electron at the surface of the atom. It is called
+deuterium and its nucleus is a deuteron.
+The two different forms of hydrogen, chemi-
+cally alike, yet different in their nuclear struc-
+ture, are known as isotopes. As nuclear research
+advanced in the past ten years it became possible
+not only to discover many natural isotopes of the
+chemical elements but to create many hundreds
+more that do not exist in nature. In some of them
+the various unions of protons and neutrons are
+not entirely stable so that they gradually break
+up with the emission of energy in rays in exactly
+the same way that radium disintegrates naturally.
+These artificial radio-active isotopes have becomes
+extremely useful in medicine, agriculture and
+industry and are the topic of a later article in
+this series.
+The alpha particle that is ejected in the auto-
+matic explosion of the radium atom is also
+explained by the neutron. The alpha particle has
+two positive charges and when it adds two elec-
+trons it forms an atom of helium. But the weight
+of this atom, and therefore of its nucleus, is four
+times the weight of a proton. The explanation is
+obviously that the alpha particle is composed of
+two protons and two neutrons. This gives it a
+weight of four units and two positive charges.
+With this explanation of the mysterious alpha
+particle the list of well-known fundamental par-
+ticles of matter is. complete. Within the atom but
+at the surface are the electrons, responsible for
+its chemical properties. Deep within the atom is
+the nucleus, thousands of times smaller than the
+atom itself but containing all its'''matter''. It is
+composed of protons and neutrons and must
+somehow contain electrons too. In various combi-
+nations the protons, neutrons and electrons make
+up the nuclei of all atoms. In the radio-active
+atoms, such as radium, the nucleus is unstable
+and occasionally ejects one or another of its cons-
+tituents and thus changes into a different isotope
+or, indeed, into a different chemical element. So
+the new facts and conceptions begin to fit into a
+single picture which was inconceivable fifty years
+ago but which now reveals a holly new world
+within the atom.
+But great underlying problems remain. What
+holds the nucleus together ? Is the proton really
+the ultimate particle, or does it have an internal
+structure too ? How does an electron get into it
+to make a neutron ? Whence comes all the energy
+that propels the rays at such high speeds ? All
+such questions were insoluble with the older tools
+of science. They have been successfully attacked
+in recent years with the great cyclotrons that are
+described in the third article of this series. But
+that would not have been possible had not valu-
+able hints come literally from the sky. Cosmic
+rays brought the clues to these mysteries and
+paved the way for the cyclotrons. The following
+article therefore takes a look at these very high
+speed particles that bombard the earth from outer
+space and come from no-one knows where.
+These diagrams, in a study of atomic extremes, show the structure of the lightest atom, hydrogen, contrasted
+with the heaviest atom, uranium. Hydrogen has only one proton in the nucleus and one electron spinning in
+an external orbit. Uranium has 92 protons and 146 neutrons crowded together in the nucleus, and 92 external
+electrons vibrating in complex orbits. In both diagrams the nucleus is much magnified. Its diameter sis actually
+only 1/10, OOOth of the atom's diameter and thus it would only be an invisible speck at the atomic centre.
+OURIER

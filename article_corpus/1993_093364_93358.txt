@@ -1,0 +1,231 @@
+A neiv vievr of the ooan
+by Ian S. Robinson
+Satetthe (KeanogropAy is aiding a new
+dimension fo studies 
+
+
+of the g/oba/ env/ronmenf
+andtlimale
+Wêx'
+F.^v
+34
+ALTHOUGH it occupies more than 70 per
+cent of the world's surface, the ocean is
+the least explored part of Planet Earth.
+The recent development of Earth-orbiting
+satellites to observe the sea surface has pro¬
+vided oceanographers with a powerful tool for
+gaining a new view of the ocean.
+Satellite oceanography began in earnest in
+1978 when three satellites Tiros, Nimbus 7
+and Seasat were launched, each with instru¬
+ments suitable for ocean monitoring. The first
+two were primarily meteorological satellites,
+but Seasat was dedicated to marine remote sens¬
+ing and carried all-weather microwave sensors.
+Previously restricted to observations from
+buoys and ships, oceanographers now have the
+additional ability of monitoring the sea surface
+from above. As a result some fascinating new
+features of the sea have been revealed. More
+significantly, marine scientists can now make
+suitable measurements to understand how the
+ocean affects the global environment and climate.
+THE SATELLITE PLUS FACTOR
+There are three ways in which data from satel¬
+lites provide what more conventional observa¬
+tional methods cannot:
+(i) They provide global information (data-sets)
+from a single sensor repeated over several
+years. To monitor changes in the world ocean
+by other means would require an unacceptably
+large array of in situ instruments,
+(ii) They provide an instantaneous, synoptic
+view across a wide area of the sea surface.
+Because the sea is ceaselessly changing, stan¬
+dard ship surveying methods fail to reveal the
+true instantaneous distribution of ocean
+variables (such as temperature),
+(iii) There are some types of measurements,
+such as surface roughness patterns, which
+cannot at present be made by methods other
+than remote sensing.
+Four basic properties of the sea can be mea¬
+sured in this way: surface roughness, slope
+(typically a few centimetres per 100 kilo
+metres), temperature and colour. The first three
+all relate to the surface itself, whilst the colour
+detected is that of the upper few metres.
+Since 1978 the techniques of satellite ocean¬
+ography have steadily improved until now
+they play an important part in océanographie
+programmes. Oceanographers have developed
+techniques by means of which more useful
+océanographie variables can be derived from
+the four basic primary measurements.
+A fundamental aspect of remote sensing is to
+infer subsurface conditions from the effect they
+have on the electromagnetic radiation leaving
+or reflected from the sea surface. To do so
+requires an understanding of physical processes
+occurring in the upper ocean.
+For example, ocean colour measured from
+satellites is not directly very useful, but some of
+the factors that affect the colour are important.
+Chlorophyll associated with phytoplankton in
+the water affects the green/blue ratio. Thus by a
+combination of theoretical insights and care¬
+fully planned calibration experiments it has
+been possible to derive procedures for interpret¬
+ing ocean colour in terms of chlorophyll in the
+top few metres of the sea. Similarly, but with
+less confidence, colour can be related to the
+suspended sediment load in the water, and in
+shallow water it can be related to sea depth.
+THE ALL-IMPORTANT SENSORS
+Several different types of sensor are used to
+monitor the ocean from space, employing elec¬
+tromagnetic radiation in the visible, thermal
+infrared and microwave parts of the spectrum
+to transmit information about the sea to the
+satellite.
+Some of the sensors carried by océan¬
+ographie satellites are passive radiometers
+which detect the natural emission of radiation
+from the sea, or reflected sunlight. Others are
+active devices radars which emit their own
+microwave radiation.
+A synthetic aperture radar (SAR), for
+example, generates an image whose brightness
+mi
+^^^i^B
+*¡';:'íVaS
+m
+Seasat A, an ocean-scanning
+satellite that can provide
+information for weather
+forecasts, chart ice fields,
+measure ocean currents and
+tides, and detect and
+measure waves.
+
+corresponds to the amount of microwave
+energy reflected back from the sea surface. This
+is controlled entirely by the sea surface condi¬
+tions; its roughness, orientation, electrical pro¬
+perties and motion. The microwaves cannot
+penetrate more than a few millimetres below
+the surface, and yet radar images can reveal in
+great detail the patterns of features such as
+internal waves or even the sea bed topography
+at depths 
+
+
+of many metres.
+The altimeter is another exciting radar in¬
+strument which can measure the height of the
+sea surface, and hence its slope, to an accuracy
+of a few centimetres. This means that through
+altimetry the variability of ocean currents can
+be detected on a global basis and that the
+magnitude of ocean eddies can be measured
+across wide expanses of inhospitable sea such as
+the Southern Ocean.
+Height is measured by timing the pulse on
+its journey from the satellite to the sea and back.
+If the shape of the returned pulse is examined,
+the roughness of the sea can be deduced. The
+altimeter is therefore an all-weather monitor of
+significant wave height, a parameter of consid¬
+erable importance to navigation.
+The scatterometer is a radar which views
+wider expanses of sea. The average strength of
+the microwaves scattered back from the surface
+to an oblique-viewing radar is a measure of sea
+roughness caused by wind. Consequently the
+sensor can measure surface winds across wide
+sea areas untouched by weather ships or ships
+of passage. Weather forecasts can be improved
+by incorporating such data into weather-pre¬
+dicting models. This and other radars can also
+be used to detect the edge of the polar ice
+sheets, and their seasonal variation.
+Despite problems caused by cloud cover,
+sensors which measure the infrared radiation
+emitted by the sea can yield images of the sea
+surface temperature (SST). Oceanographers use
+this data in many ways, for example, to
+monitor turbulent eddies in the ocean or fronts
+between water masses of different tempera¬
+tures. In shallow seas the temperature can
+reveal plumes of river outflows, or distinctive
+coastal zones of water which do not seem to
+disperse offshore and may serve as a marker for
+the locations of schools of fish.
+Thus satellites are capable of monitoring sur¬
+face winds, ocean waves, sea surface tempera¬
+ture, ocean primary production (such as 35
+
+phytoplankton) and the extent 
+
+
+of the polar ice
+sheets. This they can do not just once, not only
+near-instantaneously, but repeatedly over
+several years and potentially over several
+decades. This type of information is a vital
+component of the knowledge required by those
+seeking to understand and predict global cli¬
+mate change.
+The ocean is an integral part of the global
+heat engine which drives the weather. Satellites
+combined with ship and buoy measurements
+promise improved ways of estimating the flux
+of heat, water and momentum between the
+atmosphere and the ocean. They make feasible
+the initiation of global programmes to evaluate
+the contribution of the oceans to the climate
+system of the world, such as the World Ocean
+Circulation Experiment.
+SATELLITES BRING
+HIGH HOPES
+Assuming the data from these programmes are
+made available, they will benefit marine scien¬
+tists in all parts of the world. In regional and
+local seas, remote sensing provides a unique
+approach to monitoring the environment for
+the management of living resources, fishing,
+navigation and coastal erosion. It will become
+relatively inexpensive to develop local and
+regional programmes for purposes such as fore
+casting sea conditions, monitoring pollution or
+performing bathymétrie surveys.
+Every maritime nation will thus have access
+to valuable information needed for manage¬
+ment of that part of the ocean that comprises its
+Exclusive Economic Zone and need no longer
+be hindered by shortages of expensive research
+vessels and instrumentation. These will still be
+needed, but the value of limited marine
+research facilities can be multiplied by the addi¬
+tion of satellite data.
+Furthermore, marine scientists working in
+hitherto isolated areas will be enabled to make
+their own unique contribution to the "big
+science" programmes of climate change, since
+the nature of remote sensing is to provide the
+wide-scale perspective which can integrate local
+process studies into a global framework.
+This optimistic scenario, in which remote
+sensing fosters international collaboration in
+marine science, will only be possible if ocean¬
+ographers have the training in Space Ocean¬
+ography necessary for them to process, analyse,
+integrate and apply the colossal output of
+marine data now beginning to flow from satel¬
+lites. With this in mind, UNESCO has developed
+a computer-based learning package on analysis
+of marine image data, designed for students of
+marine and environmental science and manage¬
+ment (see opposite page).
+36

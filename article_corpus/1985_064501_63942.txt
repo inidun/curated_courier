@@ -1,0 +1,566 @@
+Nuclear winter
+The world-wide consequences of nuclear war
+by
+Carl Sagan
+Vladimir Alexandrov
+Paul Ehrlich
+Alexander Pavlov
+We present below extracts from the abridged transcript of a forum on the
+worldwide consequences of nuclear war, held in Washington, D.C., on 8
+December 1983, under the chairmanship of United States Senators Edward
+Kennedy and Mark Hatfield and sponsored by the Nuclear Freeze Founda¬
+tion. The main speakers at the Forum were four United States and four
+Soviet scientists; Carl Sagan, Vladimir V. Alexandrov, Paul Ehrlich, Alex¬
+ander S. Pavlov, Jack Geiger, Sergei Kapitza, Lewis Thomas and Yevgeny
+P. Velikhov. The transcripts werefirstpublished in Disarmament, aperiodic
+review by the United Nations.
+DR. CARL SAGAN, Director of the Laboratory for Planetary
+Studies at Cornell University:
+The work I am about to describe has been done with four scientific
+co-workersRichard Turco, Brian Toon, Thomas Ackerman and
+James Pollack, besides myself. From the initials of the authors, this
+has been called the TTAPS Study.
+What we have attempted to do is to calculate, for a wide range
+of possible nuclear-war scenarios, what the global climatic con¬
+sequences will be.
+To begin, I should like to describe our baseline case, which is a
+nuclear war in which 5,000 megatons are exploded. This is between
+one third and one half of the joint strategic arsenals of the Soviet
+Union and the United States, and is by no means the worst nuclear
+war that could be imagined.
+The results that I am to describe have been discussed in a special
+meeting in Cambridge, Massachusetts, in April 1983 by 100
+specialists in this field. Confirmatory studies have been performed
+by some eight or ten other groups worldwide, including two such
+studies in the Soviet Union. There have been other studies in the
+Federal Republic of Germany, in Australia and in this country, at
+the National Center for Atmospheric Research, at the Lawrence
+Livermore Weapons Laboratory and elsewhere. There is a major
+study starting up at Los Alamos.
+What I am describing is by no means just the conclusion of our
+group, because the results of all the groups I have mentioned are
+more or less the same.
+I want to stress that there are differences on points of detail. We
+can differ, for example, on what scenarios are more likely. But as
+I will mention in a moment, the consequences seem surprisingly in¬
+dependent of the kind of war waged, above a certain expenditure
+of megatons.
+And I do not for a moment want to suggest that there is no more
+work to be done on this subject. There is a great deal more work
+that needs to be done. The results I am describing are from what
+is called a one-dimensional model in which the fine particles are free
+to move up and down according to the laws of physics, but the
+spreading in latitude and longitude is not by any means done
+precisely.
+Dr. Alexandrov will describe the first Soviet three-dimensional
+model in which there is an attempt to describe the spreading quan¬
+titatively in latitude and longitude. His results are quite similar in
+general to those at the National Center of Atmospheric Research.
+Here again, there seems to be a good convergence of results.
+So now, let us consider the 5,000-megaton baseline case that I
+described before; this is a case in which both cities and hard targets
+like missile silos are targeted, so that there would be both soot and
+fine dust produced.
+The immediate consequences of such a war which would
+presumably be fought in the northern mid-latitudes is that, in the
+target zone, the obscuration of the sun by soot and dust would
+make it pitch black. As the fine particles spread, initially in
+longitude and then in latitude, things get brighter, but it appears
+that the average in northern mid-latitudes would be about one per
+cent of the ordinary sunlight on a clear day. And, as Dr. Ehrlich will
+describe in greater detail, this by itself is already extremely
+dangerous for plant photosynthesis. Many varieties of plants
+throughout the northern hemisphere (and, as I will mention, in the
+southern hemisphere as well) are in deep trouble when, to this ex¬
+tent, the sun has been turned off. And this turning off is for a
+significant period of time, probably a few monthspossibly much
+longer.
+Because the amount of sunlight reaching the surface of Earth
+would now be so much less, and because it is sunlight that heats the
+surface of Earth, it gets cold, and, for the baseline case, the
+temperature decline is substantial; in our calculations to something
+like -23°C, roughly - 10°F. These are average continental
+temperatures in the northern hemisphere, far from coastlines. (The
+severity would be moderated somewhat by the oceans, which act as
+reservoirs of heat). And that means that many exposed plants,
+animals and humans would freeze to death.
+26
+
+In addition, you know how in the burning of skyscrapers, say,
+most casualties come not from the fire itself, but from toxic gases
+produced by the conflagration of synthetics, insulation, drapes and
+so on. In the' burning of large cities, there would be a great deal of
+that, and so there is an additional thing to worry about, the produc¬
+tion of a toxic smog that would persist at ground level for substan¬
+tial periods of time.
+Now, the fine particles that block the sunlight also carry radioac¬
+tivity, and since we have tracked the motion of these fine particles,
+we have in effect also tracked the intermediate time-scale radioac¬
+tive fall-out. Almost all previous studies assumed that all the
+radioactivity not promptly deposited on the ground went into the
+stratosphere, taking a long time to fall out, by which time much of
+the radioactivity had decayed. In contrast, we find that for a
+reasonable mix of yields, there are many fine particles put into the
+lower atmosphere (or troposphere) that fall out faster. The in¬
+termediate time-scale fall-out doses are considerably larger, about
+10 times more, than has been generally thought in the past.
+To give some idea of these numbers, for the baseline case,
+something like 30 per cent of northern mid-latitude land areas
+would receive a dose (in the fall-out patterns that go downwind of
+targets) of something like 250 rads, that is, approaching the mean
+lethal dose for unprotected human beings. The intermediate time-
+scale dose of radioactivity far from targets turns out to be
+something like 50 to 100 rads all over the northern hemisphere. At
+this dose, the human immune system our capacity to resist
+disease begins to become compromised. This intermediate time-
+scale dose represents a much more serious radiation burden than
+has been described in the past.
+After the soot and dust fall out, the sunlight gets down to the sur¬
+face, and things warm up again. This is many months latersay,
+six to nine months later, although it may be much longer when
+conditions may return to their normal values. But there is an addi¬
+tional negative effect: the ozone layer has been disrupted by the
+high-yield explosions, and so now considerably more ultraviolet
+light is penetrating to the surface of Earth, several times the amount
+27
+
+Urban dislocation
+Within a week after a war, the amount of sunlight
+at ground level could be reduced to just a few per
+cent of normal. Urban survivors would face ex¬
+treme cold, water shortages, lack of food and fuel
+and serious radiation, pollution and disease pro¬
+blems. They would probably attempt to leave the
+cities in search of food.
+^ that penetrates now. Ultraviolet light is extremely dangerous to
+organisms; the nucleic acids and proteins, the two main biological
+molecules, are sensitive to light in the near-ultraviolet wavelength
+range.
+It now seems that the southern hemisphere would almost certain¬
+ly be involved in these effects. Conventional wisdom that the
+southern hemisphere would not be involved comes, in part, from
+tracking the debris from a single nuclear-weapon explosion. But a
+single nuclear-weapon-explosion cannot provide enough fine par¬
+ticles to heat the upper atmosphere significantly and cool the sur¬
+face. However, if you have something like 10,000 explosions, the
+case is very different. Then, the fine particles absorb sunlight in the
+northern hemisphere, and the upper atmosphere heats up enor¬
+mously. The temperature difference between the northern
+hemisphere and the southern hemisphere then drives a new kind of
+circulation, on which Dr. Alexandrov will have something more to
+say, which transports the fine particles across the equator, thereby
+carrying to some degree the cold, the dark and some of the radioac¬
+tivity into the southern hemisphere. The idea that there are sanc¬
+tuaries on the planet to which someone could flee in expectation of
+a nuclear war now seems much less credible.
+So, if we put together these consequencesthe dark, the cold, the
+chemical toxins from the fire, the fall-out, the ultraviolet flux and
+the fact that the phenomenon would be worldwide (perhaps less
+severe in the southern hemisphere), we have a new circumstance, a
+circumstance in which life everywhere on the planet is threatened.
+The biologists even raise the possibility that the extinction of the
+human species may be accomplished by nuclear war and nuclear
+winter.
+I would like to stress that there is a level of conflict below which
+nuclear weapons could not drive the climatic catastrophe, what we
+call "nuclear winter", and there are levels at which the world
+arsenals certainly could drive nuclear winter. We do not know
+precisely where this threshold is, the transition, but it seems clearly
+far less than the present strategic stockpiles. Very roughly the
+threshold may be somewhere near 1,000 strategic warheads it may
+be a few hundred, it may be several thousand (depending in part on
+how many cities are targetted). I do not want to pretend we know
+this to high precision. But let us, just for the next minute or two,
+call it 1,000 warheads. The global strategic arsenals are somewhere
+around 18,000 strategic warheads. And with the present
+planned buildup in American and Soviet strategic weapons, they
+will rise in the next few years to something like 25,000 strategic (and
+theatre) warheads. That means that we are somewhere between 18
+and 25 times larger than the threshold needed if that is the
+word to provoke, trigger, this nuclear winter, and put the biology
+of the planet in jeopardy.
+DR. VLADIMIR ALEXANDROV, Head of the Laboratory of
+Climate Modelling at the Computer Centre at the Soviet Academy
+of Sciences:
+I would like to describe briefly the main climatic consequences of
+nuclear war.
+The climatic effects are, number one, the terrible geophysical
+consequences of nuclear war. The results which I would like to pre¬
+sent today are keyed by a simulation of the large computer climatic
+model of the Computer Centre of the USSR Academy of Sciences.
+It is a large three-dimensional model, which includes the general cir¬
+culation model of the atmosphere and the thermodynamic model of
+the upper zone.
+The calculation of climatic consequences is our last experiment
+using this model. To simulate these consequences, we used the
+scenario of Professor Sagan's group, and we studied the con¬
+sequences of the so-called basic version or basic scenario.
+The main impact of nuclear war on our climate is the abrupt,
+shocking, very deep and long-term cooling of the air over the con¬
+tinents. This cooling is induced by the pollution of the atmosphere
+by dust and, mainly, soot.
+The fireballs of atomic bombs will ignite cities, plants, fuel
+storage sites and forests. Our civilization is full of organic
+materials, and the main building block of organic material, the
+main atom, is carbon. In the atmospheric environment, synthetics
+do not burn completely, so during burning, elementary carbon is
+released. This elementary carbon creates the soot. The elementary
+carbon has a pretty high conductivity, so it absorbs the solar light
+intensively. So the atmosphere will be opaque to solar light, and the
+solar flux will be blocked by the pollution of the atmosphere by dust
+and soot. This result, the absorption of solar light, is highly sen¬
+sitive in the scenario of nuclear war.
+I would like to show you just one example of the temperature
+drop. In 40 days, the temperature will drop over the United States
+about 30°C to 40°C. this means that in July, the temperature over
+the territory of the United States will be 0° to - 20°F, or something
+like that. In January, it will be something like - 40 to - 60°F. The
+picture will be the same over the European territory of the USSR.
+The temperature drop over Scandinavia will be about 50°C; over
+Saudi Arabia, up to 50°C; over West Siberia, 50°C; over Latin
+America, 22°C, and so on; over northern Africa, 20°C.
+This means that human beings will be involved shortly in very low
+temperature environments. A very important factor during this
+period is the strong inter-hemispheric transport. The reason for this
+is the strong temperature contrast between the air in the northern
+hemisphere and the southern hemisphere.
+We studied the change of the global circulation of the at¬
+mosphere, using our model, and we found that the global circula¬
+tion will be drastically changed in the first three or four weeks. The
+classical scheme of circulation disappears, and the global circula¬
+tion represents just one giant cell of circulation, which will
+transport the enormous amounts of pollutant from the northern
+hemisphere to the southern hemisphere.
+The oceans
+As a result of the darkness and cessation of
+photosynthesis, the phytoplankton rapidly die off,
+food chains are disrupted and sea life declines.
+Toxins and silt draining off the land contaminate
+the coastal zone, and the thermal differential bet¬
+ween intensely cold continental land masses and
+the warmer oceans creates violent coastal storms.
+Ocean food sources for humanity largely disap¬
+pear and access to the remainder is severely
+impaired.
+28
+
+^3É
+Chemical spills
+Nuclear explosions in or near cities would ignite oil
+and gas storage facilities and would rupture tanks
+containing various toxic chemicals which would
+spill into rivers and streams. The pollution would
+kill natural aquatic life.
+This means that in about three weeks not more than one
+month the situation in the southern hemisphere will be as bad as
+in the northern hemisphere, and the tropical region will suffer in an
+automatic way.
+But as a whole, the atmosphere will absorb more energy than
+now, because it will be dirty. The upper atmosphere will be warmed
+up more than 100°C. So the temperature will increase with altitude.
+Now, it decreases with altitude in the troposphere, in the lower layer
+of the atmosphere, at the bottom of which we live. And when the
+atmosphere becomes very hot above and very cold below, it will
+create an enormous superstability. This means that the vertical mo¬
+tion, the so-called convective motion, will be strongly suppressed.
+At the same time, the vertical transfer of water vapour will be sup¬
+pressed, so the hydrological cycle will be highly suppressed, and the
+natural cleaning of the atmosphere by rain will also be suppressed.
+So, the pollutants will stay in the atmosphere a much longer time
+than is now the case.
+The permanent increase of temperature described means that the
+troposphere will disappear, and the stratosphere will start im¬
+mediately from the surface of Earth.
+The whole picture means that in a month maybe a little bit less
+or maybe a little bit morethe whole globe will be involved in these
+terrible consequences of nuclear war, regardless of where and how
+the nuclear war occurs, because the pollutant, the dust and soot,
+will be mixed very rapidly all over the globe in the space of some
+weeks, and the presence of this pollutant will induce this mixing,
+because the presence of this pollutant will create the huge
+temperature contrast, which will increase the process of mixing.
+The suppression of the hydrological cycle will provoke, will in¬
+duce, droughts over continents. These droughts will take place in
+very low temperatures.
+At the same time, the oceans will not cool very much. Our
+calculation shows that the mean temperature drop of the ocean in
+10 months will be 1.2°C. So the air over the ocean will be as cool
+as it is now, maybe several degrees Centigrade less than now. It
+means there will be huge temperature contrasts between land and
+sea. These temperature contrasts will create severe storms along sea
+coasts. During these storms, a huge amount of sea air, full of water
+vapour, will be transported over the land, and this water will
+precipitate over the land in the form of snow, of course, and it will
+start a severe nuclear winter lasting for many months, regardless of
+when the conflict occursin July or in January, it does not matter.
+And this severe meteorological environment will erase civilization
+along the sea coasts.
+During the heating of the upper atmosphere, the high mountains
+will probably be warmed up. In our calculations, the temperature
+over Tibet will increase up to 20°C in eight months. This means that
+the hydrological cycle of mountain snow and glaciers will be chang¬
+ed in crucial ways, and it is highly probable that this will cause large-
+scale floods. Because of the melting of huge amounts of snow and
+ice, these floods may be continental in scale. At the same time, in
+eight months, the temperature over the land will be low enough
+over the United States, the temperature drop will be as much as 20°
+or 30°C; over northern Africa, as much as 10°C, and so on.
+Finally, I would like to say a little about biota climatic feedback.
+The shocking temperature drop will kill the tropical forests,
+because tropical forests exist in very narrow temperature bands. So
+the shocking cooling up to dozens of degrees Centigrade will kill the
+biota and will kill most living species in our world.
+At the same time, the biota, the forests of the temperate zone,
+will be killed also. This means that the physical properties of the
+land surface will be changed for many years ahead, after the
+conflict.
+This means that the reflectivity coefficient of the solar sun, sun¬
+shine reflected from Earth's surface, will be increased two, three or
+four times. It means, hence, that the amount of energy which these
+huge areas of land have now will be decreased by two, three, four
+times. It means that our climatic system, which is extremely fragile
+and sensitive to any variations of external and internal parameters,
+will inevitably rest in a new state. We do not know what state it will
+be. Maybe it will be a new Ice Age. It is too early to give an answer
+to this question. But anyway, this state will be absolutely terrible.
+So the presentation which I have just made shows that it is highly
+probable that in the post-war world, Homo sapiens will not have an
+ecological niche. I mean that the environment will be so hostile to
+human beings that probably life in the very low-temperature areas
+will not be economically viable without fuel, without energy, with
+completely frozen water, without any water supply (because all
+fresh water will be in a frozen state), without a food supply and so
+on.
+DR. PAUL EHRLICH, Bing Professor of Population Biology at
+Stanford University:
+Let me say that I think the scientific results in this case are
+something that scientists normally call "robust". Dr. Sagan has
+given one reason for the robustness, namely, that the climatic ef¬
+fects have been checked in several different kinds of studies in
+several different laboratories.
+Let me say they are robust in another way, particularly from the
+point of view of an ecologist, namely, they have been very conser¬
+vative in many of their assumptions. They have been conservative
+in their assumptions about the size of firestorms, assuming that
+about 4 per cent of the land surface of North America would be
+burned off, when other estimates run over 50 per cent. They have
+been conservative in not including factors that they know about but
+which are hard to model, such as the fugitive dust, which would
+blow off from the denuded landscape. If you recall pictures of dust
+storms back in the Depression days, they are equally capable of
+making it midnight at noon and could continue to produce, along
+with long-term fires, some of these climatic effects for much longer ^
+times than have been cited.
+Agricultural impact
+In a spring or summer war, sub-freezing
+temperatures would kill or damage virtually all
+crops in the Northern Hemisphere. The low light
+levels would inhibit photosynthesis and the conse¬
+quences would cascade through all food chains.
+Most farm animals would be destroyed or severely
+weakened by radiation. Those that survived would
+soon die of thirst since surface fresh water would
+be frozen in the interior of continents.
+29
+
+The forests
+After a nuclear war, freshwater systems would
+freeze to considerable depths, killing off the food
+for woodland creatures. Radioactive fall-out would
+kill many conifers. Dead dry conifers would
+become kindling for massive forest fires.
+production for a year in the northern hemisphere. That in itself
+would be the greatest catastrophe ever delivered upon Homo sa¬
+piens: just that one thing, not worrying about the prompt effects.
+So that even below the threshold, one cannot think of survival of
+nuclear war as just being able to stand up after the bomb has gone
+off.
+Some 70 biologists have reviewed the climatic results. In a
+meeting last April [1983], they were able to come to a unanimous
+conclusion about what these results mean, simply because built into
+them is a level of biological overkill such that there can be no
+disagreement. Asking ecologists and evolutionists to, evaluate the
+biological impact of a nuclear winter was the equivalent of asking
+a group of distinguished physicians: "If everyone in this room put
+a loaded double-barrelled shotgun in his or her mouth and pulled
+both triggers simultaneously, what would be the medical results?"
+The darkness alone, as Dr. Sagan mentioned, would be more
+than enough to cut off our ecological systems at their base because,
+as you know, we all depend on plants for our lives. In the oceans,
+the thermal inertia of the water would Iceep them relatively warm,
+but the plants that support the oceanic food chains (single-celled
+phytoplankton) have essentially no reserves and would die im¬
+mediately. In temperate areas, all of the growing land plants would
+die. They would be killed not just by the dark, but also by the ex¬
+traordinary cold. If the war occurred during the growing season, as
+it would be likely to do, many of the plants that in other seasons
+are able to take quite a bit of cold would be killed outright, because
+they would not have the chance to harden (increase their cold-
+resistance) as they normally do in the fall.
+Basically, you have: the dark, which could be more than enough
+to destroy biological systems, at least in the northern hemisphere;
+and the cold, which also would be more than enough to destroy
+biological systems. Then there would be the extraordinary amounts
+of radiation which were a surprise for the biologistswe had long
+known that there would be very serious radiation effects on human
+beings, but the new findings indicate they would be large enough to
+damage ecosystemsthe toxic smog and the ultraviolet-B. Any one
+of those would be more than enough to put ecological systems into
+deep stress. Most of them would be enough, each by itself, to kill
+off that year's food production, anyway. And, in combination,
+there is an incredible level of overkill, so much that the biologists
+were able to conclude unanimously that, if there were a large-scale
+nuclear war triggering these kinds of climatic effects, in essence,
+you could kiss goodbye to the northern hemisphere. No civilization
+would survive in the northern hemisphere.
+The only survival that there might be would be in extraordinarily
+deep shelters, with huge supplies of food, with self-contained air
+supplies and so on. And all those people, of course, would only be
+delaying their deaths, because when they came out, there would be
+nothing to come out to a denuded, highly radioactive continent
+with no way to go back to agriculture to supply food, to supply any
+of the amenities of life.
+If the effects spread to the southern hemisphere, then, of course,
+the biologists concluded, as Dr. Alexandrov has just indicated, that
+the extermination of human life could not be precluded, and under
+some circumstances, would be likely.
+And let me stress that I have a long list of other ecological effects
+which I and others had identified long before, that have long been
+ignored, and that I am going to leave out today because of the over¬
+riding effects that we have just been discussing.
+If a war below the threshold occurs and there is no full-scale
+nuclear winter, we would in no sense be out of the woods in terms
+of the long-term biological effects. For example, a smaller war,
+which set off fewer fires and put less dust in the atmosphere, could
+very easily depress the temperatures in the northern hemisphere by,
+say, 7° or 8°C. That would be enough to essentially cancel grain
+DR. ALEXANDER PAVLOV, Director of the Moscow Scientific
+Institute on Radiology:
+Considering the after-effects of total nuclear war, it is necessary
+to take into account both immediate, direct effects, connected with
+the destructive factors of nuclear weapons, and remote, indirect in¬
+fluences on human health and life, due to the inevitable disastrous
+changes in the environment.
+Today we are well aware of the destructive influences of such fac¬
+tors of nuclear weapons as shock wave, high temperature, radiation
+and contamination by radioactive nuclides.
+I should like to note that after nuclear explosions, there will
+develop in different proportions combined lesions with different
+syndromes caused by mechanical traumas, thermal burns and
+radiation.
+The World Health Organization holds that human losses in a
+total nuclear war would amount to more than one thousand million
+persons, with the same number of wounded. In total, about half of
+the world population would become a direct victim of nuclear war.
+The fate of another half of the world population will depend on
+harmful influences of radiological, climatic, socio-economic and
+other factors.
+Speaking about immediate effects of nuclear-weapon use, it is
+necessary to dwell particularly on a new form of pathology that
+is, the radiation lesions.
+Today, numerous data have been collected, showing the
+biological action of radiation on living beings. These data open
+wide prospects for the use of radiation in medicine for thé benefit
+of mankind. But radiation has another aspect. External or internal
+radiation of the total body causes a pathological condition, so-
+called radiation disease. The severity of radiation disease depends
+on the size of the absorbed dose and the volume of irradiated
+tissues. There exist various forms of that disease.
+When high doses of radiation act on a human being, the clinical
+picture is characterized by changes in the central nervous system ac¬
+companied by stupor, which end with death in the next few hours,
+or days, after radiation.
+Radiation with lesser doses causes such clinical manifestations as
+gastrointestinal changes, with haemorrhagic diarrhoea or
+haemopoietic tissue, lesions with cytopenia, anaemia and im¬
+munological damages. Infectious complications such as stomatitis,
+pharyngitis, enterocolitis, pneumonia and others aggravate the
+state of patients even further. Very often, such conditions end with
+the death of the injured people.
+The long-term effect will depend on the particular environment.
+Human life cannot be thought of as separate from its environment.
+Therefore, all data on the ecological and climatic changes on the
+globe which will take place due to tremendous nuclear explosions
+are extremely important and decisive for the estimation of the
+remote consequences.
+Worldwide effects
+The cold and darkness following a nuclear war in
+the Northern Hemisphere would probably extend
+into the sub-tropics and tropics of both the Nor¬
+thern and Southern Hemispheres. These would
+cause large-scale injury to plants and animals
+there and would severely damage or destroy
+tropical rain forests, the great reservoir of Earth's
+organic diversity. .
+30
+
+After 40 days
+Maps show changes in surface air
+temperatures 40 days (above) and 243
+days (below) after the launching of a
+nuclear war in which 5,000megatons are
+exploded, as calculated by the Com¬
+puting Centre of the USSR Academy of
+Sciences. The lines are isotherms [an
+isotherm is a line connecting points of
+equal temperature] graded at intervals of
+5 degrees. After 40 days there would be a
+drop in temperature of 30 to 40 degrees
+(Centigrade) over the USA and the USSR,
+50 degrees over Scandinavia and Saudi
+Arabia, 22 degrees over Latin America
+and 20 degrees over Africa. After 243
+days heating of the upperatmosphere will
+lead to rises in temperature over large
+mountain systems ranging from 5 to 6
+degrees over the Andes to 20 degrees
+over Tibet, enough to provoke flooding
+on a continental scale.
+After 243 days
+Global atmospheric and climatic consequences of a nuclear war
+would have a destructive influence on the future existence of all liv¬
+ing beings on Earth and, in the first place, on the human popula¬
+tion. The abrupt decrease in air temperature and impermeation of
+the atmosphere by solar radiation would create extreme conditions
+for the existence of mankind.
+Those houses that remained unruined would be inadequate for
+sheltering people. They would have to search for shelters
+underground. That fact would lead to overcrowding, to the im¬
+possibility of ensuring the simplest sanitary conditions, which
+would cause epidemics of such infectious diseases as classical
+typhus and enteric fever, cholera and viral diseases, etc.
+The disappearance of forests, which are rightly regarded as the
+"lungs" of our planet, would lead to an abrupt decrease in the ox¬
+ygen content of atmospheric air. That would have an extremely
+negative effect on the existence of living beings.
+Low temperatures and a decrease in solar radiation would lead
+to the disappearance of vegetables and agricultural crops that
+would deprive mankind of the possibility of obtaining food pro¬
+ducts. Chronic starvation would lead also to immunity damage,
+that would facilitate the development of various infectious diseases.
+The world's oceans and all other bodies of water would cease to
+be a source of goods. In connection with global effects, oceans
+would become a tomb for all animals and plants. That would
+deprive mankind of its last source of food. The water supply would
+be completely disrupted, with all that implies.
+The human body has high possibilities of adaptation to various
+extreme conditions. Man is able to live for a long time on ice drifts,
+in Antarctica, to fly to space stations, to live in a blockaded town
+for instance, during the Second World War, people lived in
+blockaded Leningrad for 900 days. But in all these cases, a certain
+hinterland .exists, which supports the people. In the case of nuclear
+catastrophe, such a hinterland would not exist.
+After a lapse of several years, from the moment of total nuclear
+war, an approximate recovery of the atmosphere and normalization
+of climatic conditions would be possible.
+Restoration of the vital functions of living beings, capable of liv¬
+ing in conditions of anabiosis, would be also possible. However,
+human beings would not be alive then. My short excursus as a doc¬
+tor into the- future after global nuclear war is naturally incomplete,
+because it seems to be difficult to enumerate all the factors which
+can arise within a complicated change of climatic, natural,
+ecological and socio-economic interaction.
+Destructive effects of a nuclear catastrophe would certainly lead
+to the disappearance of human beings, that crowning point of
+evolution on Earth.
+31

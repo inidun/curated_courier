@@ -1,0 +1,316 @@
+Community radio for Kenya
+by Jack Mills and James Kangwana
+ATthe beginning ofMay 1 982, the
+Homa Bay Community Broad¬
+casting Station in Kenya's
+Nyanza province started regular
+transmission in the local language,
+Luo. Manned by a producer from the
+national Voice of Kenya (VOK) net¬
+work and three assistants, the station
+puts out one-hour daily programmes
+covering local news, problems of health
+and family planning, as well as news in
+Kiswahili relayed from VOK.
+Most of the programme materials are
+gathered through interviews in the
+market place, on farms, in schools and
+with organized groups like the local
+women's organization.
+Homa Bay is a town of some 10,000
+people, situated on the shores of Lake
+Victoria about 430 kilometres by road
+west of Nairobi. The main occupation
+of the people is farming, especially
+cattle rearing, and fishing. The town
+was chosen as the site for a Unesco
+community broadcasting project, the
+aims of which were to establish in an
+African country a low-cost rural broad¬
+casting station with equipment design¬
+ed and built with the full participation
+of staff from the host country. The
+system was to provide an alternative to
+the usually expensive imported broad¬
+casting equipment which sometimes
+proves equally expensive to operate and
+maintain.
+The Unesco project was designed to
+take account of a situation in which
+sound broadcasting faces many prob¬
+lems. In terms of coverage and utiliza¬
+tion, the medium is more important
+than television in African countries,
+but even so the continent has only
+about 3 per cent of the world's trans¬
+mitters, and on average only about 7
+per cent of the population has access to
+broadcasts from these transmitters,
+which are generally located in or near
+to towns and cities. Very few transmit¬
+ters cater specifically for the rural areas
+where most of the population lives and
+where the need for the benefits of com¬
+munication infrastructure is greatest.
+The principal concern of the Unesco
+project was the provision of nationwide
+coverage at least cost to the economy.
+JACK M ILLS, of Ghana, is a consultant to the
+Economic Council for Africa (ECA) and to
+Unesco. He was formerly chief engineer and
+deputy director-general of the Ghana Broad¬
+casting Corporation.
+JAMES KANGWANA, of Kenya, is project
+co-ordinator of Unesco's Manpower Develop¬
+ment Project for East Africa. He was formerly
+director of the Voice of Kenya ¡VOK).
+The extension of sound broadcasting
+to rural communities can be achieved
+by equipping the centralized national
+network with more powerful transmit¬
+ters. However, this is not the most
+satisfying solution because the output
+is seldom related to the needs of the
+rural community it purports to- serve.
+Programmes originating from the
+towns and cities and beamed to the
+rural dweller have often failed to
+achieve their objective, for a number of
+reasons.
+Firstly, very few African countries
+have a common language which can be
+used for effective communication with
+their rural populations. In some coun¬
+tries there may be over sixty different
+rural languages and numerous dialects.
+The best that the broadcasting orga¬
+nizations can do under these cir¬
+cumstances is to select what are con¬
+sidered the main languages or ver¬
+naculars, usually not more than -ten,
+and broadcast daily programmes in
+these languages on a time division
+basis. Thus no one community listens
+to the language it understands for more
+than a few minutes a day.
+Secondly, the local language pro¬
+grammes are often produced by city
+dwellers who are not fully acquainted
+with the way of life of the rural popula¬
+tion and do not fully understand its
+needs. The result is that listeners even¬
+tually lose interest in the programmes.
+Thirdly, the distance of some rural
+areas from the national transmitters are
+such that only weak and unintelligible
+signals are received.
+Hence there is a strong need for
+technologically independent, commu¬
+nity-centred systems which are capable
+of being hooked up to the national
+system by microwave links or off-the-
+air pick-ups. However, the cost of do¬
+ing this using current technology can be
+prohibitive for most African countries.
+One of the aims of the Unesco project
+was to show that the engineering and
+technology required for the production
+of broadcasting equipment need not be
+as costly as the price of imported ar¬
+ticles would indicate.
+The project involved a series of
+feasibility and costing studies, as well
+as the study of sound broadcasting
+systems currently in use in 1 1 African
+countries. Following this groundwork,
+Kenya was chosen as the host country
+for the on-site fabrication and testing
+of a model broadcast Audio Mixer; the
+Schematic diagram of the Homa Bay community radio transmitter.
+micro Q
+turntable
+open wheel
+recorder
+H.y / / /
+n i
+audio mixer
+fc
+VHF/FM
+transmitter
+/
+U *
+O -
+w
+oo-
+I - V
+k
+cassette i
+recorder
+\
+.
+ooo
+ooo
+ooo
+ooo 31
+solar cells
+
+and testing of a low-power
+transmitter; the installation of the com¬
+pleted equipment in a rural location;
+and the carrying out of a field strength
+survey of the model station.
+It was decided that the station should
+use an easy-to-maintain, low output
+power, VHF/FM transmitter. Power
+consumption with this type of transmit¬
+ter is low and it could therefore be
+powered by solar energy. VHF/FM
+had various other advantages, in¬
+cluding simplicity of construction. On
+the other hand, the main' disadvantage
+of VHF transmission is that its pro¬
+pagation is by "line of sight"; because
+of this, nearby hills and mountains
+form obstacles to the waves, thereby
+"shielding" would-be reception areas
+from the transmissions. Medium waves,
+which rely on "ground waves" for their
+propagation, do not suffer this defect.
+The approach was tó produce equip¬
+ment using a technology that would not
+be too unfamiliar to engineers in the
+African broadcasting organizations,
+but that would at the same time make
+use of new electronic circuit tech¬
+niques. The objective here is an educa¬
+tional oneto enable the engineers to
+use some of these new techniques to
+build similar equipment in their own
+establishments, thereby cutting down
+on the cost of imported electronic
+equipment.
+In line with this approach, the use of
+operational amplifiers with discrete
+components was chosen as a means of
+introducing integrated circuits, which
+will be the inevitable choice in future
+design where low cost and simplicity
+are the main objectives. The advantage
+of the discrete design is that it in¬
+troduces the principle of operational
+amplifiers which are the building
+blocks of integrated circuits. An elec¬
+tronic building block was developed
+which is versatile enough to be used
+throughout the Audio Mixer for
+microphone, gramophone, tape and
+other input channels. Printed circuit
+boards were used because they simplify
+assembly and enable the sub-sections of
+the design to be repeated.
+Unesco was responsible for training
+the African engineers and technicians
+in charge of the project and provided
+all the parts for the construction of the
+Audio Mixer and the Transmitter.
+Almost all the electronic components
+used in the Mixer were imported, their
+total cost amounting to $566. The
+Transmitter is a direct VHF/FM
+transmitter with a power output of 10
+watts. Again almost all the component
+parts were ordered direct from
+overseas. The main transmitter unit
+cost $266.72, the power unit $70.90.
+Work on the fabrication of the Mixer
+and the Transmitter went quite
+smoothly. The sixteen channel modules
+for the Mixer and the power supply unit
+were completed within four weeks of
+the start of the work, 24 June 1 98 1 , and
+the assembly of the modules on the
+32
+"mother board" and testing were com¬
+pleted three days later. The supplying
+and cutting to size of the Mixer's metal
+panels and the drilling of holes accord¬
+ing to drawings and spraying were done
+in the workshops of Kenya Railways.
+Preliminary testing of the transmit¬
+ter in Nairobi revealed that the signal
+could be received about two kilometres
+away. The complete station was then
+transported on a VOK bus to Homa
+Bay for the final test. The equipment
+was installed in the Kenya National
+Union of Teachers building.
+With a mast height of 24.4 metres,
+the coverage area includes the whole of
+Homa Bay township. The farthest
+places reached by adequate signals
+(about 2 mV/m) are Gendia, a health
+post 27.5 kilometres from Homa Bay,
+and Kirindo, a State Irrigation Project
+site 23.5 kilometres away.
+Installation work at Homa Bay was
+not as smooth as the fabrication work
+in Nairobi. Almost all the installation
+material had to be brought from the
+capital since the local stores do not
+stock materials for which local demand
+is non-existent. On the other hand, the
+local artisans were found to be quite
+good, provided the materials they re¬
+quired for their work were supplied. All
+the woodwork for the studio acoustical
+system was done by local artisans.
+Before broadcasting began, a detail¬
+ed cultural and socio-economic profile
+of Homa Bay was prepared by a
+Unesco consultant. This was followed
+by training of three producers by
+another Unesco specialist. Training
+covered studio operations; announcing
+techniques; preparation and recording
+of interviews and discussions; recor¬
+ding of singing groups inside and out¬
+side the studio; and orientation on rural
+and community programming. At pre¬
+sent the station broadcasts between
+5.45 p.m. when farmers and other
+workers are expected to be back at
+home, and 7.00 p.m., but a more ex¬
+tensive programme schedule will come
+into operation when the station is of¬
+ficially commissioned.
+On the whole, the objectives of the
+project have been achieved. Although
+the locally fabricated equipment lacks
+the sophistication and complexity of
+the imported type, tests have shown
+that its performance is not below that
+of imported counterparts; it can be
+used to achieve the same objectives at
+much lower .cost.
+Although the station has not been of¬
+ficially commissioned, requests are
+already being received from owners of
+FM receivers for certain programmes
+to be repeated and in some cases special
+music to be played back. Some of the
+residents even walk into the studio and
+ask to be interviewed about their work
+and life.
+Rural broadcasting as envisaged by
+the project is new in Kenya, and new
+for that matter in almost the whole of
+Africa. It is hoped that with time and
+the present interest being shown by the
+people of Homa Bay, it will eventually
+achieve its objectives and spread to
+other parts of the continent.
+H Jack Mills and James Kangwana
+r
+Prototype solar-powered radio
+receiver developed by Unesco.
+Photo Mtchel Claude. Unesco

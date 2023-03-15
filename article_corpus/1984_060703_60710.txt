@@ -1,0 +1,401 @@
+THE LIFE AND
+Starbirth
+Stars are born out of interstellar gas, the tenuous
+mixture of hydrogen, helium and smaller amounts
+of other elements that lies between the existing stars
+of a galaxy. In its natural state, this gas is too
+rarefied to form into the dense gas globes of stars.
+But the interstellar medium is disturbed by various
+kinds of shock waves that compress the gas into
+denser clouds, and it is here that starbirth occurs.
+Astronomers believe that two main kinds of
+shocks are responsible. The spiral pattern of a
+galaxy like our Milky Way is a gravitational pattern
+that rotates at different speed from the galaxy's
+gas, so it is constantly piling up gas in new locations
+as the spiral pattern rotates. In addition, the fast-
+moving gases from an exploding star, a supernova,
+can sweep up the tenuous gas and compress it into
+dense clouds. Because of the clouds' large comple¬
+ment of molecules, such as carbon monoxide and
+alcohol, astronomers call them "molecular
+clouds".
+In the centre of a molecular cloud, the gas is so
+dense that its own gravity pulls it inwards. This gas
+is turbulent, so it does not all shrink towards the
+same central point, but breaks up into dozens of in¬
+dividual fragments of the cloud. Each fragment
+then shrinks independently, and eventually
+becomes a star.
+These events are hidden from optical
+astronomers, because the clouds are thick with par¬
+ticles of interstellar dust that block off light. But
+now radio telescopes can pick up radiation from
+molecules in the cloud, and infra-red instruments,
+like the Infra-red Astronomical Satellite, IRAS,
+can detect heat from the protostars. They have
+shown that each condensing fragment becomes flat¬
+tened as a result of its own rotation, and blows off
+gases at high speeds from either side of this flat
+disc. These gas flows may trigger the birth of more
+stars in the vicinity.
+The newly-born cluster of several dozen stars is
+generating radiation and gas flows that eventually
+disperse the molecular cloud around them. This
+takes one or two million years a short time in the
+astronomer's reckoning. Sometimes the stars are so
+close that they remain gravitationally bound
+together as a star cluster, but more often they drift
+apart. About one-third of all stars end up single,
+like the Sun; the other two-thirds take along a close
+companion from the original cluster and end up as
+double stars.
+20
+(1) A star's life begins
+when it condenses
+out of dust and gas
+scattered in space. (2)
+As gravity begins to
+act, the embryo star
+starts to shrink. (3) As
+it shrinks, the
+temperature near the
+middle rises until It
+becomes high enough
+for fusion to take
+place. (4) The body
+has now become a
+real star, radiating
+huge amounts of
+energy.
+Main sequence
+The compression within a protostar
+heats up its interior to some 10 million
+degrees, and at this point nuclear re¬
+actions begin to convert its hydrogen gas
+into helium. The reaction releases
+energy, which seeps up through the star
+and shines out from the surface. The
+energy source also opposes the in-pull of
+gravity, so the gas globe stops shrinking
+and remains constant.
+The balance between energy produc¬
+tion and gravity is so stable that the star
+remains very much the same for millions
+of years, or more. This period of
+"hydrogen-burning" is in fact the
+longest phase of a star's life. Tradition¬
+ally, astronomers call stars in this phase
+"main sequence stars", because their
+properties follow a well-defined pattern.
+All main sequence stars of the same
+mass have a very similar luminosity and
+surface temperature (the latter dictating
+their apparent colours). The more
+massive a main sequence star, the
+brighter and hotter it is; the less massive
+it is, the dimmer and cooler. The Sun and
+Sirius are both typical main sequence
+stars, for example, but because Sirius is
+twice as heavy as the Sun, it is 20 times
+brighter and has a surface temperature of
+10,000°Centigrade as compared to the
+Sun's 5,500°Centigrade surface.
+Eventually a main sequence star will
+consume all the hydrogen in its central
+region where temperatures are high
+enough for nuclear reactions to occur. A
+star like the Sun reaches this point after
+some 10,000 million yearsfortunately
+for us, a long way in the future, as the
+Sun is currently 5,000 million years old.
+The highly-luminous massive stars are
+ripping through their central fuel supplies
+much more quickly, and reach the end of
+their main sequence phase after only a
+few million years.
+Red giants
+Once a star's core is bereft of
+hydrogen, and is composed of helium
+created by the reactions, it contracts
+under its own gravity. Hydrogen im¬
+mediately around the core then begins
+to "burn" to helium, in a thin shell. To
+compensate for the collapse of its core,
+the outer layers swell out, to about a
+hundred times its previous size. The
+radiation from its interior now has to
+spread out over more surface gases,
+and so cannot heat it as much. The
+temperature falls to only about
+
+DEATH OF A STAR
+White dwarfs
+3,000° Centigrade, and the colour of
+the star changes from the white or
+yellow of a star like Sirius or the Sun to
+a dull red. The swollen, reddish star is
+now a red giant.
+The outer gases of a red giant are
+held so tenuously that they wobble in
+and out, causing the star's brightness to
+go up and down over a period of about
+a year. The more massive stars expand
+to become even larger, and are termed
+supergiants. In some, the outer layers
+oscillate in and out with a very precise
+period, whose length is related to the
+star's mass and hence to its brightness.
+These Cepheid variable stars are im¬
+mensely useful to astronomers measur¬
+ing distances in the Universe.
+After its red giant phase the final fate
+of a star depends on its mass. If it is
+similar to the Sun, the star sheds the
+tenuous outer layers of its red giant
+body. This gas spreads into space as a
+glowing ring, known to astronomers as
+a planetary nebula. (The name has
+nothing directly to do with planets, in¬
+cidentally; the rings simply look rather
+like Uranus or Neptune when seen
+through a small telescope.)
+The star's core is left as a very com¬
+pact little object, a white dwarf star. It
+contains almost as much mass as the
+Sun, but packed into a sphere only the
+size of the Earth. The white dwarf is
+made up of matter in an unusual state.
+Like other stars, it consists of atomic
+nuclei and electrons the components
+of atoms broken apart in the heat of a
+star's interior. While other stars are
+gaseous, with pressure provided by the
+fast speed of these constituents, a white
+dwarf is effectively solid, because its
+matter is so compressed that the elec¬
+trons are packed together as tightly as
+they will go. This is an example of what
+physicists call "degenerate matter".
+A white dwarf has no source of
+energy, no interior nuclear reactions. It
+begins life extremely hot, with the
+residual heat from its days as a star's
+core. But as time goes by, it radiates its
+heat away to space, and eventually ends
+up cold, dark and forgotten as a "black
+dwarf".
+Stellar Evolution
+Small main sequence star
+Large main sequence star
+White dwarf
+Very large
+main sequence star
+Diagram Dave Beckes © Encyclopaedia Britannica, Inc., Chicago
+
+Supernovae, neutron stars, pulsars
+A heavy star goes out with a bang. At
+the end of its phase as a red giant (or a
+Cepheid variable), the nuclear reac¬
+tions near its centre become unstable,
+and the star blows itself apart, as a
+supernova. In this colossal explosion,
+the supernova briefly shines as brightly
+as a thousand million Suns.
+As the outer layers of gas blow
+themselves off, the core is powerfully
+squeezed, and it collapses until it is only
+about 20 kilometres across only the
+size of a large city. During the collapse,
+its electrons combine with protons to
+make neutrons, and the collapse halts
+when the neutrons are packed
+together another example of
+degenerate matter, but this time involv¬
+ing neutrons rather than the electrons
+found in white dwarfs. A typical
+neutron star weighs a little more than
+the Sun, and its small size means that
+its density is incredible: a pinhead of
+neutron star matter would weigh a
+million tonnes.
+As neutron stars rotate, they give out
+radiation that appears to "flash".
+Radio astronomers at Cambridge first
+picked up these pulses of radiation in
+1967, and called their sources
+Magnetic
+'lines of force'
+Beamed
+radiation
+"pulsars". Pulsars, or neutron stars,
+often give out flashes of X-rays and
+gamma rays, too, and in a few cases,
+flashes of light. These pulses show that
+the small stars rotate unbelievably
+quickly. The pulsar in the Crab
+Nebula, the remains of a supernova
+that exploded 900 years ago, turns 30
+times per second; while a pulsar
+discovered in 1982 rotates an incredible
+642 times every second!
+©
+E i
+LIGHTHOUSES IN THE SKY. As neutron
+stars rotate, they emit beams of radiation
+which we perceive as flashes as the
+beams flick past us at regular Intervals,
+just as a sailor sees the flashing beam of
+a distant lighthouse.
+Black holes
+The centre of a very massive star cannot
+end up as a white dwarf or a neutron star.
+There is a natural weight limit for these
+shrunken entities, of 1 .4 and 3 times the
+Sun's mass, respectively. When an ex¬
+tremely heavy star explodes, its collaps¬
+ing core may be above these limits. As it
+shrinks in size, nothing can stop the col¬
+lapse; and as it gets smaller, the strength
+of gravity at its surface increases con¬
+tinuously. When the core is only a few
+kilometres across, its gravity becomes so
+strong that nothing not even light can
+escape. It has become a black hole.
+The black hole is thus a region of ir¬
+resistible gravity just a few kilometres
+across. It is a hole, because anything
+dropped into it can never get out again;
+and it is black because no light can
+escape from within. The original core has
+collapsed to a very small size somewhere
+near the centre of the hole, but there is
+3
+E
+22
+literally no way of finding out what has
+happened to it, because no radiation
+from it can get out through the sur¬
+rounding black hole.
+Although theory tells astronomers that
+black holes should exist, finding a black
+hole in the darkness of space is rather
+worse than locating a black cat in the
+coal cellar on a dark nightl The only
+giveaway is its gravity. Since two-thirds
+of the stars are paired up with a compa¬
+nion, there should be many black holes
+teamed up with normal stars in orbit
+about them. The normal star could be
+sufficiently far away that it is not
+swallowed up by the black hole, but still
+near enough for the black hole to pull off
+some of its surface gases. These gases
+flow down towards the black hole,
+heating up in the processes and emitting
+X-rays before they disappear into the
+hole.
+«TT"r>
+^£i§&-±
+X-ray astronomers have indeed found
+radiation sources in the sky where a visi¬
+ble star is orbiting an invisible compa¬
+nion. In many cases, the X-rays are com¬
+ing in pulses, showing that the small un¬
+seen star is in fact a neutron star. But
+when they investigated a source called
+Cygnus X-1, astronomers found that the
+unseen companion star is at least six
+times heavier than the Sunfar too
+massive to be a neutron star. More
+recently, two similar cases have come to
+light in our nearest neighbour galaxy, the
+Large Magellanic Cloud. Although the
+evidence must necessarily be indirect,
+the existence of black holes among the
+stars of our Galaxy and others is now
+proven to the satisfaction of most
+astronomers. I
+Diagram, illustrates, from left to right, the
+stages In the formation of a Black Hole.
+Left, during the stable life of a massive
+star a state of equilibrium exists between
+gravitational pressure (inward-pointing
+arrows) and radiation and heat from the
+core of the star (outward-pointing
+arrows). Centre, as the star burns up its
+supply ofhydrogen the equilibrium Is bro¬
+ken and the star begins to collapse
+towards Its core. Right, finally, the star Is
+crushed Into a tiny volume of great den¬
+sity and with such enormous gravitatio¬
+nal pull that not even light can escape
+from It.
+
+The scale
+of space
+For the relatively short distances within
+the Solar System, astronomers can use
+the kilometre as a unit. But even the
+distance from the Earth to the Sun. 150
+million km, is becoming a little too large
+to work with. Solar system astronomers
+often take this distance as their unit and
+call it "one astronomical unit". In this
+way, the distance to Pluto, the outer¬
+most planet, becomes a convenient 39
+astronomical units.
+Another measure of an astronomical
+distance is given by the time taken for
+light to traverse it. The Earth-Sun
+distance is 8 1/3 light-minutes; the
+diameter of Pluto's orbit is 1 1 light-
+hours. The latter dimension, while
+minuscule on the scale of the Galaxy, is
+similar to the size of the compact
+powerhouse within a quasar.
+The nearest star, Próxima Centauri,
+lies 7,000 times further off than Pluto, at
+4.2 light-years. The brightest stars in the
+sky lie at a variety of distances, Sirius at
+8.6 light-years, for example, and Arc-
+turus at 36; Deneb (in Cygnus) is among
+the most distant of the "first magnitude"
+stars, at 1 ,500 light-years away. But this
+is just on our doorstep in the whole
+Galaxy: it is 30,000 light-years from the
+Sun to the Galaxy's centre; and the Milky
+Way is some 1 00,000 light-years in
+diameter.
+Irregular galaxies are considerably
+smaller than the Milky Way, and most
+spirals are slightly smaller. Our
+neighbour, the Andromeda Galaxy, is
+one of the largest spirals known, with a
+diameter of 150,000 light-years. The
+largest ellipticals are bigger still, with
+diameters of up to a million light-years.
+These sizes refer to the extent of a
+galaxy's stars. The beams ejected from a
+radio galaxy can stretch much further
+out, to make these objects the largest
+connected structures in the Universe.
+The nearest galaxy to the Milky Way is
+the Large Magellanic Cloud, at 1 70,000
+light-years. Our Local Group of galaxies
+is five million light-years across. The
+nearest large cluster of galaxies, the
+Virgo cluster, is about 50 million light-
+years away. Typical large clusters of
+galaxies are about 30 million light-years
+across. They are often grouped into
+superclusters. These assemblies of
+clusters are typically 200 million light-
+years in extent, and they often form the
+denser parts of filamentary structures
+that stretch over 500 million light-years
+or more. The clusters of galaxies are
+gravitationally bound and will remain
+roughly the same size; the superclusters
+and filaments will grow with the expan¬
+sion of the Universe.

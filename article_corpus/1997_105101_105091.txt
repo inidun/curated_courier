@@ -1,0 +1,281 @@
+FROM SHORT WAVE TO SATELLITE
+Do satellite and digital radio
+spell the end of short-wave radio?
+For almost seventy years, short-wave
+transmission has been the most effi¬
+cient method of delivering pro¬
+grammes across long distances. Today,
+however, the development of new technologies
+such as satellite transmission, digital audio
+broadcasting and interactive two-way cable is
+forcing many international broadcasters to
+reconsider the choice of short wave as their
+principal medium for the future.
+The phenomenon known as "short-wave
+radio" is actually the result of a combination
+of transmission technology and the electro¬
+magnetic properties of the earth's atmosphere.
+Just as the waves of the ocean are caused by
+the vibration of water molecules, radio waves
+result from the vibration of electromagnetic
+particles. The rate at which they vibrate is much
+faster than that of ocean waves several thou¬
+sand times per second, or even several hun¬
+dred thousand times per second.
+The number of vibrations (or cycles) per
+second is the frequency of the wave. The cycle
+per second is named the hertz (abbreviated
+Hz) after the German physicist Heinrich
+Hertz. The higher the frequency of a radio
+wave, the shorter its wavelength the distance
+between two consecutive cycles. Radio waves
+of different lengths are used for different pur¬
+poses, because they have distinct physical
+28 THE UNESCO lOURIER FEBRUARY 1997
+
+BY RAY GALLON AND DIANE SELIGSOHN
+Left, a Mongolian nomad
+camp in the Gobi Desert
+around 1930.
+Beelow, Somalis listening to
+the BBC World Service learn
+that Mogadishu has fallen
+(1991).
+properties. Radio stations are allocated fre¬
+quencies according to a system ratified by a
+series of international conventions. They are
+often identified by their number on the dial,
+which corresponds to a frequency in kilohcrtz
+(kHz) or megahertz (MHz).
+Hopping round
+the earth
+Short-wave transmissions are in the frequency
+range of 3 to 30 MHz. They are used for inter¬
+national broadcasting because their physical
+and electromagnetic characteristics (wavelength,
+energy level, etc.) allow them to be reflected
+by the ionosphere, a layer of electrically
+charged particles in the upper atmosphere.
+Unlike domestic broadcast transmissions,
+which are beamed at the horizon and cover a
+broad but local area, international short-wave
+broadcasts are pointed at the sky. When a radio
+wave emitted from a transmitting antenna hits
+the ionosphere, it "bounces" back towards
+the earth. This is called a "hop", and carries
+the signal a distance between 2,000 and 4,000
+kilometres.
+The wave is then reflected back towards the
+ionosphere by the earth's surface, making
+another "hop" as it again returns to earth.
+After several "hops" the signal can reach the
+other side of the globe. The more powerful
+the transmitter, the farther the signal can travel.
+But the ionosphere also causes problems
+for long-distance broadcasts. The generation of
+radio waves in the ionosphere is strongly
+affected by the time of day, the season and
+sunspot activity. Small but rapid changes in
+the ionosphere's altitude and makeup alter its
+reflecting abilities, affecting the quality of
+reception.
+Static also interferes with short-wave recep¬
+tion. It can be caused by electrical charges such
+as those produced by ignition systems in auto¬
+mobile and aircraft engines. But lightning is the
+most common culprit. Radio frequency inter¬
+ference produced by these atmospheric dis¬
+charges can travel thousands of kilometres.
+Since there is almost always a thunderstorm
+somewhere within a few thousand kilometres
+of any radio, static is a constant disturbance.
+This is why short-wave broadcasters often
+send the same programme simultaneously on
+several frequencies, and periodically change
+these frequencies. But as a consequence, the
+THE UNESCO ^ÎURIERl FEBRUARY 1997
+
+spectrum of frequencies is often overloaded,
+increasing the likelihood of interference and
+restricting the introduction of new services.
+Technological innovations and improved
+co-operation among countries are now mak¬
+ing it possible for international broadcasters to
+provide alternative solutions to ensure recep¬
+tion and improve sound quality. For exam¬
+ple, they now often transmit programmes by
+satellite to local FM stations, which retransmit
+them as part of their domestic schedule.
+Rebroadcasting is fast replacing short wave in
+some parts of the world, especially in Russia
+and Eastern Europe.
+In areas where co-operation agreements are
+not yet possible, the same technology is used
+to relay signals to short-wave transmitters in
+the target region. The closer the transmitter, the
+fewer "hops" necessary to reach an audience,
+resulting in greater listening comfort.
+Satellite direct
+broadcasting
+Short wave has been called the "first genera¬
+tion of international radio". The second gen¬
+eration, according to Simson Najovits, deputy
+editor-in-chief of Radio France Internationale's
+foreign language services, is the system of pro¬
+gramme placement and leasing of domestic
+FM transmitters. "What is strange," he says, "is
+that the second generation is not likely to last
+for many years. What's likely to overtake it
+is the third generation called mobile radio."
+Mobile radio, also known as Satellite Digital
+Audio Broadcasting (Satellite DAB), means
+digitally encoded signals, similar to the digi¬
+tal sound on a compact disc, sent directly fro m
+satellites to radio receivers in homes, cars, or on
+the street. This, in the opinion of Najovits,
+will relaunch the idea of international radio.
+"It will suddenly make international radio
+from several countries available everywhere in
+the world with a simple mobile receiver," he
+says, "which if mass-produced would be sold
+for perhaps $1.00. A whole new horizon will be
+opened, both in information and entertain¬
+ment. It will mean almost a new medium."
+The technology exists already, and prototype
+receivers have been built.
+The proliferation of Satellite DAB is
+dependent on a typical chicken-egg scenario:
+receivers will only be manufactured if there
+are broadcasts to receive, and broadcasters will
+only use the technology if the potential audi¬
+ence has receivers. Market studies indicate that
+most radio listeners are unlikely to spend $100
+on a new radio just to receive international
+broadcasters. The market will be driven by the
+conversion to DAB by domestic broadcasters,
+initially in developed countries where the
+W THE UNESCO ^lURIER FEBRUARY 1997
+means to invest in expensive new equipment
+are more available. The dilemma for the large
+international broadcasters is that the majority
+of their audience is in the developing world.
+The North-South gulf
+"We're finding that there's an increasing split,"
+says Jonathan Marks, Director of Programmes
+at Radio Netherlands and organizer of a recent
+conference on the future of international
+broadcasting. "In some parts of the world
+technology is leaping along very quickly, but
+if you look at the statistics, there's an enor¬
+mous gulf between North and South." There
+is a large existing base of short-wave receivers
+particularly in Africa and in the former Soviet
+republics, where short wave has also been used
+for domestic broadcasts across large stretches
+of territory.
+"A lot of people in Third World countries
+depend on short wave," explains Victor
+Goonetillike, a teacher and writer who mon¬
+itors international broadcasts from his home
+in Sri Lanka. "They listen to it for informa¬
+tion, not for stereo music quality." He empha¬
+sizes that $100 can represent an entire month's
+income for a family in a poor country: "The
+technology will be able to reach the audience,
+
+but whether the audience can reach out for it
+is another matter."
+
+
+
+"People are still listening to short wave,"
+confirms Andres Sennitt, editor of the World
+Radio and Television Handbook. "The broad¬
+casters on the other hand have limited budgets.
+They want to invest in new technologies
+because that's obviously what's going to be
+important in the future. And in order to do
+that they're having to cut back on some of
+their short-wave broadcasts. So they're hav¬
+ing to make difficult choices whether to
+invest for the future and risk losing some lis¬
+teners in the short term that they might regain
+later on, or whether to stay longer with short
+wave, and risk being squeezed out of the dig¬
+ital medium. There are only going to be so
+many satellites and if the big broadcasters have
+already taken up the space, there won't be any¬
+thing left for the ones that come along later.
+"The real irony," as Dr. Kim Andrew Elliott,
+producer and presenter of "Communications
+World" on the Voice of America, and the
+VOA's former director of research, points
+out, "is that we already have DAB TV as a
+reality, but DAB radio is a distant dream."
+One possible compromise which would
+permit the continued use of short-wave trans¬
+mission for the short to medium term, and at
+M satellite dish brings
+telecommunications to
+Bhutan.
+the same time improve the quality of recep¬
+tion, is to relocate short-wave transmitters
+which currently deliver their energy (via the
+"hops" described above) to distant places, but
+not to neighbouring countries. For small to
+medium external services such as Radio Prague
+International, the most effective way to oper¬
+ate is regionally, targeting neighbours with
+similar interests and cultures to their own.
+Relocating transmitters
+The current short-wave system was set up at
+a time when international co-operation was
+difficult or impossible to achieve in this area,
+and stations. had to use powerful transmit¬
+ters in their home countries, not necessarily the
+best locations for reaching their target audi¬
+ences abroad.
+Now that there is a greater spirit of co¬
+operation among international broadcasters,
+says Oldrich Cip, co-ordinator of frequen¬
+cies and adviser to the management of Radio
+Prague International, "We should start co¬
+operative projects which would relieve the
+enormous pressure on the space of the short¬
+wave spectrum. We could introduce integrated
+projects such as streams of multinational
+broadcasts on special channels. They would
+be broadcast from strategically located posi¬
+tions on the outskirts of Europe, let's say
+from Russia towards western Europe or fro m
+the Iberian peninsula towards eastern Europe.
+This would deliver 100 per cent reliable sig¬
+nals into these target areas. The homeland-
+based transmitters could be switched off and
+the spectrum would be cleared and improved."
+In western Europe, Cip says, "you would
+hear a stream of programmes, perhaps includ¬
+ing Radio Prague and other stations from
+Central Europe at very good strength, whereas
+if you listened to those programmes from the
+transmitters within central Europe you would
+probably hear very little or nothing, especially
+during the winter evenings because of physi¬
+cal conditions."
+If the lure of new technologies is irresistible
+for international broadcasters, short wave still
+has a powerful hold on listeners, even in rich
+countries. Oldrich Cip believes that short
+waves are here to stay for at least two more
+decades, and probably for much longer. "Short
+wave as a natural resource will always remain
+within the spectrum of radio frequencies. Even
+if we change to digital, we still have some space
+which has to be utilized somehow. I am con¬
+vinced that the condition of short waves can
+be reversed so that they can be very effective
+and relatively reliable. Of course, some of the
+vagaries of the ionosphere never change. But
+this is also one of the fascinations of short¬
+wave reception."
+THE UNESCO COURIER FEBRUARY 1997 %

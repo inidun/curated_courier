@@ -1,0 +1,324 @@
+Fusion power
+Can we reproduce and harness on earth
+the energy of the stars?
+by Rende/ S. Pease
+FUSION power has all the attractions
+of fission power as a replacement
+for fossil fuels, and also has a num¬
+ber of potential environmental advantages.
+The main problem, however, is that fusion
+is still in the research stage and will not be
+available until the beginning of the next
+century.
+Rendel S. Pease of the U.K. is director of Cul-
+ham Laboratory, a major centre for controlled
+nuclear fusion research. He is also chairman of
+the International Atomic Energy Agency's Inter¬
+national Fusion Research Council.
+The research into and building of reactor
+plants requires very high technology and
+much capital investment. The International
+Fusion Research Council estimates that the
+cost of research and development will be
+$15 billion. However, once (and if) achiev¬
+ed, fusion should be very cheap to fuel.
+Nuclear fusion is, in simple terms, the
+fusing together of two atomic nuclei to
+make one slightly heavier nucleus. When
+this happens to the nuclei of light elements
+(like hydrogen or lithium) large amounts of
+energy are released. It is this process which
+occurs in the stars and provides the limit¬
+less flow of energy from the sun.
+Nuclear fusion reactions occur abun¬
+dantly only at high temperatures, such as
+exist in the centres of stars. To produce
+controlled nuclear fusion energy on earth,
+the temperatures needed will depend on
+the fuel, but even with the fuel we are
+working on at the moment, which requires
+the least high temperature, this must still
+be about 100 million degrees centigrade.
+The temperatures are so high that any¬
+thing which comes into contact with the
+reacting mixture (sometimes called plasma),
+will melt. There are two methods, known
+as magnetic and inertial confinement, for'
+avoiding this. The latter, which is a rela¬
+tively recent development (dating from
+around 1970), involves storing the reactant
+inside a miniature glass pellet, which is i
+heated and compressed until the fusion I
+13
+
+7 w
+Too hot to handle
+at a hundred million degrees
+Thermonuclear (fusion) reactions can occur only at temperatures
+so fantastically high, around 100 million degrees centigrade, that
+anything coming into contact with the reacting mixture (plasma)
+would melt. The problem facing scientists, therefore, is how to
+insulate the plasma from the walls of its container. One way of
+achieving this is to hold the plasma in a magnetic field. In the
+Soviet-designed, experimental "Tokamak 6" installation (above),
+at the Kurchatov Institute of Atomic Energy, Moscow, the fusion
+plasma is held in a doughnut-shaped container around which
+coils are wound to create a strong magnetic field which stabilizes
+the plasma. An electric current flowing through the plasma itself
+heats the plasma and produces another magnetic field that holds
+it away from the container wall.
+<
+©
+o
+£
+k reaction occurs and there is a 'micro-
+explosion" which is too small to,'damage
+the surrounding reaction vessel but large
+enough to give useful energy.
+While results from inertial confinement
+experiments are very promising, magnetic
+confinement will probably provide the
+quickest route to successful commercial
+reactors. It is on this, especially the
+tokamak-type confinement system, that
+the bulk of research until now has been and
+will continue to be concentrated.
+The tokamak apparatus is shaped like a
+very large American doughnut and the
+plasma is held away from the walls by an
+extremely strong magnetic field. The
+plasma in the doughnut-shaped vessel is
+heated by passing through it an electric
+current of several hundred thousand am¬
+peres. In experimental apparatus, tempera¬
+tures of between 10 and 20 million degrees
+centigrade are obtained routinely, and sus¬
+tained for as long as the current, at present
+up to one second.
+Thermal insulation is provided by the
+magnetic field, although in present appara¬
+tus the effective insulation is still not good
+enough for a reactor. The properties of
+plasmas at 100 million degrees centigrade
+are expected to be similar to those at 20
+million degrees centigrade. There are thus
+excellent prospects that when the larger
+vessels and currents required for reactors
+are used, the thermal insulation will be suf¬
+ficient for nuclear energy production.
+The exact relation of thermal insulation
+to size and current is to be explored in the
+next generation of experiments. These
+experiments will also explore the raising of
+temperatures towards the required 100 mil¬
+lion degrees centigrade, which appears to
+be a matter of improving existing tech¬
+niques.
+Only a very few fuels react fast enough
+to be of any use to us. These are deuterium
+(heavy hydrogen), lithium, which is conver¬
+ted for use into tritium (an even heavier
+form of hydrogen), helium 3, and boron.
+The last two are involved in reactions
+which are beyond our technical capabilities
+today, and which we might never be able
+to engineer.
+In the reactor we are working towards at
+present, the fuels are deuterium and tri¬
+tium. Four-fifths of the energy released by
+the reaction will be carried through to the
+reactor wall by neutrons which are released
+in the reaction. The neutrons enter a region
+containing lithium and heat exchangers,
+where they give up their energy and heat
+the steam. The neutrons also react with the
+lithium to manufacture tritium (which does
+not occur naturally), which can then refuel
+the reactor. The other one-fifth of the
+energy remains in the plasma and keeps it
+hot enough for the fusion reactions to con¬
+tinue.
+This reaction is the easiest to obtain and
+also has excellent energy input to energy
+gain ratios. Of all the fusion reactions it is
+the only one which could occur sufficiently
+abundantly in magnetic confinement.
+14
+
+The fuel reserves for deuterium-tritium
+reactors are very considerable. Deuterium
+constitutes 0.0033 per cent of sea water,
+and the sea thus contains what is to all
+intents and purposes an inexhaustible
+supply of this fuel. Lithium is found in fairly
+rich deposits of up to about one per cent
+concentration in South Africa and North
+America, and in salt lakes and mineral
+waters. Using these deposits alone, which
+amount to about 10 million tonnes, there is
+enough lithium to release energy sufficient
+for the next 200 to 500 years at the predic¬
+ted rate of consumption, if no other forms
+of energy are used.
+Lithium is present on average in the
+earth's accessible crust at around 0.002 per
+cent concentration which equals around
+100 million tonnes. If we were to tap only a
+small fraction of this by exploiting lower
+grade lithium deposits, we would have
+enough for a very considerable
+period. If, after achieving power stations
+based on deuterium-tritium reactions, we
+can proceed to design viable reactors
+based on deuterium-deuterium reactions
+(which is the next very large step), then
+we have reserves for another 10 billion
+years in the sea.
+Not only is the fuel available in limitless
+supply, but it is also extremely cheap and
+easy to obtain, with a minimum of proces¬
+sing. The extraction of deuterium from the
+sea will result in very little land despoliation
+and will in no way affect the sea.
+Because the quantities of lithium re¬
+quired are so small, mining operations
+would be modest, less that those required
+for the running of fission reactors and
+vastly preferable to the strip mining neces¬
+sary for coal-fired power stations.
+The only chemical product of fusion is
+helium, which is an inert gas. Thus there
+are no reprocessing or dumping operations
+of spent fuel or ash to worry about. But
+there will be waste heat and some radio¬
+activity, so that the siting of fusion reactors
+would present much the same problem as
+that of fission reactors.
+Structural parts from the reactor will
+occasionally need to be replaced. They will
+have become radioactive and their disposal
+will pose a problem. If the metals used are
+carefully selected, these parts might have
+activity which would last for about 100
+years. Tritium is radioactive and will have
+to be contained.
+The reaction requires such special condi¬
+tions that any imbalance in them will auto¬
+matically stop the process very quickly.
+Moreover, there will only be very small
+amounts of fuel (up to about one gramme)
+in the reactor zone. Consequently, the con¬
+ditions for serious reaction runaway will be
+absent.
+The International Fusion Research Coun¬
+cil (IFRC) has proposed the following time¬
+table for research into fusion power. The
+next six to eight years must be spent in
+acquiring full understanding of the physics
+of burning plasmas. After this we should
+be able to demonstrate the net energy out¬
+put from experimental reactors. This will
+take between seven and ten years.
+The next step would be the development
+of efficient and cost-effective components
+for demonstration reactors, which will be
+ready in a minimum of 15 years if all the
+necessary financial support is forthcoming,
+followed by comparison of different reactor
+systems.
+Only then could the design and cons¬
+truction of commercial reactors start. If all
+goes well, the first of these may be ready
+early in the next century. This programme
+depends heavily on the degree of public
+and financial support invested in it. We
+have the necessary scientific skill and
+enthusiasm to make rapid progress, but
+progress depends on experiments which
+require very expensive equipment. As sta¬
+ted above, the IFRC estimate for costs up
+to the demonstration reactor stage is $15
+billion.
+DOTH the time and the cost
+of development can be
+reduced by international
+cooperation. Work on
+magnetic confinement has
+been completely open
+since 1958, and this has
+led to extensive and valu¬
+able cooperation between the nations.
+By 1960, for example, the Euratom coun¬
+tries of Western Europe (1) started to work
+together on a co-ordinated programme
+which the U.K., Ireland, Denmark, Sweden
+and most recently Switzerland have since
+joined.
+Co-operation with the Soviet Union has
+been particularly fruitful in this field, and
+critical measurements on the Soviet Toka¬
+mak T-3 device by a team from the U.K.
+which worked for up to a year in the
+U.S.S.R.'s principal atomic energy insti¬
+tute, proved to be a turning point in toka¬
+mak research.
+Another example of close international
+collaboration in this field ¡s that between
+the Soviet Union and the United States,
+which has included such areas as the gen¬
+eration of very high magnetic fields to pro¬
+duce very dense and hot plasmas. The
+most important recent example of interna¬
+tional co-operation is the setting up of the
+Joint European Torus (JET) project at Cul-
+ham (U.K.) by the nine Euratom countries
+and Sweden.
+The purpose of the experiment is to heat
+and confine matter to the temperatures,
+densities and thermal insulation close to
+those required in a controlled fusion reac¬
+tor. Construction work on the project will
+take about five years and will cost about
+$200 million.
+The United Nations plays an important
+role in promoting international co¬
+operation through its International Atomic
+Energy Agency, which in 1970 set up the
+International Fusion Research Council to
+advise it on progress in and co-ordination
+of world-wide fusion research.
+Countries with substantial research pro¬
+grammes report on their work and future
+plans annually to the Council, where it is
+subject to discussion and comment. This
+process enables adjustments to be made to
+improve the progress of research. The
+Agency also operates small-scale specialist
+services to aid the international pro¬
+gramme.
+The IFRC has published a number of
+reports reviewing progress. In the most
+recent of these, published this year, the
+Council affirmed that the progress of
+research is now such that the scientific
+basis for building controlled nuclear fusion
+devices with a net energy output from
+deuterium-tritium reactions is no longer
+seriously in doubt.
+This conclusion needs to be proved, and
+research has to be combined with engin¬
+eering development to establish whether or
+not technically and economically practical
+fusion systems can be realized. The Coun¬
+cil has also made detailed recommenda¬
+tions aimed at achieving more concrete
+International co-operation in the next
+stages, and there are encouraging indica¬
+tions that their hopes can be fulfilled.
+Rendel S. Pease
+(1) Euratom, the European Atomic Energy Com¬
+munity, was set up in 1957 by Belgium, France,
+Italy, Luxembourg, The Netherlands and the
+Fed. Rep. of Germany in order to develop
+atomic energy for peaceful purposes.
+15

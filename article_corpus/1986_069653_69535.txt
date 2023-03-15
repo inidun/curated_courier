@@ -1,0 +1,449 @@
+Volcanoes
+by Haroun Tazieff
+VOLCANISM plays a fundamental
+role in the story of the Earth. The
+crust we live on, the water in
+oceans, rivers and lakes and most of the
+atmosphere we breathe are derived ulti¬
+mately from volcanic eruptions. Without
+volcanism there would be no creation of
+new oceanic crust through sea-floor
+spreading, no subduction (the dragging
+down of older crust into the mantle where
+it is melted and recycled), no orogenesis
+(mountain-building) and therefore no
+erosion and no sedimentation.
+Without volcanism the Earth would
+lack the colossal, continual flow of sul¬
+phides, oxides, halogens, hydroxides of
+all existing metals, emitted in the form of
+gases at high temperature by fumaroles
+(volcanic vents) from the thousands of
+active craters, whether dormant or in
+eruption, whether submarine or on land,
+scattered the length of the 100,000
+kilometres of the belts that mark the fron¬
+tiers between the Earth's tectonic plates
+(see page 10) and the fractures occurring
+within those plates.
+Without the contribution of submarine
+fumaroles there would be no mineral sul¬
+phide deposits; without fumaroles the
+marine environment, whose chemical
+make-up made possible the emergence of
+life and conditioned its evolution, would
+not have existed; without fumaroles the
+Earth would have lacked the elements to
+form the atmosphere whose composition
+made it possible for life forms emerging
+from the ocean to colonize the land and
+then to evolve to give rise to human
+beings.
+Like everyone else at that time, I was
+unaware of all this when, in 1948, chance
+brought me face to face for the first time
+with the strange phenomenon of a volca¬
+nic eruption. Like all my fellow geologists
+of that generation, especially my Euro¬
+pean colleagues, I had received from my
+teachers, among whom were some of in¬
+ternational renown, a course of instruc¬
+tion in which volcanism was barely men¬
+tioned, since, in their view, it represented
+no more than "a skin disease of the
+planet".
+At all events, I knew practically no¬
+thing at all about volcanism when, one
+day in March 1948, to the north of Lake
+Kivu in the Belgian Congo (now Zaire),
+the first eruption I was privileged to see
+not only opened the eyes of the naive
+geologist I then was to the magnificence
+of the spectacle but also to a phenomenon
+which, because of my lack of knowledge,
+raised more questions than it provided
+answers.
+In the forty or so years that have passed
+since then, volcanology, moribund at the
+close of the Second World War (barely
+surviving in the United States and in New
+Zealand, but extinct everywhere else),
+gradually revived and finally, in parallel
+with oceanography, came into full blos¬
+som. The new knowledge these two disci¬
+plines enabled us to garner soon revealed
+the fundamental role played by volcan¬
+ism both in the phenomenon of sea-floor
+spreading and the genesis of life and its
+evolution over the past 3,000 million
+years.
+More than a third of a century spent in
+observing eruptions from as close as
+possible and in measuring everything
+there was to measure among other
+things energy flows (mainly thermal) and
+the flow of matter (mainly in the form of
+gases) has enabled me to establish that,
+rather than the liquid or lava phase, as
+most people seem implicitly or explicitly
+to imagine, it is the gaseous phase that
+plays the active role in volcanism. Lava is
+totally passive and, without its eruptive
+gases, volcanism would simply not exist.
+Furthermore, eruptions always involve
+the emission of gas, but not always of
+lava.
+These considerations led me to the
+conviction that, in order to understand
+the mechanism of eruptions, it was essen¬
+tial to know the chemical composition
+and thermodynamic evolution of their
+gaseous phase. It would seem that the
+chemical composition of these gases
+varies from one kind of eruption to
+another and from one type of magma to
+another, but in our present state of know¬
+ledge it has not been possible to establish
+a correlation between the chemical varia¬
+tions detected and the variations in activ¬
+ity observed.
+It must be admitted that, up to now,
+only an insignificant amount of data has
+been acquired on the physico-chemical
+composition of eruptive gases. By erup¬
+tive gases I mean those that have not been
+subject to much cooling, oxidation by the
+air or hydration by groundwater, all of
+which processes transform the gases to a
+lesser or, more often, a greater extent.
+Obviously, to measure the chemical
+and physical properties of the eruptive
+gases before they degrade into fumarole
+gases, it is necessary to get close to the
+vents from which they are being emitted.
+This usually demands some physical
+effort and, at times, a certain amount of
+courage. What too many volcanologists
+lack is not courage but a taste for muscu¬
+lar effort. Between the ages of twenty and
+thirty, some seem to possess it, but I have
+noticed that, once they have attained a
+certain academic standing, they usually
+appear to lose it.
+This would not be too serious were it
+not for the fact that, in addition to the raw
+data which will continue to be provided
+by the young and still enthusiastic volca¬
+nologists, a sine qua non of progress in
+this field is experience of the actual event
+of eruption, the complexity of which is
+matched by its variability. This can only
+be acquired by direct observation of the
+phenomenon of eruption in all its succes¬
+sive forms.
+The competence of the volcanologist in
+this respect, like that of a physician, de¬
+pends both on proper knowledge of im¬
+portant publications and on experience
+gained through the examination of a max¬
+imum number of subjects patients for
+the doctor, volcanoes in eruption for the
+volcanologist.
+My first ten years of volcanological
+research in the field were devoted exclu¬
+sively to seeking an explanation of the
+various aspects of the phenomenon of
+eruption. I soon became convinced that
+the maturation of dormant magma re¬
+sulted from the release of the gases
+formerly dissolved within it. The chemic¬
+al properties, size and distribution of gas
+bubbles within the viscous mass, their
+growth in size either by two or more
+bubbles joining up or by expansion dur¬
+ing their ascension through the magma
+and of the magma itself, all these factors
+play their part in the maturation of the
+magma before the eruption and in its
+evolution during the eruption itself.
+Whether they can be measured or
+merely observed, when correctly inter-
+27
+
+^ preted the parameters of an eruption en¬
+able us more or less to understand the
+eruptive process and, consequently,
+sometimes to predict it.
+This understanding enabled me, from
+1958 on, to answer accurately questions
+put to me by the administrative or politic¬
+al authorities of a number of cities, pro¬
+vinces, even countries, where a volcano
+appeared to pose a threat to public safety.
+Thus I found myself gradually moving
+from fundamental research to research
+applied to the forecasting of possible
+eruptions. Since 1981, when the French
+Government decided to take an official
+stand on the mitigation of catastrophic
+events, my work in volcanology has been
+limited to this area.
+Over nearly thirty years I have found
+myself in the position of having to answer
+questions from the authorities in a dozen
+or so different countries. And if my re¬
+plies have not once been mistaken, this is
+because, like a good doctor, I have based
+my diagnosis on the information avail¬
+able interpreted in the light of my ex¬
+perience. Out of fifteen cases which I
+recall, I was able to give nine reassuring
+replies, to confirm the threat of danger
+three times and, on three occasions, was
+obliged to admit that I did not know.
+Over this period, the questions put to
+me were seldom in the form "Is there
+going to be an eruption or not?" Usually I
+was asked whether there was or was not
+any danger from an eruption actually tak¬
+ing place. While, under such circum¬
+stances, the latter question is clearly the
+most important, it is also the most diffi¬
+cult one to answer.
+It is, in fact, relatively easy to predict
+an eruption when the volcano in question
+is being properly watched over by
+genuine experts with adequate equip¬
+ment. With the exception of eruptions
+resulting from a build-up of steam press¬
+ure caused by overheating of under¬
+ground water beneath a blocked vent
+hole eruptions which emit no magma or
+lava, but only steam, some fumarole
+gases and fragments of the rock blocking
+the vent all volcanic eruptions are the
+result of the ascent to the surface of the
+globe of a certain volume of magma.
+This ascension of magma cannot occur
+without some movement of the Earth's
+crust in response to the pressure of the
+magma; either the crust stretches and
+becomes deformed, or it fractures. Sur¬
+face deformations can be detected and
+measured by such instruments as tilt-
+meters, extensometers and geodimeters.
+The opening of fractures, through which
+magma can infiltrate into the crust and
+rise to the surface, causes tremors which
+can be recorded by seismometers.
+These geophysical observations and
+measurements, which can give warning of
+an eruption, often several months but
+sometimes only days or hours in advance
+(depending, among other things, on the
+depth at which the magma is situated
+before it begins its ascension), are sup¬
+plemented by other observations which
+may help the volcanologist in making a
+forecast. These include the temperature,
+composition and pressure of fumarolic
+gases, and changes in the magnetic field
+of the Earth's crust. All these indications
+enable experienced volcanologists to de¬
+tect a coming eruption and to give a date
+for its arrival, sometimes with very great
+precision.
+Unfortunately, from the point of view
+of saving lives, such predictions are of
+little importance. Magmatic eruptions,
+whether they be explosive or effusive,
+never start in disastrous fashion. The first
+phase of an eruption is always (to my
+knowledge no exception to this rule has
+ever been observed) relatively moderate,
+allowing inhabitants time to leave the
+threatened area.
+Evacuation, the only way to protect
+people from major volcanic risk, is rarely
+necessary, since it is quite exceptional for
+an eruption, after its initial phase, to
+deteriorate into a paroxysmal phase or to
+become even slightly more dangerous.
+Out of the average hundred eruptions
+that occur year after year throughout the
+world, scarcely one will develop in this
+way and so justify special precautions.
+The major problem that faces the vol¬
+canologist is to forecast the evolution of
+eruption while it is taking place a task
+infinitely more difficult than predicting
+an imminent eruption. Once an eruption
+has begun, all the mechanical indica¬
+tions deformation or fracturing of the
+surface connected with the rise of the
+magma through the Earth's crust will
+have disappeared and the flow of magma
+will be "fluid", that is, it will no longer
+have to fracture the rock in the depths or
+lift the flanks of the volcano to force its
+way to the surface.
+Deprived of these two indicators that
+are fundamental to the forecasting of a
+coming eruption (tremors and deforma¬
+tion of the surface), the volcanologist is
+obliged to establish his diagnosis on the
+basis of his interpretation of the other
+physical and chemical indications men¬
+tioned above. Correlation of the various
+factors involved and their interpretation ^
+CONTINUED PAGE 31
+
+Birth of an island
+On 14 November 1963, a fiery eruption in
+the Atlantic Ocean off the southern coast
+of Iceland heralded the birth of a new
+island. Named Surtsey, after Surtur, the
+fire god of Icelandic myth, the new island
+rose from the water in a convulsion of
+flame and steam. A weekafter the eruption
+Surtsey had a surface area of 70 square
+metres and within three and a half years
+had grown to its present size of two and a
+half square kilometres with elevations of
+up to 173 metres. When scientists visited
+the island after it had cooled, they were
+astonished to find that plant life had
+alreadyestablisheda footing. Constituting
+as it does the first "virgin" ecosystem
+known to man, Surtsey is now the site
+of a long-term ecological research pro¬
+gramme.
+29
+
+Photo Jacques Huttin © Gamma, Paris
+Cry havoc!
+Although prediction of volcanic eruptions
+can reduce orprevent loss of life, little can
+be done to control damage to crops or
+property once an eruption is under way.
+The three major dangers arise from mud-
+flow, lava-flow and ash.
+Over the last few centuries mud-flows
+(sometimes known as lahars^ have proved
+to be the most dangerous, killing more
+people and destroying more property than
+any other type of volcanic activity. Mud-
+flows often result from the rapidmelting of
+ice or snow on the slope of a volcano or
+maybe due to heavy rain orsnow falls after
+an eruption on new volcanic ash. Mud-
+flows have been known to attain speeds of
+up to 70 kilometres an hourand to travelas
+30
+
+3fr
+rar as Í80 kilometres. Left, the town of
+Armero, Colombia, swallowed up by mud
+following the eruption of the Nevado del
+Ruiz volcano, in November 1985.
+Thin lava-flows cool fairly quickly, but
+thicker flows may take years to cool com¬
+pletely. Various methods have been
+attempted to check or divert lava-flows,
+including the use of water hoses to create
+a solid wall ofcooled lava andbombing the
+sides of a flow to split it into many smaller
+flows. Above left, lava-flow blocks a road
+following the eruption of La Fournaise vol¬
+cano on the French island of Réunion in
+the Indian Ocean, on 18 March this year.
+Despite its name, volcanic ash is not the
+product of burning; it consists of pulver
+ized lava and fragments of rock thrown
+into the air by the sudden explosive
+escape of volcanicgas. The eruption of the
+Tambora volcano on the northern coast of
+the island ofSumbawa, Indonesia, in 1815,
+which killed 50,000 ¡slanders, is estimated
+to have had an explosive force equivalent
+to 16,000 megatons. The very fine ash from
+such an eruption may travel huge dis¬
+tances andaffect weatherpatterns. Above,
+the village of Parentas, Indonesia, en¬
+veloped in volcanic ash following the erup¬
+tion, in 1982, of the Galunggung volcano.
+CONTINUED FROM PAGE 28
+^ is extremely difficult in view of our pre¬
+sent lack of sufficient research data and
+experience in this field. And without cor¬
+relation to enable him to establish links of
+cause and effect between what he has
+been able to measure and observe, it is
+virtually impossible for the volcanologist
+to establish a serious diagnosis.
+Finally, I would like to remind readers
+of an article by me which appeared in the
+October 1967 issue of the Unesco
+Courier. In it I drew the attention both of
+politicians and of the inhabitants of the
+regions involved to the great danger of
+so-called "extinct" volcanoes. These vol¬
+canoes are often, in fact, only dormant,
+which implies that they will one day be¬
+come active again. This is a risk which
+should be taken seriously and construc¬
+tion should be avoided within the danger
+zone surrounding such volcanoes.
+The extent of the danger zone will de¬
+pend on the nature of the volcanic activity
+(whether it is effusive or explosive), the
+size and altitude of the volcano con¬
+cerned, and even the climate of the re¬
+gion in which it is situated.
+The importance of climate and altitude
+was demonstrated in dramatic fashion on
+13 November 1985 with the eruption of
+the Nevado del Ruiz volcano in Col¬
+ombia. Had it not been for the height of
+the volcano and the climate of the region,
+which made possible the formation of a
+thick icecap on its summit, the upsurge of
+lava at a temperature of 1,000 degrees
+Centigrade would not have provoked the
+melting of hundreds of thousands of cubic
+metres of ice and the formation of "la-
+hars", those terrible torrents of volcanic
+mud which swallowed up the town of
+Armero, claiming the lives of 23,000
+victims.
+What I wrote almost twenty years ago
+about the danger represented by Vesu¬
+vius (Italy) or the Campi Flegrei (the
+Phlegraean Fields, Naples, Italy), Mount
+Fuji (Japan) or Mount Rainier (USA),
+remains true today, as witness what hap¬
+pened at Mount St. Helens, a close neigh¬
+bour of Mount Rainier, and at Helgafell
+in Iceland. The authorities of countries
+within whose borders potentially danger¬
+ous volcanoes are situated those
+thought to be extinct as well as those
+known to be active, such as Merapi (In¬
+donesia) or Etna (Italy), Sakurajima
+(Japan), Vulcano (Italy) or Pichincha
+(Ecuador), to name but a few should
+take advantage of the "days of peace" to
+consider the problems that will arise and
+prepare' the action they will take when
+these sleeping giants reawaken.
+HAROUN TAZIEFF, eminent French volcanolo¬
+gist, was formerly Director of Research at the
+Centre National de la Recherche Scientifique.
+Until recently Secretary of State for the Preven¬
+tion of Major Disasters, he is the author of many
+books and studies on volcanology. He has also
+produced a number of films and documentaries
+including Les Rendez-vous du Diable (The De¬
+vil's Rendezvous, 1958) which achieved world¬
+wide acclaim.
+31

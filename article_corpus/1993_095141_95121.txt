@@ -1,0 +1,419 @@
+Sumerian sums
+byjomes Ritter
+The origins of a positional system of numbering
+in ancient Mesopotamia
+Bronze head of king
+Sargon, founder of the
+Akkadian dynasty
+(2400-2200 B.C.).
+figure I. Three ways ofcounting
+The arrows point from the
+lower value to the higher
+value unit. The number on
+top of the arrow indicates
+how many of the lower
+value unit make up the
+higher value unit, e.g. I
+small circle = 6 small
+notches in System S, 10
+small notches in System S,
+and 18 small notches in
+system G.
+System S (sexagesimal
+for counting discrete
+objects and measuring
+lengths)
+System G (surface
+measures)
+System S (capacity
+measures)
+WHEN, during the last one hundred years,
+scholars began to understand the written
+numerical system of the ancient
+Mesopotamian world in the last two millennia
+before our era, they discovered that it had two
+highly distinctive features. First of all the
+Mesopotamians used a unique system with the
+base of 60. Secondly, they differed from the other
+known ancient peoples by using a system of
+place notation, as we do, to express their written
+numbers. All kinds of explanations for the exis¬
+tence of these two strange features were put for¬
+ward. Some thought they might have had some¬
+thing to do with the Sumerian calendar; others
+that they were due to the convenience of the
+number 60, so rich in divisors; others still that they
+were the result of a psychological peculiarity of
+the Sumerian people. We now know, however,
+that the answer lies in the genesis and develop¬
+ment of writing in Mesopotamia, or more pre¬
+cisely in the relation between bookkeeping and
+writing the fact that the original purpose of
+writing was bookkeeping and was the outcome
+of a process lasting a thousand years.
+Since the Mesopotamians used artefacts made
+of clay, a virtually indestructible medium, to
+keep their accounts, we can follow the devel¬
+opment of writing in Mesopotamia (and in
+6 * . 10 3 _ ^ 6 _
+neighbouring Susa) at the end of the fourth and
+the beginning of the third millennium. Initially
+bookkeeping was done using hollow clay balls
+which contained small tokens of varying sizes
+and shapes and whose surfaces bore the impres¬
+sions of cylinder seals. The form and size of the
+tokens represent the object and/or the counting
+or measuring unit employed. The seal impres¬
+sions on the outside indicate the owner or con¬
+tracting parties, or the controlling official.
+During the next several hundred years this
+system evolved. First, the tokens were impressed
+on the surface of the ball before being enclosed;
+next, the tokens themselves were abandoned,
+and only their impression on the surface of the
+now flattened ball or tablet was retained; finally,
+a reed was used instead of a token to create the
+surface marks.
+By around 3200 B.C., a writing system had
+developed that consisted of a repertory of some
+30 numeric and 800 non-numeric signs, used
+to designate the items counted and geographical
+and official names.
+I A dozen different counting systems
+A large number of different ways of counting
+were used in Mesopotamia during this period
+(3200-2800). These systems included one for
+counting discrete objects and lengths, one for
+measuring surfaces, another for determining vol¬
+umes of grain (subdivided into a number of dif¬
+ferent subsystems for different kinds of grain!), yet
+another for measurements of time. There were
+probably close to a dozen of these metrological
+systems. Three of them are shown in figure 1.
+To express a number in any of these sys¬
+tems an additive technique was used; in other
+words a number sign was used as many times as
+there were units represented by that sign. This
+can be seen in figure 2, a text showing the
+number of sheep in a flock.
+But despite the wealth of systems, the reper¬
+tory of numeric signs was small. In fact, all the
+signs were essentially built up from only four
+different marks of the reed: a large and small
+circle, and a large and small notch (figure 3).
+Furthermore these signs were used only in cer-
+
+Mesopotamian clay tablet
+used for bookkeeping
+(c. 3000 B.C.).
+Figure 2. Counting sheep
+Explanation:
+2x10 + 7x1=27 ewes
+and
+2x10 + 5x1= 25 rams,
+a total of 5x10 + 2x1 =
+52 sheep.
+tain combinations: either separately (four signs)
+or combined in the form circle + notch of the
+same size or circle + circle of two different
+sizes this yields seven signs in all.
+These few signs were thus used differently in
+different systems: the small circle is worth 10
+small notches in the system used for discrete
+measurements (system S), 6 small notches in that
+used for measuring capacity (system S), and 1 8 in
+that used for surface measurements (system G).
+The "numeric signs", then, have no intrinsic
+value, only that lent by the system in which they
+appear. Furthermore the ratios between succes¬
+sive signs their "relative values" vary from
+one system to another. Thus there is no general
+idea of number, only ways of counting.
+For the 500 years starting around 3200 B.C.,
+the range of texts produced in Mesopotamia is
+very restricted. They are overwhelmingly
+accounts, consisting of numbers drawn from
+the various metrological systems with the addi¬
+tion of signs representing the objects thus
+counted, but also geographical names and offi¬
+cial titles. There is also a handful of school texts,
+lists of the signs and words, both numeric and
+non-numeric, that the young apprentice scribe
+had to master in acquiring his craft. The principal
+role of scribal training was the training of a
+corps of bookkeepers. The idea that writing can
+be diverted from bookkeeping, and used to
+record a spoken language the role of writing
+which seems so natural to us was slow in
+developing, taking over 500 years.
+A dual evolution
+Some time around 2600 B.C., the developing
+city-states that constituted ancient Sumer
+achieved sufficient size and wealth for writing,
+hitherto found at only a few sites, to become
+common all over southern Mesopotamia.
+One of the reforms carried out during this
+period of consolidation was that of the metro-
+logical systems. The number of such systems
+was reduced from a dozen to a mere handful,
+one for discrete and length measures, one for
+areas and one for capacity. To these three was
+added a new system, to measure weight. Rather
+than invent new numbers to indicate values in this
+system, it was decided to use the numbers from
+the system used to measure discrete objects, fol¬
+lowing them with the names of the units of
+weight. This system proved so practical that the
+names of weight units and their relative values
+were taken over into the surface metrological
+system, and used there to express small areas. IS
+
+This idea the naming of units was one
+of the two major innovations of this period,
+and was not restricted to the weight system and
+its extensions. Even the larger units of length or
+volume now began to carry names. The scribe
+wrote a number-sign + "bur" for surface mea¬
+surements, and a number-sign + "nindan" for
+lengths. Of course once the names of units are
+written, it becomes possible to see immediately
+which form of measurement is being made. The
+,, scribes of Mesopotamia were to make increasing
+use of this new method.
+The other important change in this period
+relates to the writing of numbers. In the case of
+areas, the sign [A] takes the place of the older [B]
+(figure 4), the outer of the two concentric circles
+being replaced by four crossed "cuneiform"
+strokes (from Latin cuneus, "nail" or "wedge").
+This is just one example of the growing
+"cuneiformization" of the writing system
+including number signs that is typical of this
+period. To an increasing degree, the curvilinear,
+incised lines of the older, semi-pictographic
+form of the script, difficult to trace in clay, were
+replaced by the faster and simpler method of
+impression of the reed. This evolution of the
+writing system, already timidly apparent during
+the previous period, spread rapidly during this
+Figure 4
+* ©
+A B
+Q 0
+C D
+Figure 5
+T ï
+E F
+Figure 6
+TI n
+61 2
+period, and virtually squeezed out the older,
+rounded numbers by the end of the millennium.
+Speedy scribes
+The period from 2350 to 2200 B.C. saw the
+building of the first major empire in Mesopotamia,
+that of the Akkadians, who spoke a Semitic lan¬
+guage. Two of the innovations introduced by the
+new centralized administration of the Akkadian
+empire, which at the height of its power stretched
+from the Gulf to Syria and Lebanon, also played
+a crucial role in metrology and writing.
+The systems of units inherited from the pre¬
+vious period were rationalized and adjusted so that
+simple correspondences would exist among them.
+Although the complexity of the old ways of
+counting was never totally banished, the ratios of
+units tended to stabilize around fixed values. Fur¬
+thermore the system of numbers used for mea¬
+suring discrete objects now began to be widely
+used for other kinds of measurements, coupled
+with the use of names for different units.
+At the same time the older numbers such as
+[C] and [D] were replaced by [E] and [F] (figure
+5). The long march of cuneiformization was
+still under way. These changes, dictated by the
+need for efficiency in performing the growing
+number of bureaucratic tasks in the Akkadian
+empire, have a double edge. Certainly it is sim¬
+pler and faster to write the new cuneiform num¬
+bers than the old rounded numbers, but the
+speed is purchased at a price. The difference
+between the small unit and the one sixty times
+larger was quite small, a question of a slightly
+larger "head" to the simple vertical stroke. The
+Figure 7. The significant detail
+1<4] 5<4I
+2<9J 5 <6T 5<
+i<7j 4<3I
+3< 5<3
+4<
+2<
+14 54 00
+29 56 50
+17 43 40
+30 53 20
+Figure 8. The sexagesimal system
+In our decimal, positional system, we use the
+nine digits I, 2, 3,....,9 plus 0; the value of a
+digit in a number is determined by its position
+in that number, each place representing a
+power of ten. Thus, in the number 161, the
+rightmost I is worth one unit, while the
+leftmost I is worth one hundred and the 6 is
+worth six tens, i.e.:
+161 = 1 00 + 60 +1 = 1x1 00 + 6x10+1x1
+x 10' + 6 x 10' + Ix 10°.
+I
+<= 10 = 1
+16
+Total: I 1/2 mana 3 1/2 gin minus 7 se silver
+Column I (rightmost): 0 + 50 + 40 + 20 = 60 + 50 put down 50 and carry I
+Column 2: 54 + 56 + 43 + 53 + I (carried) = 207 = 3 x 60 + 27 down 27 and carry 3
+Column 3: 1 4 + 29 + 17 + 30 + 3 (carried) = 93 = 60 + 33 down 33 and carry I
+Total: I 33 27 50
+Since I mana = 60 gin = I 00 gin (base 60) and I le = 1/180) gin = 0;00 20 gin (base 60):
+I 33 27 50 = I 33: 27 50 gin = I mana +33 gin + 83 se (rounded off, 83 se = 0; 27 40
+gin) or, written more traditionally, I 1/2 mana (= I mana 30 gin) + 3 l/2g (= 3 gin 90
+se ) 7 se.
+In the sexagesimal, base sixty system, there
+are 59 digits (zero is represented by a blank
+space). Thus the number written by putting
+side by side the three cuneiform digits
+representing 29 56 50 can be translated into
+our decimal system as:
+29 x 601 + 56 x 60' + 50 x 60° = 29 x 3600 + 56 x
+60 + 50 x I = 1 04400 + 3360 + 50 = 1 078 1 0
+This is of course exactly the system we use for
+reading time:
+29 hours 56 minutes 50 seconds = 29 x 3600 +
+56 x 60 + 50 = 1 078 1 0 seconds.
+
+JAMES RITTER,
+of the United States, teaches
+mathematics and the history of
+science at the University of
+Paris VIII. His research
+interests centre on the history
+of the general theory of
+relativity as well as "rational
+practices" in ancient Egypt and
+Mesopotamia. He contributed
+to a work edited by Michel
+Serres entitled Eléments
+d'histoire des sciences
+(A Basic History of Science),
+Paris, 1989.
+figure 9. The Mesopotamian "zero"
+There are two main uses of the zero in our modern
+numerical notation:
+as a number, for example one can add 0 to 5 with
+the result 5;
+as a place-holder in a number. The number 5020
+indicates that there are 5 thousands, no hundreds,
+2 tens and no ones.
+The Mesopotamians never created the con¬
+cept of a number zero. They did need to indicate
+empty places in a number, however, and for this
+they used two different methods.
+The first method, used from the time of the
+invention of a positional notation at the end of
+the third millennium to the end of the first mil¬
+lennium, was to a leave a blank in the writing of a
+number to indicate that there were no units ofthat
+particular power of 60. For example, the number
+3 22 (3 sixties and 22 ones) was written as shown
+in example Y (above), while 3 00 22 (3-thousand-
+six-hundreds, no sixties and 22 ones) was written
+as shown in example Y (below).
+Very late in the life of the Mesopotamian civi¬
+lization, in the Seleucid period (from the end of the
+fourth century B.C.), one finds another method,
+using a written zero place-holder, especially in astro¬
+nomical texts. Thus the sexagesimal number 3 00
+22 was noted at this period as shown in example Z.
+«n
+w «n
+difficulty of distinguishing between the two
+numbers 61 and 2, for example (figure 6), when
+hastily written and read poses a critical
+problem of ambiguity. The resolution of this
+problem by the Mesopotamian scribes, probably
+during the Akkadian period or in that just fol¬
+lowing, was precisely to turn this ambiguity to
+good use by creating a positional system.
+I The birth of positional notation
+After the period of disruption that followed the
+end of the Akkadian empire, a newly central¬
+ized state was founded in Mesopotamia; the city-
+state of Ur successfully established a new empire,
+which we call the Third Dynasty of Ur, or Ur III.
+A single text (figure 7) among more than
+100,000 from this period, has left us a trace of the
+technical and conceptual revolution that took
+place during the Ur III and the preceding Akka¬
+dian epoch. A bookkeeping text dealing with a
+delivery of silver, it is quite ordinary except for
+one detail: the scribe has forgotten to erase the
+mathematical calculations he made in drawing it
+up. The writing of these calculations shows us
+that, at least by Ur III times, the full positional
+system in base 60 was in place. What the scribe
+has done in the first four lines is to write down
+the weight of four separate deliveries of silver in
+positional, sexagesimal notation. In this system,
+each place represents a power of 60, with the
+numbers in each running from 1 to 59 (figure 8).
+The signs used for writing these 59 numbers
+are created by using the first two signs of the
+now totally cuneiformized system for discrete
+objects: the wedge for the value of 10 and the
+stroke for 1. A blank space appearing in a
+number represents the Mesopotamian "zero"
+(figure 9). In the final line the scribe has trans¬
+lated the sum of the four entries into the tradi¬
+tional system for measuring weight.
+As can be seen from this example, the ambi¬
+guity mentioned above between 61 and 2 is
+resolved simply by accepting it. There is no
+longer any difference in the writing of the signs
+that make up, say, 1 1 and 61 . Both use the same
+sign twice. The difference is conveyed exclu¬
+sively by the spacing between them, that is, by
+giving a significance to the relativeposition of the
+two signs (figure 10). The positional system of
+Mesopotamian mathematics was born. And this
+system was sexagesimal; the Mesopotamians
+had chosen a sexagesimal system from the var¬
+ious systems at their disposal.
+So it was neither a psychological peculiarity
+of the Sumerian and Akkadian peoples, nor mys¬
+tical and religious ritual, nor again complicated
+mathematical criteria of divisibility which led to
+the sexagesimal, positional system of
+Mesopotamia. Rather, pushed by the economic
+and social needs of an increasingly centralized
+state operating over a period of a millennium, two
+simultaneous developments the increasing
+reliance on numbers drawn from a single metro¬
+logical system and the progressive cuneiformiza¬
+tion and consequent risk of ambiguity in the
+writing of numbers interacted to form the
+number system that was to be used in
+Mesopotamia for the following 2,000 years. As we
+have seen, it was the increasing predominance of
+one particular metrological system with its par¬
+ticular choice of relative values which gave birth
+to a sixty-based number system, and it was the
+cuneiformization of writing that was respon¬
+sible for the creation of a positional notation.
+Most important of all was a possibly
+unlooked-for result of these two developments.
+The same number-signs could be and were
+used to write the numbers involved in calculations
+in all the metrological systems. The new system
+was not attached to any of the traditional ways of
+counting; numbers had become free-floating and
+the detachment of number and measure was
+complete. The end of the third millennium B.C.
+saw the birth of the concept of number, abstracted
+from any particular unit. ÎI

@@ -1,0 +1,161 @@
+ Computers have become indis-
+pensable for people 
+wishing to generate, access and share information, 
+communicate and trade. But digital technology 
+was designed primarily by people using Latin 
+scripts, which only serve a fraction of the world’s 
+population with its 6,000 recorded languages and 
+50 odd writing systems.
+Software has had to be developed to process, 
+display, send and print not only scripts that 
+go from left to right (as is the case with the 
+European languages), but those that go from 
+right to left (as with Semitic languages and with 
+Mongolian which is, moreover, written vertically). 
+Customized programming has been developed to 
+deal with the specific features of different scripts 
+and languages including, the Latin, Cyrillic, 
+Arabic or Hebrew alphabets, for example, and 
+symbols such as the accents that are common 
+in French and Spanish. Furthermore, in many 
+UNESCO is working to 
+increase the presence of 
+different languages on 
+computers and on the 
+internet as part of its effort 
+to promote linguistic 
+and cultural diversity and 
+to support equitable 
+access to information
+A Chinese translator 
+at work. The many 
+thousands of 
+Chinese ideograms 
+are a challenge 
+for computer and 
+software developers.
+
+Consortium have developed an ever-growing 
+table, and matching computer codes, for all the 
+letters, signs and symbols used in recognized 
+scripts, addressing the issue of character and 
+symbol recognition and use. UNESCO has been 
+contributing to this standardization work through 
+the Vienna-based International Information Centre 
+for Terminology, Infoterm, which it founded 
+in 1971.
+The internet poses its own set of challenges 
+in the quest for respecting diversity through the 
+use of different languages and scripts in digitally-
+based communication. The growth of the internet 
+has also increased the need for standardization, 
+to ensure that the solutions adopted by various 
+operating systems are compatible and that texts 
+sent from one computer to another are legible. 
+Moreover, standardization is indispensable so 
+that browsers and search engines such as Google 
+recognize queries in different scripts. To facilitate 
+recognition, standardized language tags have been 
+agreed upon and embedded in webpages, to tell 
+the browser which set of characters of signs is to 
+be used. Such tags are, however, not available for 
+all languages.
+As far as scripts go, the ISO/UNICODE system 
+currently covers the characters and symbols 
+of some 50 scripts that support at least 244 
+languages. At present it provides over 100,000 
+unique codes for characters and symbols. Such 
+standardization is essential for the sharing of 
+languages letters change shape according to their 
+placement in a word – as is the case in Arabic and 
+Hebrew - or in a sentence (to become capitals) as 
+is the case in Latin and Cyrillic writing.
+STANDARDIZE TO SAFEGUARD 
+DIVERSITY
+Chinese with its thousands of ideograms, or 
+symbols for words, is radically different from 
+alphabet-based scripts. The ideograms pose a 
+challenge in terms of keyboard layout, on screen 
+rendering, printing and searching. In some cases, 
+and in some languages, several systems of writing 
+must be used simultaneously compounding the 
+challenge. This is the case with Japanese, which 
+uses three different writing systems consisting 
+of ideograms, syllabaries, and an alphabet. But 
+Japanese, like many non-European languages, 
+occasionally uses Latin script, which must therefore 
+also be supported by software alongside the script 
+of the language for which it has been developed.
+The International Organization for 
+Standardization (ISO) and the UNICODE 
+
+information between computers, 
+notably on the internet.
+UNICODE is supported by “most 
+operating systems, like Microsoft 
+Windows, Apple OS and Linux, 
+which provide the possibility of 
+using the major non-Latin scripts but 
+may not cater for all the symbols in 
+those writing systems and their local variants,” 
+explains Paul Hector of UNESCO’s Initiative Babel, 
+which seeks to preserve threatened languages and 
+promote multilingualism.
+FLEXIBILITY OF THE SOFTWARE
+UNESCO has also developed an information and 
+retrieval software application, CDS/ISIS, which 
+can handle different languages and writing 
+systems and is available free of charge. UNESCO 
+promotes the use of “open-source software” and 
+“free software” such as Linux. It has contributed 
+to the development of capabilities for Burmese 
+and several African languages for the internet 
+browser Mozilla, a free-software which is 
+available free-of-charge.
+Open source software and operating systems 
+can be more easily adapted for a range of scripts 
+and languages. “Commercial systems on the other 
+hand are generally developed where there is a 
+commercial incentive,” explains Davide Storti, of 
+Babel. “Thus there are more software programmes 
+and webpages in Icelandic, a language only 
+spoken by a quarter million people than for the 
+18 million Hausa speakers of Nigeria.”
+It will take time to overcome all the barriers 
+that have been preventing some languages from 
+entering the digital age, but the commitment 
+of governments and growing awareness among 
+commercial and non-commercial software 
+developers is encouraging, according to Paul 
+Hector. He further points out that about 20 
+percent of the world’s languages have no written 
+form, but that the multimedia capabilities of 
+today’s computers offer new opportunities 
+for their entry into cyberspace and efforts are 
+underway to create standardised writing systems 
+for many of these traditionally oral languages.
+Roni Amelan
+Guidelines for
+     Writing System Support
+Above: The chart 
+illustrates writing’s 
+different directions 
+– from right to left 
+or left to right, 
+horizontally or 
+vertically (Source: 
+www.sil.org) 
+Right. Technology 
+is allowing certain 
+unwritten languages 
+to enter cyberspace. 
+It is too late for 
+the language of 
+the Zapara people 
+(Ecuador and Peru) 
+whose culture has 
+been proclaimed 
+a Masterpiece 
+of the Oral and 
+Intangible Heritage 
+of Humanity.

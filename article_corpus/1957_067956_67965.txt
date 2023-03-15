@@ -1,0 +1,595 @@
+This timely article was written long before the launching
+of the world's first artificial satellite. It is a revised
+version of a paper originally read to the British Inter¬
+planetary Society in 1946 and published in 1953 in Unesccs
+quarterly scientific review, "Impact of Science on So¬
+ciety. The author is a Fellow of the Royal Astronomical
+Society, and has written several books on the subject, in
+particular "Interplanetary Flight" and "The Exploration
+of Space". This article is copyright by the author and
+may not be reproduced without permission.
+An historian of the twenty-first century, looking back
+past our own age to the beginnings of human
+civilization, will be conscious of four great turning
+points which mark the end of one era and the dawn of a
+new and totally different mode of life. Two of these
+events are lost, probably forever, in the primeval night
+before history began. The invention of agriculture led to
+the founding of settled communities and gave man the
+leisure and social intercourse without which progress is
+impossible. The taming of fire made him virtually in¬
+dependent of climate and, most important of all, led to
+the working of metals and so set him upon the road of
+technological development that road which was to lead,
+centuries later, to the steam engine, the Industrial Re¬
+volution, and the age of steel and petrol and surface
+transportation through which we are now passing.
+The third revolution began, as all the world knows, in
+a squash-court in Chicago on December 2, 1942, when the
+first self-sustaining nuclear reaction was started by man.
+We are still too close to that cataclysmic event to see it
+in its true perspective, but we know that it will change our
+world, for better or for worse, almost beyond recognition.
+And we know too that it is linked with the fourth and in
+some ways greatest change of all the crossing of space
+and the exploration of the other planets.
+22
+The first spaceships capable of reaching another world
+may still lie half a century ahead, but the giant rocket is
+already with us and will soon be carrying men to the
+limits of the atmosphere and beyond. Nor will it be many
+years before a guided missile reaches the moon and blazes
+the trail along which men will travel a generation later.
+An attempt to construct a philosophy of astronautics is
+therefore far from premature: it is, if anything, a little
+belated. In the last few years we have seen the political
+and ethical chaos produced when a great technical de¬
+velopment comes into a world which is unprepared for it.
+If our civilization is to have a future, then we must see
+that it does not repeat its earlier mistakes. I do not
+suggest as some have done that lawyers need start
+worrying immediately about the ownership of the moon,
+but the ownership of space will soon be a matter of acute
+practical importance. If country A fires experimental
+rockets across its neighbour B, what does B do? The air
+above B is admittedly its own property, but how far does
+that jurisdiction extend? There will have to be some
+equivalent of the three-mile limit; otherwise in the course
+of a day every country will, by virtue öf the earth's rota¬
+tion, lay claim to a large portion of the universe! This
+problem will be of grave concern in another decade, when
+long-range research projectiles begin to travel far outside
+the atmosphere with a supreme indifference to the geo¬
+graphy beneath them.
+The ideals of astronautics are new, but the motives and
+impulses underlying them are as old as the human race.
+There was a time not long ago when those who advocat¬
+ed interplanetary travel were always being asked. "How?"
+Even before the war that question could be answered in
+general terms, but there had been no large-scale engineer¬
+ing achievement to support the claims put forward. It
+is amusing to recall that in those days which now seem
+so remote there were many people who refused to believe
+that a rocket could work in a vacuum or would ever be
+able to rise more than a few miles from the earth.
+
+The Unesco Courier. November 1957
+Today, the power of the rocket has been demonstrated,
+only too thoroughly. "How" is a question one seldom
+hears in discussions concerning space-flight: the common¬
+er query is now "Why?" And it is much more difficult
+to answer, for it involves the motives underlying all
+human conduct.
+The urge to explore, to discover, to "follow knowledge
+like a sinking star," is a -primary human impulse which
+needs, and can receive, no further justification than its
+awn existence. The search for knowledge, said a modern
+Chinese philosopher, is a form of play. If this be true,
+then the spaceship, when it comes, will be the ultimate toy
+that may lead mankind from its cloistered nursery out
+into the playground of the stars.
+When the oceans begin to boil
+However, it is not hard to think of entirely valid
+"practical" reasons why one should wish to cross
+space, and some of these we will discuss later. There
+is no doubt that eventually sheer necessity would bring
+about the conquest of the other planets. I do not believe
+that it is possible to have a -virile, steadily-advancing
+culture limited to a single world, and taking the long-
+term view, we know that our earth will one day become
+uninhabitable.
+In his book, The Birth and Death of the Sun (1), the
+physicist George Gamow points out that before its evolu¬
+tion has finished, our sun will become 100 times as lumi¬
+nous as it is today. I am glad to see that he draws the
+obvious conclusion and visualizes the migration of
+humanity to the outer planets before our earth's oceans
+have begun to boil.
+But the human race will not wait until it is kicked out.
+(1) Viking Press, Sew York, 1940, and MacMillan, London, 1941.
+Long before the sun's radiation has shown any measurable
+increase, man will have explored all the solar system and,
+like a cautious bather testing the temperature of the sea,
+will be making breathless little forays into the abyss
+which separates him from the stars.
+To support my argument, I now have to develop some
+sort of time-scale. I do this with much reluctance, since
+prophecy is a dangerous and thankless business, frequently
+fatal to those who practise it. We have, however, learned
+by past experience that even the most extravagant fore¬
+cast seldom overtakes the truth. H. G. Wells once wrote
+and was no doubt laughed to scorn for his follythat
+the aeroplane might have some influence upon warfare by
+1950. Even Wells never imagined that by that date
+aircraft would not only have become of supreme import¬
+ance but would have been challenged by still newer
+weapons.
+The advances in rocket research since the 1940's have
+been phenomenal, but they have merely laid the founda¬
+tions for what is still to come. Nevertheless, it is worth
+recording present achievements to fix the position of
+astronautics as it is today.
+Heights of 385 kilometres and speeds of over 8,000 kilo¬
+metres an hour have been attained by a "two-step" rocket
+fired from White Sands, main centre of American rocket
+activity. A large number of missiles, some more efficient
+and with higher ceilings than the original German V.2,
+have been developed. (For example the Viking, which
+though a single-stage rocket, should ultimately have a
+ceiling of over 300 kilometres)
+A great deal has been learned about the upper at¬
+mosphere by means of instruments carried
+in such rockets, which send their readings
+by radio to ground stations. In this way
+physical recovery of the rocket is un¬
+necessary though recently this has been
+achieved by means of special parachutes.
+Cont'd
+on
+next page
+23
+
+CHALLENGE OF
+THE SPACESHIP
+(Continued) Lunar round-trips by atomic rockets
+In addition, manned rocket vehicles, such as the Douglas
+Skyrocket; known to have flown at well over 2,000 kilo¬
+metres an hour have also been developed. These ma¬
+chines can hardly be called aircraft, since they operate
+at altitudes so great that conditions around them are
+almost the same as in (airless) space.
+During the next decade, the techniques necessary to
+send small, radio-controlled rockets to the moon will
+become available. Such rockets would weigh about 50
+tons at take-off and have a payload of a few kilogrammes.
+They could make astronomical reconnaissance flights of
+great scientific and also psychological importance.
+There is no reason why such flights should not take
+place by 1960. The public, not realizing the problems
+still to be faced, will expect human beings to follow in a
+very short time. It will be disappointed. During the sub¬
+sequent years there will be innumerable short-range flights
+beyond the atmosphere by man-carrying ships reaching
+heights of a few thousand kilometres and, as I have
+mentioned earlier, raising all sorts of petty legal problems.
+But if we have to rely on chemical fuels, It may require
+at least 20 years of further experimenting before the first
+true spaceship lands on the moon and returns to earth.
+That brings us to the late 1970's. Any chemically-
+fuelled spaceships will be unwieldy, fabulously expensive
+machines with fuel consumptions measured by the
+thousand tons for a single voyage. Not more than one
+or two countries will be able to build them, and they will
+be of scientific value only. There will be no question, for
+a very long time, of colonization or of voyages to the
+other planets. But; and it is a very large butany
+prophet would indeed be rash if he based his predictions
+upon the use of chemical fuels alone.'
+Coasting flights halfway round the sun
+Here, as in other fields, the great question-mark is
+atomic energy. In theory, a few kilogrammes of
+uranium could take a ship weighing 1,000 tons to the
+moon and back. In practice, we have a very long way to
+go before this can be done. At the moment one possible
+solution is that some form of enriched, high-temperature
+pile or reactor could be developed to accelerate a "working
+fluid" such as hydrogen, helium or some other gas of low
+molecular weight and so give a propulsive jet. Very great
+engineering difficulties will have to be overcome before
+this can be done, and an alternative solution is to use
+what has been called the "ion rocket." In this device
+charged particles would be accelerated by electric fields
+to produce the jet; the necessary fields being generated
+by nuclear energy. Such a scheme would have many ad¬
+vantages, but it could only operate In airless space and
+it could only produce such low thrusts that it could not
+possibly lift a spaceship up from the earth's surface
+against the direct pull of gravity.
+This is by no means a fundamental disadvantage, and
+indeed fits in very well with current ideas on astronautics.
+The fact that it is not possible for any spaceship to carry
+enough fuel for a voyage to another planet and back has
+long focused attention on what have been called "orbital
+techniques." Once a rocket is above the atmosphere and
+therefore no longer subject to air resistance, it becomes
+theoretically possible for it to turn itself into a sort of '
+"artificial moon." All it need do to achieve this is to
+reach the necessary speed in horizontal flight, and from
+there on it will stay in its orbit without using any more
+power just as the moon itself does. It could wait
+effortlessly until "tanker" rockets were sent up to refuel
+it: then, when its supplies had been replenished, it could
+continue on its way.
+In this manner any Interplanetary journey can be
+broken down into a number of stages, with refuelling
+between them, and this procedure is believed to be the
+key to space-flight. It seems likely that we may use the
+present-day "chemical" rockets to climb up from earth
+into the refuelling orbit, and then continue from there
+using atomic or "ion" rockets.
+Atomic power is hardly likely to advance the conquest
+of space by more than 10 years, but it may make it
+24
+practical almost from the beginning, which otherwise
+would certainly not have been the case. What is equally
+important, it will mean that the whole solar system, and
+not merely the moon, will be immediately accessible to
+man. It requires little more power to reach the planets
+than it does to go to the moon, but the most economical
+voyages involve months or even years of free "coasting"
+along orbits curving halfway round the sun. With atomic
+power these journeys could be cut to a fraction of the
+time. For example, the "cheapest" journey to Mars as
+far as fuel is concerned lasts 258 days. With an atomic
+ship, travelling by a more direct route at quite a moderate
+speed, it need take only a few weeks.
+The last quarter of this century will be an age of
+exploration such as man has never before known. By the
+year 2,000 most of the major bodies in the solar system
+will probably have been reached, but It will take centuries
+to examine them all in any detail. Those who seem to
+think that the moon is the goal of interplanetary travel
+should remember that the solar system contains eight
+other planets, at least 30 moons, and some thousands of
+asteroids. The total area of the major bodies is about
+250 times that of earth, though the four giant planets
+probably do not possess stable surfaces on which landings
+could be made. Nevertheless, that still leaves an area
+10 times as great as all the land "surface of the .'earth.
+This, then, is the future which lies before us, if our
+civilization survives the diseases of its childhood. It is a
+USIS
+DESTINATION MOON. An imaginary rocket has landed on the
+moon and is about to take off for an interplanetary voyage. This photo
+taken from a recent American film, "Destination Moon", produced
+with the help of Mount Palomar Observatory in California. Destina¬
+tion moon may soon no longer be limited to science fiction tales.
+
+future which some may find terrifying, as no doubt our
+ancestors found the hostile emptiness of the great oceans.
+But the men who built our world crossed those oceans and
+overcame those fears. If we fail before the same test, our
+race will have begun its slide into decadence. Remember,
+too, that when the great explorers of the past set sail
+into the unknown they said goodbye for years to their
+homes and everything they knew. Our children will face
+no such loneliness. When they are among the outermost
+planets, when the earth is lost in the glare of the sun
+and. the sun itself is no more than the brightest of the
+stars, they will still be able to hear its voice and to send
+their own words in a few hours back to the world of men.
+Let us now consider the effects which interplanetary
+travel must have upon human institutions and ideas. The
+most obvious and direct result of the crossing of space
+will be a revolution in almost all branches of science.
+I shall not attempt to list more than a few of the discov¬
+eries we may make when we can set up research stations
+and observatories upon the other planets. One can never
+predict the outcome of any scientific investigation, and the
+greatest discoveries the ones which will most influence
+human life may come from sciences as yet unborn.
+TV relay stations circling the earth
+Astronomy and physics will, of course, be the fields of
+knowledge most immediately affected. In both these
+sciences there are whole areas where research has
+come to a dead end, or has never even started, because our
+terrestrial environment makes it impossible.
+The atmosphere, which on a clear night looks so trans¬
+parent, is in reality a coloured filter blocking all rays
+beyond the ultra-violet. Even in the visible spectrum the
+light that finally struggles through the shifting strata
+above our heads is so distorted that the images it carries
+dance and tremble in the field of the telescope.
+An observatory on the moon, working with quite small
+instruments, would be many times as effective as one on
+earth. Far greater magnifications could be employed, and
+far longer exposures used. In addition, the low gravity
+would make relatively simple the building of larger tele¬
+scopes than have ever been constructed on this planet.
+In physics and chemistry, access to vacua of unlimited
+extent will open up quite hew fields of investigation. The
+electronic scientist may well look forward to the day
+when he can build radio tubes a kilometre long, if he
+wishes, merely by setting up his electrodes in the open!
+We may learn more about gravity when we can escape
+partially or wholly from its influence.
+The prospect of building stations in space, circling the
+earth like tiny moons in orbits beyond the atmosphere, is
+one that has a peculiar fascination. Such stations were
+first proposed by the Germans as refuelling depots for
+spaceships, but even if that need never arises they would
+have other most important applications. Meteorological
+observatories in space could see at a glance the weather
+over half the planet, could watch in detail the movement
+of storms and rain areas. The wonderful photographs of
+the earth from V.2 rockets give a hint of what may be
+done in this direction. Indeed, really accurate forecasting
+may have to wait until meteorologists get out into space.
+The space station has one other application of the
+greatest importance, for it provides perhaps the only
+means of worldwide television broadcasting. As is well
+known, the reliable range of a television transmitter
+extends barely beyond the horizon. A dozen stations at
+least would be needed to cover completely a country as
+small as Great Britain, and continental or world services
+would be completely out of the question. Yet three relay
+stations circling the earth could provide a steady, reliable
+service from pole to pole with no more power output than
+a single present-day station.
+However, the first direct results of astronautics may be
+less important than its indirect consequences. This has
+proved true in the past of many great scientific
+achievements. Copernican astronomy, Darwin's theory of
+evolution, Freudian psychologythese had few immediate
+practical results, but their effect on human thought was
+tremendous.
+We may expect the same of astronautics. With the
+expansion of the world's mental horizons may come one
+of the greatest outbursts of creative activity ever known.
+The parallel with the Renaissance, with its great flower-
+The Unesco Courier. November 1957
+ing of the arts and sciences, is very suggestive. "In
+human records," wrote the anthropologist J.D. Unwin,
+"there is no trace of any display of productive energy
+which has not been preceded by a display of expansive
+energy. Although the two kinds of energy must be care¬
+fully distinguished, in the past they have been . . . united
+in the sense that one has developed out of the other."
+Unwin continues with this quotation from Sir James
+Frazer: "Intellectual progress, which reveals itself in the
+growth of art and science . . . receives an immense impetus
+from conquest and empire." Interplanetary travel is now
+the only form of "conquest and empire" compatible with
+civilization. Without it, the human mind, compelled to
+circle forever in its planetary goldfish bowl, must event¬
+ually stagnate.
+We all know the narrow, limited type of mind which
+is interested in nothing beyond its town or village, and
+bases its judgments on parochial standards. We are
+slowly perhaps too slowly evolving from that mentality
+towards a world outlook. Few things will do more to
+accelerate that evolution than the conquest of space. It
+is not easy to see how the more extreme forms of nation¬
+alism can long survive once men see the earth in its true
+perspective as a single small globe among the stars.
+The solar system is rather a large place, though whether
+it will be large enough for so quarrelsome an animal as
+Homo sapiens remains to be seen. But it is surely rea¬
+sonable to hope that the crossing of space will have a
+considerable effect in reducing the psychological pressures
+and tensions of our present world. Much depends, of
+course, on the habitability of the other planets. It is not
+likely that very large populations will, at least for many
+centuries, be able to subsist outside the earth. There may
+be no worlds in the solar system upon which men can
+live without mechanical aids, and some of the greatest
+achievements of future engineering will be concerned with
+shaping hostile environments to human needs.
+We must not, however, commit the too common mistake
+of equating mere physical expansion, or even increasing
+scientific knowledge, with "progress" however that may
+be defined. Only little minds are impressed by sheer size
+and number. There would be no virtue in possessing the
+universe if it brought neither wisdom nor happiness. Yet
+possess it we must, at least in spirit, if we are ever to
+answer the questions that men have asked in vain since
+history began.
+Every thoughtful man has asked himself: is our race
+the only intelligence in the universe, or are there other,
+perhaps far higher, forms of life elsewhere? There can
+be few questions more important than this, for on its out¬
+come may depend all philosophyyes, and all religion too.
+
+Is ours the only abode of life in space?
+The first discovery of planets revolving round other
+suns, which was made in the United States in 1942,
+has changed all ideas of the plurality of worlds.
+Planets are far commoner than we had believed: there
+may be thousands of millions in this galaxy alone. Few
+men today would care to argue that the earth must be the
+only abode of life in the whole of space.
+It is true it is even likely that we may encounter no
+other intelligence in the solar system. That contact may
+have to wait for the day, perhaps ages hence, when we can
+reach the stars. But sooner or later it must come.
+There have been many portrayals in literature of these
+fateful meetings. Most science-fiction writers, with
+characteristic lack of imagination, have used them as an
+excuse for stories of conflict and violence indistinguishable
+from those which stain the pages of our own history.
+Such an attitude shows a complete misunderstanding of
+the factors involved.
+Remember the penny and the postage stamp which Sir
+James Jeans in the Mysterious Universe (1) balanced on
+Cleopatra's needle. The obelisk represented the age of
+the world, the penny the whole duration of man's existen¬
+ce, and the stamp the length of time in which he has
+been slightly civilized. The period during which life will
+be possible on earth corresponds to a further column of
+stamps hundreds of metres perhaps a
+kilometrein height.
+Thinking of this picture, we see how
+(1) Cambridge University Press, and MacMillan,
+New York, 1930.
+next page
+25
+
+CHALLENGE OF
+THE SPACESHIP
+(Continued) We may meet superhuman races
+infinitely improbable it is that the question of interplanet¬
+ary warfare can ever arise. Any races we encounter will
+almost certainly be superhuman or subhuman more likely
+the former, since ours must surely be one of the youngest
+cultures in the universe. Only if we score a bull's eye on
+that one stamp in the kilometre-high column will we
+meet a race at a level of technical development sufficiently
+near our own for warfare to be possible. If ships from the
+earth ever set out to conquer other worlds they may find
+themselves, as they arrive, in the position of painted war-
+canoes drawing slowly into New York Harbour.
+But if the universe does hold species so greatly in
+advance of our own, then why have they never visited the
+earth? There is one very simple answer to this question.
+Let us suppose that such races exist: let us even suppose
+that, never having heard of Einstein, they can pass from
+end to end of the galaxy as quickly as they wish...
+That will help them less than one might think. In 10
+minutes, a man may walk along a beach but in his whole
+lifetime he could not examine every grain of sand upon
+it. For all that we know, there may be fleets of survey
+ships diligently charting and recharting the universe.
+Even making the most optimistic assumptions, they could
+scarcely have visited our world in the few thousand years
+of recorded history.
+Man-made worlds creeping from star to star
+Perhaps, even at this moment, there lies in some rather
+extensive filing system a complete report on this
+planet, with maps which to us would look distorted
+but still recognizable. That report would show that
+though the earth was teeming with life, it had no domi¬
+nant species. However, certain social insects showed
+considerable promise, and the file might end with the note:
+"Intelligence may be emerging on this planet. Suggest
+that intervals between surveys be reduced to a million
+years."
+I have mentioned before how limited our picture of the
+universe must be so long as we are confined to this earth
+alone. But the story does not end there. Our impressions
+of reality are determined, perhaps more than we imagine,
+by the senses through which we make contact with the
+external world. How utterly different our cosmologies
+would have been had nature economized with us, as she
+has done with other creatures, and given us eyes incapable
+of seeing the stars! Yet how pitiably limited are the eyes
+we do possess, tuned as they are to a single octave in an
+endless spectrum. The world in which we live is drenched
+with invisible radiations, from the microwaves which we
+have just discovered coming from sun and stars, to the
+cosmic rays whose origin is still one of the prime mysteries
+of modern physics. These things we have discovered
+within the last generation, and we cannot guess what still
+lies beneath the threshold of the senses though recent
+discoveries in paranormal psychology hint that the search
+may be only beginning. These are deep waters, and it is
+time to turn back to the shore, to leave the distant dream
+for the present reality of fuels and motors, of combustion-
+chamber pressures and servo-mechanisms.
+The desire to give a comprehensive picture of the
+outcome of astronautics has compelled me to range not
+unwillingly over an enormous field. However, I do not
+wish anyone to think that the possibilities we have been
+discussing need come in this century, or the next, or the
+next. . . . Yet any of them may arise, at any time, as soon
+as the first ships begin to leave the earth. Man's first
+contact with other intelligent races may lie as far away in
+time as the building of the Pyramids or it may be as near
+as the discovery of X-rays.
+Of this, at least, we may be fairly certain: barring
+accidents the most obvious of which I need not specify
+the exploration of the planets will be in full swing as this
+century draws to its close. To examine them in any de¬
+tail, and to exploit their possibilities fully, will take
+hundreds of years. But man being what he is, when his
+first ship circles down into the frozen wastes of Pluto, his
+mind will already be bridging the gulf still lying between
+him and the stars.
+26
+Interplanetary distances are a million times as great as
+those to whijh we are accustomed in everyday life, but
+interstellar distances are a million-fold greater still. Be¬
+fore them even light is a hopeless laggard, taking years
+to pass from one star to its neighbour. How man will
+face this stupendous challenge I do not know: but face it
+one day he will. Professor Bernai was, I believe, the first
+to suggest that one solution might he in the use of arti¬
+ficial planets, little self-contained worlds embarking upon
+journeys which would last for generations. Olaf Stapledon
+has expanded this theme in Star Maker, one of the great¬
+est of his fantasies, but the thought of these tiny
+bubbles of life, creeping from star to star on their age-long
+journeys, carrying whole populations doomed never to set
+foot upon any planet, never to know the passage of the
+seasons or even the interchange. of night and day, is one
+from which we might well recoil in horror. However those
+who would make such journeys would have outlooks very
+different from our own. These speculations intriguing
+though they are, will hardly concern mankind in this cen¬
+tury. We may, I think, expect that it will be at least years
+before confinement to the solar system produces very
+marked signs of claustrophobia.
+Our survey is now finished. We have gone as far as is
+possible, at this moment of time, in trying to assess the
+impact of astronautics upon human affairs. I am not
+unmindful of the fact that 50 years from now, instead
+of preparing for the conquest of the outer planets, our
+grandchildren may be dispossessed savages clinging to the
+fertile oases in a radio-active wilderness. Yet we must
+keep the problems of today in their true proportions. They
+are of vital indeed of supreme importance, since they
+can destroy our civilization and slay the future before
+its birth. But if we survive them, they will pass into
+history and the time will come when they will be as little
+remembered as the causes of the Punic Wars. The cross¬
+ing of space even the sense of its imminent achievement
+in the years before it comes may do much to turn men's
+minds outwards and away from their present tribal
+squabbles. In this sense the rocket, far from being one
+of the destroyers of civilization, may provide the safety-
+valve that is needed to preserve it.
+This point may be important. By providing an outlet
+for man's exuberant and adolescent energies, astronautics
+may make a truly vital contribution to the problems of
+the present world. Space-flight does not even have to be
+achieved for this to happen. As soon as there is a general
+belief in its possibility, that belief will begin to colour
+men's psychological outlook. In many ways, the very
+dynamic qualities of astronautics are in tune with the
+restless expansive spirit of our age.
+Day-time dreamers are dangerous men
+I have tried to show that the future development of
+mankind, on the spiritual no less than the material
+plane, is bound up with the conquest of space. To
+what may be called using the words in the widest possible
+sense the liberal scientific mind, I believe these argu¬
+ments to be unanswerable. The only real criticism that
+may be raised against them is the quantitative one that
+the world is not yet ready for such changes. It is hard not
+to sympathize with this view, which may be correct, but I
+have given my reasons for thinking otherwise.
+The future of which I have spoken is now being shaped
+by men working with slide-rules in quiet offices, and by
+men taking instrument readings amid the savage roar of
+harnessed jets. Some are engineers, some are dreamers
+but many are both. The time will come when they can
+say with T. E. Lawrence: "All men dream; but not equally.
+Those who dream by night in the dusty recesses of their
+minds wake in the day to find that it was vanity: but the
+dreamers of the day are dangerous men, for they may
+act their dream with open eyes, to make it possible."
+Thus it has always been in the past, for our civilization
+is no more than the sum of all the dreams that earlier
+ages have brought to fulfilment. And so it must always
+be, for if men cease to dream, if they turn their backs
+upon the wonder of the universe, the story of our race
+will be coming to an end.

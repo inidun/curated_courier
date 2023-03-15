@@ -1,0 +1,440 @@
+HURDLES IN SPACE
+BROADCASTING
+by Nicolai I. Tchistiakov
+J ust nine years have elaps¬
+ed since the launching of
+Sputnik 1. In these few years, with
+much intensive work, the foundations
+for the use of satellites for communi¬
+cation, and particularly for radio and
+television, have been firmly laid.
+Broadcasting was part of the earliest
+probes into space. Conversations
+with Yuri Gagarin during man's first
+orbital flight were transmitted through
+the broadcasting system of the
+U.S.S.R. in April 1961. In August of
+the same year the Soviet television au¬
+dience had its first view of a cosmo¬
+naut in space flight. By 1964 television
+viewers were shown not only the
+inside of the cabin, but also the view
+of Earth from space. In 1965 they
+watched cosmonaut Alexei Leonov take
+the first walk in space.
+With improvements in technology
+came the satellites Telstar and Relay,
+launched by the United States in 1962
+and 1963, which made possible for the
+first time short, experimental television
+transmissions over very long distances.
+In 1964, Syncom and Early Bird, in
+synchronous orbit, realized television
+transmission for long periods, includ¬
+ing the broadcast of the Olympic
+Games from Japan.
+In April 1965, the Soviet satellite
+Molniya 1 ("lightning") was launched
+on an elliptical orbit with its apogee
+in the northern hemisphere at a height
+of 40,000 km (25,000 miles). The
+period of orbiting is 12 hours, and
+Molniya 1 makes one circuit over the
+U.S.S.R. and a following one over
+North America. A 40-watt active
+relaying apparatus on board, with two
+spares, made possible the first regular
+television transmissions between the
+western U.S.S.R. and its far eastern
+lands for periods of from eight to
+nine hours.
+In October 1965, the launching of
+Molniya II further increased the possi¬
+bilities of television transmission
+throughout the eastern part of the
+U.S.S.R. On October 17, for instance,
+30
+NICOLAI I. TCHISTIAKOV is Professor of
+Radio Techniques at the Institute of Tele¬
+communications in Moscow. He took part
+in the Unesco meeting on the use of space
+communication by the mass media, in
+December 1965.
+Soviet television viewers on the Pacific
+coast were able to see the Denmark-
+U.S.S.R. football match being played
+in Copenhagen.
+In November 1965 the first success¬
+ful experimental transmissions of col¬
+our television from the U.S.S.R. to
+France were carried out via Molniya I.
+The successful experiments with
+communication satellites by the U.S.A.
+and the U.S.S.R. show that they have
+an Important role to play in the devel¬
+opment of broadcasting. Comparisons
+are now possible between various
+types of orbits. In the use of satellites,
+the main emphasis is on the transmis¬
+sion of television programmes.
+Without using satellites, the long
+distance transmission of radio broad¬
+casts has not been difficult or expen¬
+sive, and improvements in shortwave,
+radio relay and cables offer continual¬
+ly the possibility of further progress.
+Sound broadcasts are recorded and
+transmitted swiftly, and possibly will
+be sent by supersonic rocket in the
+near future.
+Copying television programmes and
+transmitting significant news events
+present greater problems. This calls
+for broad band channels such as
+coaxial cables, wave guides, micro¬
+wave relay lines and communications
+satellites. We are aware of limitations
+of the present stage of development.
+Experience suggests two types of
+communications satellites as best for
+broadcasting systems: Satellites on
+synchronous equatorial orbits (see
+drawing page 29), such as Syncom 2,
+and satellites on stretched inclined
+elliptical orbits, providing long conti¬
+nuous transmission periods, such as
+Molniya 1. The problem now is to
+improve the power sources, stability,
+reliability and life of the equipment on
+board the satellite. The launching by
+the U.S.S.R. of a satellite equipped
+with an electrical battery with radio¬
+isotopes suggests one possible solu¬
+tion.
+These are some of the advantages
+of the synchronous satellite :
+no time limit for transmission,
+a minimum number of satellites in
+orbit for global communication,
+comparatively simple construction
+of ground antenna, driving servo-
+mechanisms for the antenna and com¬
+puter control devices,
+remoteness of satellites from the
+effects of belts of intensive cosmic
+radiation,
+M stability of received signals,
+absence of distortion from Doppler
+effect,
+the "earth satellite" permits relative
+localization of the radiated wave,
+reducing interference between space
+and ground equipment.
+Among the advantages of the high
+elliptical orbit are:
+an orbit which provides optimum
+receiving conditions for the ground
+stations of a given country or territory,
+use of the same satellite for pro¬
+gramme exchange between territories
+in the eastern and western hemisphere
+with one-hop propagation,
+high signal to noise reception in the
+high latitudes where synchronous
+satellites do not provide good recep¬
+tion,
+simpler and more economic launch¬
+ing of satellites.
+It is possible that, for global com¬
+munication, a system combining both
+types of satellites will prove most
+satisfactory.
+Direct broadcasting, which would
+provide a direct signal from the satel¬
+lite transmitter to the ordinary home
+receiver, offers some apparent ad¬
+vantages. But the shortcomings are
+so numerous and important that It may
+have limited scope. However, on the
+positive side, it would not be neces¬
+sary to load national and local broad¬
+casting stations with transmissions
+from satellites, and the listeners and
+viewers would have a more varied
+choice of international programmes.
+But there is an impressive list of
+obstacles to direct broadcasting. A
+high power supply would be neces¬
+sary on the satellite, of an order not
+now technically available. Even if the
+power were available, it might not be
+practical to radiate it, since it would
+create interference with services such
+as fixed and mobile communication,
+and radar, which share frequency
+bands allocated for satellite commu¬
+nication.
+CONTINUED ON PAGE 32
+
+Television will be
+the biggest
+beneficiary from
+the revolution
+brought by
+communications
+satellites. Existing
+means of radio
+broadcasting
+are generally
+satisfactory and not
+costly. Right,
+transmitting antenna
+for world-wide
+broadcasting.
+Photo O Aart Fotograaf
+Klein. Amsterdam
+
+HURDLES IN SPACE (Continued)
+Not all eggs in one satellite
+32
+The optimal bands for transmission
+from satellites are centimetre waves,
+but ordinary receivers cannot be
+readily adapted to this band. The
+installation of a complicated and
+expensive receiving antenna by the
+ordinary set owner for proper reception
+from satellites is also not practical.
+Direct broadcasting faces further dif¬
+ficulties. With synchronous satellites
+of the "stationary" variety, the recep¬
+tion becomes worse at the boundaries
+of the region served, mainly in the
+high latitudes. Signals from the satel¬
+lite cannot be kept out of countries for
+which they are not intended. Transmis¬
+sions cannot be shifted to more con¬
+venient times for the populations of
+given territories. The sound on a tele¬
+vision transmission cannot be proces¬
+sed or changed if translation into the
+language of a given country or territory
+is desired. In areas where the tele¬
+vision standards differ from those of
+the transmission, reception would be
+impossible.
+Much further study of direct broad¬
+casting will be required, in the event
+that countries reach agreements for
+its use.
+Broadcasting with retranslation is
+the system in which television and
+sound broadcasts are received from
+the satellite by the national ground
+station and then retransmitted to the
+individual home receiver via national
+broadcasting stations. The advantages
+of this system are numerous. Pro¬
+grammes can be received on portable
+transistor radio and television receiv¬
+ers. Optimal frequencies in the "sat¬
+ellite-Earth" channel can be used,
+Independent of the bands of ordinary
+receivers.
+For television, standards can be co¬
+ordinated with the standards in each
+country. The schedule for international
+broadcasts can be co-ordinated with
+national broadcast schedules and for
+the convenience of the people. Pro¬
+grammes can be recorded or taped at
+the receiving stations for broadcast at
+a more convenient time. Stable types
+of modulation and of signal processing
+can be used in the "Earth-satellite-
+Earth" channel for noise resisting
+reception and for narrowing of the
+occupied frequency band.
+For broadcasting by retranslation by
+synchronous satellite, the ground sta¬
+tion can be located at a comparatively
+low latitude where, for the given
+country, optimal reception conditions
+exist. In the use of satellites with
+elongated elliptical orbits, it is pos¬
+sible to switch from one satellite to
+another without programme interrup¬
+tion. Also, it is possible to reduce
+interference from satellite radiation to
+ground services by decreasing the
+power of the transmitter aboard the
+satellite, by using sharply directional
+receiving antennae, or low noise am¬
+plifiers. The power plant aboard the
+transmitter can be lighter and more
+compact, with a corresponding in¬
+crease in reliability, in power conser¬
+vation, and in the life of the satellite.
+For the new art of international
+broadcasting, each country should
+first develop its national radio and
+television broadcasting system. Only
+then can it adapt its national network
+for the reception of international pro¬
+grammes. Broadcasting by retransla¬
+tion best fits this principle.
+There is no reason to believe that
+satellites will in the future be the prin¬
+cipal means for the international ex¬
+change of programmes. Other means
+such as cables and micro-wave are
+available and are being developed
+further. Micro-wave links from con¬
+tinent to continent could join together
+the various national communication
+networks to provide global networks
+of large capacity.
+here are certain services
+which require the open
+propagation of radio waves. The lo¬
+calization of radiation on the surface
+or in space is impossible, in some
+cases, or could create great difficul¬
+ties. This is true of terrestial radio¬
+location and navigational systems,
+meteorological, geophysical and navi¬
+gational satellites, communication sys¬
+tems for the flight safety of cosmo¬
+nauts, planet radiolocation, radio-
+astronomy and communication with
+observatories in open space, and the
+important mobile communication ser¬
+vice on the ground, in the air and on
+oceans .
+Development and improvement of
+mobile communication systems are
+important now and must go on in the
+future. Today there are systems for
+control of maritime, air, and other
+transport, and communications services
+for the passengers. More individual
+services will be required in the future.
+Satellites especially launched for
+the purpose may have a great role
+in mobile maritime communication ser¬
+vice.
+And so we see that satellites in
+point-to-point communication systems
+may solve the problem of a global
+communication network. However,
+they do not give us the only solution,
+nor the most realistic one.
+Satellite communication systems
+must be designed with limitations on
+their range and the duration of their
+use, with relation to the availability of
+other systems, and to economic ad¬
+vantage. This is my personal opinion,
+but I firmly believe that only by adher¬
+ing to the principle can we exclude
+the crisis in the use of frequencies
+which arose in the high frequency
+(short wave) band.
+This point of view must also be
+considered in planning the develop¬
+ment of broadcasting. The satellite
+communication channels should be
+used only when actually necessary;
+there must be economy of frequency
+channels.
+Immediate transmission is necessary
+only for actual important events, and
+that does not take much time nor
+many channels on a global scale.
+There is usually a delay in transmis¬
+sions of the principal parts of many
+broadcasting programmes, and the
+delay is often desirable because
+of zonal time differences. The
+processing of broadcast programmes
+for language differences requires a
+delay. The transcription of program¬
+mes may serve satisfactorily, as in
+the case of the 1964 Olympic Games,
+when television programmes were
+transported to Europe from the U.S.A.
+after being received from Tokyo
+through the satellite Synchron III and
+recorded on magnetic tape. They
+could have been transported directly
+from Tokyo to European central tele¬
+vision stations.
+However, such considerations do
+not mean that satellite communication
+channels will not play a great role in
+the transmission of broadcasting pro-
+grammes. Television programme
+transmission by satellite may be very
+useful for areas where the ground
+nets of multi-channel communication
+are not adequate, and for towns situat¬
+ed far from other towns across under¬
+populated and inaccessible territories.
+A global system combining the use
+of all modern means and methods
+must be designed, providing for ap¬
+proximate scheduling of the use of
+satellite channels, and it must secure
+for all parts of the world and all coun¬
+tries an equal right of participation.
+However, that enterprise would have
+to be preceded by a broad interna¬
+tional exchange of television broad¬
+casting programmes via communica¬
+tions satellites.
+In a global exchange, there must
+be an equal flow between developed
+and developing countries. Each coun¬
+try possesses invaluable treasures of
+national culture.
+Since October 5, 1957, when the
+man-made Earth satellite became a
+reality, it has been clear that all tech¬
+nical difficulties in this field may be
+overcome. But the regulation of major
+legal problems always goes slowly.
+Global broadcasting through commu¬
+nications satellites must be regulated
+by an international convention, based
+on the relevant decisions of the United
+Nations General Assembly.
+
+WORLD'S
+TALLEST
+TELEVISION
+TOWER
+Käas
+A lofty tower is now
+thrusting skyward above
+Moscow (above right). It is
+already as tall as the Eiffel
+Tower in Paris, and when
+completed in the autumn
+of 1967, its 520 metres
+(1,700 ft.) will make it the
+highest edifice in the world.
+Antenna on its summit will boost
+direct television transmissions
+from Moscow, providing good
+quality reception, without
+additional relay transmission,
+for people living up to
+150 kms. (90 miles) from the
+capital. Above, artist's sketch
+of the tower. Right, an
+impression of the base of the
+tower viewed from inside;
+giant concrete feet support
+the 26,000-ton structure.
+Photos © APN
+33

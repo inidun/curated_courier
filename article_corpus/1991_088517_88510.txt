@@ -1,0 +1,345 @@
+When mapping became a science
+by Norman J, Thrower
+Modern scientific
+cartography was
+born in eighteenth-
+century Europe
+D,
+Above, frontispiece of the 4th
+edition (Amsterdam, 1619) of
+the Atlas of Gerard Mercator
+(Gerard de Cremer). Mercator
+Is shown at left and the
+geographer Jodocus Hondius
+at right.
+'URING the eighteenth century, France
+became the leader in topographic or general map¬
+ping. The foundations of this achievement were
+laid in the preceding century when the
+astronomer Giovanni Domenico Cassini
+(1625-1712) came from Bologna to the newly-
+founded Paris Observatory. Through Cassini and
+his successors France became the first country to
+produce a detailed and accurate map of its national
+territory in multiple sheets, based on triangula¬
+tion, and using uniform symbols for roads, set¬
+tlements, forests, rivers, and other features. A first
+step was the accurate measurement of the length
+of a degreeof latitude near Paris where mapping
+was begun.
+After the death of his father, the survey of
+France was continued by Jacques Cassini
+(1677-1756) under whose direction the triangu¬
+lation network was greatly extended. In this work
+the second Cassini was assisted by his son, César
+François (1714-1784) who carried the
+topographical mapping of France to virtual com¬
+pletion following his father's death. A few sheets
+not finished by the third Cassini before his death
+were completed by his son Jacques-Dominique,
+comte de Cassini (1748-1845). Thus it took the
+dedicated work of four generations of the Cas¬
+sini family over more than a century to produce
+the 182 map sheets on the large scale of 1:86,400
+which constituted the first true, topographic map
+of a country.
+A topographic survey of Britain (Ordnance
+Survey) was begun in 1783 under the direction
+of General William Roy (1726-1790). The French
+and British triangulation networks, which are
+fundamental to this type of mapping, were con¬
+nected across the Channel in 1789. The value of
+topographic mapping was quickly appreciated by
+many rulers and administrators who introduced
+the new survey in their realms. For example,
+topographical mapping on the European model
+was shortly initiated in Bengal, which led to the
+Great Trigonometrical Survey of India.
+Geodesy
+and thematic maps
+If more accurate maps of world or continental
+areas were to be made, knowledge of the shape
+of the Earth was necessary. As a result of the
+French topographic survey doubts had been
+raised about this. Isaac Newton (1642-1727) had 31
+
+Measuring longitude. Detall of
+an Illuminated manuscript of
+the French mariner Jacques
+de Vaulx's treatise on
+hydrography (1583). The
+Illustration shows the Sun,
+Moon, and stars useful to
+navigators.
+32
+postulated from the behaviour of the pendulum
+at different latitudes that the Earth was a spheroid
+flattened at the poles. Measurements taken on the
+equator and in the high northern latitudes by
+French scientists during the 1740s affirmed the
+general correctness of Newton's hypothesis.
+In his great work the Principia, Newton exa¬
+mined many fundamental problems of physical
+science and numerous mappable phenomena.
+This work was promoted by Newton's younger
+contemporary, Edmond Halley (1656-1742), who
+made signal contributions to cartography,
+including thematic or special-purpose maps.
+During a year spent on St. Helena, Halley
+prepared, and soon published, a southern
+hemisphere star chart, and a terrestrial map which
+has been called "the first meteorological [really
+climatological] chart"of the trade and monsoon
+winds. After two years at sea in the Atlantic on
+a scientific voyage Halley also published in 1701
+the first printed, isogonic map, i.e. a chart of mag¬
+netic variation. Shortly after this he published a
+map of the variable heights of tides in the English
+Channel. Later, in 1715, Halley made a map of
+the shadow of the eclipse over England in that
+year, before the event it depicted. Halley became
+Astronomer Royal at Greenwich Observatory in
+1720, in which capacity he conducted investiga¬
+tions into the problem of finding longitude at sea,
+on the nature of the core of the Earth and other
+geophysical phenomena.
+Nautical charts,
+longitude and the chronometer
+As in the case of topographic mapping, the
+French were the early leaders in scientific coastal
+charting. The accurate mapping of the shorelines
+of France led to the establishment of an official
+hydrographie office in the country in 1720. In
+Britain, much coastal surveying was at first
+unofficial or quasi-official, with the East India
+Company playing a prominent role in producing
+nautical charts of overseas areas before the
+founding of the British Hydrographie Office in
+1795. During the eighteenth century, the maritime
+nations of the world charted many coastal areas
+of special interest to them.
+Determination of latitude both on land and
+at sea could be accomplished with considerable
+accuracy from a fairly early date. This was made
+possible by the use of a variety of instruments
+such as quadrants and sextants which were
+improved after telescopic sights were fitted to
+them. Longitude measurement on land was
+feasible by astronomical means provided the
+observer had appropriate tables and referred to
+a specific prime meridian. There is a natural
+Chart of magnetic variation
+was drawn by the English
+astronomer Edmond Halley In
+1700 and corrected In 1756
+by William Mountalne and
+James Dodson.
+
+starting-point for latitude: 0° latitude equals the
+equatorequidistant from the poles. By contrast,
+the origin of a system of longitude is quite
+arbitrary.
+Through the centuries a number of prime
+meridians have been used and in the eighteenth
+century a line running through the Observatory
+in Paris or Greenwich Observatory was gener¬
+ally employed. The problem of finding the lon¬
+gitude of a place is basically simple since 15° of
+longitude equals one hour of time. Therefore, one
+needs only to know the time at a chosen prime
+meridian and the local time, wherever the
+observer might be. But at sea the unstable deck
+of a ship made impossible the necessary observa¬
+tion, or the use of a pendulum clock. The
+problem was solved only after the invention of
+the marine chronometer by John Harrison
+(1693-1776), an English artisan, in the second half
+of the eighteenth century.
+Captain James Cook (1728-1779), a trained
+marine surveyor who charted much of the
+world's unexplored coastline, took two chronom¬
+eters on his second Pacific voyage (1772-1775).
+One of these was set for Greenwich time and one
+adjusted to local time with which he was able to
+determine longitude at sea with great accuracy.
+Cook's and other voyages also disproved the age-
+old idea of balancing continents, with equal land
+masses in the northern and southern hemispheres.
+They revealed that the southern hemisphere is
+predominantly water-covered, and that most of
+the land is in the northern hemisphere.
+Except in relatively shallow waters, the con¬
+figuration of the ocean floor remained unknown.
+However, Nicholas Cruquius (1678-1758) pub¬
+lished an isobathic (depth) chart of a distributary
+of the Rhine in 1729 and Philippe Buache
+(1700-1773) one of the Channel in 1732.
+Other developments in the eighteenth cen¬
+tury included the invention of several ingenious
+map projections. The Swiss/German mathema¬
+tician Johann H. Lambert (1728-1777) con¬
+tributed more than any other individual in this
+\m;ii
+Cadastral map showing land
+use in the village of Banhars,
+Aveyron (France, 1807).
+Detail of an Isobathic chart of
+the river Meuse by Nicholas
+Cruquius (1729).
+fieldthe conic equal area, conic conformai,
+cylindrical equal area, azimuthal equal area, and
+the transverse Mercator projections all being
+attributed to him. A tradition of globe making
+established by the Venetian, Vincenzo Coronelli
+(1650-1718), continued during the eighteenth cen¬
+tury with celestial and terrestrial globes of
+different sizes and for different purposes being
+produced in a number of centres.
+The nineteenth century:
+expansion, consolidation and diversity
+The story of mapping in the nineteenth century
+begins when Alexander von Humboldt
+(1769-1859) landed in South America. Early in the
+year 1800 Humboldt made a reconnaissance map,
+based on his own explorations, of the drainage
+between the Orinoco and Amazon river basins.
+He then travelled in the Andes before arriving
+in New Spain (Mexico) in 1803. During a year
+spent in the area he compiled a map of that large
+colony which served as a model for similar maps
+of other continental interiorsAfrica, Asia,
+North and South America and Australiaas
+explorers from many countries provided the
+necessary data. It would be many years before
+these surveys were superseded.
+Meanwhile, the coastlines of the continents
+and islands continued to be charted, as, for
+example, in Matthew Flinders' (1774-1814) map¬
+ping of the Australian coasts. Occasionally a great
+breakthrough was made, as with the work of the
+American, Matthew Fontaine Maury (1806-1873).
+Following his appointment in 1842 as Superin¬
+tendent of the Depot of Charts (later divided
+between the United States National Observatory
+and the Hydrographie Office) in Washington,
+Maury devised maps showing the quickest pas¬
+sages for sailing ships between specific ports based 33
+
+on winds, currents, etc. These routes were not
+normally great circles (the shortest distance
+between two points on the globe). Many lives
+were saved by Maury's work before steamships
+superseded sailing vessels in the second half of the
+nineteenth century.
+Climatic maps became more common as offi¬
+cial weather stations were established. A wind
+scale which bears his name was devised by Francis
+Beaufort (1774-1857), head of the British Hydro-
+graphic Office, and is still in use. For a short time,
+Washington, D.C. was used as a prime meridian
+on maps of the United States. But as the result
+of an international conference held in
+Washington in 1884, the problem of a universally
+recognized prime meridian (0° longitude) was
+resolved when Greenwich (UK), was selected. A
+great advantage of this is that the antipodal inter¬
+national date line (180° longitude) runs essentially
+through oceanic areas.
+Cadastral and geological mapping
+An extremely ancient genre in cartography is the
+cadastral map, which is concerned with land
+ownership and taxation. Over most of the world
+unsystematic land subdivision by metes and
+bounds has been used. In a few areas, notably in
+the western two-thirds of the United States,
+cardinally-oriented, systematic, rectilinear surveys
+were required. This resulted in a great flurry of
+surveying and mapping activity as settlers
+clamoured for land in the nineteenth century.
+Similar rectilinear surveys were undertaken in
+western Canada and some other more recently
+settled, primarily agricultural areas of the world.
+Economic exploitation of the land in the
+nineteenth century also led to the development
+of geological mapping. The father of geological
+mapping is William Smith (1769-1839), who pub¬
+lished his map "The Strata of England" in 1815
+after nearly a quarter of a century of research.
+Soon European scientists not only mapped their
+own countries geologically, but were employed
+in this work in Russia and elsewhere. In the
+United States, geological mapping began in the
+eastern states but it was in the west, in the second
+half of the nineteenth century, that it came into
+its own. So important was this activity considered
+to be that when the United States established its
+primary topographic mapping agency in 1879, it
+was designated the United States Geological
+Survey (USGS). This is in contrast to earlier
+topographical surveys which had a geographical
+or military foundation.
+Censuses and thematic mapping
+The holding of regular censuses as we know them
+began in Sweden in 1749, in the United States in
+1790, and in Britain in 1801. Other countries soon
+followed so that in the nineteenth century a great
+mass of statistical data became available for map-
+34 ping. This included not only population but
+education, crime, disease and other phenomena.
+Henry Drury Harness, a pioneer in this field
+employed by the Irish Railway Commission,
+published in 1837 a series of highly original
+thematic maps in which several quantitative tech¬
+niques now employed in small-scale mapping
+were used to show population density and traffic
+flow. In 1855, Dr. John Snow (1813-1858) used
+uniform symbols to show deaths from cholera
+in London and thus identified a lethal water
+pump in that city.
+Atlases, globes and projections
+Much of the geographical knowledge of the
+period was disseminated and popularized through
+atlases, which were produced in increasing
+numbers in the nineteenth century. The inven¬
+tion of lithography, which gradually replaced the
+earlier copperplate and even earlier wood
+engraving, facilitated the production of atlases.
+Approximately 4,000 county cadastral atlases
+were produced in the United States in the
+nineteenth century. Some state and provincial
+atlases were published and the first true national
+atlasthat of Finland in 1899. Globes of many
+sizes continued to be produced, including giant
+spheres which were a feature of the expositions
+that characterized the nineteenth century.
+Among the new projections which were devised
+in this period were the Albers conic, Molleweide
+(homolographic) named for their inventors, and
+the Polyconic invented by Ferdinand Hassler.
+These projections remain popular today.
+II
+M
+.»
+Terrestrial and celestial globe
+made In 1786 for Louis XVI of
+France by Edme Mantelle.
+NORMAN J.W. THROWER,
+of the United States, is
+professor of geography at the
+University of California, Los
+Angeles, and has been
+appointed director of the
+University's 1992 Columbus
+Quincentenary Programs.
+Trained in geography and the
+history of science, he is the
+author of many scholarly
+articles and books. He has
+recently edited a series of
+essays, On the Shoulders of
+Giants: Newton and Halley,
+1686-1986 (1990), and is co¬
+author of A Buccaneers Sea
+Atlas: The 1 680 Waggoner of
+Basil Ringrose, which will be
+published later this year.

@@ -1,0 +1,219 @@
+IS RADIO-ACTIVITY IN THE AIR
+A NEW THREAT TO OUR HEALTH?
+by Dr. N.G. Stewart
+Head of Health and Safety, U.K. Atomic Energy Authority,
+Dounreay Experimental Reactor Establishment, Scotland
+Measurements of the natural radio-activity in the
+atmosphere were first made more than fifty years
+ago and several scientific papers were published
+between 1903 and 1908. The subject then lay dormant
+for some time but with the development of nuclear power
+and the testing of nuclear weapons, interest has revived
+in recent years and a world-wide programme of
+measurement of atmospheric radio-activity both natural
+and man-made was undertaken during the Interna¬
+tional Geophysical Year.
+One . very important feature of radio-activity in the
+atmosphere is that, in contrast with some other forms
+of atmospheric pollution, maximum permissible concen¬
+trations (M.P.C.) have been laid down for all the
+important radio-active isotopes by the International
+Commission on Radiological Protection (I.C.R.P.) which
+keeps these figures under constant review. A maximum
+permissible concentration is defined as that which, in
+the light of present knowledge, is not expected to cause
+appreciable bodily injury to a person continuously exposed
+to that concentration throughout his lifetime.
+At the present time there are three principal sources
+of radio-activity in the atmosphere:
+naturally occuring radio-activity,
+radio-activity from atomic energy installations,
+radio-activity from atomic test explosions.
+The radio-active elements naturally present in air fall
+into two main groups light elements and heavy
+elements and each has its own distinctive origin.
+The lighter elements such as tritium, much publicized
+as a component of the H-bomb, and carbon 14, used in
+radio-carbon dating, are formed continuously by the
+action of fast cosmic rays from outer space on air
+molecules. The total amount of each present in the
+universe is very nearly constant, having built up to an
+"equilibrium" value where the number of new atoms
+created per unit time is balanced by the number which
+disappear by radio-active decay. The concentrations in
+ground-level air are small and the highest standards of
+radio-chemical analysis and measuring techniques are
+required for their evaluation.
+Miners' deaths from 'mountain sickness'
+caused by deadly underground air
+The bulk of the natural radio-active content of the
+lower atmosphere is due to the heavy gas radon and
+its daughter products. Radon is one of the elements
+formed by the radio-active decay of uranium which is
+present in greater or lesser degree in rocks and soils all
+over the world. Being a gas, radon can escape from the
+earth's crust into the atmosphere where it disintegrates
+radio-actively to form a chain of seven daughter products
+each of which is produced by the disintegration of the
+preceding one, the final element being lead which is stable.
+These daughter products, being solids, are ultimately
+Washed out of atmosphere by rain after an average
+residence time of about ten days.
+In average meteorological conditions, the radon escaping
+from the earth's surface rapidly diffuses upwards due to
+the natural turbulence of the atmosphere. When the air
+is relatively still, as on clear evenings, the rate of upward
+diffusion can be very low so that the radon accumulates
+and high concentrations build up in ground level air.
+Thus near Harwell, England (site of the main U.K. Ato¬
+mic Research Centre) although the mean concentration
+of radon in air was less than .06 per cent of the M.P.C.
+for occupational workers as defined by the International
+Commission on Radiological Protection, peaks of up to
+15 times this mean level have been observed in stable
+atmospheres. Similar concentrations have been observed
+in other parts of the United Kingdom but on the average
+it appears that the natural radon content of the air in
+the United Kingdom is at a very safe level.
+Higher values are to be expected in countries where the
+uranium content of rocks and soils are high. Thus in
+Sweden, where building bricks contain more natural
+uranium than those used in the United Kingdom, high
+concentrations of radon have been observed in badly
+ventilated rooms in some houses. The biggest problem
+of all is, naturally, in uranium mines where very efficient
+ventilating systems are now used to maintain the radon
+in air at a low level. Years ago, before adequate venti¬
+lation was introduced, many uranium miners died in
+middle-age from a respiratory disease which they called
+"mountain-sickness" but which is now known to have
+been cancer of the lung almost certainly due to the high
+radon content of the air in the mines where they worked.
+Hazards from radio-active grass,
+eaten by cows & passed into milk
+Most industries have to dispose of some waste products
+by discharging them into the atmosphere through
+chimney stacks. In the United Kingdom, the
+Atomic Energy Authority has had to face the same problem
+but, under the terms of the Atomic' Energy Act, 1954, the
+amounts discharged have to be authorized jointly by
+appointed Government Ministries who maintain an
+inspection system to ensure that the permitted levels are
+not exceeded.
+Similar controlling arrangements exist in most coun¬
+tries. In fixing a permissible discharge rate, the
+controlling authorities will have in mind the appropriate
+recommendations of the I.C.R.P. which will specify the
+maximum permissible concentration at ground level. To
+translate this into a maximum permissible discharge rate
+presents a complex problem which is best solved
+experimentally. Thus at Harwell an intensive programme
+of observation was carried out on the spread of the radio¬
+active gas (argon 41) which is discharged from the
+chimney of the Bepo reactor. These experiments not
+only confirmed that the mean concentration of A-41 at
+ground level was less than 1% of the Maximum
+Permissible Concentration but provided systematic data
+which have been applied to specifying the maximum
+permissible discharge rates from similar stacks elsewhere.
+In many cases, however, the limiting hazard is not due
+to the radio-activity suspended in the air but to that
+fraction of it which is deposited on grass, eaten by cows
+and passed into milk which is subsequently consumed by
+human beings. This is the case with the
+biologically important radio-active isotopes
+iodine 131 and strontium 90. Typical
+questions which must be answered before
+permissible discharge rates can be defined
+for such isotopes are, for example,
+Cont'd
+next page
+13
+
+IS RADIO-ACTIVITY
+IN THE AIR A NEW
+THREAT TO HEALTH?
+(Continued)
+(i) how much of the iodine 131 in air is deposited on
+grass in dry and wet, calm and windy Weather.
+(il) what concentration of 1-131 appears in milk as a
+result of a given level on grass.
+In past years the answers to these questions were not
+known and discharge rates were estimated on an
+extremely conservative basis. Now, as a result of
+systematically surveying the biological environment of
+nuclear Installations and of exploiting all events in
+which radio-activity has been released into the atmo¬
+sphere, information is being gathered which allows more
+realistic estimates to be made.
+Examples of such work are the surveys made in the
+United States in the environment of the chemical
+processing plant at Hanford and the extensive surveys
+carried out in the United Kingdom after the reactor
+accident at Windscale which caused a large amount of
+iodine 131 to be released into the atmosphere. The
+Windscale accident illustrates a point made earlier in
+that the airborne iodine 131 gave rise to no significant
+direct hazard in the cities over which the radio-active
+cloud passed but the agricultural hazard led to restrictions
+in milk consumption over an area of 200 square miles.
+The dust particles from nuclear test explosions contain
+fission products which consist of a large number of
+different radio-active isotopes. In the air above the
+United Kingdom the average airborne activity from tests
+since 1952 has been less than 1% of the natural activity
+of the radon daughter products Which indicates that this
+is not a significant problem in Western Europe at least.
+The main hazard from the dust arises from the strontium
+90 component after it has been deposited on grass and
+transmitted into milk.
+The amount of strontium 90 deposited in the successive
+years since 1954 has been fairly constant and the current
+level in children's bones is about 1 strontium unit (S.U.).
+On this scale the maximum permissible level for
+occupational workers is 1,000 S.U. and for members of the
+general public 100 S.U. The Medical Research Council
+of the United Kingdom in their 1956 report on radiation
+hazards accepted these figures but added that immediate
+consideration would be required if the concentration in
+human bones showed signs of rising greatly above 10 S.U.
+It will be seen that the present amount in children's
+bones is considerably below these levels.
+Atomic dust clouds float to earth
+for years after weapons' tests
+World-wide surveys of strontium 90 have revealed
+some interesting features of the diffusion and
+deposition of the dust clouds from weapon tests. It
+has been shown that most of the strontium 90 deposited is
+derived from the large scale thermonuclear explosion
+whose clouds enter the stratosphere and return to earth
+slowly over a number of years. Thus strontium 90 will
+continue to be deposited for some years after the cessation
+of all nuclear tests. The rate at which the dust re-enters
+the lower atmosphere is not constant but varies seasonally,
+with peaks in the late spring and troughs in the late
+autumn of each year. The deposition rate varies markedly
+with latitude; the highest rate occurs in the middle
+latitudes of the northern hemisphere and relatively little
+is deposited in equatorial regions. These data are of great
+meteorological interest and contribute to an under¬
+standing of the general circulation of the atmosphere.
+The need for controlling radio-active contamination of
+the atmosphere is widely recognized and was one of the
+concerns of the United Nations Scientific Committee on
+the Effects of Atomic Radiation whose report was
+published in 1958. If nuclear power is to be developed in
+the interests of a developing civilization, a balance must
+.be struck between the hazard to populations of discharging
+low-activity wastes into the atmosphere (or ocean) and
+the high costs of processing and storing them. In
+striking this balance and in planning to protect popu¬
+lations from the effects of reactor accidents, however
+unlikely these may be, there is a continuing need for
+experimental study of the relationship between man and
+the .radio-activity in his environment.
+Photos Courtesy A.J. Haagen-Smit
+How modern smoke prevention methods can reduce air pollution. Photo left shows an old type of flare for the disposal of waste
+gases from a refinery. Note the dense black smoke. Right, smoke has been almost entirely eliminated by adoption of a new type
+of flare. In addition to causing pollution, industrial smoke spells wasted money for it denotes incomplete combustion of fuel.
+14

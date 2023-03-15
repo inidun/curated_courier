@@ -1,0 +1,363 @@
+The birth and death
+cOSMOLOGISTS today stand on the edge of
+being able to answer the age-old question of the
+philosopherswhere do we come from, and
+where are we going? Even many non-scientists
+are familiar with the term "Big Bang" to describe
+the birth of the universe in a ball of fire some
+15 billion years ago. But even some scientists are
+not aware of new ideas in cosmology which link
+this birth of the universe to its ultimate death,
+in a self-contained description that owes much
+to a marriage between the two great achievements
+of twentieth-century physics, general relativity
+and quantum theory. Researchers such as Jayant
+Narlikar, in India, and Jim Hartle, in California,
+as well as several Soviet experts, have been closely
+involved in this work. But the man whose name
+is most intimately linked with this breakthrough
+is Stephen Hawking, of the University of Cam¬
+bridge in England.
+Hawking is well-known today as the author
+of a best-selling book about the nature of time,*
+and as the victim of a crippling disease that leaves
+him confined to a wheelchair and able to com¬
+municate only by laboriously spelling out words
+and phrases using movements of one hand to
+direct the output of a small computer. But long
+before he achieved such popular fame Hawking
+was recognized by his scientific peers as one of
+the most original, and able, thinkers of his gener¬
+ation. For twenty years, his studies have concen¬
+trated on the puzzle of what happens to matter
+at a singularitythe point of infinite density and
+zero volume that lies, according to relativity the¬
+ory, at the heart of a black hole, or at the begin¬
+ning of the universe.
+The universe itself is, in fact, described by the
+same equations that describe a black hole. A black
+hole is a region where there is such a concentra¬
+tion of matter that the gravitational pull it
+produces is so strong that not even light can
+escape from its surface. Nothing from inside a
+black hole can affect the outside world, although
+objects from outside may fall in. Such a black hole
+may be produced when a star rather more massive
+than our own sun comes to the end of its life,
+and shrinks inward. The equations of general rela¬
+tivity show that any star that shrinks inside a
+black hole must, indeed, collapse all the way to
+a singularity.
+Scientists are suspicious of singularities, and
+* A Brief History of Time: From the Big Bang to Black
+Holes, by Stephen W. Hawking. Bantam Press, Transworld
+Publishers, London and New York, 1988.
+
+BY JOHN GRIBBIN
+of equations that contain infinities; they usually
+regard any indication that they exist as a sign that
+something is wrong with the equations. But
+general relativity passes every other test with fly¬
+ing colours; and since the singularities predicted
+by the equations lie only in the hearts of black
+holes, where they can never be seen, the idea was,
+reluctantly, accepted. Hawking put the cat among
+the pigeons by showing, just over twenty years
+ago, that the same equations that require collaps¬
+ing stars to form singularities also require that the
+expanding universe was born from a singularity.
+Reversing
+the direction of time
+We know that the universe is expanding because
+distant galaxies are observed to be moving away
+from us, with velocities proportional to their dis¬
+tance. This does not mean that our Milky Way
+Galaxy is at the centre of the universe, since such
+a pattern of recession, with velocity proportional
+to distance, is exactly what you would see from
+any point within a uniformly expanding universe.
+This discovery, dating back to the 1920s, is one
+of the key ingredients in the concept of the Big
+Bang, that the universe used to be in a superdense,
+superhot state, from which it has been expand¬
+ing for about 15 billion years.
+Just by imagining the expansion reversed, it
+is clear that long ago the galaxies were closer
+together, and that even longer ago all the stars
+in all the galaxies must have been merged in one
+hot lump. But nobody seriously suggested that
+the expansion could be "wound back" all the way
+to a singularity, until Hawking proved that by
+reversing the direction of time in the equations
+which require collapsing stars to form singulari¬
+ties you obtain equations which require that the
+expanding universe started from a singularity.
+Unlike the singularity in a black hole, the sin¬
+gularity at the birth of the universe is, in a sense,
+open to view. But since it is 15 billion years away
+from us in time, physicists were still not too wor¬
+ried about this flaw in their equations. Worse,
+though, was to come.
+Black holes
+In the 1970s, Hawking turned his attention to the
+behaviour of black holes themselves. He realized
+that there is a profound connection between the
+description of a black hole in terms of general
+relativity and both thermodynamics and quantum
+
+PRECEDING PAGES
+Nebulae are huge clouds of
+gas and dust that swirl
+through interstellar space.
+Left-hand page: the Crab
+Nebula in the constellation
+Taurus.
+Right-hand page: the Orion
+Nebula.
+"Interstellar Portal", oil on
+canvas, by the
+contemporary Italian
+painter Luigi Crippa.
+theory. In so doing, he linked the greatest de¬
+velopments of twentieth-century physics with the
+greatest achievement of nineteenth-century phys¬
+ics. But at the cost of exposing the singularities
+inside black holes to the outside world.
+It works like this. There is a sharp "edge"
+to a black hole, called an event horizon. Anything
+inside the event horizon is trapped, and can never
+escape. Anything outside can, if it has enough
+speed, escape from the gravitational clutches of
+the hole. The area of this surface around the black
+hole, the area of the event horizon, represents its
+size, and is, of course, related to how much mass
+is inside.
+Quantum theory comes into the story because
+of a property known as uncertainty, which is at
+the heart of the quantum world. In that world,
+"uncertainty" has a very precise meaning. Quan¬
+tum physics describes the behaviour of particles
+like electrons, on scales smaller than atoms. At
+this level, nothing is certain. A quantum particle,
+for example, does not have both a precisely defined
+position and a precisely defined momentum at the
+38
+same time. In everyday language, the particle
+either knows where it is going or where it is now,
+but not both at once. Unfortunately, there is no
+space here to go into all the fascinating implica¬
+tions of this.
+A similar uncertainty applies, at the quantum
+level, to energy. In a tiny volume of empty space,
+where there ought to be nothing at all, a little
+bubble of energy is allowed to pop up, out of the
+vacuum, provided that it vanishes again within
+a very short time, a time specified by the quan¬
+tum equations. Such a short-lived energy bubble
+is called a "vacuum fluctuation". Since Einstein
+taught us that energy is equivalent to mass, this
+uncertainty energy can even be turned into a pair
+of particles, provided that they promptly vanish
+again (it has to be at least a pair of particles, be¬
+cause of other quantum rules, which I won't go
+into here).
+Bizarre though it may seem, this description
+
+
+
+of the vacuum of space as a seething maelstrom
+of particles popping into and out of existence
+every tiny fraction of a second is a cornerstone
+of modern physics. But what happens to such
+"virtual" particles when they are created along¬
+side a black hole?
+Hawking's stroke of inspiration was to
+imagine a virtual pair being produced right on
+the edge of a black hole, a miniscule distance
+above the event horizon. It is possible, just by
+chance, for one particle in the pair to be moving
+into the hole while the other moves outward. Just
+as particles can only be created in pairs, so they
+can only be destroyed in pairs. But in less time
+than it takes for the pair to annihilate, one particle
+has vanished forever into the black hole, and the
+other has escaped. The uncertainty rules seem to
+have been broken, since a particle appears to have
+been created out of nothing at all. But Hawking
+showed that the mass-energy needed to make the
+particle has come from the gravity of the black
+hole. As a result, the hole has actually lost mass
+and shrunk by a tiny amount.
+With this processHawking evaporation-
+going on all over the event horizon, a black hole
+must slowly shrink away, turning its mass into
+a flood of elementary particles. Every black hole
+has a characteristic temperature as a result (the
+link with thermodynamics), and may eventually
+shrink to the point where the event horizon dis¬
+appears and the singularity inside is exposed to
+view.
+The 'edge' of the universe
+Hard though it is for physicists to accept, as yet
+they have found no way to avoid this possibility.
+But having exposed the singularities inside black
+holes, in recent years Hawking has done his best
+to hide the singularity at the birth of the universe.
+Just as quantum physics removes the bound¬
+ary around a black hole, so, Hawking believes,
+it may remove the singularity at the beginning
+of the universe. A moment of creation, he says,
+provides an "edge" to the universe, a boundary
+in time. But:
+"When quantum mechanics is taken into
+account, there is the possibility that the singular¬
+ity may be smeared out and that space and time
+together may form a closed four-dimensional sur¬
+face without a boundary or edge, like the surface
+of the earth but with two extra dimensions. This
+would mean that the universe was completely
+self-contained and did not require any boundary
+conditions. ..there would not be any singularities
+at which the laws of physics would break down."
+The quote is from Hawking's essay "The
+Edge of Spacetime", in William Kaufmann's
+book Universe (Freeman, New York, 1985). It
+can be translated into everyday language quite
+simply.
+Hawking suggests that we think of the four
+dimensions of the universe (three of space and one
+of time) as being like the two dimensional sur¬
+face of the earth. The surface of the earth is
+
+"closed", in the sense that it has no edge which
+you can fall offthat is, it is unbounded, although
+finite in size. In order to make the analogy work,
+you have to think of all three dimensions of space
+as represented by a single line of latitude, a circle
+around the earth from east to west and back to
+its starting point. The direction of time is
+represented by lines of longitude, running from
+one pole to the other.
+The North Pole represents "time zero", in
+
+
+
+this picturethe birth of the universe in the Big
+Bang. The "line of latitude" at the pole has zero
+dimensions. As the universe expands away from
+the Big Bang, imagine successive lines of latitude
+drawn closer to the equator. As time passes (the
+distance from the North Pole increases), the lines
+are longerthat is, the universe expands. But
+there is no "edge" in time at the North Pole, any
+more than there is an "edge of the world" there.
+It is just a place from which all time directions
+happen to be "forward", just as on the surface
+of the earth all spatial directions from the North
+Pole are "south".
+So far, so good. But what happens when we
+reach the equator? Now, as we continue draw¬
+ing successive lines of latitude they get smaller,
+the "universe" shrinks, until it disappears at the
+South Pole, in a mirror image of the Big Bang
+in which it was born.
+How could this happen in the real universe,
+if we translate back from Hawking's picture? One
+possibility being entertained seriously today is
+that the entire universe may be no more, and no
+less, than a vacuum fluctuation on the grand scale.
+For most of us, imagining the creation, if only
+for a fleeting instant, of a pair of particles out of
+nothing at all is far from easy. But cosmologists,
+to paraphrase Lewis Carroll, have no trouble
+believing three impossible things before break¬
+fast. It was an American physicist, Ed Tryon,
+who pointed out that although the lifetime of a
+virtual pair of particles is limited by the amount
+"Cosmic Composition"
+(1919), oil on board on
+wooden base, by the Swiss
+artist Paul Klee (1879-1940).
+39
+
+^"S»
+1?
+n '
+a|T! '
+.-	
+40
+of mass-energy they contain, it is possible for a
+whole universe to be created, out of nothing at
+all, with zero net energy. If so, there is no con¬
+straint on its lifetime, since the quantum equa¬
+tions are always in balance.
+
+
+
+'A complete description of
+where our universe comes from
+and where it is going'
+This neat trick rests upon the way energy is
+stored in a gravitational field. This is always nega¬
+tive, in the sense that the mass-energy of a particle
+is always positive. So our 'universe might have
+been born as a tiny bubble in spacetime, contain¬
+ing the entire mass of the universe, but with this
+mass-energy balanced by the gravitational energy
+associated with that mass. The trick only works
+if there is enough mass to ensure that the universe
+itself is a kind of black hole, closed off by gravity
+from anything outside. Af first, cosmologists
+thought that such a new-born "universe" would
+collapse rather suddenly, and disappear. More
+recently, however, a theory which goes by the
+appropriate name of inflation has been developed
+and shows how such a tiny, superdense seed of
+matter would be "blown up" to produce the
+familiar Big Bang.
+And so cosmologists have their complete
+description of where our universe comes from,
+and where it is going. We do, indeed, live inside
+a gigantic black hole, containing the entire cos¬
+mos. Born out of nothing at all, as a quantum
+fluctuation of the vacuum, it has been expanding
+for 15 billion years, but at an ever-decreasing rate.
+Some time in the distant future (not for many
+more tens of billions of years) the tug of gravity
+will inevitably halt that expansion, and then put
+it into reverse. For many more tens of billions
+of years, this will have little effect on stars,
+planets, and any life forms around to puzzle over
+such matters. But eventually galaxies will merge
+together, stars will collide and be squeezed into
+an amorphous mass, and ultimately the universe
+will be snuffed out of existence, gone like any
+other fluctuation of the vacuum. The consolation,
+for anyone distressed to learn of the ephemeral
+nature of the universe, is that other universes
+must also exist in the infinity of spacetime, some
+before us, some after us, and some, in a sense,
+alongside us. Sic transit gloria mundi.
+Tracks of the stars
+around the South Pole.
+Long-exposure photo taken
+in New South Wales,
+Australia.
+JOHN GRIBBIN,
+British astrophysicist and
+writer, is the author of many
+popular science books
+including The Omega Point
+(Corgi, London, 1988) which
+discusses the ultimate fate of
+the universe, and (with
+Professor Martin Rees) Cosmic
+Coincidences (Bantam, New
+York, 1989), which looks at
+mankind's place in the
+universe. He is currently
+completing, with Kate
+Charlesworth, The Cartoon
+History of Time, which will be
+published later this year by
+Cardinal, London.

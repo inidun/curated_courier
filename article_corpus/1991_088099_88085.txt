@@ -1,0 +1,347 @@
+by Jean Matricon
+From the sundial to the atomic clock, the search for split-second accuracy
+16
+XlME is both the most familiar and the most
+elusive of concepts, yet it is one which human
+beings know that they will never fully grasp. The
+most they can hope for is to make the best use
+of the time allotted to each one of them.
+How can time be measured? Length, volume,
+mass, energyalmost all the physical values of the
+world around us submit to our manipulations.
+Time is an exception. It is impossible to cut out
+a segment of time and compare it with another
+segment taken from somewhere else. To measure
+time, we must select some other phenomenon
+which we can manipulate and which recurs in
+identical fashion. We do not measure time itself,
+but its manifestation through a physical
+phenomenon of our choice.
+As well as the inherent difficulty of meas¬
+uring time, there is another problem which stems
+
+
+
+from the ambiguity of what is being measured.
+Most of the instruments devised for this purpose
+measure intervals of time, or duration, notions
+which give a sense of the irreversibility of the
+march of time but do not enable us accurately
+to situate the chronology of events. Measuring
+time also implies situating events in relation to
+each other, in other words, dating them.
+By providing a time scale with a periodic
+return of identical situations, which can be cal¬
+culated, the time divisions offered by the cycles
+of the stars, the rhythm of the seasons, the phases
+of the Moon, and the alternance of day and night,
+enable us to establish such chronologies.
+Chronologies and calendars
+Very early on, observation of the sky, by day and
+by night, revealed the complexity of the move¬
+ment of the stars. A complete rotation of the
+Earth in relation to the pole star (a sidereal day)
+takes four minutes short of twenty-four hours.
+The Sun's leisurely visitation of the thirteen con¬
+stellations of the zodiac is completed in 365 and
+a quarter days. This movement puts the Sun a
+little more out of phase with the stars each day
+and produces a solar day of twenty-four hours.
+As for the Moon, its revolution around the Earth
+period from one new Moon to the next-
+takes about twenty-nine and a half days.
+All these data seem to have been accurately
+measured by Babylonian astronomers as early as
+1800 BC. They were used to establish a calendar
+based on a lunar month consisting sometimes of
+twenty-nine and sometimes of thirty days. Predic¬
+tion of these intervals required a remarkable
+knowledge of the apparent movements of the Sun
+and the Moon. The Egyptians, whose life was
+linked to the flooding of the Nile, opted for an
+annual calendar with a year of exactly 365 days.
+This put the calendar year out of phase with the
+solar year, and therefore with the agricultural
+(seasonal) year, by one day every four years. Thus
+the civil (calendar) year only coincided with the
+solar year once every 1,460 years!
+Almost all civilizations have based their
+calendars on either the lunar month or the solar
+year, despite the inherent difficulty that the year
+is not made up of an exact number of lunar
+months. Each civilization thus invented its own
+more or less fixed, more or less arbitrary, system
+of adjustment. This put great power into the
+hands of the religious or political hierarchy
+which took this decision. Although today these
+adjustments are no longer arbitrary, the variety
+of calendars and of cultures that they reflect
+remains.
+The role of the calendar has not changed since
+the time of its ancient origins. It is the guarantor
+of the cyclical recurrence of natural phenomena,
+such as the tides and the seasons, and of human
+events, such as religious and civil festivals. It also
+makes possible the establishment of a chronology
+attributing to each event a date and a precise posi¬
+tion in the unfolding of time. The calendar is
+undoubtedly one of the most stable and most
+specific elements of any society.
+The demands of daily religious and domestic
+life created a need for some kind of time scale
+or chronology of night and day. The Egyptians
+were skilled astronomers, and drew up a list of
+the stars that rose every day just before the Sun,
+thus signalling the final hour of night. Having
+decided, for the sake of simplicity, to allot the
+JEAN MATRICON,
+French scientist, is professor
+of physics at the University of
+Paris VII (Jussieu). As scientific
+adviser for an exhibition
+entitled L'invention du temps
+("The Invention of Time") held
+at the Cité des sciences et de
+l'industrie, La Villette, Paris, in
+1989, he wrote a catalogue
+(with Julien Roumette), which
+will be reissued in October
+1991 as Le temps et les
+hommes ("Time and Man") by
+Collection Explora, Editions
+Presses-Pocket, Paris.
+
+The Intlhuatana at the ancient
+Inca fortress city of Machu
+Picchu (Peru). A monumental
+carved rock surrounded by
+walls, doors and
+passageways, it is thought to
+have been a solar calendar.
+An early 19th-century French
+water clock or clepsydra. The
+water is contained in a drum
+divided by partitions pierced
+by small holes. It slowly flows
+through the holes, causing the
+drum to turn and descend
+between the graduated
+uprights as the 2 cords
+attached to its axis unroll.
+role of herald of the dawn to the same star for a
+period of ten days before passing it on to another,
+they drew up tables showing, for each night of the
+year, the order in which they rose, from twilight
+to dawn. Thus, for the 365 days of the year, there
+were thirty-six ten-day periods. During the short
+summer nights twelve risings of these herald stars
+could be observed and it was therefore decided
+to divide the night into twelve "hours".
+During the day, the height of the Sun and the
+shadow cast by a column, or gnomon, on a gradu¬
+ated scale was also used by the Egyptians to
+measure the passing of time. From the middle of
+the second millennium BC, we find these "solar
+rulers" indicating a division of the day into twelve
+hours. Thus the Egyptians can be said to have
+invented the twenty-four-hour day. These hours,
+however, were not all of the same length since
+days and nights vary in duration throughout the
+year.
+The most ancient sundials were Egyptian, but
+it is certain that similar devices existed very early
+on in other civilizations, notably in China,
+Babylon and pre-Columbian America. Ranging
+from a simple stick thrust vertically into the soil
+to the refined instruments by means of which,
+as late as the end of the last century, mechanical
+watches could be set by the Sun, the sundial, in
+all civilizations and at all latitudes, has proved to
+be the most reliable, the most widely accessible
+and the most accurate timekeeper.. .provided, of
+course, that the Sun shone.
+The first mechanical
+devices
+Very early in history, instruments that measured
+duration, or periods of time the start of which
+could be selected at will by the user, were to be
+found alongside chronological timekeepers. 17
+
+The oldest known water clock dates from
+1400 BC. It consisted of a cone-shaped vase
+with a hole in the bottom and with a series of
+graduated lines drawn horizontally on the inside.
+The vase was filled with water and as it slowly
+emptied the level of the remaining water indi¬
+cated the time that had elapsed since the filling
+of the vase. An immense variety of these water
+clocks, or clepsydras, were made in different
+civilizations.
+From Greco-Roman times, the technique was
+known of using the dynamic power of water to
+drive a system of gears which in turn could
+operate visual time indicators and set off sound
+signals. This tradition was perpetuated and the
+mechanisms perfected by the Arabs. In the year
+602 of the Hegira, al-Jazari described the construc¬
+tion of impressive instruments that acted both as
+clocks and as astronomical calendars.
+A huge water-powered astronomical clock,
+housed in a twelve-metre-high tower, was built
+and perfected in China in 1094 by Su Song. Only
+a written description of this clock has survived.
+Telling the time
+Since machines for telling the time were made,
+there must have been a need for them. In the
+Middle Ages, the great majority of the world's
+population were peasant farmers, and the time
+indicated by the Sun in the heavens was adequate
+for agricultural purposes. Accurate knowledge of
+the time of day was, however, a necessity of
+Muslim calendar in wood
+(41 x 28 cm) from Benin.
+The circles on the upper part
+represent the days of
+the week and important times
+of the day; those on the
+lower part represent the days
+of the lunar year.
+; ü so©*
+s ? <-s : g s*e
+18
+?' Í>c '¡'f ""r -««
+*>3fcMJ	i	-
+L»- 0-**	--1* ;; i»u..kyl^(
+g
+
+religious life, and for both Muslims and Chris¬
+tians the hour of prayer had to be scrupulously
+and accurately observed. Others who needed to
+know the time of day included astronomers and
+astrologers who, though few in number, were in
+all countries close to the centre of power. In the
+Islamic world and other places where the climate
+made the use of sundials or water clocks feasible,
+these needs were met. This was not always the
+case in regions such as northern Europe where
+the Sun is often hidden by clouds, the days are
+short in winter, and water is liable to freeze.
+During the eleventh and twelfth centuries, a
+new form of urban life developed in Europe.
+Banks and industry came into being and crafts
+flourished. These activities brought with them the
+need for more precise and permanently available
+means of telling the time. The old instruments
+were unsatisfactory, and by the end of the thir¬
+teenth century the time was ripe for the inven¬
+tion of the mechanical clock operated by weights
+and pendulums. The appearance of these devices
+marks one of the great turning points in the his¬
+tory of science and technology.
+The earliest clocks were neither accurate nor
+reliable, but the method of measuring time that
+they introduced, which was independent of the
+stars or the elements and a pure product of
+human ingenuity, was to revolutionize our ways
+of life. Advancing to the rhythm of the pen¬
+dulum, the new instruments would lead the way
+to the technological and industrial civilization we
+know today.
+From the thirteenth to the twentieth century,
+in response to increasingly stringent demands,
+mechanical clocks were constantly improved and
+became more accurate, more reliable, smaller and
+A modern Nepalese calendar.
+*-'
+
+less costly. The first clocks took as long as a year
+to make, could easily gain or lose an hour a day,
+and lasted only about ten years, whereas the best
+mechanical marine chronometers made in the
+nineteenth century were accurate to within a
+tenth of a second a day and are still working as
+well as ever.
+Universal time
+Until the last century few people travelled and
+those who did travelled slowly. Each town and
+village lived by its own time as registered by its
+own sundial, which was more accurate than any
+mechanical clock. All this changed with the
+coming of the railway and the telegraph, which
+gradually drew all the cities of the world into a
+single network and obliged them to agree upon
+a coherent time system.
+An international system of time zones, under
+which the hour in each zone differs whilst
+Bronze pins from the
+Mesopotamian site of Susa
+(3rd-4th century BC) being
+analysed by ultraviolet
+spectrometry. The pins can be
+dated by measuring the
+radiation given off after they
+are heated by the electrical
+arc, and comparing It with
+that of control objects.
+minutes and seconds are synchronized with
+Universal Time (mean solar time at the Green¬
+wich meridian), was proposed in 1885 and in less
+than thirty years had been adopted worldwide.
+Synchronization was initially regulated by tele¬
+graph, but today satellites, accurate to a millionth
+of a second, have taken over the task.
+Quartz and caesium clocks
+Since the seventeenth century all mechanical
+clocks have been regulated by the oscillation of
+a pendulum or of a balance-wheel connected to
+a spiral hair-spring. Until the twentieth century
+no more accurate form of oscillator was known.
+In 1928, however, following the discovery that
+the mechanical vibration of a quartz crystal is
+accompanied by electrical oscillation, the possi¬
+bility was envisaged of replacing the old balance-
+wheels by suitably cut crystals.
+The first quartz-crystal clock was cumber¬
+some and only moderately accurate. Sixty years
+later, thanks to advances in electronics, cheap
+quartz watches can be more accurate than the
+finest mechanical observatory clocks. Amazingly
+accurate timekeeping suddenly became widely
+possible. Wherever we may be, the time is posted
+up for us to see, with minutes and seconds the
+same throughout the world.
+When the atom, a new and even more
+accurate oscillator, became available to the
+world's physics laboratories, even the rotation of
+the Earth itself, which used to be the absolute
+standard of time, revealed its inaccuracies. The
+atom, and especially the caesium-133 atom, now
+provides the basis of the new standard of time.
+The best atomic clocks can keep time with an
+accuracy of the order of a second over a period
+of a million years. But scientists are still not
+satisfied-
+Time, however, is more than just an abstract,
+regulated framework for our activities, univer¬
+sally controlled and posted up around us on mil¬
+lions of clock faces. It also embraces the
+biorhythms, the internal impulses that have no
+dials or hands but to which all living beings are
+subject. Some of these last only a few thousandths
+of a second, others several years. Most of them
+are synchronized with astral, diurnal, lunar or
+annual rhythms.
+In a few hundred years, man has pushed back
+the frontiers of space, both outward towards
+immensity and inward towards the infinitesimal.
+We have achieved the same with time scales. We
+are capable of measuring the fifteen thousand
+million-year lifetime of the universe and also a
+femto-second (one thousand million millionth of
+a second).
+Yet people have not changed the pace at which
+they walk, the pace of their heartbeats or even,
+significantly, their life-span. The rhythms of life
+have not varied. Even though certain hours may
+seem longer or shorter than others, time is the
+same for everyone, for it belongs to no one. 19

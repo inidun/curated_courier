@@ -1,0 +1,106 @@
+EVAN HENDRICKS
+EDITOR/PUBLISHER OF PRIVACY TIMES, BASEDIN WASHINGTON DC
+
+
+
+The d o t . b o m b s y n d ro m e
+Everyone agrees that privacy is good for business. But is there a market
+for companies offering to protect it?
+W
+hile several firms have recently suf-
+fered class-action lawsuits and public
+outrage over apparent intrusions
+into customers’ personal data,
+American Express is one of a
+number of businesses that may be blazing the right
+path from privacy to profit s.
+Last year, the credit card issuer rolled out
+“Private Payments,” enabling its customers to go
+online and obtain “ D i s p o s a b l e ” credit card numbers
+that could be used for only one online purchase. If
+the number was ever stolen after being used for a
+purchase, it would be worthless.
+A key lesson is that protecting privacy, in this
+case the credit card number,became an “ e n h a n c e d
+value”to an existing service. Moreover,American
+Express understood that the credit card number
+was the “tip of the privacy iceberg”—it plans to
+roll out a suite of related services, like anonymous
+Internet browsing, in 2001. Rival companies, like
+Visa/Mastercard,are following the same trail.
+Another company to watch is PrivaSys, of San
+Fr a n c i s c o,which has patented technology to enable
+plastic credit cards to generate disposable num-
+bers for each purchase.
+PrivaSys does this by
+equipping the card with a
+c a l c u l a t o r-styled key pad
+and LCD screen, a very
+thin battery, and a special
+magnetic stripe. The card-
+holder punches a 4-digit
+PIN into the credit card
+itself and—v o i l à !—the card
+generates the disposable
+number.
+But securing payments
+is just one part of an emer-
+ging privacy protection
+m a r k e t . Other firms are
+offering anonymous or
+“ p s e u d o n y m o u s ”b r o w s i n g
+t o o l s, packages to control
+cookies—the strings of
+code that are planted on
+the user’s computer by
+websites—and services to
+block hacker intrusion.
+Only time will tell which
+companies will control niche markets or achieve cri-
+tical mass.
+Wh a t ’s clear is that the nascent e-commerce
+industry badly miscalculated the importance of pri-
+vacy to their business model. For without privacy,
+there was no consumer confid e n c e, and without
+such confid e n c e,e-commerce had no chance of ful-
+filling the short-term, high expectations that ini-
+tially sent their stock values soaring. The current
+shake-out of the “dot.bomb” industry shows how
+costly this miscalculation over privacy was.
+An added but
+essential value
+But if you thought privacy was a big issue for e-
+c o m m e r c e, consider the debate on the wireless
+i n d u s t r y.Referred to as Mobile or M-commerce, t h i s
+industry appears to have unlimited potential to
+deliver information and location-based services,
+advertisements, and discount coupons to cellular
+phones and hand-held wireless devices. M - c o m-
+merce risks hitting the major “ p r i v a cy buttons”:
+constant surveillance via location-based tracking;
+unsolicited ads clogging communications devices;
+detailed profiles of individuals’ interests and move-
+ments;and insecure payment mechanisms.
+Nonetheless, the industry is showing signs that
+it has learned from the mistakes of e-commerce.A
+few months ago at a workshop of the U.S. Federal
+Trade Commission, leading wireless industry groups
+unveiled guidelines requiring companies to obtain
+a consumer’s consent before collecting or using
+personal data. This wasn’t altruism: the industry
+understands that consumers will not tolerate com-
+mercial services to their cell phones unless they
+explicitly consent.
+So far, privacy’s brief tenure in the commercial
+marketplace indicates that some people are willing
+to pay extra to protect their privacy. But the more
+important lesson is that consumers are unlikely to
+take more than a few extra steps to secure their data.
+If they perceive that a given medium, like the
+I n t e r n e t , is not privacy - f r i e n d l y, they either change
+their habitual uses or actually refrain from them
+altogether.
+The likelihood is that privacy will become an
+“added value,”creating a market for those who can
+integrate privacy into payment mechanisms without
+excessively burdening the consumer. ■

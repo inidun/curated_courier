@@ -1,0 +1,459 @@
+ANCIENT
+GREECE The Odyssey of reason
+BY BERNARD VITRAC
+^? [
+^V
+JU* CK.«CT«P ft %J>Cj\omJ~¿4J'.~
+\
+~-S
+*> P «P i* OT5 *TT>E O p o P r-, o p 3 -y -
+rfp»p
+"N al ^ « \
+»XKe-j^ftnT _
+J * n p it*« t(^y-^ t "p f" °"~^
+OOP«
+\ *
+PÏiTB'^Tr^lup»»' i^opflö tí ^
+°t?YM q- .fUpojoT»w 7«íM- ^
+poucoC
+» e ^m *** riV»jiTiáMcTcr
+/-O J V « ^"TV a. /
+*« *7n çT^i'^TÔW-* ° *!**£
+Ä" cr/oç-^i*IU»p:COH M4 poC » î*-K.o
+«CCI t «p r»«rt%JL.YV0i;.X0.4-1 "»
+r^y. eu r»p co trtjo oe y^uu
+** I TTTCjO P o-j "^tp o»u.ulOL^| tftr
+«k>«^*i e ***** y «u c^n^¿,,
+"CÍ^Lx
+T is scarcely necessary to recall the importance
+of the role played by the mathematics of ancient
+Greece in the development of this discipline in
+the West. The very words "mathematics" and
+"mathematician", or their equivalents in most
+European languages, are derived from the Greek
+word meaning "to know" or "to learn". Before
+the classical era, however, when it took on the
+specialized meaning that it has today, the Greek
+word mathema meant "that which is taught", in
+other words all branches of knowledge.
+The teaching of mathematics
+We know very little about the teaching of
+mathematics in ancient Greece. It seems that
+some philosophical schools played a major part
+in the training of mathematicians, at a time when
+intellectual specialization was still the exception.
+During the classical era there is reference to
+the existence of "scientific" schools, such as those
+at Chios and Cyzicus. However, we do not know
+whether these schools offered general or special¬
+ized education, or whether they were anything
+more than groups of scholars gathered around a
+famous teacher.
+As with medicinefor the existence of
+schools of which there is earlier and more solid
+evidenceit seems that family background may
+have had an influence on professional training.
+We have few biographical details about the
+early mathematicians, but we do know that
+Archimedes was the son of an astronomer, that
+Hypsicles' father was a mathematician, that the
+geometers Menaechmus and Dinostratus were
+brothers and that Hypatia, the only Greek wom¬
+an mathematician about whom we know any¬
+thing much, was the daughter of the
+mathematician Theon of Alexandria.
+In the centralized states of the Near East of
+ancient times, the need to train a class of scribes
+and functionaries was recognized at an early stage..
+The Greece of the classical era, however, consist¬
+ed of small, independent city-states, continually
+warring among themselves, or of loose, clan-like
+associations, and had no need of organized educa¬
+tional systems such as those of Egypt, Babylon
+or China.
+Although trade, land surveying and naviga¬
+tion demanded a certain minimum knowledge
+of mathematics, and although elementary calcu¬
+lation was taught in schools, the Greek city-
+state paid scant attention to the intellectual and 29
+
+technological education of children and youths.
+Schools, some of which were to achieve consider¬
+able renown, were the fruit of private initiatives.
+The two great Athenian masters of the beginning
+of the fourth century BC, Isocrates and Plato,
+each founded his own educational
+establishmentIsocrates a school of rhetoric and
+Plato a school of philosophy.
+Both of them regarded mathematics as an in¬
+dispensable tool for intellectual development and
+valued the "mental gymnastics" and concentra¬
+tion this discipline required. But their approaches
+to mathematics differed. Isocrates thought that
+mathematics, like the adversarial debates that
+young people were so fond of, should develop
+"well-formed minds", even if the subject matter
+I ythagor
+(6th century BC) as
+depicted in a 16th-century
+engraving.
+was of little value to the citizen, who, ideally,
+would devote himself to political life. Plato,
+however, whilst recognizing its propaedeutic
+value, saw mathematics as a preliminary to the
+study of philosophyin other words, of Platon¬
+ic idealismand also as a method of selection,
+since the mathematics and the philosophy he
+taught together constituted a form of intellectu¬
+al asceticism essential to his project for political
+reform.
+The third and second centuries BC witnessed
+a considerable development in the mathematical
+sciences. Most of the works that have come down
+from this period are those of mathematicians
+more or less closely linked to Alexandria, the cap¬
+ital of the Greek Ptolemaic dynasty which ruled
+Egypt from 306 to 31 BC. It is known that the
+Ptolemies adopted a broader policy of state
+patronagepreviously restricted to a few in¬
+dividuals, often poetsby creating a number of
+institutions, the best known of which were the
+Alexandria Library and Museum. These new in¬
+stitutions undoubtedly gave an impetus to liter¬
+ary studies. That they had an effect on scientific
+development is probable but less certain, but the
+favourable climate they created could only be
+beneficial to it.
+However, we do not even know if the great
+scholars of the time, whose presence in Alexan¬
+dria is well documentedHerophilus of Chal¬
+cedony, Euclid, Strato of Lampsacus, Aristarchus
+of Samos, Eratosthenes of Cyrene, Apollonius of
+Pergataught their disciples or. gave lessons or
+even lectures, whether under the auspices of the
+Museum or privately. Indeed, it was only in the
+time of the Roman Empire that the Museum was
+to operate as a university, to be copied in this at
+Ephesus, Athens, Smyrna and Aegina.
+Alongside pure mathematics, in the Greek
+tradition, there was also a corpus of mathemati¬
+cal texts that might be termed "calculative"
+similar to those to be found in Egyptian, Babylo¬
+nian or Chinese mathematical writings. For ex¬
+ample, a body of comparatively late mathematical
+texts, attributed to Hero of Alexandria, was com¬
+piled and used right up to the Byzantine era,
+probably for the training of technicians. As in
+Babylonian and Egyptian texts, the problems set
+refer explicitly to a factual situation, even if this
+is merely a teaching device.
+Nothing like this is to be found in the classic
+treatises of Euclid, Archimedes or Apollonius,
+who showed scant regard for practical applica¬
+tions. Euclid's exposition of the theory of num¬
+bers even manages to avoid reference to
+numerical examples. The works that have sur¬
+vived seem to indicate a strict separation between
+pure research and practical applications. Yet even
+though the two are so clearly distinguished, the
+same authors gave equal attention to both "pure"
+and "applied" mathematics.
+That section of Greek mathematics which,
+by convention, we have designated as "pure" had
+four basic characteristics:
+
+1 hales of Miletus (late 7th-
+early 6th century BC).
+17th-century engraving.
+BERNARD VITRAC,
+of France, teaches mathematics
+and is (with James Ritter) co-
+director of a scries of
+publications on the history of
+science entitled Histoires des
+sciences, published by the
+Presses Universitaires de
+Vincennes (University of Paris-
+VIII). The author of a study-
+on medicine and philosophy at
+the time of Hippocrates (1989),
+he is currently preparing a
+translation with commentary
+of Euclid's Elements, the first
+volume of which will be
+published later this year by-
+Presses Universitaires de
+France.
+Deductive presentation: the classic treatises,
+such as Euclid's Elements, are organized on deduc¬
+tive lines. The results are proved by demonstra¬
+tion, either from results previously achieved, or
+on the basis of principles established from the
+start. This might be described as a semi-axiomatic
+approach, which emphasized the logical, ineluc¬
+table aspect of mathematics. It should, however,
+be noted that this is often difficult to dissociate
+from the rhetorical aspect, which had the advan¬
+tage of compelling the attention of the student,
+aimed at psychological and pedagogical effective¬
+ness, and concentrated on the necessary objective
+structure of reasoning.
+Geometrical orientation: even when they
+were concerned with the theory of numbers,
+statics or astronomy, those treatises that were
+demonstrative in style were basically geometric
+in their approach. Ancient mathematicians had
+introduced various symbols to designate numbers
+and fractions and also employed certain abbrevi¬
+ations, although these did not constitute a com¬
+plete set of algebraic notations such as we use
+today.
+However, it was in the use of geometrical
+figures that the Greeks went farthest in their ex¬
+perimentation with the use of "representative"
+symbols. The possibility of breaking figures up
+into elements, of establishing rules of construc¬
+tion that could be quoted, and the revelation of 31
+
+I V/ m',^*
+.# >'
+1
+aa^	J	)	^
+'"
+W.
+T\ '
+A ffi
+_tL.l_J	 1IU .- >-,i.I.
+" 1
+rVTvV
+>-
+u Kfl
+- v-
+at^-'-l .. v - ±tPv ta '
+-, -. ^"-.r;/Y-Y^ vCT-
+h*-4 ¿fcv
+Y*»
+5*1
+il
+' I .'
+*fii
+'ii
+Sis».
+32
+-Y
+.a^
+^riy?
+!y/,
+p*
+.L-1-'i ~-v t#
+J
+-M m
+'M
+¡^> JrawîM
+* ^^
+fY ?/;/*
+tV"
+at *VS.
+r 	' ^^
+-: '
+a«> *^4. ^n^atttSrí''Sël* » mnnwiHi^iMHiyinipi mmiia i m iiiiPi il iwii *,
+«H
+yyy^y;
+'a-
+-ut
+" î
+IJel
+ir >~
+.YtVp Vrr-
+	.
+rr
+;tt
+t- . J».i-ai . aw . ¿i ¿* rj , aaa. 1 «rv*!a»**JV<F
+
+*«1 -d4» î Äfc*^-^*m««« «41 ««(** Js.
+. . .-,' ' ';. li «lÄl
+. *
+properties which seemed already to be "present"
+in the figures, all these features were perfectly
+suited to the method of deductive exposition.
+The ideal of disinterested science: the love
+of knowledge itself was the driving force behind
+the study of mathematics.
+Mathematics and philosophy: the develop¬
+ment of mathematics was contemporaneous with
+the development of philosophy.
+Philosophers
+and mathematics
+These developments in mathematics were
+paralleled by the opening of a methodological and
+ideological debate on the sciences. The classifica¬
+tion of the sciences proposed by the Greek
+astronomer-mathematician Geminus (see box
+page 34) affords a good example. His classifica¬
+tion assumed the existence of a body of scientif¬
+ic knowledge already fairly well developed and
+very varied. It adopted a differentiation between
+the sciences which favoured abstract study, which
+it detached from possible practical applications.
+According to Aristotle, mathematics was the
+study of properties that could be "abstracted",
+from the objects of the physical world. Further¬
+more, like all the demonstrative sciences, it was
+based on principles, so that one science could
+presuppose another and, in Aristotle's words: "be
+subordinate to another." Optics, for example,
+was "subordinate" to geometry. Thus there was
+a logical hierarchy of the sciences. This had to
+be distinguished from the division, commonly
+stressed by Greek authors, between "practical"
+and "disinterested" mathematics. Only the lat¬
+ter, according to Aristotle, was worthy of inclu¬
+sion in a liberal education. "To be free" was an
+end in itself.
+The art of embellishment was superior to
+practical technology, but disinterested science, an
+end in itself, was the supreme activity. For Plato,
+the mathematics developed by the Barbarians,
+prestigious though their civilizations might have
+been, ranked as mere arts, since they were en¬
+cumbered by the constraints of necessity.
+Greek philosophers thus based their argument on
+a mixture of methodological and ideological
+considerations.
+Though treatises on optics and astronomy
+adopted the style of geometrical exposition, the
+deductive method being particularly suited to the
+elimination of anything that smacked of the "tan¬
+gible" and the "practical" (see box page 34), it
+is not easy to see how Greek mathematicians
+managed to identify themselves with this way of
+looking at their activities. Moreover, though it
+is tempting to do so, we should refrain from con¬
+fusing the modern distinction between "pure"
+and "applied" mathematics with the ancient di¬
+vision between "intelligible" and "tangible",
+since the concepts do not coincide.
+Evocation of the ideal of "disinterested science" 33
+
+PRECEDING PAGE
+1 he Death ofArchimedes.
+In this mosaic found at
+Herculaneum, the Greek
+mathematician is shown
+drawing geometric figures
+when surprised
+by a soldier of the Roman
+army which took Syracuse
+in 212 BC. When called
+on to give himself up,
+Archimedes is said to have
+replied, "Do not disturb
+my circles".
+leads on to the problem of what motivation there
+was for the advancement of mathematics. A dis¬
+tinction has to be made between external forces
+and what might be described as internal in¬
+fluences. Among the former, an important role
+was played by optics and astronomy, which we
+classify as physics but which the ancients included
+in mathematics. To these should be added statics,
+the science of equilibria.
+What is known of the internal influences?
+Perhaps they are to be found in the prefaces with
+which, from Archimedes onwards, author/
+mathematicians seem to have introduced their
+works. What emerges from these prefaces is that
+far from being the product of psychological
+characteristics peculiar to the Greek mind, dis¬
+interested research presupposes the existence of
+a community of mathematicians all abiding by
+certain standards.
+First and foremost, these mathematicians felt
+under no obligation to justify the fact that they
+were practitioners of science for its own sake; that
+went without saying. At the most they might ac¬
+knowledge that they had opted for mathematics
+rather than for "physics" or "theology" because
+it was a more certain and rigorous discipline that
+was "stable" (unlike physics), yet nevertheless
+"accessible" (unlike theology).
+34
+Geminus' classification
+of Mathemata
+Others, among them Geminus, claim that
+mathematics should be sub-divided in another
+fashion. On one side they place tangible things, or
+anything connected with them. No doubt they
+would call intelligible the subjects of contempla¬
+tion that the soul elaborates within itself, cutting
+itself off from things material. They rank arithmetic
+and geometry as the two first and most important
+sectors of that form of mathematics that deals w ith
+that which is intelligible. With regard to the
+mathematics which covers things tangible, they
+designate six sectors: mechanics, astronomy, optics,
+geodesy, canonics and logistics.
+On the other hand, for them, unlike others,
+tactics is not worthy to be considered a part of
+mathematics, even though at times it involves logis¬
+tics, as in the enumeration of troops, and geodesy,
+as in the surveying and the division of land. Even
+less do they consider either history or medicine to
+be part of mathematics, despite the fact that the
+authors of historical works often refer to mathe¬
+matical theorems to indicate climatic conditions or
+to calculate the size of a town, its diameter and its
+perimeter, and that physicians use these procedures
+to throw light on many matters within their com¬
+petence. The value of astronomv to medicine has
+been made perfectly clear by Hippocrates and all
+those who studied the seasons and regions.
+Proclus, Commentary on Book I of Euclid's Elements, 38.
+During the Hellenistic era, mathematicians
+formed an "international" community whose
+members were scattered around the shores of the
+Mediterranean (Greece, Asia Minor, Egypt and
+Sicily). They maintained personal contacts, either
+by paying each other visits or by circulating their
+latest works. Above all, they would set each other
+problems, solve those that were sent to them, or
+criticize solutions submitted by others which
+they considered to be flawed. By this means some
+of them acquired a commonly recognized status
+of authority. Publications were submitted to their
+judgement which they in turn circulated to others
+considered worthy to receive them. Among them
+
+also were a few impostors who would be un¬
+masked by the expedient of setting them impos¬
+sible problems which they would claim to have
+solved. These contacts, of course, remained per¬
+sonal and were not made within the framework
+of any form of institution in the modern sense
+of the term.
+The ideal of "disinterested mathematics"
+seems, in short, to have been linked to the exis¬
+tence of a group within which problems of rival¬
+ry and competition were not altogether unlike
+those characteristic of the modern scientific com¬
+munity. The comparison should not be pressed
+too far. There is, for example, a marked differ
+ence in scale between the ancient and the modern
+communities. The number of scientists, and in
+particular of mathematicians, in the Hellenistic
+era certainly never exceeded a few hundred. Like¬
+wise, there can be no doubt that, in the absence
+of any true form of institution, the community
+they formed was a very precarious one. From the
+Roman era onwards, the best authors (Ptolemy,
+Pappus) were concerned, so it would seem, only
+with perfecting results already achieved. The
+rivalry and the search for new theories that
+marked the preceding era had apparently disap¬
+peared.
+1 he famous lighthouse
+known as the Pharos of
+Alexandria is pictured in
+this engraving made
+in 1801.
+35

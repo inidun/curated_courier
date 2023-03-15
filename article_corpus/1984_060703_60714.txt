@@ -1,0 +1,151 @@
+A telescope in space
+by Albert Ducrocq
+ALBERT DUCROCQ, French engineer,
+writer, broadcaster and journalist with the
+French daily newspaper Le Figaro, is a
+specialist in cosmology and space matters and
+was also one of the pioneers of cybernetics in
+France. The mostrecentof his many books. Le
+Futur Aujourd'hui, has just been published by
+Les presses de la Cité, Paris.
+DESTINED to multiply by 350 the
+volume of the observable universe,
+the Space Telescope will be the
+most important scientific instrument ever
+sent into space, according to NASA (the US
+National Aeronautical and Space Ad¬
+ministration) administrator James Beggs. It
+is scheduled to be put into orbit 550
+kilometres above the earth sometime in
+1986 by the space shuttle, to the dimensions
+of which it has been tailored (when folded
+it will be 13.1 metres long with a diameter
+of 4.27 metres).
+The key component of the 1 1-ton instru¬
+ment will be a telescope only slightly dif
+ferent in conception from that devised in
+the seventeenth century by the French
+physicist N. Cassegrain and the Scottish
+mathematician James Gregory: the light
+rays strike a hyperboloidal primary mirror
+with a diameter of 2.4 metres; they are
+reflected to a 30-centimetre secondary mir¬
+ror five metres away before being directed
+through a 60-centimetre hole in the centre
+of the primary mirror and penetrating back
+into an instrument section consisting of a
+photometer, two spectrographs (a high-
+resolution spectrograph to study the
+chemical composition of celestial objects,
+and a faint-object spectrograph to study
+their speed), and two cameras (a wide-fiëld
+I 1
+©
+
+Aperture door
+Radio antenna
+Support module
+Primary mirror
+Above, diagrammatic representation of
+the Space Telescope, which Is scheduled
+to be placed In orbit by the space shuttle
+In 1986. Left, exterior view of the Hale
+Observatories' 5-metre (200-Inch) Mount
+Palomar telescope, California, the
+world's second most powerful optical
+telescope after the 6-metre UTR-Z tele¬
+scope at Zelenchukskaya, In the USSR.
+Axial scientific
+instruments
+Radial scientific
+instruments
+camera sensitive to wavelengths ranging
+from the infra-red to the ultraviolet, and an
+ultrasensitive faint-object camera with a
+field forty times smaller).
+The great telescopes of Mount Palomar
+and Zelenchukskaya have 5- and 6-metre
+apertures respectively, but the Space
+Telescope should produce a far higher per¬
+formance, if only because of the extraor¬
+dinary care with which its mirror has been
+made from fused silica glass with a very low
+coefficient of thermal expansion, fixed on a
+honeycomb structure. Construction of the
+829-kilo mirror began in October 1977 and
+it was delivered in December 1978.
+Computer-controlled polishing was so
+precise that the overall deviation of the
+reflecting surfaces from their ideal contour
+is no more than 10 nanometres*; the same
+precision was observed in the application of
+an 80-nanometre-thick coating of
+aluminium and a protective layer of
+magnesium floride 25 nanometres thick.
+Observations of the sky from the earth
+are impeded by the earth's atmosphere,
+which is always turbulent (even when it is
+supposedly calm the stars "twinkle" in a
+conventional telescope) and is slightly
+1 J nanometre = 1 millionth of a millimetre.
+luminous because it diffuses all kinds of
+radiation. In space these disadvantages do
+not exist.
+How will the Space Telescope be con¬
+trolled? Its rear section is a "support
+module" which will act as a platform and is
+equipped with a stellar sensor and a
+gyroscope with a fine-guidance precision of
+.007 arc-seconds. It will be possible to hold
+the optical axis on to a point 30 kilometres
+away to within 1 mm for a very long period.
+For some programmes the optical axis will
+be held steady for up to ten hours which
+should make it possible to observe stars of
+the 29th magnitude.
+The instrument will not take
+photographs. A solid-state CCD (charge
+coupled device) system has been chosen in¬
+stead of film. There will be four microelec¬
+tronic silicon chips, each one a square
+measuring 1.2 cm, with 800 individual pic¬
+ture elements (pixels) on each side, so that
+each-chip has a total of 640,000 pixels. The
+sensitivity will be 50 times that of film.
+A retransmission system in the support
+module will relay information to the earth
+by means of the NASA Tracking and Data
+Relay Satellite System at a rate of a million
+bits of information per second. The energy
+distribution system will also be housed in
+the support module. The current will be
+provided by two solar panels, one on each
+side of the Telescope. Each measures 2.3
+metres by 11.8 metres. The panels are ex¬
+pected to produce 2.4 kW.
+Astronomers will adjust the instruments
+and carry out experiments using scientific
+equipment installed in eight boxes mounted
+behind the primary mirror. There could be
+no question of their being in direct physical
+contact with the Space Telescope while it is
+in operation. In view of the degree of preci¬
+sion that is being sought, human heartbeats
+alone would make the apparatus vibrate. In
+the normal course of events, operations will
+be carried out automatically according to
+procedures controlled from earth.
+From time to time, perhaps every two
+years, the Space Telescope will be visited by
+astronauts who will check the equipment
+and make any necessary adjustments.
+The Space Telescope will be the
+spearhead of astronomy until the end of the
+century. After five years' service it is plann¬
+ed that the Telescope will be returned to
+earth in the shuttle to be modernized and
+equipped with the new and more compact
+CCDs which will have been developed by
+that time.
+Albert Ducrocq
+37
