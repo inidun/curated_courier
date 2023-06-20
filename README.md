@@ -1,2 +1,2 @@
-# courier_article_corpus
-Extracted article corpus
+# Curated Courier
+Curated Courier article corpus
