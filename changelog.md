@@ -11,7 +11,7 @@
 - Renamed folder `article_corpus` to `corpus`
 - Updated `README.md`
 
-## [Courier Article Corpus v0.2]((https://github.com/inidun/curated_courier/releases/tag/0.3)) (2023-03-29)
+## [Courier Article Corpus v0.2](https://github.com/inidun/curated_courier/releases/tag/0.2) (2023-03-29)
 
 ### Changed
 
